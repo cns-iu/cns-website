@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cns-iu/cns-website#readme",
   "dependencies": {
-    "duckdb": "^1.4.0"
+    "duckdb": "^1.4.0",
+    "turndown": "^7.2.1"
   }
 }
