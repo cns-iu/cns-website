@@ -1,2 +1,3 @@
-# cns-website-issues
-Repository for cns website isssues/change requests
+# cns.iu.edu
+
+Repository for building the CNS website

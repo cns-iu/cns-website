@@ -1,0 +1,69 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/coverage
+/out-tsc
+
+# data-schema.js is compiled on the fly
+apps/humanatlas.io/src/app/utils/data-schema.js
+
+# dependencies
+/node_modules
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# Documentation
+/docs/*
+!/docs/index.html
+
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Virtual environments
+.env
+.venv
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Caches
+.angular
+.nx
+.sass-cache
+
+# Logs
+npm-debug.log
+yarn-error.log
+testem.log
+libpeerconnection.log
+
+# Misc
+**/.storybook/compodoc
+.history/*
+/connect.lock
+svgo.config.js
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md

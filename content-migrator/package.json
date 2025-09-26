@@ -1,0 +1,23 @@
+{
+  "name": "content-migrator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cns-iu/cns-website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cns-iu/cns-website/issues"
+  },
+  "homepage": "https://github.com/cns-iu/cns-website#readme",
+  "dependencies": {
+    "duckdb": "^1.4.0"
+  }
+}

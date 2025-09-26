@@ -1,0 +1,7 @@
+[
+	{"peopleId":132,"name":"Christina Anderson","homepage":null,"fileName":"christina-anderson.jpg","email":"christina@andersonink.com","topic":"AT&T","startDate":"2004-01-01","endDate":"2004-01-30"},
+	{"peopleId":133,"name":"Hosang Cheon","homepage":"http://www.tofuinteractive.com/","fileName":"hosang-cheon.jpg","email":"HCheon@international.edu","topic":"Designing An Online Journal Component: The First Content-Related Tool in Learning Management System","startDate":"2004-01-01","endDate":"2004-01-30"},
+	{"peopleId":1,"name":"Thomas Hunt","homepage":null,"fileName":"thomas-hunt.jpg","email":"thunt@iu.edu","topic":"Web Game","startDate":"2004-01-01","endDate":"2004-01-31"},
+	{"peopleId":869,"name":"David Kloster","homepage":null,"fileName":"DavidKloster_weblrg.jpg","email":"klosteda@iu.edu","topic":"Master of Library Science Student","startDate":"2014-08-25","endDate":"2016-08-18"},
+	{"peopleId":2,"name":"Yan Sun","homepage":null,"fileName":"yan-sun.jpg","email":"yasun@iu.edu","topic":"Museum of the Person","startDate":"2004-01-01","endDate":"2005-01-01"}
+]
