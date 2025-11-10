@@ -3,7 +3,7 @@ CREATE OR REPLACE MACRO slugify(input_string) AS (
 );
 
 COPY (
-  SELECT
+  SELECT DISTINCT
     slugify(name) as slug,
     replace(name, '&#246;', 'ö') as name,
     replace(lname, '&#246;', 'ö') as lastName,
@@ -24,6 +24,6 @@ COPY (
   FROM 
     tblPeople
       JOIN vwWebPeopleBase USING (peopleId)
-      LEFT JOIN tblCenterMembers USING (peopleId)
+      JOIN tblCenterMembers USING (peopleId)
   ORDER BY endDate DESC NULLS FIRST, display_order
 ) TO 'data/indexes/people.json' (FORMAT json, ARRAY true);
