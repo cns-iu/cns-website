@@ -10,7 +10,7 @@
 apps/humanatlas.io/src/app/utils/data-schema.js
 
 # dependencies
-/node_modules
+node_modules
 /dist
 /tmp
 /out-tsc

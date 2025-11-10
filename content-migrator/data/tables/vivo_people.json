@@ -614,9 +614,9 @@
 	{"peopleid":1485,"fname":"Hunter","mname":"","lname":"Tang","email":"hunterxtang@gmail.com","homepage":1096},
 	{"peopleid":1844,"fname":"Siddharth","mname":"","lname":"Apte","email":"sapte@iu.edu","homepage":1061},
 	{"peopleid":1072,"fname":"Medina","mname":"","lname":"Sydykanova","email":"msydyka@iu.edu","homepage":770},
-	{"peopleid":1856,"fname":"Syd","mname":"","lname":"Overtoom","email":"sovertoo@iu.edu","homepage":1067},
 	{"peopleid":878,"fname":"Andreas","mname":"","lname":"Bueckle","email":"abueckle@iu.edu","homepage":877},
 	{"peopleid":1846,"fname":"Meryl","mname":"","lname":"Jacob","email":"merjacob@iu.edu","homepage":1062},
+	{"peopleid":1856,"fname":"Syd","mname":"","lname":"Overtoom","email":"sovertoo@iu.edu","homepage":1067},
 	{"peopleid":1283,"fname":"Ezra","mname":"","lname":"Engels","email":"ezengels@iu.edu","homepage":874},
 	{"peopleid":1869,"fname":"Sanskruti ","mname":"","lname":"Rajankar","email":"srajanka@iu.edu","homepage":1070},
 	{"peopleid":1871,"fname":"Divya ","mname":"Prasanth ","lname":"Paraman","email":"dparaman@iu.edu","homepage":1074},
@@ -631,9 +631,9 @@
 	{"peopleid":1987,"fname":"Sai Sowmith Reddy","mname":"","lname":"Katkuri","email":"skatkuri@iu.edu","homepage":1094},
 	{"peopleid":2061,"fname":"Naveen Rao","mname":"","lname":"Vardhineni","email":"nvardhi@iu.edu","homepage":1098},
 	{"peopleid":2131,"fname":"Satyam","mname":"","lname":"Dubey","email":"sbdubey@iu.edu","homepage":1111},
-	{"peopleid":773,"fname":"Todd","mname":"","lname":"Theriault","email":"ttheriau@iu.edu","homepage":656},
 	{"peopleid":2068,"fname":"Raj ","mname":"","lname":"Chavan","email":"rchavan@iu.edu","homepage":1102},
 	{"peopleid":2069,"fname":"Juhi ","mname":"","lname":"Khare","email":"jukhare@iu.edu","homepage":1100},
+	{"peopleid":773,"fname":"Todd","mname":"","lname":"Theriault","email":"ttheriau@iu.edu","homepage":656},
 	{"peopleid":2106,"fname":"Yash","mname":"R.","lname":"Kumar","email":"yakuma@iu.edu","homepage":1105},
 	{"peopleid":2106,"fname":"Yash","mname":"R.","lname":"Kumar","email":"yakuma@iu.edu","homepage":1106},
 	{"peopleid":2107,"fname":"Keyur","mname":"","lname":"Parekh","email":"kparekh@iu.edu","homepage":1108},
@@ -641,5 +641,6 @@
 	{"peopleid":2062,"fname":"Hunter ","mname":"","lname":"Tang","email":"hunterxtang@gmail.com","homepage":1049},
 	{"peopleid":2108,"fname":"Rebecca","mname":"","lname":"Myers","email":"rsciagli@iu.edu","homepage":null},
 	{"peopleid":1837,"fname":"Niteesha","mname":"","lname":"Jangam","email":"njangam@iu.edu","homepage":1059},
-	{"peopleid":1845,"fname":"Hrishikesh","mname":"","lname":"Mulkutkar","email":"hmulkut@iu.edu","homepage":1060}
+	{"peopleid":1845,"fname":"Hrishikesh","mname":"","lname":"Mulkutkar","email":"hmulkut@iu.edu","homepage":1060},
+	{"peopleid":2152,"fname":"Traci","mname":"","lname":"Smith","email":"ts76@iu.edu","homepage":1113}
 ]

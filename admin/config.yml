@@ -1,0 +1,85 @@
+collections:
+  - name: person
+    label: People
+    label_singular: Person
+    folder: content/person
+    path: "{{slug}}/data"
+    format: "yaml"
+    extension: "yaml"
+    create: true
+    slug: "{{name}}"
+    preview_path: person/{{slug}}
+    media_folder: ''
+    public_folder: ''
+    sortable_fields: [name, affiliation]
+    fields:
+      - { name: name, label: Display Name }
+      - { name: lastName, label: Last Name (for sorting) }
+      - { name: dateStart, label: Start Date, widget: datetime }
+      - { name: dateEnd, label: End Date, widget: datetime }
+      - name: roles
+        label: Roles
+        label_singular: Role
+        widget: select
+        multiple: true
+        options:
+          - { value: curator, label: Curator }
+          - { value: co-curator, label: Co-Curator }
+          - { value: team, label: Team }
+          - { value: ambassador, label: Ambassador }
+          - { value: advisory_board, label: Advisory Board }
+          - { value: maker, label: Maker }
+      - { name: homepage, label: Personal Homepage, required: false }
+      - { name: jobTitle, label: Job Title, required: false }
+      - { name: affiliation, label: Affiliation, required: false }
+      - { name: location, label: Location (lat/lon), widget: map, required: false }
+      - { name: locationName, label: Display Location, required: false }
+      - name: region
+        label: Region
+        label_singular: Region
+        widget: select
+        multiple: false
+        required: false
+        options:
+          - { value: n_america, label: North America }
+          - { value: c_america, label: Central America }
+          - { value: s_america, label: South America }
+          - { value: europe, label: Europe }
+          - { value: asia, label: Asia }
+          - { value: africa, label: Africa }
+          - { value: australia, label: Australia }
+      - { name: image, label: Image, widget: image, required: false }
+      - { name: body, label: Bio, required: false, widget: markdown }
+
+# backend:
+#   name: github
+#   repo: cns-iu/cns-website
+#   branch: pbi-content-staging
+
+# We'll switch to editorial workflow when we move closer to production
+# publish_mode: editorial_workflow
+
+# Uncomment below when using the default proxy server port
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+## Basically run `npx decap-server` and launch the angular site
+
+local_backend: true
+backend:
+  name: git-gateway
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+i18n:
+  structure: single_file
+  locales: [en, es, zh, fr, pt, de, pl]
+  default_locale: en
+
+media_folder: content/images/uploads
+public_folder: content/images/uploads
+site_url: https://cns-iu.github.io/cns-website
+display_url: https://cns-iu.github.io/cns-website
+logo_url: https://cns.iu.edu/images/global/cns_logo.png
+show_preview_links: true

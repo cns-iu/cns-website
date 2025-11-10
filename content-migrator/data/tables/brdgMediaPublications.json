@@ -372,5 +372,7 @@
 	{"mediumPublicationId":424,"mediumId":2007,"publicationId":478,"rank":1},
 	{"mediumPublicationId":425,"mediumId":2009,"publicationId":479,"rank":1},
 	{"mediumPublicationId":426,"mediumId":2008,"publicationId":480,"rank":1},
-	{"mediumPublicationId":427,"mediumId":2012,"publicationId":481,"rank":1}
+	{"mediumPublicationId":427,"mediumId":2012,"publicationId":481,"rank":1},
+	{"mediumPublicationId":428,"mediumId":2013,"publicationId":482,"rank":1},
+	{"mediumPublicationId":429,"mediumId":2015,"publicationId":483,"rank":1}
 ]
