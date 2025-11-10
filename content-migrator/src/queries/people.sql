@@ -8,7 +8,7 @@ COPY (
     replace(name, '&#246;', 'ö') as name,
     replace(lname, '&#246;', 'ö') as lastName,
     display_order as displayOrder,
-    'https://cns-iu.github.io/content-migrator/data/images/people/' || fileName as image,
+    'https://cns-iu.github.io/cns-website/content-migrator/data/images/people/' || fileName as image,
     office,
     phone,
     fax,
