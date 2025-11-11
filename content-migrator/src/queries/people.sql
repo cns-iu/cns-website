@@ -1,12 +1,8 @@
-CREATE OR REPLACE MACRO slugify(input_string) AS (
-    trim(both '-' from regexp_replace(regexp_replace(lower(replace(input_string, '&#246;', 'o')), '[^a-z0-9]+', '-', 'g'), '-+', '-', 'g'))
-);
-
 COPY (
   SELECT DISTINCT
-    slugify(name) as slug,
-    replace(name, '&#246;', 'ö') as name,
-    replace(lname, '&#246;', 'ö') as lastName,
+    slugify(html_decode(name)) as slug,
+    html_decode(name) as name,
+    html_decode(lname) as lastName,
     display_order as displayOrder,
     'https://cns-iu.github.io/cns-website/content-migrator/data/images/people/' || fileName as image,
     office,

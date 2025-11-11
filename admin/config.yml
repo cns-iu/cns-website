@@ -11,45 +11,59 @@ collections:
     preview_path: person/{{slug}}
     media_folder: ''
     public_folder: ''
-    sortable_fields: [name, affiliation]
+    sortable_fields: [lastName, name, displayOrder]
     fields:
-      - { name: name, label: Display Name }
+      - { name: name, label: Full Name }
       - { name: lastName, label: Last Name (for sorting) }
-      - { name: dateStart, label: Start Date, widget: datetime }
-      - { name: dateEnd, label: End Date, widget: datetime }
+      - name: displayOrder
+        label: Display Order
+        widget: number
+        value_type: int
+        min: 0
+        required: false
+      - { name: image, label: Image, widget: image, required: false }
+      - { name: education, label: Education, widget: markdown, required: false }
+      - { name: background, label: Background, widget: markdown, required: false }
+      - { name: interests, label: Interests, widget: markdown, required: false }
+      
+      - { name: jobDescription, label: "Job Description" }
+      - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
+      - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+  
       - name: roles
         label: Roles
         label_singular: Role
-        widget: select
-        multiple: true
-        options:
-          - { value: curator, label: Curator }
-          - { value: co-curator, label: Co-Curator }
-          - { value: team, label: Team }
-          - { value: ambassador, label: Ambassador }
-          - { value: advisory_board, label: Advisory Board }
-          - { value: maker, label: Maker }
-      - { name: homepage, label: Personal Homepage, required: false }
-      - { name: jobTitle, label: Job Title, required: false }
-      - { name: affiliation, label: Affiliation, required: false }
-      - { name: location, label: Location (lat/lon), widget: map, required: false }
-      - { name: locationName, label: Display Location, required: false }
-      - name: region
-        label: Region
-        label_singular: Region
-        widget: select
-        multiple: false
-        required: false
-        options:
-          - { value: n_america, label: North America }
-          - { value: c_america, label: Central America }
-          - { value: s_america, label: South America }
-          - { value: europe, label: Europe }
-          - { value: asia, label: Asia }
-          - { value: africa, label: Africa }
-          - { value: australia, label: Australia }
-      - { name: image, label: Image, widget: image, required: false }
-      - { name: body, label: Bio, required: false, widget: markdown }
+        widget: list
+        hint: "Add all roles this person has had. Leave End Date blank if still active."
+        types:
+          - label: "Faculty"
+            name: "faculty"
+            widget: "object"
+            summary: "{{fields.title}} — {{fields.department}}"
+            fields:
+              - { label: "Title / Position", name: "title", widget: "string", required: false }
+              - { label: "Department / Unit", name: "department", widget: "string", required: false }
+              - { label: "Start Date", name: "dateStart", widget: "datetime", format: "YYYY-MM-DD", required: false }
+              - { label: "End Date", name: "dateEnd", widget: "datetime", format: "YYYY-MM-DD", required: false, hint: "Leave blank if ongoing" }
+              - { label: "Primary Role", name: "primary", widget: "boolean", required: false }
+
+          - label: "Staff"
+            name: "staff"
+            widget: "object"
+            summary: "{{fields.title}} — {{fields.department}}"
+            fields:
+              - { label: "Title / Position", name: "title", widget: "string", required: false }
+              - { label: "Department / Unit", name: "department", widget: "string", required: false }
+              - { label: "Start Date", name: "start_date", widget: "datetime", format: "YYYY-MM-DD", required: false }
+              - { label: "End Date", name: "end_date", widget: "datetime", format: "YYYY-MM-DD", required: false, hint: "Leave blank if ongoing" }
+              - { label: "Primary Role", name: "primary", widget: "boolean", required: false }
+
+              # - { value: collaborator, label: Collaborator }
+              # - { value: faculty, label: Faculty }
+              # - { value: postdoc, label: Postdoc }
+              # - { value: phd_student, label: "Ph.D. Student" }
+              # - { value: staff, label: Staff }
+              # - { value: visiting_artist, label: "Visiting Artist" }
 
 # backend:
 #   name: github
