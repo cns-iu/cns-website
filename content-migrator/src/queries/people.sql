@@ -3,23 +3,16 @@ COPY (
     slugify(html_decode(name)) as slug,
     html_decode(name) as name,
     html_decode(lname) as lastName,
-    display_order as displayOrder,
-    'https://cns-iu.github.io/cns-website/content-migrator/data/images/people/' || fileName as image,
-    office,
-    phone,
-    fax,
-    email,
-
-    jobDescription,
-    education,
-    background,
-    interests,
-
-    startDate,
-    endDate
+    'https://cns-iu.github.io/cns-website/content-migrator/data/images/people/' || COALESCE(fileName, 'noimage.png') as image
   FROM 
     tblPeople
       JOIN vwWebPeopleBase USING (peopleId)
-      JOIN tblCenterMembers USING (peopleId)
-  ORDER BY endDate DESC NULLS FIRST, display_order
+  WHERE peopleId IN (
+    SELECT peopleId FROM tblCenterMembers
+    UNION ALL
+    SELECT peopleId FROM tblMAPhDs
+    UNION ALL
+    SELECT peopleId FROM brdgTeamCollabs
+  )
+  ORDER BY slug
 ) TO 'data/indexes/people.json' (FORMAT json, ARRAY true);
