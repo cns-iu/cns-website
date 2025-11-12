@@ -7,9 +7,8 @@
   "scripts": {
     "start": "npm-watch",
     "job": "npm-run-all mkindexdir index sync",
-    "index": "node index-content.js",
+    "index": "node src/index-content.js",
     "mkindexdir": "mkdirp ../apps/cns-website/src/assets/indexes",
-    "migrate-old-data": "node src/convert-data.js",
     "sync": "rsync -avz --delete ../content ../apps/cns-website/src/assets",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

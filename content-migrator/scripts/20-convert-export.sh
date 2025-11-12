@@ -8,4 +8,4 @@ for f in src/queries/extract-staging/*.sql; do
 done
 
 rm -rf ../content/person/*
-node ./src/convert-export.js
+node ./src/convert-data.js
