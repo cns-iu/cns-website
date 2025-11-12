@@ -3,6 +3,7 @@ COPY (
     slugify(html_decode(name)) as slug,
     html_decode(name) as name,
     html_decode(lname) as lastName,
+    lower(html_decode(lname)[1]) as lastInitial,
     'https://cns-iu.github.io/cns-website/content-migrator/data/images/people/' || COALESCE(fileName, 'noimage.png') as image
   FROM 
     tblPeople

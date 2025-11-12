@@ -1,16 +1,19 @@
 COPY (
   SELECT DISTINCT
+    'member' as type,
     slugify(html_decode(name)) as slug,
 
+    COALESCE(jobDescription, '') as title,
     display_order as displayOrder,
-    office,
-    phone,
-    fax,
-    email,
-    jobDescription,
-    education,
-    background,
-    interests,
+
+    COALESCE(office, '') as office,
+    COALESCE(phone, '') as phone,
+    COALESCE(fax, '') as fax,
+    COALESCE(email, '') as email,
+    
+    COALESCE(education, '') as education,
+    COALESCE(background, '') as background,
+    COALESCE(interests, '') as interests,
 
     startDate as dateStart,
     endDate as dateEnd

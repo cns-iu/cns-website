@@ -3,7 +3,7 @@ collections:
     label: People
     label_singular: Person
     folder: content/person
-    path: "{{slug}}/data"
+    path: "{{fields.lastInitial}}/{{slug}}/data"
     format: "yaml"
     extension: "yaml"
     create: true
@@ -15,55 +15,57 @@ collections:
     fields:
       - { name: name, label: Full Name }
       - { name: lastName, label: Last Name (for sorting) }
-      - name: displayOrder
-        label: Display Order
-        widget: number
-        value_type: int
-        min: 0
-        required: false
+      - { name: lastInitial, label: Last Initial, pattern: "^[a-z]$", hint: "Single lower-case letter. e.g. a" }
       - { name: image, label: Image, widget: image, required: false }
-      - { name: education, label: Education, widget: markdown, required: false }
-      - { name: background, label: Background, widget: markdown, required: false }
-      - { name: interests, label: Interests, widget: markdown, required: false }
-      
-      - { name: jobDescription, label: "Job Description" }
-      - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-      - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
-  
+
       - name: roles
         label: Roles
         label_singular: Role
         widget: list
         hint: "Add all roles this person has had. Leave End Date blank if still active."
         types:
-          - label: "Faculty"
-            name: "faculty"
+          - label: "CNS Member"
+            name: "member"
             widget: "object"
-            summary: "{{fields.title}} — {{fields.department}}"
+            summary: "{{fields.title}} — {{fields.displayOrder}}"
             fields:
-              - { label: "Title / Position", name: "title", widget: "string", required: false }
-              - { label: "Department / Unit", name: "department", widget: "string", required: false }
-              - { label: "Start Date", name: "dateStart", widget: "datetime", format: "YYYY-MM-DD", required: false }
-              - { label: "End Date", name: "dateEnd", widget: "datetime", format: "YYYY-MM-DD", required: false, hint: "Leave blank if ongoing" }
-              - { label: "Primary Role", name: "primary", widget: "boolean", required: false }
+              - { name: title, label: "Title / Position" }
+              - { name: displayOrder, label: Display Order, widget: number, value_type: int, min: 0, required: false }
 
-          - label: "Staff"
-            name: "staff"
+              - { name: office, label: "Office", hint: "Luddy Hall 40xx", required: false }
+              - { name: phone, label: "Office Phone Number", required: false }
+              - { name: fax, label: "Office Fax Number", required: false }
+              - { name: email, label: "Office Email", hint: "xx@iu.edu", required: false }
+
+              - { name: education, label: Education, widget: markdown, required: false }
+              - { name: background, label: Background, widget: markdown, required: false }
+              - { name: interests, label: Interests, widget: markdown, required: false }
+              
+              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+
+          - label: "CNS Student"
+            name: "student"
             widget: "object"
-            summary: "{{fields.title}} — {{fields.department}}"
+            summary: "{{fields.topic}} — {{fields.degree}}"
             fields:
-              - { label: "Title / Position", name: "title", widget: "string", required: false }
-              - { label: "Department / Unit", name: "department", widget: "string", required: false }
-              - { label: "Start Date", name: "start_date", widget: "datetime", format: "YYYY-MM-DD", required: false }
-              - { label: "End Date", name: "end_date", widget: "datetime", format: "YYYY-MM-DD", required: false, hint: "Leave blank if ongoing" }
-              - { label: "Primary Role", name: "primary", widget: "boolean", required: false }
+              - { name: topic, label: "Research Topic" }
+              - { name: degree, label: "Degree", widget: select, options: ["Ph.D.", "Masters"], required: true }
+              - { name: department, label: Department }
 
-              # - { value: collaborator, label: Collaborator }
-              # - { value: faculty, label: Faculty }
-              # - { value: postdoc, label: Postdoc }
-              # - { value: phd_student, label: "Ph.D. Student" }
-              # - { value: staff, label: Staff }
-              # - { value: visiting_artist, label: "Visiting Artist" }
+              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+
+          - label: "Collaborator"
+            name: "collaborator"
+            widget: "object"
+            summary: "{{fields.project}}"
+            fields:
+              - { name: project, label: "Project" }
+
+              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+
 
 # backend:
 #   name: github

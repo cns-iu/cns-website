@@ -1,10 +1,12 @@
 COPY (
   SELECT DISTINCT
+    'collaborator' as type,
     slugify(html_decode(name)) as slug,
 
     trim(shortTitle) as project,
 
-    brdgTeamCollabs.startDate as dateStart,
+    -- COALESCE, because A. Barabasi didn't have a start date, 
+    COALESCE(brdgTeamCollabs.startDate, '2006-01-01') as dateStart,
     brdgTeamCollabs.endDate as dateEnd
   FROM 
     tblPeople

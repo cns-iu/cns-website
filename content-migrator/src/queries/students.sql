@@ -1,5 +1,6 @@
 COPY (
   SELECT DISTINCT
+    'student' as type,
     slugify(html_decode(name)) as slug,
 
     trim(topic) as topic,
