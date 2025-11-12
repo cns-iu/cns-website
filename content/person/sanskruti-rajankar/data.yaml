@@ -1,0 +1,26 @@
+name: Sanskruti Rajankar
+lastName: Rajankar
+image: image.png
+roles:
+  - type: member
+    title: Hourly Research Assistant
+    displayOrder: 33
+    office: ''
+    phone: ''
+    fax: ''
+    email: srajanka@iu.edu
+    education: "•\tM.S. in Data Science, Indiana University Bloomington (2023–2025)\r\n•\tB.Tech in Electronics Engineering, Shri Ramdobaba College of Engineering, India (2019–2023)\r\n"
+    background: >-
+      I’m currently pursuing my Master’s in Data Science at Indiana University
+      Bloomington, graduating in May 2025. With experience in research, data
+      analysis, and impactful projects, I specialize in leveraging data to drive
+      insights and solutions. Proficient in tools like Python, Tableau, and SQL,
+      I’m passionate about solving real-world problems through data.
+    interests: >-
+      I spend my days immersed in Python code, crafting Power BI dashboards, and
+      fueled by plenty of coffee! Beyond academics, I have a passion for singing
+      and playing instruments like the guitar and piano. If not for my journey
+      as a Data Scientist, I’m certain I would have pursued a career as an
+      artist!
+    dateStart: '2025-01-13'
+    dateEnd: '2025-08-31'

@@ -1,0 +1,8 @@
+name: Margaret Corbit
+lastName: Corbit
+image: image.jpg
+roles:
+  - type: collaborator
+    project: Building Blocks
+    dateStart: '2002-08-01'
+    dateEnd: '2003-03-01'

@@ -1,0 +1,12 @@
+name: Kevin W. Boyack
+lastName: Boyack
+image: image.jpg
+roles:
+  - type: collaborator
+    project: SciPol
+    dateStart: '2008-01-01'
+    dateEnd: '2009-12-01'
+  - type: collaborator
+    project: MapAging
+    dateStart: '2001-01-08'
+    dateEnd: '2001-01-12'

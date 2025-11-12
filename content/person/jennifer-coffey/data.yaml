@@ -1,0 +1,16 @@
+name: Jennifer Coffey
+lastName: Coffey
+image: image.jpg
+roles:
+  - type: member
+    title: Graphic Designer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2009-12-07'
+    dateEnd: '2010-10-15'

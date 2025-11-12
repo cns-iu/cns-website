@@ -1,0 +1,22 @@
+name: Tessa Pilachowski
+lastName: Pilachowski
+image: image.jpg
+roles:
+  - type: member
+    title: Graduate Research Assistant for Learning Analytics
+    displayOrder: 1
+    office: ''
+    phone: ''
+    fax: ''
+    email: calupila@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2016-01-11'
+    dateEnd: '2016-05-31'
+  - type: student
+    topic: Graduate Research Assistant for Learning Analytics
+    degree: Ph.D.
+    department: ILS
+    dateStart: '2016-01-11'
+    dateEnd: '2016-05-31'

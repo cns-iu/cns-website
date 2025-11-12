@@ -1,0 +1,16 @@
+name: Jini Bhanushali
+lastName: Bhanushali
+image: image.jpg
+roles:
+  - type: member
+    title: Copyright Manager
+    displayOrder: 22
+    office: ''
+    phone: ''
+    fax: ''
+    email: jibhanu@iu.edu
+    education: "I am currently pursuing my Master in Data Science at Indiana University Bloomington. Prior to\r\nthis, I successfully obtained a Bachelor of Technology degree in Information Technology from\r\nMumbai University."
+    background: "I’m from Mumbai, India. I’m a copyright manager at CNS. I usually have my hands full with\r\nmultiple tasks from various domains. I like to be versatile with my job and practice complete\r\ndedication, punctuality, and precision in any task I undertake. I am a creative thinker with prior\r\ndata analytics and project management expertise. Have a keen interest in the business domain of data\r\nscience. I am at my best when I’m working as a part of a team to solve demanding challenges while\r\nwearing multiple hats. I have previous experience in leading teams and communicating with various\r\nmembers of the board. Have the ability to comprehend market trends, and customer requirements and\r\nestablish business-relevant insights. I value compassion, collaboration, empathy, and\r\ncommunication."
+    interests: "I love painting and exhibit a portfolio of my own. I like to travel and experience different adventures\r\nacross the world."
+    dateStart: '2023-03-20'
+    dateEnd: '2024-05-01'

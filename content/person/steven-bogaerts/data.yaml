@@ -1,0 +1,10 @@
+name: Steven Bogaerts
+lastName: Bogaerts
+image: image.jpg
+roles:
+  - type: student
+    topic: Case Based Reasoning, AI, Cognitive Science
+    degree: Ph.D.
+    department: ''
+    dateStart: '2003-01-01'
+    dateEnd: '2007-06-30'

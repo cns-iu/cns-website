@@ -1,0 +1,25 @@
+name: Catherine Qing
+lastName: Qing
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 84
+    office: ''
+    phone: ''
+    fax: ''
+    email: cqing@iu.edu
+    education: >-
+      I graduated with a B.S. in Psychology and Informatics in the Spring of
+      2022. 
+    background: >-
+      I have done research in 2 social psychology labs here at IU, and I also
+      just completed my honors thesis on pain perceptions of low-SES
+      individuals.
+    interests: >-
+      I enjoy applying my background in psychology to technology, as I helped
+      instruct 2 human-computer interaction and UX research/design classes. I'll
+      be working in the lab this summer to help with lit reviews and writing
+      before I head to Stanford in the fall for grad school!
+    dateStart: '2022-04-18'
+    dateEnd: '2022-10-02'

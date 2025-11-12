@@ -1,0 +1,12 @@
+name: Stephen Miles Uzzo
+lastName: Uzzo
+image: image.jpg
+roles:
+  - type: collaborator
+    project: CDI08
+    dateStart: '2008-01-01'
+    dateEnd: '2008-12-31'
+  - type: collaborator
+    project: NetSci07
+    dateStart: '2007-04-01'
+    dateEnd: '2008-03-01'

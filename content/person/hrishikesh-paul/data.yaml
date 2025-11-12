@@ -1,0 +1,21 @@
+name: Hrishikesh Paul
+lastName: Paul
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 28
+    office: ''
+    phone: ''
+    fax: ''
+    email: hrpaul@iu.edu
+    education: I'm currently a Masters student in Computer Science.
+    background: "My area of expertise include UI/UX design and full stack development, and I will be working on building visualization tools for various datasets.\_"
+    interests: >-
+      I consider myself extremely lucky to have the opportunity to work with
+      some great minds here at CNS. I would further like to thank Bruce Herr and
+      Katy Börner for giving me this opportunity to work for a great cause. I
+      also look forward to meeting everyone and learning from everyone
+      throughout this journey.
+    dateStart: '2020-06-15'
+    dateEnd: '2021-05-15'

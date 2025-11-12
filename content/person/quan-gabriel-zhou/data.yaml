@@ -1,0 +1,22 @@
+name: Quan (Gabriel) Zhou
+lastName: Zhou
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: quzhou@umail.iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2013-11-02'
+    dateEnd: '2014-10-27'
+  - type: student
+    topic: Ph.D. Computer Science Student
+    degree: Ph.D.
+    department: SOIC
+    dateStart: '2013-11-12'
+    dateEnd: '2014-10-27'

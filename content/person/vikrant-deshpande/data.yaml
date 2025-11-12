@@ -1,0 +1,21 @@
+name: Vikrant Deshpande
+lastName: Deshpande
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 45
+    office: Luddy Hall 4014
+    phone: ''
+    fax: ''
+    email: vikdeshp@iu.edu
+    education: >-
+      Currently pursuing my Master’s in Data Science at Luddy SICE, beginning
+      Fall ’21.
+    background: >-
+      I hail from Pune India, where I completed my Undergraduate Engineering in
+      Information Technology. As a Consultant at Deloitte-US India for 3.5
+      years, I worked on plenty of Data-Analysis and ETL-pipelining.
+    interests: Hiking, Badminton, Basketball.
+    dateStart: '2021-09-15'
+    dateEnd: '2023-04-28'

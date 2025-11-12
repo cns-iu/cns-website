@@ -3,19 +3,18 @@ collections:
     label: People
     label_singular: Person
     folder: content/person
-    path: "{{fields.lastInitial}}/{{slug}}/data"
+    path: "{{slug}}/data"
     format: "yaml"
     extension: "yaml"
     create: true
-    slug: "{{name}}"
+    identifier_field: name
     preview_path: person/{{slug}}
     media_folder: ''
     public_folder: ''
-    sortable_fields: [lastName, name, displayOrder]
+    sortable_fields: [lastName, name]
     fields:
       - { name: name, label: Full Name }
       - { name: lastName, label: Last Name (for sorting) }
-      - { name: lastInitial, label: Last Initial, pattern: "^[a-z]$", hint: "Single lower-case letter. e.g. a" }
       - { name: image, label: Image, widget: image, required: false }
 
       - name: roles
@@ -42,7 +41,7 @@ collections:
               - { name: interests, label: Interests, widget: markdown, required: false }
               
               - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
 
           - label: "CNS Student"
             name: "student"
@@ -54,7 +53,7 @@ collections:
               - { name: department, label: Department }
 
               - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
 
           - label: "Collaborator"
             name: "collaborator"
@@ -64,13 +63,12 @@ collections:
               - { name: project, label: "Project" }
 
               - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
 
-
-# backend:
-#   name: github
-#   repo: cns-iu/cns-website
-#   branch: pbi-content-staging
+backend:
+  name: github
+  repo: cns-iu/cns-website
+  branch: pbi-content-staging
 
 # We'll switch to editorial workflow when we move closer to production
 # publish_mode: editorial_workflow
@@ -79,9 +77,9 @@ collections:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
 
-local_backend: true
-backend:
-  name: git-gateway
+# local_backend: true
+# backend:
+#   name: git-gateway
 
 slug:
   encoding: "ascii"
@@ -95,7 +93,7 @@ i18n:
 
 media_folder: content/images/uploads
 public_folder: content/images/uploads
-site_url: https://cns-iu.github.io/cns-website
+site_url: https://github.com/cns-iu/cns-website/tree/main/content
 display_url: https://cns-iu.github.io/cns-website
 logo_url: https://cns.iu.edu/images/global/cns_logo.png
 show_preview_links: true

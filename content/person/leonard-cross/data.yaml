@@ -1,0 +1,25 @@
+name: Leonard Cross
+lastName: Cross
+image: image.jpg
+roles:
+  - type: member
+    title: Sr. Interaction Designer
+    displayOrder: 8
+    office: remote
+    phone: ''
+    fax: ''
+    email: lecross@iu.edu
+    education: >-
+      BA in English. Masters coursework in Instructional Design. Other formal
+      coursework includes studies in web design and development, database
+      administration, and home automation.
+    background: >-
+      Diverse. My background includes all types of design (UX/UI/IxD/VD), web
+      and application development, instruction, marketing and branding, project
+      management, writing, photography, IT/IS, and more (like being an engineer
+      at a radio station, roadie, home automation programmer, etc.).
+    interests: >-
+      An avid photographer, life-long learner, fitness geek, reader, movie
+      watcher, music appreciator, researcher, and explorer.
+    dateStart: '2018-04-25'
+    dateEnd: '2021-10-15'

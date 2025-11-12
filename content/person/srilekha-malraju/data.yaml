@@ -1,0 +1,16 @@
+name: Srilekha Malraju
+lastName: Malraju
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 93
+    office: ''
+    phone: ''
+    fax: ''
+    email: msrilekh@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2022-07-06'
+    dateEnd: '2022-08-26'

@@ -65,7 +65,7 @@ async function exportPostgres() {
       });
 
       await run(`
-        COPY "${table_name}" TO 'data/tables/${table_name}.json' (ARRAY);
+        COPY "${table_name}" TO 'old-website/tables/${table_name}.json' (ARRAY);
       `).catch((err) => {
         console.error('❌ Error exporting to JSON:', err);
       });

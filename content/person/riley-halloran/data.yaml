@@ -1,0 +1,20 @@
+name: Riley Halloran
+lastName: Halloran
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 91
+    office: ''
+    phone: ''
+    fax: ''
+    email: rifhall@iu.edu
+    education: >-
+      Currently entering my senior year at IU, I’m majoring in Computer Science
+      and Game Design with minors in Informatics and Mathematics. 
+    background: ''
+    interests: >-
+      I am a Bloomington local with interests in swimming, log rolling, board
+      games, and biking.
+    dateStart: '2022-07-05'
+    dateEnd: '2023-04-28'

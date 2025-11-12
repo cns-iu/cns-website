@@ -1,0 +1,19 @@
+name: Naveen Rao Vardhineni
+lastName: Vardhineni
+image: image.png
+roles:
+  - type: member
+    title: Hourly Research Assistant
+    displayOrder: 45
+    office: ''
+    phone: ''
+    fax: ''
+    email: nvardhi@iu.edu
+    education: "M.S. in Computer Science, Indiana University Bloomington (2023–2025) \r\nB.E. in Information Technology, Osmania University, India (2017–2021)\r\n\r\n"
+    background: "I worked as a Full Stack Software Developer for two years at Cognizant Technology Solutions, where I developed RESTful APIs with ASP.NET Core and C#, built dynamic UI components using Angular and React, and engineered T-SQL stored procedures, triggers, and query optimizations in SQL Server. I also resolved complex bugs and implemented comprehensive unit tests using NUnit. As part of Agile Scrum teams, I collaborated closely with QA, DevOps, and UX colleagues to ensure smooth, timely rollouts. My expertise in ASP.NET Core,  Angular, React, JavaScript/TypeScript, Node.js, and MS SQL Server drives me to build maintainable, high-performance, and user-friendly applications. I am also proficient with programming languages such as C, C++, C#, and Python, as well as databases like MongoDB.\r\n\r\n"
+    interests: >-
+      During my free time, I enjoy watching a good movie, experimenting with new
+      recipes in the kitchen, and staying on the cutting edge of software
+      development by exploring the latest tools and technologies.
+    dateStart: '2025-06-01'
+    dateEnd: null

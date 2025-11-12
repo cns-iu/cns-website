@@ -1,0 +1,23 @@
+name: Tracey Theriault
+lastName: Theriault
+image: image.jpg
+roles:
+  - type: member
+    title: Design Consultant
+    displayOrder: 21
+    office: ''
+    phone: ''
+    fax: ''
+    email: tratheri@iu.edu
+    education: B.S. in Art, University of Wisconsin
+    background: >-
+      I started working at CNS as a design consultant for the book Atlas of
+      Science: Visualizing What We Know, published in 2010. I have worked on a
+      variety of design projects over the years including the Atlas of
+      Knowledge: Anyone Can Map and the Atlas of Forecasts: Predicting and
+      Implementing Desirable Futures.
+    interests: >-
+      I enjoy spending time with my family, hiking, gardening, cooking and
+      baking, and making bead jewelry.
+    dateStart: '2011-01-01'
+    dateEnd: null

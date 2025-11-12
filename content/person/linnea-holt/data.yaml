@@ -1,0 +1,20 @@
+name: Linnea Holt
+lastName: Holt
+image: image.jpg
+roles:
+  - type: member
+    title: Exhibit Assistant
+    displayOrder: 35
+    office: ''
+    phone: ''
+    fax: ''
+    email: lcholt@iu.edu
+    education: >-
+      In May 2020, I graduated with a BS in Arts Management from the O'Neill
+      School of Public and Environmental Affairs. 
+    background: 'I was born and raised in Indianapolis, IN, and am a proud Hoosier! '
+    interests: >-
+      Outside of work, I love to read, play piano, travel, and connect with
+      friends. 
+    dateStart: '2020-12-01'
+    dateEnd: '2021-05-31'

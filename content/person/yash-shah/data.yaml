@@ -1,0 +1,16 @@
+name: Yash Shah
+lastName: Shah
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 110
+    office: ''
+    phone: ''
+    fax: ''
+    email: yashah@iu.edu
+    education: "Bachelor of Engineering in Electronics Engineering from DJ Sanghvi College of Engineering,\r\nMumbai University, India. Currently, in the final semester of my Master’s in Data Science from\r\nthe Luddy School of Informatics, Computing and Engineering, Indiana University Bloomington."
+    background: "My undergraduate education in Mumbai got me to take classes in circuit design, VLSI, IoT, and\r\nassembly language programming. As an elective in the fifth semester, I took a Data Processing\r\nTechniques class which particularly piqued my interest and led me to explore all things data.\r\nStarting from data engineering to visualizing to analyzing and delving into AI/ML, that’s how I\r\nknew I wanted to pursue a Master’s degree in Data Science. Going into this, I also found that I\r\nam extremely fond of Statistics and statistical inferences which thus helped me to give concrete\r\nreasonings and conclusions (with very just and weighted reasons) for every analysis I would\r\nconduct. Further ahead, I believe the CNS gives me an excellent opportunity to learn VR\r\ndevelopment in addition to data analysis and visualizations. All and all, I am still not a hundred\r\npercent sure about what I want to do next, but I know that I am super happy to be here!"
+    interests: "Before I went and got myself a degree in engineering, I almost was going to enroll myself at a\r\nculinary school so I can tell you that I am extremely passionate about cooking. Adding to this, I\r\nam very fond of learning languages, and listening to music that is not ubiquitous (any big fans of\r\n‘Khruangbin’ hmu), and watching TV. "
+    dateStart: '2023-01-31'
+    dateEnd: '2023-04-28'

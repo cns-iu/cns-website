@@ -1,0 +1,22 @@
+name: Nikhil Mahadevaswamy
+lastName: Mahadevaswamy
+image: image.jpg
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 50
+    office: Luddy Hall 4999
+    phone: ''
+    fax: ''
+    email: nmahade@iu.edu
+    education: >-
+      I am currently pursuing my Master's in Computer Science at the Luddy SICE.
+      I have completed my bachelor's in Computer Science from RNS Institute of
+      Technology, Bengaluru.
+    background: >-
+      I have worked as a front-end developer for 2 and half years at Wipro
+      technologies and as a Full Stack developer for a year in a
+      Netherlands-based startup.
+    interests: My hobbies are playing cricket, hiking & running.
+    dateStart: '2021-09-15'
+    dateEnd: '2022-03-31'

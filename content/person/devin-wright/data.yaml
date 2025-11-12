@@ -1,0 +1,21 @@
+name: Devin Wright
+lastName: Wright
+image: image.png
+roles:
+  - type: member
+    title: Project Management Support
+    displayOrder: 78
+    office: ''
+    phone: ''
+    fax: ''
+    email: devmwrig@iu.edu
+    education: >-
+      I was born and raised in Indianapolis. I am Hoosier, through and through,
+      currently wrapping up my undergrad and pursuing my BS in Informatics here
+      at Luddy with a minor in Human-Centered Computing. 
+    background: >-
+      I have experience working with Intel True View, TopGolf, and Luddy’s
+      ServeIT Non-Profit Clinic.
+    interests: 'My interests lie in audio production, digital/visual art, and cooking. '
+    dateStart: '2022-03-22'
+    dateEnd: '2023-09-15'

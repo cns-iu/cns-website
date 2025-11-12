@@ -1,0 +1,16 @@
+name: Benjamin Ashpole
+lastName: Ashpole
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: bashpole@bashpole.com
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2003-02-01'
+    dateEnd: '2003-08-01'

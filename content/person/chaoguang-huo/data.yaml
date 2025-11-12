@@ -1,0 +1,21 @@
+name: Chaoguang Huo
+lastName: Huo
+image: image.jpg
+roles:
+  - type: member
+    title: Visiting Scholar
+    displayOrder: 11
+    office: 4025C
+    phone: ''
+    fax: ''
+    email: huoc@iu.edu
+    education: 'PhD. Information Science– Wuhan University, Wuhan, China (2014-2019) '
+    background: >-
+      I joined CNS in January of 2018, as a visiting scholar in Information and
+      Library Science at Indiana University Bloomington. Prior to this, I
+      studied at Wuhan University. My main interests are knowledge graph, data
+      mining and information behavior. As part of CNS, I am taking part in the
+      job recommendation project. 
+    interests: I like cooking and traveling.
+    dateStart: '2017-12-18'
+    dateEnd: '2018-08-24'

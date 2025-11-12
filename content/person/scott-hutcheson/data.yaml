@@ -1,0 +1,23 @@
+name: Scott Hutcheson
+lastName: Hutcheson
+image: image.jpg
+roles:
+  - type: member
+    title: Project Manager
+    displayOrder: 8
+    office: Wells Library 020
+    phone: 812.856.6607
+    fax: 812.855.6166
+    email: scohutch@iu.edu
+    education: "B.A., Telecommunications – Indiana University (2011)\r\nM.S., Public Service Administration – University of Evansville (2014)\r\n"
+    background: >-
+      I joined the CNS team in December 2016. Prior to this, I was the project
+      coordinator at the Office of Marketing and Communications at the Kelley
+      School of Business.  While obtaining my Master’s degree, I enjoyed
+      matching my love for the outdoors with volunteering in the community at
+      Keep Evansville Beautiful. 
+    interests: >-
+      I enjoy spending my time outdoors, listening to music and playing drums,
+      and I never miss an IU basketball game. 
+    dateStart: '2016-12-05'
+    dateEnd: '2017-12-19'

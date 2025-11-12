@@ -1,0 +1,23 @@
+name: Jen Gerber
+lastName: Gerber
+image: image.jpg
+roles:
+  - type: member
+    title: Center Assistant
+    displayOrder: 9
+    office: Wells 020
+    phone: 812.855.5120
+    fax: 812.855.6166
+    email: jelgerbe@iu.edu
+    education: ''
+    background: >-
+      Prior to joining CNS in October of 2016, I have worked for IU for more
+      than twenty years, first as a student employee at the Wells Library, then
+      as a supervisor at both the Wells Library and the Chemistry Library.
+      Following the birth of my son, I returned to IU as the Administrative
+      Assistant to the Creole Institute before transitioning to a decade-long
+      position as the Program Services Coordinator for the School of Social
+      Work, where I assisted faculty and students in the program. 
+    interests: "I'm a devoted mother to my teenage son (and three unruly cats), but I also enjoy video games, crafting, cooking, trashy television watching, spending time with friends, and reading. \r\n \r\n"
+    dateStart: '2016-10-12'
+    dateEnd: '2017-09-29'
