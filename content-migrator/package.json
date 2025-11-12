@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "start": "npm-watch",
-    "job": "npm-run-all mkindexdir index sync",
+    "job2": "npm-run-all mkindexdir index sync",
+    "job": "node src/index-content.js",
     "index": "node src/index-content.js",
     "mkindexdir": "mkdirp ../apps/cns-website/src/assets/indexes",
     "sync": "rsync -avz --delete ../content ../apps/cns-website/src/assets",
