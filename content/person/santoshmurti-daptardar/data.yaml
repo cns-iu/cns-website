@@ -1,0 +1,24 @@
+name: Santoshmurti Daptardar
+lastName: Daptardar
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 21
+    office: ''
+    phone: ''
+    fax: ''
+    email: sdaptard@iu.edu
+    education: "B.E. in Computer Engineering, University of Mumbai - 2018<br>\r\nM.S. in Data Science, Indiana University Bloomington - 2020 \r\n"
+    background: >-
+      After completing my bachelor’s in computer engineering, I came to IU for
+      my masters and joined CNS in May’19 as a research assistant. My areas of
+      interest are visualization, analytics, artificial intelligence, data
+      science, etc. I currently work on different visualization research
+      projects of CNS, and also as a Teaching Assistant for an online executive
+      education course - Visual Analytics.
+    interests: >-
+      I like to play table tennis, go for cycling when the weather is nice,
+      gaming with friends, etc.
+    dateStart: '2019-07-30'
+    dateEnd: '2021-05-07'

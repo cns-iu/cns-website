@@ -1,0 +1,35 @@
+name: Supriya Bidanta
+lastName: Bidanta
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 23
+    office: 4014A
+    phone: ''
+    fax: ''
+    email: sbidanta@iu.edu
+    education: >-
+      I completed my bachelor's in biotechnology from the Odisha University of
+      Technology and Research in Bhubaneswar, Odisha, India. I then went on to
+      earn a master's degree in bioinformatics from Indiana University in
+      Bloomington. I am pursuing a PhD in Bioengineering at Indiana University
+      in Bloomington.
+    background: >-
+      Ever since I was a child, I had a keen interest in Biology, which led me
+      to opt for biotechnology. During my coursework, I came across
+      Bioinformatics, and that changed my aspirations. To learn coding skills
+      and gain an understanding of industrial norms, I worked at an MNC company
+      for 6 years before coming to the USA to pursue my dream work.
+    interests: >-
+      During my leisure time, I enjoy taking long walks to explore parks and new
+      areas. Additionally, I like to experiment with cooking and baking. I also
+      enjoy playing badminton.
+    dateStart: '2022-01-24'
+    dateEnd: null
+  - type: student
+    topic: Ph.D. Intelligent Systems Engineering
+    degree: Ph.D.
+    department: ISE
+    dateStart: '2022-08-01'
+    dateEnd: null

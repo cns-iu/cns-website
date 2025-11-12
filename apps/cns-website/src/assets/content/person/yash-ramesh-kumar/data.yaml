@@ -1,0 +1,24 @@
+name: Yash Ramesh Kumar
+lastName: Kumar
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 83
+    office: ''
+    phone: ''
+    fax: ''
+    email: yakuma@iu.edu
+    education: >-
+      I have completed my Undergraduate studies in Computer Engineering
+      affiliated with Mumbai University.
+    background: >-
+      I am from Thane, a suburb that is situated a short drive from Mumbai, the
+      business capital of India.
+    interests: >-
+      I am passionate about Unity, and the various applications it empowers,
+      including VR, games, animations, and virtual assets. My other interests
+      lie in gaming, reading, listening to music, trekking, cycling, and
+      learning about new things, and skills.
+    dateStart: '2022-04-18'
+    dateEnd: '2023-01-13'

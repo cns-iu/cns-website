@@ -1,0 +1,10 @@
+name: Justin Donaldson
+lastName: Donaldson
+image: image.jpg
+roles:
+  - type: student
+    topic: Ph.D. Human Computer Interaction & Design
+    degree: Ph.D.
+    department: School of Informatics
+    dateStart: '2005-01-01'
+    dateEnd: '2011-12-01'

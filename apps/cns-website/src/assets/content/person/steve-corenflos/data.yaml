@@ -1,0 +1,27 @@
+name: Steve Corenflos
+lastName: Corenflos
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: 8
+    office: Wells Library 024
+    phone: 812.855.6635
+    fax: 812.855.6166
+    email: scorenfl@iu.edu
+    education: >-
+      BA of Cognitive Science, Psychology, 2007 - Indiana University,
+      Bloomington, IN
+    background: >-
+      After completing my degree, I worked as a systems administrator/developer
+      in a theoretical chemistry research lab. I joined the CNS team in August
+      2013. I am passionate about science and want to develop tools that will
+      help advance our collective human knowledge. Working at CNS is providing
+      me with an excellent opportunity to contribute.
+    interests: >-
+      I'm constantly seeking to improve myself and the world around me. Progress
+      is a little faster in some areas than others. A lot of my free time is
+      spent training Brazilian jiu-jitsu. Whatever time is left over I spend
+      reading, working on personal projects, or planning my next adventure.
+    dateStart: '2013-08-19'
+    dateEnd: '2015-09-19'

@@ -1,0 +1,21 @@
+name: Pranathi Neerudu
+lastName: Neerudu
+image: image.jpg
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 112
+    office: ''
+    phone: ''
+    fax: ''
+    email: pneerudu@iu.edu
+    education: >-
+      I am a CS Graduate student at Luddy School of Informatics, Computing, and
+      Engineering
+    background: >-
+      I worked as an Application Development Associate with Accenture for a year
+      before I started my master's at IU. I worked on the MEAN stack to develop
+      applications for our clients.
+    interests: My hobbies include listening to music and cooking.
+    dateStart: '2023-02-14'
+    dateEnd: '2023-04-28'

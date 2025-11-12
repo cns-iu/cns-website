@@ -1,0 +1,22 @@
+name: Hanning Guo
+lastName: Guo
+image: image.jpg
+roles:
+  - type: member
+    title: Researcher, Special Ph.D. Student - SLIS
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: hanning.guo@gmail.com
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2008-09-03'
+    dateEnd: '2010-09-03'
+  - type: student
+    topic: Ph.D. Library and Information Science
+    degree: Ph.D.
+    department: ''
+    dateStart: '2006-01-01'
+    dateEnd: '2010-09-03'

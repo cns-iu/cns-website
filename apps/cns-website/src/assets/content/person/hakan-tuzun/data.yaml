@@ -1,0 +1,10 @@
+name: Hakan Tuzun
+lastName: Tuzun
+image: image.jpg
+roles:
+  - type: student
+    topic: Motivating Learners in Educational Computer Games
+    degree: Ph.D.
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2004-01-12'

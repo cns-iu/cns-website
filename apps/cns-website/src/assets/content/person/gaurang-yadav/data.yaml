@@ -1,0 +1,10 @@
+name: Gaurang Yadav
+lastName: Yadav
+image: image.jpg
+roles:
+  - type: student
+    topic: Dual PhD Informatics & Intelligent Systems Engineering
+    degree: Ph.D.
+    department: ''
+    dateStart: '2021-08-09'
+    dateEnd: null

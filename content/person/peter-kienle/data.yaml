@@ -1,0 +1,30 @@
+name: Peter Kienle
+lastName: Kienle
+image: image.jpg
+roles:
+  - type: member
+    title: IoT Assistant
+    displayOrder: 16
+    office: Luddy Hall 4025
+    phone: ''
+    fax: ''
+    email: pmkienle@iu.edu
+    education: "Progymnasium, Tailfingen, Germany<br>\r\nJazz School Munich, Germany\r\n"
+    background: >-
+      Professional musician since age 18. Publishing of original music books and
+      layout & design of books for Jamey Aebersold. Lifelong interest in
+      electronics, building stuff and repairs around the house. Computer
+      programming since age 23, using Assembly, C and other languages. Building
+      a small 3D Printer in 2008, a CNC router and various other computer
+      controlled machines required the construction of a small backyard workshop
+      to put it all in. On staff for CNS since Summer of 2017. Helping with
+      laser cutting, designing and other activities. Makerspace technician for
+      SICE since Summer 2019.
+    interests: >-
+      I live a little north of Bloomington in the country with my wife, my
+      daughter who is a high school senior, and a small Maltese poodle. With my
+      piano playing wife I co-lead the jazz-rock-fusion group “The Time Flies”
+      and sometimes we actually travel to exotic places to play to enthusiastic
+      crowds.
+    dateStart: '2019-11-07'
+    dateEnd: null

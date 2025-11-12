@@ -1,0 +1,30 @@
+name: Luis Miguel Mestre
+lastName: Mestre
+image: image.jpg
+roles:
+  - type: member
+    title: Teaching Assistant
+    displayOrder: 69
+    office: ''
+    phone: ''
+    fax: ''
+    email: lmestre@iu.edu
+    education: "Ph.D. candidate in Epidemiology with a minor concentration in Data Science, Indiana University School of Public Health-Bloomington (Bloomington, Indiana).\r\nMS in Mathematical Statistics, University of Puerto in Mayaguez (Mayaguez, Puerto Rico.\r\nBS in Biomathematics, Universidad Metropolitana (UMET, currently Universidad Ana G. Méndez) (San Juan, Puerto Rico)"
+    background: >-
+      I am a Teaching Assistant (TA) at CNS for the Information Visualization
+      (Visual Analytics) course. I took the class as part of my minor in Data
+      Science during the pandemic in the Spring of 2021. A year later, I became
+      part of the teaching team of this course. Raised in Puerto Rico. My
+      research interests are more focused on the relationship between cigarette
+      smoking, weight statuses such as obesity and being underweight, and aging
+      and respiratory diseases; my approach usually consists in implementing
+      complex statistical analysis and visualizing the results from that
+      analysis. For my dissertation, I want to determine if weight status
+      mediates the association of cigarette smoking with well-known related
+      health burdens such as mortality or respiratory diseases like asthma and
+      Chronic Obstructive Pulmonary Disorder (COPD).
+    interests: >-
+      In my free time, I enjoy going to the gym for weightlifting and fitness,
+      hiking, and reading about statistics, science, politics, and psychology.
+    dateStart: '2022-01-31'
+    dateEnd: '2023-05-05'

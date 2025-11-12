@@ -1,0 +1,12 @@
+name: Albert-László Barabási
+lastName: Barabási
+image: image.jpg
+roles:
+  - type: collaborator
+    project: NWB
+    dateStart: '2006-01-01'
+    dateEnd: '2009-08-31'
+  - type: collaborator
+    project: NetSci06
+    dateStart: '2005-01-01'
+    dateEnd: '2005-12-31'

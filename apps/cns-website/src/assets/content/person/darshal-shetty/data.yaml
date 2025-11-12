@@ -1,0 +1,25 @@
+name: Darshal Shetty
+lastName: Shetty
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 43
+    office: Luddy Hall 4999
+    phone: ''
+    fax: ''
+    email: dcshetty@iu.edu
+    education: >-
+      I am currently a graduate computer science student at Luddy SICE. I
+      completed my undergraduate degree in computer engineering at Mumbai
+      university in the year 2017. 
+    background: "Before joining IU in spring 2021, I worked as a web developer for three and a half years at an internet advertising company called Media.net. My work involved mostly back-end web development, but I also developed a few web-based user interfaces for my back-end projects. I have also worked on building and managing big data processing pipelines and developing real-time visualization for that data. \r\n\r\n"
+    interests: >-
+      I am interested in learning about programming language theory and
+      reasoning about the correctness of programs using functional programming
+      and type systems. In my free time, I like to play video games. My favorite
+      genre of video games are RPGs, strategy games, and roguelikes. I also like
+      to explore fun and unique gameplay mechanics in both video games and board
+      games.
+    dateStart: '2021-06-14'
+    dateEnd: '2021-08-20'

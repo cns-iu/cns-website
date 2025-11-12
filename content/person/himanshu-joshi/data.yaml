@@ -1,0 +1,23 @@
+name: Himanshu Joshi
+lastName: Joshi
+image: image.jpg
+roles:
+  - type: member
+    title: Angular Software Developer
+    displayOrder: 115
+    office: ''
+    phone: ''
+    fax: ''
+    email: hsjoshi@iu.edu
+    education: I have recently completed my MS in CS.
+    background: >-
+      I completed my Undergrads in Computer Science from my hometown Pune in
+      India and worked as a Software Developer for 2 years prior to my Master’s
+      at IU in the Spring of ‘21. I have experience in the back end, and
+      deployments and aim to become a full stack by practicing my front-end
+      skills through my involvement in the project.
+    interests: >-
+      I like the seat behind the wheels with some relaxing music, and hiking is
+      always ON!
+    dateStart: '2023-02-14'
+    dateEnd: '2023-10-22'

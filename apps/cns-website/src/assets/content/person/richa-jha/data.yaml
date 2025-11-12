@@ -1,0 +1,20 @@
+name: Richa Jha
+lastName: Jha
+image: image.jpg
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 57
+    office: '4033'
+    phone: ''
+    fax: ''
+    email: ricjha@iu.edu
+    education: >-
+      I'm pursuing an MS in Computer Science from Indiana
+      University-Bloomington.
+    background: "After graduating with B.Tech in Computer Science, I have worked for almost 5.5 years in the IT industry.  To give a brief overview of my profile - I had been working as a web developer and have contributed to various roles like frontend, backend developer. On the technical side, I am well versed with backend frameworks like Python, Java.  \r\n \r\n"
+    interests: >-
+      Self-improvement is important for me. I love to explore new technologies.
+      My hobbies are traveling, playing badminton, trekking. 
+    dateStart: '2021-10-18'
+    dateEnd: '2022-12-17'

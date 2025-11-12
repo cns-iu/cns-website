@@ -1,0 +1,33 @@
+name: Abhay Bharat Rajde
+lastName: Rajde
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 86
+    office: ''
+    phone: ''
+    fax: ''
+    email: abrajde@iu.edu
+    education: >-
+      Currently pursuing a Master of Science degree in Computer Science from
+      Luddy School of Informatics, Computing, and Engineering. I have completed
+      my Bachelor in Engineering degree in Information Technology from the
+      University of Mumbai, India.
+    background: >-
+      Born and brought up in Mumbai the financial hub of India. Talking about
+      myself, Problem Solving, and Impactful Collaborative Development define my
+      personality and interests. During my undergrad to gain hands-on experience
+      on the cutting edge technologies used in the dynamically changing world I
+      interned at DB Sys Online and Printserv as a Software Engineer Intern
+      where I worked on the project for Airtel, the world's 3rd largest mobile
+      network operator where I assisted the company to obtain an overview of the
+      entire infrastructure for Troubleshooting and decision making.
+    interests: >-
+      As a professional Volleyball player, I love playing volleyball. Cricket,
+      soccer, badminton, and tennis are some of my other favorite sports. In my
+      spare time, I enjoy following and keeping up with new technological
+      trends. Hiking and road trips are two of my favorite activities. Exploring
+      new cities and towns is my favorite pastime. 
+    dateStart: '2022-05-18'
+    dateEnd: '2023-04-28'

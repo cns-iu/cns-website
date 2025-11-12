@@ -1,0 +1,16 @@
+name: Julie M. Smith
+lastName: Smith
+image: image.jpg
+roles:
+  - type: member
+    title: Co-Curator
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: jsmarie@gmail.com
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2006-08-28'
+    dateEnd: '2007-08-28'

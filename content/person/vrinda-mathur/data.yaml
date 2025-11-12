@@ -1,0 +1,28 @@
+name: Vrinda Mathur
+lastName: Mathur
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 60
+    office: 4025D
+    phone: ''
+    fax: ''
+    email: vrmath@iu.edu
+    education: >-
+      Bachelor's of Science in Statistics form Delhi University in India in
+      2018. MS in Data Science from Indiana University Bloomington in 2021.  
+    background: >-
+      I completed my Master's degree in Data Science in May 2021. I am
+      simultaneously remotely working as an intern for a customer support
+      intelligence company in California, where as a team we are trying to
+      improve and automate the customer support process as much as possible. As
+      graduate student I was a Teaching Assistant for Elements of Artificial
+      Intelligence and Data Visualization taught at Luddy. 
+    interests: >-
+      In my free time, I enjoy cooking (while I love numbers and metrics, I am
+      not a huge fan of ingredient proportions). I love to travel with my
+      friends and try to find ways to spend my weekends out of my home as much
+      as I can. 
+    dateStart: '2021-11-08'
+    dateEnd: '2022-02-28'

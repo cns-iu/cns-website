@@ -1,0 +1,31 @@
+name: Leah Scherschel
+lastName: Scherschel
+image: image.jpg
+roles:
+  - type: member
+    title: Research Analyst
+    displayOrder: 22
+    office: Luddy Hall 4014
+    phone: ''
+    fax: ''
+    email: llschers@iu.edu
+    education: "BA Biology - Indiana University, Bloomington - 2013\r\nMS Data Science - Indiana University, Bloomington - 2020"
+    background: >-
+      I am a biologist turned data scientist. My career began as a quality
+      control microbiologist for a pharmaceutical company, where I saw the need
+      for someone with the skills to analyze the vast quantities of data
+      produced while manufacturing life-saving drugs. When I returned to IU for
+      my Master’s degree, I had the opportunity to complete my capstone project
+      with Katy Börner as my faculty mentor. I have honed my focus to two main
+      areas: 1) providing actionable insights, particularly through the use of
+      visualizations, for large and complex datasets, and 2) using deep learning
+      to detect functional tissue units in medical imaging data, allowing us to
+      gain an understanding of their size, shape, distribution, etc. and aid the
+      creation of a Human Reference Atlas (HRA) at the cellular level. 
+    interests: >-
+      My hobbies reflect my passion for biology and include training my horses,
+      playing with my dogs, raising and showing rabbits, hanging out with my
+      flock of chickens, and tending my plants (both indoor and out). I also
+      enjoy archery, riding motorcycles, and brewing a strong cup of coffee.
+    dateStart: '2020-06-22'
+    dateEnd: '2022-05-27'

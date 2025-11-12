@@ -1,0 +1,16 @@
+name: Sumeet Mishra
+lastName: Mishra
+image: image.jpg
+roles:
+  - type: member
+    title: Intern
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: sumish@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2019-05-28'
+    dateEnd: '2019-09-04'

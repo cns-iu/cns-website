@@ -1,0 +1,23 @@
+name: Pramod Bhakta
+lastName: Bhakta
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 82
+    office: ''
+    phone: ''
+    fax: ''
+    email: pnbhakta@iu.edu
+    education: >-
+      I have a Bachelor's degree in Information Technology. I'm currently
+      pursuing a Master's in Computer Science from the Luddy School of
+      Informatics, Computing, and Engineering.
+    background: >-
+      I have worked as a Senior Software Developer at an EdTech Startup. I like
+      challenging problems and like to design scalable systems.
+    interests: >-
+      I'm a Real Madrid fan and love playing soccer. In my free time, I like to
+      go cycling while listening to music.
+    dateStart: '2022-05-15'
+    dateEnd: '2023-08-04'

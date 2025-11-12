@@ -1,0 +1,16 @@
+name: Bradford Demarest
+lastName: Demarest
+image: image.jpg
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: bdemares@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2010-05-01'
+    dateEnd: '2010-05-02'

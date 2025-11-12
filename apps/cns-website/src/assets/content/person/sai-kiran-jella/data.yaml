@@ -1,0 +1,24 @@
+name: Sai Kiran Jella
+lastName: Jella
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 89
+    office: ''
+    phone: ''
+    fax: ''
+    email: sjella@iu.edu
+    education: >-
+      I am a Computer Science graduate student from the Luddy School of
+      Informatics, Computing, and Engineering. I have completed my Bachelor's in
+      Computer Science from Mahatma Gandhi Institute of Technology, Hyderabad,
+      India.
+    background: >-
+      After my undergrad, I joined ADP as a Full Stack Engineer, and I worked
+      there for 2 years mainly on Angular, Java and a bit on Jenkins pipelines.
+    interests: >-
+      I usually spend my free time playing badminton, watching movies or
+      cooking.
+    dateStart: '2022-05-16'
+    dateEnd: '2023-10-27'

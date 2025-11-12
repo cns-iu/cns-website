@@ -1,0 +1,23 @@
+name: Jill L. Taylor
+lastName: Taylor
+image: image.jpg
+roles:
+  - type: member
+    title: Center Assistant
+    displayOrder: 10
+    office: '020'
+    phone: 812.855.5120
+    fax: 812.855.6166
+    email: taylorjl@iu.edu
+    education: ''
+    background: >-
+      Jill came to CNS after a long career in administration at Indiana
+      University.  At CNS she will continue in this vein, supporting CNS by
+      connecting staff with IU's various administrative services, assuring a
+      smooth transition  for CNS staff in traveling, purchasing and
+      organizational systems.
+    interests: >-
+      In her free time she enjoys listening to music, needlepointing,
+      photography and cooking.
+    dateStart: '2016-04-18'
+    dateEnd: '2016-08-17'

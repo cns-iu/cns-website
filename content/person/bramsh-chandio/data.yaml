@@ -1,0 +1,22 @@
+name: Bramsh Chandio
+lastName: Chandio
+image: image.jpg
+roles:
+  - type: member
+    title: Teaching Assistant
+    displayOrder: 36
+    office: ''
+    phone: ''
+    fax: ''
+    email: bqchandi@iu.edu
+    education: >-
+      I grew up in Pakistan and did my undergrad in Computer Science from there
+      before moving to the States.
+    background: >-
+      I'm a Ph.D. candidate in the Department of Intelligent Systems
+      Engineering. In my Ph.D., I have been working on developing methods and
+      tools for the analysis of white matter tracts of the brain reconstructed
+      from Diffusion MRI in vivo.
+    interests: I like to read Urdu poetry in my free time.
+    dateStart: '2021-01-06'
+    dateEnd: '2021-05-07'

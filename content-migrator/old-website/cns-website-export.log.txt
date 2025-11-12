@@ -1,0 +1,168 @@
+Exporting table: public.tblCallsEvents -> tblCallsEvents
+Exporting table: public.tblLocations -> tblLocations
+Exporting table: public.brdgMediaPublications -> brdgMediaPublications
+Exporting table: public.brdgMediaEducMaterials -> brdgMediaEducMaterials
+Exporting table: public.brdgMediaTutorials -> brdgMediaTutorials
+Exporting table: public.brdgMediaPresentations -> brdgMediaPresentations
+Exporting table: public.tblCourses -> tblCourses
+Exporting table: public.tblEducMaterials -> tblEducMaterials
+Exporting table: public.tblPeople -> tblPeople
+Exporting table: public.tblPresentations -> tblPresentations
+Exporting table: public.tblTutorials -> tblTutorials
+Exporting table: public.tblPublications -> tblPublications
+Exporting table: public.tblMedia -> tblMedia
+Exporting table: public.tblDatasets -> tblDatasets
+Exporting table: public.brdgMediaCallsEvents -> brdgMediaCallsEvents
+Exporting table: public.tblContactInformation -> tblContactInformation
+Exporting table: public.brdgOrganizersAttendees -> brdgOrganizersAttendees
+Exporting table: public.tblOrganizations -> tblOrganizations
+Exporting table: public.tblHardware -> tblHardware
+Exporting table: public.tblResearch -> tblResearch
+Exporting table: public.brdgTeamCollabs -> brdgTeamCollabs
+Exporting table: public.tblCenterMembers -> tblCenterMembers
+Exporting table: public.brdgIndepStudentsSupervisors -> brdgIndepStudentsSupervisors
+Exporting table: public.tblMAPhDs -> tblMAPhDs
+Exporting table: public.brdgAuthorsEditors -> brdgAuthorsEditors
+Exporting table: public.brdgResearchPublications -> brdgResearchPublications
+Exporting table: public.brdgMediaSoftware -> brdgMediaSoftware
+❌ Skipping empty or bad table: brdgTeachers
+Exporting table: public.brdgAdvisors -> brdgAdvisors
+❌ Skipping empty or bad table: brdgMediaIndepStudies
+❌ Skipping empty or bad table: brdgCompilers
+❌ Skipping empty or bad table: brdgDataNeeds
+❌ Skipping empty or bad table: brdgEventsResearch
+❌ Skipping empty or bad table: brdgDevelopers
+❌ Skipping empty or bad table: brdgGuestLecturers
+❌ Skipping empty or bad table: brdgGuestLectures
+❌ Skipping empty or bad table: brdgHardwareNeeds
+Exporting table: public.brdgMediaMAPhDs -> brdgMediaMAPhDs
+❌ Skipping empty or bad table: brdgTagsHardware
+❌ Skipping empty or bad table: brdgProducers
+❌ Skipping empty or bad table: brdgPresentationsResearch
+❌ Skipping empty or bad table: brdgResearchSoftware
+❌ Skipping empty or bad table: brdgTagsCourses
+❌ Skipping empty or bad table: brdgTagsDatasets
+❌ Skipping empty or bad table: brdgTagsEducMaterials
+❌ Skipping empty or bad table: brdgTagsEvents
+Exporting table: public.brdgTagsPublications -> brdgTagsPublications
+❌ Skipping empty or bad table: brdgTagsGrants
+❌ Skipping empty or bad table: brdgTagsResearch
+Exporting table: public.brdgTagsPeople -> brdgTagsPeople
+❌ Skipping empty or bad table: brdgTagsPresentations
+❌ Skipping empty or bad table: brdgTagsTutorials
+❌ Skipping empty or bad table: brdgTravelers
+❌ Skipping empty or bad table: brdgTutorialsResearch
+❌ Skipping empty or bad table: tblTravels
+Exporting table: public.brdgPresentationsEvents -> brdgPresentationsEvents
+Exporting table: public.tblSemanticTags -> tblSemanticTags
+Exporting table: public.brdgMediaCourses -> brdgMediaCourses
+Exporting table: public.brdgInstructors -> brdgInstructors
+Exporting table: public.brdgVenue -> brdgVenue
+Exporting table: public.brdgTutorialsEvents -> brdgTutorialsEvents
+Exporting table: public.brdgPeopleContactInformation -> brdgPeopleContactInformation
+Exporting table: public.tblGrants -> tblGrants
+Exporting table: public.brdgResidence -> brdgResidence
+Exporting table: public.brdgPresenters -> brdgPresenters
+Exporting table: public.brdgFunding -> brdgFunding
+Exporting table: public.brdgCoPIs -> brdgCoPIs
+Exporting table: public.tblIndepStudies -> tblIndepStudies
+Exporting table: public.tblSoftware -> tblSoftware
+❌ Skipping empty or bad table: brdgTagsSoftware
+Exporting view: public.vwLocationsEntitiess -> vwLocationsEntitiess
+Exporting view: public.vwLocationsEntities -> vwLocationsEntities
+Exporting view: public.vwMediaEntities -> vwMediaEntities
+Exporting view: ivl.vwIVLDatasetsAll -> vwIVLDatasetsAll
+Exporting view: public.vwEventsURL -> vwEventsURL
+Exporting view: public.vwPrimaryURLs -> vwPrimaryURLs
+Exporting view: public.vwPeopleBase -> vwPeopleBase
+Exporting view: public.vwPresentationEventPresenters -> vwPresentationEventPresenters
+Exporting view: ivl.vwIVLPresentationsAll -> vwIVLPresentationsAll
+Exporting view: public.vwEventAttendees -> vwEventAttendees
+Exporting view: public.vwEventOrganizers -> vwEventOrganizers
+Exporting view: public.vwGrantsResearch -> vwGrantsResearch
+Exporting view: public.vwEventsPresentations -> vwEventsPresentations
+Exporting view: ivl.vwIVLEventsAll -> vwIVLEventsAll
+Exporting view: public.vwGrantsCopis -> vwGrantsCopis
+❌ Skipping empty or bad table: vwIVLFundingGrantsCurrent
+❌ Skipping empty or bad table: vwIVLFundingGrantsPending
+Exporting view: ivl.vwIVLHardwareAll -> vwIVLHardwareAll
+Exporting view: ivl.vwIVLNetscitalks -> vwIVLNetscitalks
+Exporting view: ivl.vwIVLNews -> vwIVLNews
+Exporting view: public.vwCollabsCurrent -> vwCollabsCurrent
+Exporting view: public.vwCollabsResearch -> vwCollabsResearch
+Exporting view: public.vwPrimaryEmails -> vwPrimaryEmails
+Exporting view: ivl.vwIVLPeopleIndepStudentsPrevious -> vwIVLPeopleIndepStudentsPrevious
+Exporting view: public.vwWebPeopleBase -> vwWebPeopleBase
+Exporting view: ivl.vwIVLPeopleCollabsCurrent -> vwIVLPeopleCollabsCurrent
+Exporting view: ivl.vwIVLPeopleCollabsPrevious -> vwIVLPeopleCollabsPrevious
+Exporting view: public.vwMembersCurrent -> vwMembersCurrent
+❌ Skipping empty or bad table: vwIndepStudiesCurrent
+Exporting view: public.vwStudentsCurrent -> vwStudentsCurrent
+❌ Skipping empty or bad table: vwIVLPeopleIndepStudentsCurrent
+❌ Skipping empty or bad table: vwIVLPeopleMAsCurrent
+Exporting view: ivl.vwIVLPeopleMAsPrevious -> vwIVLPeopleMAsPrevious
+❌ Skipping empty or bad table: vwAffiliations
+Exporting view: ivl.vwIVLPeopleMembersCurrent -> vwIVLPeopleMembersCurrent
+Exporting view: public.vwMembersPrevious -> vwMembersPrevious
+Exporting view: ivl.vwIVLPeopleMembersPrevious -> vwIVLPeopleMembersPrevious
+Exporting view: ivl.vwIVLPeoplePhDsCurrent -> vwIVLPeoplePhDsCurrent
+Exporting view: ivl.vwIVLPeoplePhDsPrevious -> vwIVLPeoplePhDsPrevious
+Exporting view: ivl.vwIVLPeopleStudentsPrevious -> vwIVLPeopleStudentsPrevious
+Exporting view: public.vwAuthorsRanked -> vwAuthorsRanked
+Exporting view: public.vwPublicationAuthors -> vwPublicationAuthors
+Exporting view: public.vwPublicationEditors -> vwPublicationEditors
+Exporting view: ivl.vwIVLPublicationsAll -> vwIVLPublicationsAll
+Exporting view: ivl.vwIVLStaticPages -> vwIVLStaticPages
+Exporting view: public.vwResearchGrants -> vwResearchGrants
+Exporting view: public.vwResearchPublications -> vwResearchPublications
+Exporting view: public.vwResearchTeamCollabsPast -> vwResearchTeamCollabsPast
+❌ Skipping empty or bad table: vwResearchTeamLeadsCurrent
+Exporting view: public.vwResearchTeamMembersPast -> vwResearchTeamMembersPast
+❌ Skipping empty or bad table: vwIVLResearchCurrent
+Exporting view: ivl.vwIVLSoftwareAll -> vwIVLSoftwareAll
+❌ Skipping empty or bad table: vwCourseAssistants
+❌ Skipping empty or bad table: vwCourseTeachers
+Exporting view: ivl.vwIVLTeachingEducMaterials -> vwIVLTeachingEducMaterials
+Exporting view: ivl.vwIVLTeachingEducPresentations -> vwIVLTeachingEducPresentations
+Exporting view: public.vwTutorialEventPresenters -> vwTutorialEventPresenters
+Exporting view: ivl.vwIVLTeachingTutorials -> vwIVLTeachingTutorials
+Exporting view: ivl.vwIVLVideos -> vwIVLVideos
+Exporting view: ivl.vwIVLVisualizations -> vwIVLVisualizations
+Exporting view: ivl.vwIVLWorkshops -> vwIVLWorkshops
+Exporting view: public.vivo_advisor -> vivo_advisor
+Exporting view: public.vivo_authorship -> vivo_authorship
+Exporting view: public.vivo_course -> vivo_course
+❌ Error exporting: [Error: Invalid Error: Failed to prepare COPY "COPY (SELECT NULL FROM "public"."vivo_event" ) TO STDOUT (FORMAT "binary");": ERROR:  permission denied for relation brdgPublicationsEvents
+] {
+  errno: -1,
+  code: 'DUCKDB_NODEJS_ERROR',
+  errorType: 'Invalid'
+}
+❌ Skipping empty or bad table: vivo_event
+Exporting view: public.vivo_inforesource -> vivo_inforesource
+Exporting view: public.vivo_people -> vivo_people
+Exporting view: public.vivo_presentation -> vivo_presentation
+Exporting view: public.vivo_research_activity -> vivo_research_activity
+❌ Skipping empty or bad table: vwCoPIsCurrent
+Exporting view: public.vwCoPIsPrevious -> vwCoPIsPrevious
+Exporting view: public.vwPeopleContactInformation -> vwPeopleContactInformation
+❌ Skipping empty or bad table: vwTeamLeads
+Exporting view: ivl.vwIVLFundingGrantsPast -> vwIVLFundingGrantsPast
+Exporting view: ivl.vwIVLTeachingCourses -> vwIVLTeachingCourses
+Exporting view: ivl.vwIVLHomepage -> vwIVLHomepage
+❌ Skipping empty or bad table: vwTeamCurrentResearch
+Exporting view: public.vwTeamResearch -> vwTeamResearch
+Exporting view: public.vwPrimaryThumbs -> vwPrimaryThumbs
+Exporting view: public.vwCollabsPrevious -> vwCollabsPrevious
+Exporting view: ivl.vwIVLSoftwareType -> vwIVLSoftwareType
+Exporting view: ivl.vwIVLPeopleStudentsCurrent -> vwIVLPeopleStudentsCurrent
+Exporting view: public.vwIndepStudiesPrevious -> vwIndepStudiesPrevious
+Exporting view: public.vwStudentsPrevious -> vwStudentsPrevious
+Exporting view: public.vwResearchTeamCollabsCurrent -> vwResearchTeamCollabsCurrent
+❌ Skipping empty or bad table: vwResearchTeamMembersCurrent
+Exporting view: ivl.vwIVLResearchPast -> vwIVLResearchPast
+Exporting view: public.vwAuthorRankedWithContact -> vwAuthorRankedWithContact
+Exporting view: public.vwEditorRankedWithContact -> vwEditorRankedWithContact
+Exporting view: public.vivo_peoplecontact -> vivo_peoplecontact
+Exporting view: public.vwPeopleResidence -> vwPeopleResidence
+✅ Export complete! Tables & views are stored in data/cns-website.duckdb

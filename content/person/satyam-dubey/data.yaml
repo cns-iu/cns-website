@@ -1,0 +1,41 @@
+name: Satyam Dubey
+lastName: Dubey
+image: image.png
+roles:
+  - type: member
+    title: Hourly Software Developer
+    displayOrder: 48
+    office: ''
+    phone: ''
+    fax: ''
+    email: sbdubey@iu.edu
+    education: >-
+      I am a Master’s student in Data Science at Indiana University,
+      Bloomington. I hold a Bachelor’s degree in Computer Engineering from
+      VESIT, Mumbai.
+    background: >-
+      My research spans biomedical AI, large-scale NLP, and scalable ML
+      infrastructure. At the CNS Lab, I am currently working on building
+      scalable pipelines for cell segmentation using models such as SAM and
+      DeepCell, combined with Docker, Kubernetes, and MLflow for
+      reproducibility. Prior to this, I spent a year as a full-time researcher
+      at Jio Institute in India, where I developed self-supervised pipelines for
+      ultrasound imaging using spectral representations and attention-based
+      models to improve generalization across multi-organ datasets. Earlier, at
+      the Indian Statistical Institute, Kolkata, I worked as a Research Intern
+      in the Biomedical Imaging Lab, developing advanced color normalization
+      methods for H&E stained images and confirming HSI as the most effective
+      channel for enhancing breast cancer cell detection. I also gained
+      experience in enterprise AI during my internship with Ernst & Young, where
+      I contributed to transformer-based NLP pipelines and speech analysis
+      systems for compliance and risk monitoring. My current research interests
+      include vision-language models, diffusion models, and 3D scene
+      understanding, with a strong focus on applying these tools to advance
+      biomedicine.
+    interests: >-
+      Outside of work, I balance my time between the soccer field and the
+      endless AI debates on X. Following voices like Karpathy, LeCun, and
+      Goodfellow often pulls me into late-night rabbit holes that spark new
+      ideas and keep me curious.
+    dateStart: '2025-09-15'
+    dateEnd: null

@@ -1,0 +1,16 @@
+name: Pragnesh Patel
+lastName: Patel
+image: image.jpg
+roles:
+  - type: member
+    title: Master Student - Computer Science, Programmer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: patel27@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2008-03-17'
+    dateEnd: '2008-05-31'

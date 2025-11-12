@@ -1,0 +1,20 @@
+name: Tova Lesko
+lastName: Lesko
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 14
+    office: Luddy 4025G
+    phone: ''
+    fax: ''
+    email: tnlesko@iu.edu
+    education: "B.A. in Fine Arts and Classical Studies, Indiana University, 2012\r\nPursuing a Master’s of Information Science, Indiana University, 2020\r\n"
+    background: "Tova graduated in May 2012 with dual majors in Fine Arts and Classical Studies, and minors in Anthropology and Art History.  After being employed as an artist assistant in various studios, Tova was hired as the manager for By Hand Gallery in Downtown Bloomington where she oversaw all gallery operations, coordinated over 100 local artists, and acted as a central point in the community connecting artists to customers.  She held this position for six and a half years before returning to school full time. Tova is currently in her second year of the Master of Information Science program at Indiana University and is set to graduate in May 2020.\r\n\r\nTova is also an accomplished textile artist, having won multiple awards for her original fiber art.  She has had her artwork displayed in several galleries across Bloomington, and today her handwoven and naturally dyed textiles can be purchased at By Hand Gallery in downtown Bloomington, IN. \r\n"
+    interests: >-
+      In her free time, Tova enjoys spending time in her studio, planning
+      international trips, working on home improvement projects, cooking,
+      reading, and spending time with her two tabby cats.  She also fancies
+      herself an amateur mycologist.
+    dateStart: '2020-01-24'
+    dateEnd: '2020-05-07'

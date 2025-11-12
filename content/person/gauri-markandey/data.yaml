@@ -1,0 +1,30 @@
+name: Gauri Markandey
+lastName: Markandey
+image: image.png
+roles:
+  - type: member
+    title: 'Hourly Angular Programmer '
+    displayOrder: 36
+    office: ''
+    phone: ''
+    fax: ''
+    email: gsmarkan@iu.edu
+    education: "MS in Computer Science, Indiana University Bloomington (Expected graduation: 2026)\r\nB.E. in Computer Science, Pune University, India (2018-2022)\r\n"
+    background: >-
+      I worked as a Software Engineer at Tietoevry India Private Ltd. in India
+      for 2 years. I used Angular, TypeScript, SCSS, and the Ionic framework to
+      develop a healthcare Android application there. I worked on designing
+      RESTful APIs with C# .NET for seamless backend communication and managed
+      data with SQL Server. I also enhanced code quality through testing
+      frameworks like Karma, Jasmine, and NUnit, and optimized CI/CD pipelines
+      using Git and Microsoft Azure. Additionally, I have expertise in
+      programming languages such as Python, C, C++, and C# and frameworks such
+      as .NET, React, and Django, and proficiency in database management and web
+      development.
+    interests: >-
+      In my free time, I enjoy watching classic movies, listening to music,
+      drawing, painting, and dancing. I also have a strong passion for
+      experimenting with new recipes! Additionally, I love traveling to new
+      places and exploring different cultures.
+    dateStart: '2025-01-13'
+    dateEnd: null

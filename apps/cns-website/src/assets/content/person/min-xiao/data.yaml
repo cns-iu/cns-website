@@ -1,0 +1,16 @@
+name: Min Xiao
+lastName: Xiao
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: mxiao@cs.indiana.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2002-02-01'
+    dateEnd: '2002-12-31'

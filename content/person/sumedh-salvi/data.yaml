@@ -1,0 +1,23 @@
+name: Sumedh Salvi
+lastName: Salvi
+image: image.png
+roles:
+  - type: member
+    title: Angular Software Developer
+    displayOrder: 77
+    office: ''
+    phone: ''
+    fax: ''
+    email: sssalvi@iu.edu
+    education: >-
+      I’m currently pursuing a master’s degree in Computer Science at the Luddy
+      School of Informatics, Computing, and Engineering. I have completed my
+      undergraduate degree in Information Technology from the University of
+      Mumbai, India.
+    background: "I was born and raised in Ratnagiri, India. Before pursuing my master's degree at IU, I have four years of work experience in the software industry working with two companies, Robosoft Solutions, and Firestar International; where I worked as a software developer for Microsoft business applications and their integration with web frameworks. Moreover, I have a keen interest in software engineering, and distributed systems, and currently learning AI/ML to contribute to the major technological revolution.\r\n\r\n"
+    interests: >-
+      I enjoy spending my free time following technology trends, watching
+      movies, listening to music, and hiking. Also, I like to travel and explore
+      new places.
+    dateStart: '2022-03-16'
+    dateEnd: '2023-04-28'

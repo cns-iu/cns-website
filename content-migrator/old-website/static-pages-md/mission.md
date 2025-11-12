@@ -1,0 +1,8 @@
+Our Mission
+===========
+
+![wells_library.jpg](/images/mission/wells_library.jpg)Our mission is to advance datasets, tools, and services for the study of biomedical, social and behavioral science, physics, and other networks. A specific focus is research on the structure and evolution of science and technology (S&T) and the communication of results via static and interactive maps of science (learn more at [scimaps.org](http://scimaps.org)).  
+  
+We co-organize international workshops and conferences, promote network science and visualization at national and international initiatives, organize and finance a [weekly Network Science talk series](/netscitalks.html), hold an annual [open house](/open_house.html), host about 10 national and international visitors/faculty each year, and organize regular [workshops](/workshops.html) on the [infrastructures and tools](/data_tools.html) we develop and support. In addition, we develop [custom interactive data visualization applications](/interactive_displays.html) for both public and private sector clients in need of innovative ways to interpret and utilize their data. Our clients have included National Science Foundation (NSF), the National Institutes of Health (NIH), the U.S. Department of Agriculture (USDA), the National Academy of Sciences, the Biotechnology and Biological Sciences Research Council in the UK (BBSRC), TD Ameritrade, Net eSolutions, and Cummins Inc.  
+  
+Our administrative home is in Luddy Hall at the [Luddy School of Informatics, Computing, and Engineering](https://www.sice.indiana.edu/about/), [Indiana University, Bloomington](http://iub.edu), Indiana, USA.

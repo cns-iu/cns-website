@@ -1,0 +1,10 @@
+name: Satoshi Tsutsui
+lastName: Tsutsui
+image: image.jpg
+roles:
+  - type: student
+    topic: Ph.D. Information Science Student
+    degree: Ph.D.
+    department: Informatics
+    dateStart: '2016-02-15'
+    dateEnd: '2021-09-01'

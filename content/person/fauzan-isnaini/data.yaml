@@ -1,0 +1,21 @@
+name: Fauzan Isnaini
+lastName: Isnaini
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 42
+    office: Luddy Hall 4999
+    phone: ''
+    fax: ''
+    email: faisna@iu.edu
+    education: I am a Master’s student in the Data Science program.
+    background: >-
+      I am from Indonesia, and I have a 7 years of experience as a network
+      engineer and 2 years of experience as a business analyst. During that
+      time, I had my first encounter with data science when I had to design an
+      IT Operation Analytics with Splunk to analyse operational logs from more
+      than 50,000 IT devices and visualize it in a dashboard.
+    interests: "During my free time, I enjoy playing badminton, ping-pong, and billiard.\r\n"
+    dateStart: '2021-06-17'
+    dateEnd: '2021-12-17'

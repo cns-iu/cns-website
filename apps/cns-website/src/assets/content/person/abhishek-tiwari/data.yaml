@@ -1,0 +1,20 @@
+name: Abhishek Tiwari
+lastName: Tiwari
+image: image.png
+roles:
+  - type: member
+    title: CNS Java Programmer
+    displayOrder: 76
+    office: ''
+    phone: ''
+    fax: ''
+    email: abtiwa@iu.edu
+    education: I am a Computer Science graduate student at IUB.
+    background: >-
+      Prior to coming for my masters, I have had a 4-year experience working as
+      a Software Engineer at HERE Technologies. 
+    interests: >-
+      My hobbies include playing Cricket, Table Tennis and cooking some spicy
+      and lip-smacking Indian cuisines.
+    dateStart: '2022-03-21'
+    dateEnd: '2022-12-09'

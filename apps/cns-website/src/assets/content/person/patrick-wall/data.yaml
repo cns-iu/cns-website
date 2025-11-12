@@ -1,0 +1,10 @@
+name: Patrick Wall
+lastName: Wall
+image: image.jpg
+roles:
+  - type: student
+    topic: Bioengineering and Complex Networks and Systems
+    degree: Ph.D.
+    department: ''
+    dateStart: '2019-11-07'
+    dateEnd: '2019-11-08'

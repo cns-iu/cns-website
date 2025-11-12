@@ -1,0 +1,24 @@
+name: Sai Sowmith Reddy Katkuri
+lastName: Katkuri
+image: image.png
+roles:
+  - type: member
+    title: Hourly Research Assistant
+    displayOrder: 43
+    office: ''
+    phone: ''
+    fax: ''
+    email: skatkuri@iu.edu
+    education: "Master’s in computer science, Indiana University Bloomington (08/2024 – present)\r\nBachelor’s in computer science, VNR VJIET, Hyderabad, India (07/2018 – 05/2022)\r\n"
+    background: >-
+      My primary interests lie in software engineering, full-stack development,
+      and building scalable, data-driven applications. My recent projects focus
+      on creating Angular and React applications with responsive designs, API
+      integrations, while combining backend support through Spring Boot,
+      containerized deployments with Docker and Kubernetes, and AI-powered
+      features using OpenAI APIs.
+    interests: >-
+      I enjoy playing and watching cricket, badminton, and table tennis. I also
+      love watching movies across different genres.
+    dateStart: '2025-05-12'
+    dateEnd: '2025-08-01'

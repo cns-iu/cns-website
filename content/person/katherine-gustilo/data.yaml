@@ -1,0 +1,18 @@
+name: Katherine Gustilo
+lastName: Gustilo
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 101
+    office: ''
+    phone: ''
+    fax: ''
+    email: kgustilo@iu.edu
+    education: "M.S in Modern Human Anatomy at the University of Colorado, Anschutz\r\n\r\nB.A. in Classics at Colorado College"
+    background: ' joined the CNS team in 2022 after completing my master’s in anatomy. Despite pursuing many interests in undergrad, such as classics and music, I have always had a passion for medical sciences, biology, and anatomy. Due to this, I am very excited to be working with CNS and HuBMAP on such exciting, multidisciplinary projects.'
+    interests: >-
+      When I have free time, I like to play music, read, spend time cuddling
+      with my two cats or going for walks in the park. 
+    dateStart: '2022-11-01'
+    dateEnd: '2023-06-30'

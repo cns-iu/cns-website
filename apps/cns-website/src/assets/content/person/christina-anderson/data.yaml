@@ -1,0 +1,10 @@
+name: Christina Anderson
+lastName: Anderson
+image: image.jpg
+roles:
+  - type: student
+    topic: AT&T
+    degree: Masters
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2004-01-30'

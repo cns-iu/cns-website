@@ -1,0 +1,12 @@
+name: Hosang Cheon
+lastName: Cheon
+image: image.jpg
+roles:
+  - type: student
+    topic: >-
+      Designing An Online Journal Component: The First Content-Related Tool in
+      Learning Management System
+    degree: Masters
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2004-01-30'

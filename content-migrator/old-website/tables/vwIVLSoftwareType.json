@@ -1,0 +1,10 @@
+[
+	{"softwareTypeID":1,"label":"IVC Software Framework","sortOrder":1},
+	{"softwareTypeID":2,"label":"NWB Algorithms","sortOrder":2},
+	{"softwareTypeID":3,"label":"Data Analysis","sortOrder":3},
+	{"softwareTypeID":4,"label":"Layout Algorithms","sortOrder":4},
+	{"softwareTypeID":5,"label":"Interaction Algorithms","sortOrder":5},
+	{"softwareTypeID":6,"label":"Software Packages","sortOrder":6},
+	{"softwareTypeID":7,"label":"Open Source Toolkits","sortOrder":7},
+	{"softwareTypeID":8,"label":"Others","sortOrder":8}
+]

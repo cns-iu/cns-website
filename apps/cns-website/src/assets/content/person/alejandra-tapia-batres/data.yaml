@@ -1,0 +1,36 @@
+name: Alejandra Tapia Batres
+lastName: Batres
+image: image.jpg
+roles:
+  - type: member
+    title: HuBMAP Intern
+    displayOrder: 129
+    office: ''
+    phone: ''
+    fax: ''
+    email: atapiab@iu.edu
+    education: >-
+      I am currently pursuing my Master’s in Biology with a concentration in
+      Bioinformatics at Georgia State University. I have a Bachelor’s degree in
+      Biology with a concentration in Ecology, Evolution, and Organismal Biology
+      from GSU.
+    background: >-
+      During my undergraduate research career at Georgia State University, I was
+      a part of the founding cohort for the Georgia Audubon internship. This
+      two-year internship then led me to write my Honor’s Thesis: “Project Safe
+      Flight: Evaluating the Impact of Georgia State University Campus Buildings
+      on Birds.” I was also able to take part in an NSF REU at the Marine
+      Biological Laboratory in the Summer of 2022. This upcoming Fall, I will be
+      working as a graduate research assistant in the Geoscience department at
+      GSU. While a majority of my research experience is biology focused, I am
+      eager to work on my computational skills during this HuBMAP internship. My
+      dream is to become a bioinformatician at the Centers for Disease Control
+      and Prevention in Atlanta. My decision to become a bioinformatician is
+      driven by a combination of passion for both biology and computer science,
+      as well as a desire to contribute to scientific advancements and the
+      excitement of working at the intersection of these disciplines.
+    interests: >-
+      In my free time, I like to sleep, read, binge-watch shows, and try new
+      food spots around Atlanta!
+    dateStart: '2023-05-31'
+    dateEnd: '2023-07-28'

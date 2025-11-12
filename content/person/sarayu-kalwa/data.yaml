@@ -1,0 +1,21 @@
+name: Sarayu Kalwa
+lastName: Kalwa
+image: image.jpg
+roles:
+  - type: member
+    title: Undergraduate Researcher
+    displayOrder: 105
+    office: ''
+    phone: ''
+    fax: ''
+    email: sakalwa@iu.edu
+    education: >-
+      I am currently an undergraduate student at the Kelley School of Business,
+      Indiana University on the Business Finance track. 
+    background: >-
+      I am from Saint Louis, Missouri, and I was introduced to the Research
+      program in the summer of 2022. Luckily, I was offered the opportunity to
+      research for the Interactive Network Visualizations for Opioid Data.
+    interests: 'In my free time, I play tennis, paint and enjoy hanging out with friends. '
+    dateStart: '2022-12-05'
+    dateEnd: '2023-05-05'

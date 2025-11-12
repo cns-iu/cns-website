@@ -1,0 +1,19 @@
+name: Chin Hua Kong
+lastName: Kong
+image: image.png
+roles:
+  - type: member
+    title: Sr. Systems Architect & Project Manager
+    displayOrder: 2
+    office: Wells Library 026
+    phone: 812.856.5417
+    fax: 812.855.6166
+    email: kongch@iu.edu
+    education: "M.S. of Computer Science May 2010 - Indiana University, Bloomington, IN<br />\r\nB.S. of Mathematics Science August 2002 - Penang, Malaysia"
+    background: "I am a Senior Systems Architect with a background in software engineering, firmware engineering, and project management. I work on desktop and web-based applications for data analysis and information visualization. My interests are making sense of information, software architecture and design. I enjoy building dreams for dreamers.\r\n<br /><br /> \r\nDevelopment principles:<br /> \r\n- Create for real needs<br /> \r\n- Don't be evil<br /> \r\n- Software for users and better life\r\n<br /><br /> \r\nSpecialties: Java, Python, Java Script, Shell Script, HTML5, Grails, Django, C, ANT, Apache Tomcat, SQL. \r\n<br /><br /> \r\nSoftware management: Scrum, Kanban, Extreme Programing, Code Review "
+    interests: >-
+      I enjoy hiking, running, kayaking, skydiving, traveling, volunteering to
+      build houses, and any outdoor activities. I love culture, differences, and
+      experimenting, especially making culture-shock food.
+    dateStart: '2010-06-14'
+    dateEnd: '2014-09-30'
