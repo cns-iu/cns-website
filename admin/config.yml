@@ -66,9 +66,13 @@ collections:
               - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
 
 backend:
-  name: github
+  name: git-gateway
   repo: cns-iu/cns-website
-  branch: pbi-content-staging
+  use_graphql: true
+  #branch: pbi-content-staging
+  branch: main
+  identity_url: https://cns-iu.netlify.app/.netlify/identity
+  gateway_url: https://cns-iu.netlify.app/.netlify/git
 
 # We'll switch to editorial workflow when we move closer to production
 # publish_mode: editorial_workflow
