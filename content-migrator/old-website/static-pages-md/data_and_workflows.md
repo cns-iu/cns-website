@@ -48,7 +48,7 @@ Börner, Katy, Russell Balliet, and Adam V. Maltese. 2015. ["Investigating Aspec
 
 ### [Design and Update of a Classification System: The UCSD Map of Science](/2012-UCSDMap.html)
 
-Börner, Katy, Richard Klavans, Michael Patek, Angela Zoss, Joseph R. Biberstine, Robert Light, Vincent Larivière, and Kevin W. Boyack (2012) Design and Update of a Classification System: The UCSD Map of Science. PLoS ONE 7(7): e39464. [doi:10.1371/journal.pone.0039464](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039464)
+Börner, Katy, Richard Klavans, Michael Patek, Angela Zoss, Joseph R. Biberstine, Robert Light, Vincent Larivière, and Kevin W. Boyack (2012) Design and Update of a Classification System: The UCSD Map of Science. PLoS ONE 7(7): e39464. [doi:10.1371/journal.pone.0039464](https://doi.org/10.1371/journal.pone.0039464)
 
 [![1.7_rpt.gif](/images/teaching/ivmoocbook14/1.7_rpt.gif)](/2004-InfoVis.html)
 
