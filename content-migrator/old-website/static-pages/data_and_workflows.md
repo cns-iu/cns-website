@@ -86,7 +86,7 @@ Börner, Katy, Russell Balliet, and Adam V. Maltese. 2015. <a href="http://cns.i
 <div style="float:right; height:215px; width:70%; margin-left:5%;">
 <h3><a href="/2012-UCSDMap.html">Design and Update of a Classification System: The UCSD Map of Science</a></h3>
 <p>
-Börner, Katy, Richard Klavans, Michael Patek, Angela Zoss, Joseph R. Biberstine, Robert Light, Vincent Larivière, and Kevin W. Boyack (2012) Design and Update of a Classification System: The UCSD Map of Science. PLoS ONE 7(7): e39464. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039464" target="_blank">doi:10.1371/journal.pone.0039464</a>
+Börner, Katy, Richard Klavans, Michael Patek, Angela Zoss, Joseph R. Biberstine, Robert Light, Vincent Larivière, and Kevin W. Boyack (2012) Design and Update of a Classification System: The UCSD Map of Science. PLoS ONE 7(7): e39464. <a href="https://doi.org/10.1371/journal.pone.0039464" target="_blank">doi:10.1371/journal.pone.0039464</a>
 </p>
 </div>
 
