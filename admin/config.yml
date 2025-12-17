@@ -1,14 +1,14 @@
 collections:
-  - name: person
+  - name: people
     label: People
     label_singular: Person
-    folder: content/person
+    folder: content/people
     path: "{{slug}}/data"
     format: "yaml"
     extension: "yaml"
     create: true
     identifier_field: name
-    preview_path: person/{{slug}}
+    preview_path: people/{{slug}}
     media_folder: ''
     public_folder: ''
     sortable_fields: [lastName, name]
@@ -92,16 +92,8 @@ auth:
   last_name_claim: last_name
   avatar_url_claim: avatar_url
 
-# We'll switch to editorial workflow when we move closer to production
+# We'll switch to editorial workflow when we move closer to production (maybe)
 # publish_mode: editorial_workflow
-
-# Uncomment below when using the default proxy server port
-## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
-## Basically run `npx decap-server` and launch the angular site
-
-# local_backend: true
-# backend:
-#   name: git-gateway
 
 slug:
   encoding: "ascii"
@@ -119,3 +111,8 @@ site_url: https://github.com/cns-iu/cns-website/tree/main/content
 display_url: https://cns-iu.github.io/cns-website
 logo_url: https://cns.iu.edu/images/global/cns_logo.png
 show_preview_links: true
+
+# Set local_backend to true when testing locally
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+## Basically run `npx decap-server` and launch the angular site
+local_backend: true
