@@ -1,0 +1,8 @@
+slug: a-ram
+name: A. Ram
+lastName: Ram
+roles:
+  - type: collaborator
+    project: NSF Tool
+    dateStart: '2008-09-30'
+    dateEnd: '2009-03-30'

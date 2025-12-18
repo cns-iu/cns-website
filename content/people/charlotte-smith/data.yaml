@@ -1,0 +1,28 @@
+slug: charlotte-smith
+name: Charlotte Smith
+lastName: Smith
+image: image.jpg
+roles:
+  - type: member
+    title: Business Associate
+    displayOrder: 10
+    office: ''
+    phone: ''
+    fax: ''
+    email: smithc@iu.edu
+    education: 'B.A.,  Indiana University '
+    background: >-
+      I have been a part of the CNS family since 2010.  During this time, I’ve
+      been stationed in Wells Library, Info East, and now Luddy Hall. I assist
+      in managing the business side of CNS, which includes pre- and post-awards
+      where much of CNS funds comes from. I love being part of the Center’s
+      dynamics, learning new programs, and working to keep active with the
+      challenges of the ever-changing work environment. 
+    interests: >-
+      I live in the country in Owen County with my family and a small assortment
+      of animals. I keep busy with my family which includes 4 children, 24 grand
+      and great grandkids, and my Christian-faith community. I like to work
+      outside, ride my ATV in the hills of eastern Kentucky, cook, read, sew,
+      and take naps. 
+    dateStart: '2010-01-01'
+    dateEnd: '2021-10-05'

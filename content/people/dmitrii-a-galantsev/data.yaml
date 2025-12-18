@@ -1,0 +1,23 @@
+slug: dmitrii-a-galantsev
+name: Dmitrii A Galantsev
+lastName: Galantsev
+image: image.jpg
+roles:
+  - type: member
+    title: Office Assistant
+    displayOrder: 10
+    office: Luddy Hall 4020
+    phone: 812.855.5120
+    fax: 812.855.6166
+    email: dgalants@iu.edu
+    education: Pursuing a Computer Science B.S. at Indiana University
+    background: >-
+      I have been interested in computers my whole life. It started off when my
+      dad, an engineer, bought our first home computer. I have been passionate
+      about technology ever since.
+    interests: >-
+      I'm very interested in photography and urban exploration. These two
+      hobbies of mine mix really well together. Other than that I do research in
+      GPU Security.
+    dateStart: '2018-05-01'
+    dateEnd: '2018-08-22'

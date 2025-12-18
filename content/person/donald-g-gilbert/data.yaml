@@ -1,8 +1,0 @@
-name: Donald G. Gilbert
-lastName: Gilbert
-image: image.png
-roles:
-  - type: collaborator
-    project: ENABLE
-    dateStart: '2003-01-09'
-    dateEnd: '2007-08-31'

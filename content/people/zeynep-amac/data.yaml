@@ -1,0 +1,17 @@
+slug: zeynep-amac
+name: Zeynep Amac
+lastName: Amac
+image: image.jpg
+roles:
+  - type: member
+    title: Graphic Designer
+    displayOrder: 27
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: 12th Grade, Bloomington High School North
+    background: "I am a graphic designer and social media supporter at CNS. I am into digital art and drawing,\r\nand I have been interested in graphic design for years. I have gained experience from several\r\nprojects as a high school student. I always thought I would pursue a major related to graphic\r\ndesign, but then I discovered Intelligent Systems Engineering, which is now my future major.\r\nThis discovery changed my career pathway, leading me to focus more on STEM."
+    interests: "I like to spend my time traveling, journaling, and drawing. I often use my iPad to create art at\r\nschool and during my free time. This allows me to express my creativity and continuously\r\nimprove my artistic skills. Hiking is also an activity that I enjoy with my family."
+    dateStart: '2024-07-01'
+    dateEnd: '2025-10-01'

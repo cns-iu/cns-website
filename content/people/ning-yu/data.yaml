@@ -1,0 +1,23 @@
+slug: ning-yu
+name: Ning Yu
+lastName: Yu
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: nyu@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2002-09-01'
+    dateEnd: '2002-12-31'
+  - type: student
+    topic: Visualizing Knowledge Domains
+    degree: Ph.D.
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2005-09-01'

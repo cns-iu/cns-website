@@ -1,0 +1,30 @@
+slug: rohith-venkata-reddy
+name: Rohith Venkata Reddy
+lastName: Reddy
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 85
+    office: ''
+    phone: ''
+    fax: ''
+    email: rohi@iu.edu
+    education: >-
+      I am currently a graduate data science student at Luddy SICE. I pursued my
+      undergraduate degree in computer engineering from B.N.M. Institute of
+      Technology, Karnataka, India in the year 2020.
+    background: >-
+      After pursuing my undergrad, I joined NEC India, a company providing
+      solutions for Public Safety, Aviation, and many more. I joined as a Full
+      Stack Developer. My role was to develop the front-end of different Web
+      projects. I worked on Backend and DevOps too for some time. In my free
+      time, I was exploring Machine Learning. After which I started to work in
+      Data Visualization and then began my Journey to pursue master's in data
+      science.
+    interests: >-
+      I am interested in technology, and so spend most of my time knowing the
+      unexplored part of it. Also, I like to spend a lot of time watching
+      movies, listening to music, cooking, and exploring new places.
+    dateStart: '2022-05-18'
+    dateEnd: '2023-09-30'

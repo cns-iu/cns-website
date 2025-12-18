@@ -1,0 +1,23 @@
+slug: todd-theriault
+name: Todd Theriault
+lastName: Theriault
+image: image.png
+roles:
+  - type: member
+    title: Technical Writer
+    displayOrder: 20
+    office: n/a
+    phone: 812.856.7034
+    fax: 812.855.6166
+    email: ttheriau@iu.edu
+    education: "BA, English, University of Wisconsin, Milwaukee\r\n\r\nMA, English, Miami University of Ohio"
+    background: >-
+      Upon receiving my MA in 1998, I spent 15 years teaching literature and
+      composition at Indiana University, Miami University of Ohio, the
+      University of Cincinnati, and Xavier University of Ohio. Since 2012, I've
+      been primarily involved with the Places & Spaces: Mapping Science exhibit.
+    interests: >-
+      I enjoy spending time with my wife and son, reading, cooking, and playing
+      the piano.
+    dateStart: '2012-09-01'
+    dateEnd: null

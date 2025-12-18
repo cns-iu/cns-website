@@ -2,9 +2,7 @@ CREATE TABLE brdgAuthorsEditors(authorEditorId INTEGER, peopleId INTEGER, public
 CREATE TABLE brdgMediaPublications(mediumPublicationId INTEGER, mediumId INTEGER, publicationId INTEGER, rank INTEGER);
 CREATE TABLE brdgResearchPublications(researchPublicationId INTEGER, researchId INTEGER, publicationId INTEGER);
 CREATE TABLE brdgTagsPublications(tagPublicationId INTEGER, publicationId INTEGER, semanticTagId INTEGER);
-
 CREATE TABLE tblPublications(publicationId INTEGER, publicationTitle VARCHAR, publicationDate DATE, publicationVenue VARCHAR, venueVolume VARCHAR, venueNumber VARCHAR, venuePages VARCHAR, "type" VARCHAR, publisher VARCHAR, venueChapter VARCHAR);
-
 CREATE TABLE vwAuthorRankedWithContact(authorEditorId INTEGER, peopleId INTEGER, fName VARCHAR, mName VARCHAR, lName VARCHAR, homepage VARCHAR, publicationId INTEGER, rank INTEGER, "type" VARCHAR);
 CREATE TABLE vwAuthorsRanked(authorEditorId INTEGER, peopleId INTEGER, publicationId INTEGER, rank INTEGER, "type" VARCHAR);
 CREATE TABLE vwEditorRankedWithContact(authorEditorId INTEGER, peopleId INTEGER, fName VARCHAR, mName VARCHAR, lName VARCHAR, homepage VARCHAR, publicationId INTEGER, rank INTEGER, "type" VARCHAR);

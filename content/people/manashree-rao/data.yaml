@@ -1,0 +1,17 @@
+slug: manashree-rao
+name: Manashree Rao
+lastName: Rao
+image: image.jpg
+roles:
+  - type: member
+    title: Hourly Developer
+    displayOrder: 17
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2015-10-05'
+    dateEnd: '2016-08-12'

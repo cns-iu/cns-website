@@ -1,0 +1,30 @@
+slug: jerin-thomas
+name: Jerin Thomas
+lastName: Thomas
+image: image.png
+roles:
+  - type: member
+    title: Assistant Project Manager
+    displayOrder: 26
+    office: ''
+    phone: ''
+    fax: ''
+    email: jerithom@iu.edu
+    education: >-
+      Currently pursuing a Master of Science in Data Science at the Luddy School
+      of Informatics, Computing, and Engineering at Indiana University
+      Bloomington. Bachelor of Engineering in Computer Science at Pune
+      University, India (2015-2019).
+    background: >-
+      I am originally from Kerala, India. I worked at Tata Consultancy Services
+      for three years as a Data Engineer and have a strong academic interest in
+      Machine Learning, Artificial Intelligence, and Deep Learning. With my data
+      experience and love for data-driven insights, my ambition is to become a
+      Data Scientist who can have a significant beneficial impact on society.
+    interests: >-
+      Outside of work, my love for adventure and having new experiences helps me
+      maintain an active and fulfilled lifestyle. I enjoy staying fit and
+      healthy, and in my spare time, I enjoy watching movies or series and
+      listening to music.
+    dateStart: '2022-12-06'
+    dateEnd: '2024-06-01'

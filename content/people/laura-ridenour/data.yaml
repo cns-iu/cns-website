@@ -1,0 +1,17 @@
+slug: laura-ridenour
+name: Laura Ridenour
+lastName: Ridenour
+image: image.png
+roles:
+  - type: member
+    title: Graduate Assistant
+    displayOrder: 15
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2013-05-07'
+    dateEnd: '2013-09-29'

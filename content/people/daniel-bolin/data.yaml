@@ -1,0 +1,21 @@
+slug: daniel-bolin
+name: Daniel Bolin
+lastName: Bolin
+image: image.jpg
+roles:
+  - type: member
+    title: Senior Software Developer
+    displayOrder: 13
+    office: Luddy Hall 4024
+    phone: ''
+    fax: ''
+    email: axbolin@iu.edu
+    education: B.S. in Computer Science. University of Houston
+    background: >-
+      I am a software developer at CNS. I have a B.S. in computer science from
+      the University of Houston. Before working at Indiana University I worked
+      at Digital Route and Ericsson. My main interests are in computer
+      visualization and artificial intelligence.
+    interests: ''
+    dateStart: '2017-04-15'
+    dateEnd: null

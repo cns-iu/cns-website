@@ -1,0 +1,17 @@
+slug: mark-price
+name: Mark Price
+lastName: Price
+image: image.jpg
+roles:
+  - type: member
+    title: Staff, Administrative Assistant
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: maaprice@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2007-03-17'
+    dateEnd: '2010-10-29'

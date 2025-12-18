@@ -1,0 +1,17 @@
+slug: rohit-alekar
+name: Rohit Alekar
+lastName: Alekar
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: ralekar@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2012-10-08'
+    dateEnd: '2013-02-15'

@@ -8,4 +8,11 @@ for f in src/queries/extract-staging/*.sql; do
 done
 
 rm -rf ../content/person/*
-node ./src/convert-data.js
+
+for f in src/convert/*.js; do
+  echo $(basename $f)
+  collection=$(basename -s .js $f)
+  rm -rf ../content/$collection
+  mkdir -p ../content/$collection
+  node $f
+done

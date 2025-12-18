@@ -9,18 +9,23 @@ CREATE TABLE brdgPresenters(peopleId INTEGER, presentationEventId INTEGER, prese
 CREATE TABLE brdgResidence(residenceId INTEGER, peopleId INTEGER, locationId INTEGER, rank INTEGER, "type" VARCHAR);
 CREATE TABLE brdgTagsPeople(tagPeopleId INTEGER, peopleId INTEGER, semanticTagId INTEGER);
 CREATE TABLE brdgTeamCollabs(teamCollabsId INTEGER, peopleId INTEGER, researchId INTEGER, startDate DATE, endDate DATE, "type" VARCHAR);
-
 CREATE TABLE tblCenterMembers(centerMemberId INTEGER, peopleId INTEGER, startDate DATE, endDate DATE, ivl BOOLEAN, cns BOOLEAN, jobDescription VARCHAR, display_order INTEGER, phone VARCHAR, fax VARCHAR, office VARCHAR, education VARCHAR, background VARCHAR, interests VARCHAR);
 CREATE TABLE tblMAPhDs(maPhDId INTEGER, peopleId INTEGER, topic VARCHAR, startDate DATE, endDate DATE, degreeType VARCHAR, dept VARCHAR);
 CREATE TABLE tblPeople(peopleId INTEGER, fName VARCHAR, mName VARCHAR, lName VARCHAR, ivlweb BOOLEAN, cnsweb BOOLEAN);
-
+CREATE TABLE vivo_course(courseid INTEGER, title VARCHAR, peopleid INTEGER);
+CREATE TABLE vivo_inforesource(pubid INTEGER, pubtitle VARCHAR, "year" DOUBLE, peopleid INTEGER, authorshipid INTEGER, editorid INTEGER);
+CREATE TABLE vivo_peoplecontact(peopleid INTEGER, fname VARCHAR, mname VARCHAR, lname VARCHAR, contactitem VARCHAR, contacttype VARCHAR, contactid INTEGER);
+CREATE TABLE vivo_people(peopleid INTEGER, fname VARCHAR, mname VARCHAR, lname VARCHAR, email VARCHAR, homepage INTEGER);
+CREATE TABLE vivo_presentation(presentationid INTEGER, title VARCHAR, date DATE, eventid INTEGER, peopleid INTEGER, description VARCHAR);
+CREATE TABLE vivo_research_activity(researchid INTEGER, title VARCHAR, description VARCHAR, startdate DATE, enddate DATE, pubid INTEGER, peopleid INTEGER);
 CREATE TABLE vwAuthorRankedWithContact(authorEditorId INTEGER, peopleId INTEGER, fName VARCHAR, mName VARCHAR, lName VARCHAR, homepage VARCHAR, publicationId INTEGER, rank INTEGER, "type" VARCHAR);
 CREATE TABLE vwAuthorsRanked(authorEditorId INTEGER, peopleId INTEGER, publicationId INTEGER, rank INTEGER, "type" VARCHAR);
-CREATE TABLE vwCoPIsPrevious(peopleId INTEGER);
 CREATE TABLE vwCollabsCurrent(peopleId INTEGER);
 CREATE TABLE vwCollabsPrevious(peopleId INTEGER);
 CREATE TABLE vwCollabsResearch(peopleId INTEGER, researchCollabs VARCHAR, startDate DATE[], endDate DATE[]);
+CREATE TABLE vwCoPIsPrevious(peopleId INTEGER);
 CREATE TABLE vwEditorRankedWithContact(authorEditorId INTEGER, peopleId INTEGER, fName VARCHAR, mName VARCHAR, lName VARCHAR, homepage VARCHAR, publicationId INTEGER, rank INTEGER, "type" VARCHAR);
+CREATE TABLE vwIndepStudiesPrevious(indepStudyId INTEGER, topic VARCHAR, description VARCHAR, indepStudentSupervisorId INTEGER, peopleId INTEGER, "type" INTEGER, semester VARCHAR, "year" DATE, courseNumber VARCHAR);
 CREATE TABLE vwIVLPeopleCollabsCurrent(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, researchCollabs VARCHAR, startDate DATE[], endDate DATE[]);
 CREATE TABLE vwIVLPeopleCollabsPrevious(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, researchCollabs VARCHAR, startDate DATE[], endDate DATE[]);
 CREATE TABLE vwIVLPeopleIndepStudentsPrevious(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, topic VARCHAR, description VARCHAR, semester VARCHAR, "year" DATE, courseNumber VARCHAR);
@@ -31,7 +36,6 @@ CREATE TABLE vwIVLPeoplePhDsCurrent(peopleId INTEGER, "name" VARCHAR, homepage V
 CREATE TABLE vwIVLPeoplePhDsPrevious(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, topic VARCHAR, startDate DATE, endDate DATE);
 CREATE TABLE vwIVLPeopleStudentsCurrent(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, topic VARCHAR, startDate DATE, endDate DATE);
 CREATE TABLE vwIVLPeopleStudentsPrevious(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR, topic VARCHAR, startDate DATE, endDate DATE);
-CREATE TABLE vwIndepStudiesPrevious(indepStudyId INTEGER, topic VARCHAR, description VARCHAR, indepStudentSupervisorId INTEGER, peopleId INTEGER, "type" INTEGER, semester VARCHAR, "year" DATE, courseNumber VARCHAR);
 CREATE TABLE vwMembersCurrent(centerMemberId INTEGER, peopleId INTEGER, startDate DATE, endDate DATE, ivl BOOLEAN, cns BOOLEAN, jobDescription VARCHAR, display_order INTEGER, phone VARCHAR, fax VARCHAR, office VARCHAR, education VARCHAR, background VARCHAR, interests VARCHAR);
 CREATE TABLE vwMembersPrevious(peopleId INTEGER, centerMemberId INTEGER, startDate DATE, endDate DATE, ivl BOOLEAN, cns BOOLEAN, jobDescription VARCHAR);
 CREATE TABLE vwPeopleBase(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR);
@@ -43,10 +47,3 @@ CREATE TABLE vwStudentsCurrent(maPhDId INTEGER, peopleId INTEGER, topic VARCHAR,
 CREATE TABLE vwStudentsPrevious(maPhDId INTEGER, peopleId INTEGER, topic VARCHAR, startDate DATE, endDate DATE, degreeType VARCHAR);
 CREATE TABLE vwTeamResearch(peopleId INTEGER, researchTeam VARCHAR);
 CREATE TABLE vwWebPeopleBase(peopleId INTEGER, "name" VARCHAR, homepage VARCHAR, fileName VARCHAR, email VARCHAR);
-
-CREATE TABLE vivo_course(courseid INTEGER, title VARCHAR, peopleid INTEGER);
-CREATE TABLE vivo_inforesource(pubid INTEGER, pubtitle VARCHAR, "year" DOUBLE, peopleid INTEGER, authorshipid INTEGER, editorid INTEGER);
-CREATE TABLE vivo_people(peopleid INTEGER, fname VARCHAR, mname VARCHAR, lname VARCHAR, email VARCHAR, homepage INTEGER);
-CREATE TABLE vivo_peoplecontact(peopleid INTEGER, fname VARCHAR, mname VARCHAR, lname VARCHAR, contactitem VARCHAR, contacttype VARCHAR, contactid INTEGER);
-CREATE TABLE vivo_presentation(presentationid INTEGER, title VARCHAR, date DATE, eventid INTEGER, peopleid INTEGER, description VARCHAR);
-CREATE TABLE vivo_research_activity(researchid INTEGER, title VARCHAR, description VARCHAR, startdate DATE, enddate DATE, pubid INTEGER, peopleid INTEGER);

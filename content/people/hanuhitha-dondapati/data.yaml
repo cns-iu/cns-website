@@ -1,0 +1,27 @@
+slug: hanuhitha-dondapati
+name: Hanuhitha Dondapati
+lastName: Dondapati
+image: image.jpg
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 106
+    office: ''
+    phone: ''
+    fax: ''
+    email: ldondapa@iu.edu
+    education: >-
+      I have a Bachelor's degree in Computer Science, currently pursuing
+      Master's in Computer Science at the Luddy School of Informatics,
+      Computing, and Engineering.
+    background: >-
+      I interned at WIPRO and Apollo Telehealth as a web development intern,
+      building full-stack web applications during my undergraduate. Next, I
+      worked with Apollo Tele Health as a software developer for 2 years, where
+      my work involved building physician-facing and patient-facing healthcare
+      web apps.
+    interests: >-
+      Baking is my therapy and photography has been my favorite hobby for years.
+      I also like to travel to places and try different desserts. 
+    dateStart: '2022-12-05'
+    dateEnd: '2023-04-28'

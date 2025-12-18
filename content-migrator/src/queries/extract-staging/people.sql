@@ -1,18 +1,11 @@
 COPY (
   SELECT DISTINCT
-    slugify(html_decode(name)) as slug,
-    regexp_replace(trim(html_decode(name)), '\ +', ' ') as name,
-    html_decode(trim(lname)) as lastName,
-    COALESCE(fileName, 'noimage.png') as image
-  FROM 
-    tblPeople
-      JOIN vwWebPeopleBase USING (peopleId)
-  WHERE peopleId IN (
-    SELECT peopleId FROM tblCenterMembers
-    UNION ALL
-    SELECT peopleId FROM tblMAPhDs
-    UNION ALL
-    SELECT peopleId FROM brdgTeamCollabs
-  )
-  ORDER BY slug
+    slugify(html_decode(list_aggregate([trim(n) FOR n IN [fname, mname, lname] IF len(n) > 0 ], 'string_agg', ' '))) as slug,
+    COALESCE(html_decode(list_aggregate([trim(n) FOR n IN [fname, mname, lname] IF len(n) > 0 ], 'string_agg', ' ')), '') as name,
+    -- COALESCE(html_decode(list_aggregate([trim(n) FOR n IN [fname, mname] IF len(n) > 0 ], 'string_agg', ' ')), '') as given,
+    COALESCE(html_decode(trim(lname)), '') as lastName, -- as family
+    COALESCE(fileName, '') as image
+  FROM tblPeople LEFT OUTER JOIN vwWebPeopleBase USING (peopleId)
+  WHERE slugify(html_decode(list_aggregate([trim(n) FOR n IN [fname, mname, lname] IF len(n) > 0 ], 'string_agg', ' '))) != 'null'
+  ORDER BY slug, image
 ) TO 'old-website/staging/people.json' (FORMAT json, ARRAY true);

@@ -1,0 +1,24 @@
+slug: edward-lu
+name: Edward Lu
+lastName: Lu
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: 10
+    office: Luddy Hall 4025
+    phone: ''
+    fax: ''
+    email: edlu@iu.edu
+    education: "B.A. in Biology, Washington University in St. Louis\r\nM.Eng. in Biomedical Engineering, Cornell University"
+    background: >-
+      I grew up in New York City and have a background in biology, engineering,
+      and software development. Before coming to Indiana University I worked in
+      life science research and the medical device industry for several years.
+      Recently I made a transition into software due to my passion for coding,
+      and am now at CNS focusing on web development and data visualization.
+    interests: >-
+      Things I enjoy include but are not limited to: video games, piano,
+      traveling, the ocean, tennis, literally anything with caffeine.
+    dateStart: '2020-02-24'
+    dateEnd: null

@@ -1,0 +1,25 @@
+slug: adam-ploszaj
+name: Adam Ploszaj
+lastName: Ploszaj
+image: image.jpg
+roles:
+  - type: member
+    title: Visiting Scholar
+    displayOrder: 11
+    office: Wells Library 017
+    phone: 812.855.5120
+    fax: 812.855.6166
+    email: aploszaj@iu.edu
+    education: >-
+      Adam holds a PhD in Economics and Management from Kozminski University,
+      Warsaw, Poland, and an MA in Spatial Economy from University of Warsaw,
+      Poland, where he also studied philosophy. Adam attended non-degree courses
+      at Université de Caen, France, at Lund University, Sweden (among others).
+    background: "Adam Ploszaj is an assistant professor at the Centre for European Regional and Local Studies EUROREG, University of Warsaw (http://www.euroreg.uw.edu.pl/en/). He is an expert on regional and local development. His research interests include R&D policy, scientometrics, territorial cooperation, innovation systems, public policy evaluation, and knowledge management in public organizations. Adam has participated in numerous research projects, including international projects financed by the European Union (Framework Programmes, Horizon 2020, ESPON). He acts frequently as a consultant to international organizations (European Commission, European Parliament, World Bank, United Nations Development Programme), as well as Polish institutions (Ministry of Regional Development, Ministry of Science and Higher Education, National Centre for Research and Development, Foundation for Polish Science, Chancellery of the Prime Minister, Polish Agency for Enterprise Development, among others). He was a visiting scholar at Carleton University in Ottawa, Canada (2011), at the University of Groningen, the Netherlands (2014), and at University College London, England (2014).\r\n\r\nSince August 2015 Adam has been a member of the Young Scientists Council at the Polish Ministry of Science and Higher Education. In 2016, he was elected to the Senate of the University of Warsaw for the 2016-2020 term.\r\n\r\nAdam joined CNS in August of 2016 as a visiting professor for the fall semester. At CNS he will work on the book entitled “The geography of scientific collaboration: theory, evidence and policy” and will seek opportunities to work on new challenges.\r\n"
+    interests: >-
+      Adam enjoys classical music and contemporary art (he is a member of the
+      Society of Friends of the Museum of Modern Art in Warsaw). He loves to
+      spend his free time wandering through bookshops and libraries, and always
+      likes to escape into the wilderness.
+    dateStart: '2016-08-15'
+    dateEnd: '2016-12-19'

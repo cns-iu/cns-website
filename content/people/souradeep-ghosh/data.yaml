@@ -1,0 +1,24 @@
+slug: souradeep-ghosh
+name: Souradeep Ghosh
+lastName: Ghosh
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 103
+    office: ''
+    phone: ''
+    fax: ''
+    email: ghoshsou@iu.edu
+    education: >-
+      Currently pursuing Master's in Computer Science at Luddy SICE, beginning
+      Fall 22.
+    background: >-
+      I'm from Kolkata, India. I did my undergraduate in Electrical Engineering
+      from Kolkata. I'm a fresher who is enthusiastic about Machine Learning,
+      Computer Visualization, Artificial Intelligence, etc. I've worked on
+      various Web-App development and AI/ML-related projects during my
+      undergraduate.
+    interests: Personal - I love hiking, soccer, and traveling.
+    dateStart: '2022-12-05'
+    dateEnd: '2023-04-28'

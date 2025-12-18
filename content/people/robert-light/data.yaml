@@ -1,0 +1,27 @@
+slug: robert-light
+name: Robert Light
+lastName: Light
+image: image.png
+roles:
+  - type: member
+    title: Senior Systems Analyst, Database Administrator
+    displayOrder: 2
+    office: Wells Library 016
+    phone: 812.856.3465
+    fax: 812.855.6166
+    email: lightr@iu.edu
+    education: >-
+      Master's of Science - Library and Information Science, Indiana University,
+      Indianapolis, IN - Dec 2012
+    background: >-
+      I joined the CNS Center after five years working in medical research data
+      management. During my time there, I learned a lot about how important good
+      visualizations are to ensuring that people understand the message that is
+      inherent in their data. Now I split my time between managing the CNS
+      databases and working on various research projects, helping to collect the
+      information that powers our many visualizations.
+    interests: >-
+      I enjoy watching tennis and football, gaming, and exploring the great
+      outdoors.
+    dateStart: '2011-08-01'
+    dateEnd: '2017-01-13'
