@@ -10,22 +10,36 @@ Exporting table: public.tblPeople -> tblPeople
 Exporting table: public.tblPresentations -> tblPresentations
 Exporting table: public.tblTutorials -> tblTutorials
 Exporting table: public.tblPublications -> tblPublications
+Exporting table: public.brdgMediaDataset -> brdgMediaDataset
+Exporting table: public.brdgThumbsDatasets -> brdgThumbsDatasets
 Exporting table: public.tblMedia -> tblMedia
 Exporting table: public.tblDatasets -> tblDatasets
+Exporting table: public.tblThumbs -> tblThumbs
 Exporting table: public.brdgMediaCallsEvents -> brdgMediaCallsEvents
 Exporting table: public.tblContactInformation -> tblContactInformation
 Exporting table: public.brdgOrganizersAttendees -> brdgOrganizersAttendees
 Exporting table: public.tblOrganizations -> tblOrganizations
 Exporting table: public.tblHardware -> tblHardware
 Exporting table: public.tblResearch -> tblResearch
+❌ Skipping empty or bad table: brdgThumbsHardware
+Exporting table: public.brdgThumbsPeople -> brdgThumbsPeople
 Exporting table: public.brdgTeamCollabs -> brdgTeamCollabs
+Exporting table: public.tblNetscitalks -> tblNetscitalks
+Exporting table: public.tblHomepage -> tblHomepage
 Exporting table: public.tblCenterMembers -> tblCenterMembers
 Exporting table: public.brdgIndepStudentsSupervisors -> brdgIndepStudentsSupervisors
 Exporting table: public.tblMAPhDs -> tblMAPhDs
+❌ Skipping empty or bad table: brdgAffiliations
 Exporting table: public.brdgAuthorsEditors -> brdgAuthorsEditors
 Exporting table: public.brdgResearchPublications -> brdgResearchPublications
+Exporting table: public.brdgThumbsResearch -> brdgThumbsResearch
 Exporting table: public.brdgMediaSoftware -> brdgMediaSoftware
+Exporting table: public.tblSoftwareType -> tblSoftwareType
+Exporting table: public.tblStaticPages -> tblStaticPages
 ❌ Skipping empty or bad table: brdgTeachers
+Exporting table: public.tblVideos -> tblVideos
+Exporting table: public.tblVisualizations -> tblVisualizations
+Exporting table: public.tblWorkshops -> tblWorkshops
 Exporting table: public.brdgAdvisors -> brdgAdvisors
 ❌ Skipping empty or bad table: brdgMediaIndepStudies
 ❌ Skipping empty or bad table: brdgCompilers
@@ -40,6 +54,7 @@ Exporting table: public.brdgMediaMAPhDs -> brdgMediaMAPhDs
 ❌ Skipping empty or bad table: brdgProducers
 ❌ Skipping empty or bad table: brdgPresentationsResearch
 ❌ Skipping empty or bad table: brdgResearchSoftware
+Exporting table: public.brdgPublicationsEvents -> brdgPublicationsEvents
 ❌ Skipping empty or bad table: brdgTagsCourses
 ❌ Skipping empty or bad table: brdgTagsDatasets
 ❌ Skipping empty or bad table: brdgTagsEducMaterials
@@ -67,6 +82,8 @@ Exporting table: public.brdgFunding -> brdgFunding
 Exporting table: public.brdgCoPIs -> brdgCoPIs
 Exporting table: public.tblIndepStudies -> tblIndepStudies
 Exporting table: public.tblSoftware -> tblSoftware
+Exporting table: public.tblNews -> tblNews
+Exporting table: public.brdgThumbsSoftware -> brdgThumbsSoftware
 ❌ Skipping empty or bad table: brdgTagsSoftware
 Exporting view: public.vwLocationsEntitiess -> vwLocationsEntitiess
 Exporting view: public.vwLocationsEntities -> vwLocationsEntities
@@ -129,24 +146,17 @@ Exporting view: ivl.vwIVLTeachingTutorials -> vwIVLTeachingTutorials
 Exporting view: ivl.vwIVLVideos -> vwIVLVideos
 Exporting view: ivl.vwIVLVisualizations -> vwIVLVisualizations
 Exporting view: ivl.vwIVLWorkshops -> vwIVLWorkshops
-Exporting view: public.vivo_advisor -> vivo_advisor
-Exporting view: public.vivo_authorship -> vivo_authorship
-Exporting view: public.vivo_course -> vivo_course
-❌ Error exporting: [Error: Invalid Error: Failed to prepare COPY "COPY (SELECT NULL FROM "public"."vivo_event" ) TO STDOUT (FORMAT "binary");": ERROR:  permission denied for relation brdgPublicationsEvents
-] {
-  errno: -1,
-  code: 'DUCKDB_NODEJS_ERROR',
-  errorType: 'Invalid'
-}
-❌ Skipping empty or bad table: vivo_event
-Exporting view: public.vivo_inforesource -> vivo_inforesource
-Exporting view: public.vivo_people -> vivo_people
-Exporting view: public.vivo_presentation -> vivo_presentation
-Exporting view: public.vivo_research_activity -> vivo_research_activity
 ❌ Skipping empty or bad table: vwCoPIsCurrent
 Exporting view: public.vwCoPIsPrevious -> vwCoPIsPrevious
 Exporting view: public.vwPeopleContactInformation -> vwPeopleContactInformation
 ❌ Skipping empty or bad table: vwTeamLeads
+Exporting view: temp.vwEventsURLs -> vwEventsURLs
+Exporting view: temp.vwEventsURL -> vwEventsURL
+❌ Error exporting: [Error: Catalog Error: Table with name "vwEventsURL" already exists!] {
+  errno: -1,
+  code: 'DUCKDB_NODEJS_ERROR',
+  errorType: 'Catalog'
+}
 Exporting view: ivl.vwIVLFundingGrantsPast -> vwIVLFundingGrantsPast
 Exporting view: ivl.vwIVLTeachingCourses -> vwIVLTeachingCourses
 Exporting view: ivl.vwIVLHomepage -> vwIVLHomepage
@@ -163,6 +173,5 @@ Exporting view: public.vwResearchTeamCollabsCurrent -> vwResearchTeamCollabsCurr
 Exporting view: ivl.vwIVLResearchPast -> vwIVLResearchPast
 Exporting view: public.vwAuthorRankedWithContact -> vwAuthorRankedWithContact
 Exporting view: public.vwEditorRankedWithContact -> vwEditorRankedWithContact
-Exporting view: public.vivo_peoplecontact -> vivo_peoplecontact
-Exporting view: public.vwPeopleResidence -> vwPeopleResidence
+Exporting view: temp.vwDebugBryanPresentations -> vwDebugBryanPresentations
 ✅ Export complete! Tables & views are stored in old-website/cns-website.duckdb

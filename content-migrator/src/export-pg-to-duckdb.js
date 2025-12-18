@@ -39,10 +39,12 @@ async function exportPostgres() {
     FROM pg.information_schema.tables
     WHERE table_schema NOT IN ('pg_catalog','information_schema')
       AND table_type = 'BASE TABLE'
+      AND (table_name LIKE 'vw%' OR table_name LIKE 'brdg%' OR table_name LIKE 'tbl%')
     UNION ALL
     SELECT table_schema, table_name, 'view' AS kind
     FROM pg.information_schema.views
-    WHERE table_schema NOT IN ('pg_catalog','information_schema');
+    WHERE table_schema NOT IN ('pg_catalog','information_schema')
+      AND (table_name LIKE 'vw%' OR table_name LIKE 'brdg%' OR table_name LIKE 'tbl%')
   `);
 
   for (const { table_schema, table_name, kind } of tables) {
