@@ -38,11 +38,6 @@ function index(globString, path, minified = false) {
   }
 }
 
-index('people/**/data.yaml', 'people.json');
-index('publications/**/data.yaml', 'publications.json');
-index('tags/**/data.yaml', 'tags.json');
-index('tags/**/data.yaml', 'app-tags.json', true);
-
 function writePeopleIndex() {
   const people = readIndex('people');
   for (const person of people) {
@@ -116,6 +111,18 @@ function writePublicationIndex() {
   writeMinifiedJSON(join(INDEXES, 'app-publications.json'), entries);
 }
 
-writePublicationIndex();
+function writePublicationTypesIndex() {
+  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
+  const coll = config.collections.find((c) => c.name === 'publications');
+  const types = coll.fields.find((f) => f.name === 'type');
+  writeMinifiedJSON(join(INDEXES, 'app-publication-types.json'), types.options);
+}
 
+index('people/**/data.yaml', 'people.json');
+index('publications/**/data.yaml', 'publications.json');
+index('tags/**/data.yaml', 'tags.json');
+index('tags/**/data.yaml', 'app-tags.json', true);
+
+writePublicationIndex();
+writePublicationTypesIndex();
 writePeopleIndex();
