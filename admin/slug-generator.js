@@ -15,7 +15,7 @@
  *  - UNFILLED_VALUE String: sentinel value that triggers generation (default: 'EMPTY').
  *  - NANOID_SIZE    Number: resulting id length (default: 21).
  *  - LOGGING        Boolean: set true only for troubleshooting.
- * 
+ *
  * In config.yml, collections that use this feature should have a field that look like this (with default config):
  *  - { name: slug, default: 'EMPTY', widget: hidden }
  *
@@ -37,6 +37,10 @@ const LOGGING = false;
 
 const ALPHABET = '0123456789abcdefghijklmnopqrstuvwxyz';
 const nanoid = customAlphabet(ALPHABET, NANOID_SIZE);
+
+function slugify(str) {
+  return str == null ? null : window.slugify(String(str), { lower: true, strict: true });
+}
 
 /**
  * Check whether Decap CMS has attached the required API.
@@ -71,10 +75,15 @@ function registerHandler() {
         const data = getEntryData(entry);
         if (!data) return data;
 
-        const current = data.get && data.get(ID_FIELD);
+        const current = (data.get && data.get(ID_FIELD)) ?? '';
+
+        if (current.startsWith('{{fields.') && current.endsWith('}}')) {
+          const valueField = current.slice('{{fields.'.length, -2);
+          return data.set(ID_FIELD, slugify(data.get(valueField)));
+        }
 
         // Only generate if the current value exactly equals the sentinel
-        if (String(current) !== UNFILLED_VALUE) return data;
+        if (current !== UNFILLED_VALUE) return data;
 
         const newId = nanoid();
         if (LOGGING) console.info(`slug-generator: setting ${ID_FIELD}="${newId}"`);

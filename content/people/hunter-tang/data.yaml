@@ -1,0 +1,40 @@
+slug: hunter-tang
+name: Hunter Tang
+lastName: Tang
+image: image.png
+roles:
+  - type: member
+    title: Hourly Research Assistant
+    displayOrder: 44
+    office: ''
+    phone: ''
+    fax: ''
+    email: hunterxtang@gmail.com
+    education: B.S. Computer Science, University of Southern California (current)
+    background: >-
+      I am a first year undergraduate student at USC studying Computer Science.
+      I am a research intern working with Andreas Bueckle on the HRA organ
+      gallery VR application. I have a keen interest in computer programming in
+      general, and I hope to improve my skills through working with the team
+      here.
+    interests: >-
+      For personal, I enjoy fishing, swimming, and taking pictures in my free
+      time. I also like to play video games and watch football.
+    dateStart: '2025-05-20'
+    dateEnd: '2025-07-25'
+  - type: member
+    title: Intern (High School)
+    displayOrder: 130
+    office: ''
+    phone: ''
+    fax: ''
+    email: hunterxtang@gmail.com
+    education: 12th grader at Bloomington High School North
+    background: >-
+      I will assist Red Pill Blue Pill in developing and optimizing the VR organ
+      lab this summer.
+    interests: >-
+      In my free time, I like fishing, swimming, watching car racing, and taking
+      photos.
+    dateStart: '2023-06-01'
+    dateEnd: '2023-08-04'

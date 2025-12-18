@@ -1,0 +1,19 @@
+slug: cuauhcihuatl-vital
+name: Cuauhcihuatl Vital
+lastName: Vital
+image: image.jpg
+roles:
+  - type: student
+    topic: Biology
+    degree: Ph.D.
+    department: Biology
+    dateStart: '2004-01-01'
+    dateEnd: '2009-12-01'
+  - type: student
+    topic: >-
+      Graph Theory, and statistics to enhance the understanding of animal
+      behavior data.
+    degree: Ph.D.
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2007-01-01'

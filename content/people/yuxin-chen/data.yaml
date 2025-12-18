@@ -1,0 +1,11 @@
+slug: yuxin-chen
+name: Yuxin Chen
+lastName: Chen
+image: image.jpg
+roles:
+  - type: student
+    topic: Ph.D. Learning Sciences
+    degree: Ph.D.
+    department: Learning Sciences
+    dateStart: '2018-04-19'
+    dateEnd: null

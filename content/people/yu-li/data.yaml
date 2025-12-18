@@ -1,0 +1,17 @@
+slug: yu-li
+name: Yu Li
+lastName: Li
+image: image.jpg
+roles:
+  - type: member
+    title: 'Visiting Scholar '
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: li314@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2011-10-28'
+    dateEnd: '2012-04-26'

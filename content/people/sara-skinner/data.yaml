@@ -1,0 +1,17 @@
+slug: sara-skinner
+name: Sara Skinner
+lastName: Skinner
+image: image.png
+roles:
+  - type: member
+    title: Contract and Grants Specialist
+    displayOrder: 85
+    office: '4020'
+    phone: ''
+    fax: ''
+    email: slskinne@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2022-05-02'
+    dateEnd: '2023-10-15'

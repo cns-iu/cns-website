@@ -1,0 +1,17 @@
+slug: mayur-masrani
+name: Mayur Masrani
+lastName: Masrani
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: mmasrani@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2013-02-18'
+    dateEnd: '2013-04-27'

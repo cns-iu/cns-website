@@ -1,0 +1,43 @@
+slug: sara-bouchard
+name: Sara Bouchard
+lastName: Bouchard
+image: image.jpg
+roles:
+  - type: member
+    title: Senior Interaction Designer
+    displayOrder: 7
+    office: Luddy Hall 4016
+    phone: 812.856.7034
+    fax: 812.855.6166
+    email: sbouchar@iu.edu
+    education: "Bachelor of Science, Computer Graphics Technology. Purdue University, Indianapolis, IN\r\n"
+    background: >-
+      After graduating, I took a job working as a designer on print and
+      experience design projects. Shortly after, I dove head first in web design
+      working on small business and non-profit websites at an agency. I fell in
+      love with how people interact with information on the web and am
+      passionate about web typography. 
+    interests: >-
+      I enjoy listening to podcasts, discovering new antique stores, and hanging
+      out with my 9lb. poodle, Zooey. 
+    dateStart: '2017-11-01'
+    dateEnd: '2018-02-02'
+  - type: member
+    title: Senior Graphic Designer
+    displayOrder: 7
+    office: Wells Library 022
+    phone: 812.856.7034
+    fax: 812.855.6166
+    email: sbouchar@iu.edu
+    education: "Bachelor of Science, Computer Graphics Technology. Purdue University, Indianapolis, IN\r\n"
+    background: >-
+      After graduating, I took a job working as a designer on print and
+      experience design projects. Shortly after, I dove head first in web design
+      working on small business and non-profit websites at an agency. I fell in
+      love with how people interact with information on the web and am
+      passionate about web typography. 
+    interests: >-
+      I enjoy listening to podcasts, discovering new antique stores, and hanging
+      out with my 9lb. poodle, Zooey. 
+    dateStart: '2015-10-12'
+    dateEnd: '2017-11-01'

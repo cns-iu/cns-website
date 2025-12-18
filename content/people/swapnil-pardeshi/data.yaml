@@ -1,0 +1,21 @@
+slug: swapnil-pardeshi
+name: Swapnil Pardeshi
+lastName: Pardeshi
+image: image.jpg
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: 42
+    office: Luddy Hall 4025
+    phone: ''
+    fax: ''
+    email: swpard@iu.edu
+    education: >-
+      I am a graduate student at Luddy SICE, currently pursuing my MS in
+      computer science. 
+    background: "I pursued my undergraduate in computer science at the University of Pune, India.\r\nFor the last 3 years, I had been working with different startups as a full-stack web developer contributing to web and mobile application development.\r\n"
+    interests: >-
+      Besides computers and work, I like swimming, badminton, hiking and playing
+      guitar. I love board games. Chess and Catan are my favorite.
+    dateStart: '2021-04-26'
+    dateEnd: '2022-05-13'

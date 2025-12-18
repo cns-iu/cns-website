@@ -1,8 +1,0 @@
-name: Marcia Rudy
-lastName: Rudy
-image: image.jpg
-roles:
-  - type: collaborator
-    project: NetSci07
-    dateStart: '2007-04-01'
-    dateEnd: '2008-03-01'

@@ -1,0 +1,17 @@
+slug: sheetal-narayanan
+name: Sheetal Narayanan
+lastName: Narayanan
+image: image.jpg
+roles:
+  - type: member
+    title: PHP Programmer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: shnaraya@cs.indiana.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2007-09-10'
+    dateEnd: '2007-10-07'

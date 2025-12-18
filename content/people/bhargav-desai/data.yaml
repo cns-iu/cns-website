@@ -1,0 +1,20 @@
+slug: bhargav-desai
+name: Bhargav Desai
+lastName: Desai
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 100
+    office: ''
+    phone: ''
+    fax: ''
+    email: desabh@iu.edu
+    education: "Bachelor of Engineering in Electronics & Telecommunications from the University of Mumbai (DJ Sanghvi College of Engineering).\r\n\r\nCurrently pursuing my Master’s in Data Science from Indiana University (Luddy School of Informatics, Computing, and Engineering). "
+    background: "I developed a particular interest in adaptive filter design in the second year of my undergrad which eventually led me to Machine Learning, which eventually led me to Deep Learning, which eventually led me to Computational Biology and Bioinformatics, which eventually allows me my Shakespearean moment in the sun when I say, hither I am.\r\n\r\nIn between, I worked on various projects as a Machine Learning Engineer for Quantiphi Analytics and led three key projects for their HCLS division, closely working with one of the largest multinational pharmaceutical and biotechnology companies in the world.\r\n\r\nTwo years of my work at Quantiphi (2020 – 2022) revolved around pre-training strategies for custom LLMs, self-supervision for large-scale backbone medical CV networks, image synthesis, image registration, federated learning, MLOps, explainability, and the opportunity to propose, architect, and implement ML systems in the cloud (GCP, AWS, Azure). \r\n\r\nWhile I tend to spend a lot of time thinking about the business value creation aspect of ML systems, I’m very curious as a person and fascinated with research which had a huge role in my decision to pursue further studies. To be honest, I am still figuring a lot of things out, and I am very happy to be here!"
+    interests: >-
+      On most days, you will find me reading books and watching movies in a cozy
+      corner snuggled in my blanket, and on others, you will find me outdoors
+      exploring the world! There exists no in-between.
+    dateStart: '2022-11-01'
+    dateEnd: '2023-07-08'

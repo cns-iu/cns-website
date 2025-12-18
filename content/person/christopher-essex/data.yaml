@@ -1,8 +1,0 @@
-name: Christopher Essex
-lastName: Essex
-image: image.jpg
-roles:
-  - type: collaborator
-    project: iUniverse
-    dateStart: '2000-01-01'
-    dateEnd: '2002-12-31'

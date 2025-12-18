@@ -1,8 +1,0 @@
-name: Thomas Finholt
-lastName: Finholt
-image: image.jpg
-roles:
-  - type: collaborator
-    project: TSEEN
-    dateStart: '2006-03-15'
-    dateEnd: '2009-02-28'

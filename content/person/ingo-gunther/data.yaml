@@ -1,8 +1,0 @@
-name: Ingo Günther
-lastName: Günther
-image: image.jpg
-roles:
-  - type: collaborator
-    project: CreativeIT
-    dateStart: '2007-06-01'
-    dateEnd: '2009-05-01'

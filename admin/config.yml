@@ -7,12 +7,13 @@ collections:
     format: "yaml"
     extension: "yaml"
     create: true
-    identifier_field: name
+    identifier_field: slug
     preview_path: people/{{slug}}
     media_folder: ''
     public_folder: ''
     sortable_fields: [lastName, name]
     fields:
+      - { name: slug, default: '{{fields.name}}', widget: hidden }
       - { name: name, label: Full Name }
       - { name: lastName, label: Last Name (for sorting) }
       - { name: image, label: Image, widget: image, required: false }
@@ -65,6 +66,73 @@ collections:
               - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
               - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
 
+  - name: publications
+    label: Publications
+    folder: content/publications
+    path: "{{slug}}/data"
+    format: "yaml"
+    extension: "yaml"
+    create: true
+    identifier_field: slug
+    preview_path: people/{{slug}}
+    media_folder: ''
+    public_folder: ''
+    sortable_fields: [title, type, publisher, date]
+    fields:
+      - { name: slug, csl_name: id, default: 'EMPTY', widget: hidden }
+      - name: type
+        label: Type
+        widget: select
+        required: false
+        options:
+          - { label: Edited Journal, value: "periodical" }
+          - { label: Journal Article, value: "article-journal" }
+          - { label: Book, value: "book" }
+          - { label: Book Chapter, value: "chapter" }
+          - { label: Conference Proceeding, value: "paper-conference" }
+          - { label: Patent, value: "patent" }
+          - { label: Audio/Video, value: "broadcast" }
+          - { label: Tech Report, value: "report" }
+          - { label: Unrefereed, value: "manuscript" }
+          - { label: Thesis, value: "thesis" }
+      - { name: title, csl_name: title, label: Title, widget: string, required: false }
+      - { name: authors, csl_name: author, label: Authors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - { name: editors, csl_name: editor, label: Editors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - { name: doi, csl_name: DOI, label: DOI, widget: string, required: false }
+      - { name: pmid, csl_name: PMID, label: PMID, widget: string, required: false }
+      - { name: date, csl_name: issued, label: Date, widget: datetime, required: false }
+      - { name: publisher, csl_name: publisher, label: Publisher, widget: string, required: false }
+      - { name: venue, csl_name: container-title, label: Publication Venue, widget: string, required: false }
+      - { name: volume, csl_name: volume, label: Venue Volume, widget: string, required: false }
+      - { name: issue, csl_name: issue, label: Venue Number, widget: string, required: false }
+      - { name: pages, csl_name: page, label: Venue Pages, widget: string, required: false }
+      - { name: chapter, csl_name: chapter-number, label: Venue Chapter, widget: string, required: false }
+      - name: links
+        csl_name: URL
+        label: Associated Media
+        widget: list
+        summary: '{{fields.media}}'
+        field: { name: media, label: Media, widget: file }
+        required: false
+      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+
+  - name: tags
+    label: Tags
+    folder: content/tags
+    path: "{{slug}}/data"
+    format: "yaml"
+    extension: "yaml"
+    create: true
+    identifier_field: slug
+    preview_path: people/{{slug}}
+    media_folder: ''
+    public_folder: ''
+    sortable_fields: [name]
+    fields:
+      - { name: slug, default: '{{fields.name}}', widget: hidden }
+      - { name: name, label: Short Tag, widget: string, required: false, help_text: 'Short description of the tag for display on the website' }
+      - { name: description, label: Description, widget: string, required: false }
+
 # Use DecapBridge PKCE auth (required)
 backend:
   name: git-gateway
@@ -115,4 +183,4 @@ show_preview_links: true
 # Set local_backend to true when testing locally
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
-local_backend: true
+local_backend: false

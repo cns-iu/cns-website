@@ -1,0 +1,23 @@
+slug: michael-conover
+name: Michael Conover
+lastName: Conover
+image: image.jpg
+roles:
+  - type: member
+    title: Ph.D. Computer Science
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2011-01-04'
+    dateEnd: '2011-04-25'
+  - type: student
+    topic: Ph.D. Complex Systems
+    degree: Ph.D.
+    department: ''
+    dateStart: '2006-01-01'
+    dateEnd: '2012-12-01'

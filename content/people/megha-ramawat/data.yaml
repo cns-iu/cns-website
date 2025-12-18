@@ -1,0 +1,17 @@
+slug: megha-ramawat
+name: Megha Ramawat
+lastName: Ramawat
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: mramawat@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2007-06-05'
+    dateEnd: '2007-07-03'

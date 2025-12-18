@@ -1,0 +1,23 @@
+slug: niteesha-jangam
+name: Niteesha Jangam
+lastName: Jangam
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 28
+    office: ''
+    phone: ''
+    fax: ''
+    email: njangam@iu.edu
+    education: "M.S - Data Science (Managerial)\r\nIndiana University, Luddy School of Informatics, Bloomington, IN\r\nGraduation: December 2024\r\nGPA: 3.8/4\r\nB.S - Information Technology\r\nJawaharlal Nehru Technology University, Sri Venkateswara College of Engineering, Tirupathi, Andhra Pradesh, India\r\nGraduation: May 2017\r\nGPA: 3.78/4.00\r\n"
+    background: "I am Niteesha Jangam, currently working as a Data Science Research Assistant at Indiana University's Cyberinfrastructure for Network Science Center. My primary focus is on understanding advanced data visualization techniques and virtual reality (VR) for biological data research. I hold a master’s in data science (Technology and Managerial Track) and a bachelor’s in Information Technology, which allows me to combine technical expertise with managerial skills to tackle complex projects. My current work includes research and development on immersive VR platforms for the Human Reference Atlas (HRA), building large-scale data models. I am passionate about using innovative technology to enhance scientific understanding and communication. Through my research, I aim to bridge the gap between data science and biological sciences, making data more accessible and insightful for various audiences. I was honored to receive an Honorable Mention Award at the IU Research Showcase for my contributions to the Strategic and Infrastructure Development project. Previously, as a Process Associate at Google, I focused on enhancing user privacy and data security. I served as Managing Director at Vortex Crew Technologies, where I led business operations and strategic planning. I also worked as a Talent Strategy Consultant at Allegis Global Solutions, optimizing recruitment processes with data analytics and managing 7 key client accounts.\r\n \r\n"
+    interests: >-
+      In my free time, I am actively involved in travelling, community service,
+      organizing and participating in initiatives such as environmental
+      clean-ups and health awareness campaigns. I am also passionate about
+      volunteering at senior centers and have a strong interest in promoting
+      environmental sustainability through tree planting and disaster relief
+      efforts.
+    dateStart: '2024-08-19'
+    dateEnd: '2025-09-30'

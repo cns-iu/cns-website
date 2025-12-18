@@ -1,0 +1,26 @@
+slug: ujwala-shenoy
+name: Ujwala Shenoy
+lastName: Shenoy
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 83
+    office: ''
+    phone: ''
+    fax: ''
+    email: ushenoy@iu.edu
+    education: >-
+      I’m a Master’s student in Data Science. Currently working on the Blood
+      Vessel Segmentation on images at CNS.
+    background: >-
+      Prior to Master’s, I have worked at Mercedes Benz Research and
+      Development, India for 3 years. I have a Bachelor’s degree in Electronics
+      and Communication Engineering from B. V. Bhoomaraddi College of
+      Engineering and Technology, Karnataka, India. My research interests are
+      image processing, computer vision and deep learning.
+    interests: >-
+      In my hobbies, reading, sketching and outdoor adventures interest me the
+      most.
+    dateStart: '2022-05-06'
+    dateEnd: '2023-07-20'

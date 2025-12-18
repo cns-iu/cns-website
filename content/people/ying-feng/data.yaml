@@ -1,0 +1,11 @@
+slug: ying-feng
+name: Ying Feng
+lastName: Feng
+image: image.jpg
+roles:
+  - type: student
+    topic: Information Visualization
+    degree: Ph.D.
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2007-01-01'

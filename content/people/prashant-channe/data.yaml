@@ -1,0 +1,21 @@
+slug: prashant-channe
+name: Prashant Channe
+lastName: Channe
+image: image.png
+roles:
+  - type: member
+    title: Hourly Angular Programmer
+    displayOrder: 37
+    office: ''
+    phone: ''
+    fax: ''
+    email: prchanne@iu.edu
+    education: "MS in Computer Science, Indiana University Bloomington (Expected graduation: 2026)\r\nB.E. in Information Technology, Mumbai University, India (2022)\r\n"
+    background: "I worked as a Software Developer for two years at nVent, where I worked to a range of tasks, including fixing bugs, developing complex user interfaces, and implementing backend APIs. My responsibilities also included writing tests, migrations, automation scripts, and deployment pipelines. I worked with tools and technologies such as React, Angular, Python, Kubernetes, Docker, Ansible, OpenWhisk and MongoDB. Additionally, I led training sessions for new hires on technologies like React, Angular and Python and facilitated Agile practices as a Scrum Master, driving team collaboration and productivity.\r\n\r\nI bring expertise in Full Stack development with proficiency in Angular, React, TypeScript, JavaScript, Python, Node.js, SQL along with experience in backend development and database management. My passion for UI/UX design drives me to create applications that are both well designed and user friendly\r\n"
+    interests: >-
+      I enjoy watching movies, TV shows, and documentaries, and I’m always
+      exploring different types of music, especially background scores. I also
+      really enjoy traveling and discovering new places, especially big cities,
+      for the unique experiences and cultures they have to offer.
+    dateStart: '2025-01-15'
+    dateEnd: null

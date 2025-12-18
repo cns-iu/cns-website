@@ -165,4 +165,4 @@ Exporting view: public.vwAuthorRankedWithContact -> vwAuthorRankedWithContact
 Exporting view: public.vwEditorRankedWithContact -> vwEditorRankedWithContact
 Exporting view: public.vivo_peoplecontact -> vivo_peoplecontact
 Exporting view: public.vwPeopleResidence -> vwPeopleResidence
-✅ Export complete! Tables & views are stored in data/cns-website.duckdb
+✅ Export complete! Tables & views are stored in old-website/cns-website.duckdb

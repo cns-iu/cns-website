@@ -1,0 +1,31 @@
+slug: yashvardhan-jain
+name: Yashvardhan Jain
+lastName: Jain
+image: image.png
+roles:
+  - type: member
+    title: Research Software Engineer - Machine Learning
+    displayOrder: 8
+    office: Luddy Hall 4025
+    phone: ''
+    fax: ''
+    email: yashjain@iu.edu
+    education: >-
+      MS in Computer Science, Indiana University - Bloomington (2021); BTech in
+      Computer Science, DIT University – Dehradun, India (2018).
+    background: >-
+      My main interest lies in Artificial Intelligence, Machine Learning, and
+      Deep Learning; mainly in the context of computer vision. I’m interested in
+      researching AI/ML/DL solutions and building scalable end-to-end machine
+      learning and deep learning systems for computer vision applications. I
+      joined CNS in October 2020 as a Research Assistant to work on
+      diffeomorphic image registration for 3D biomedical data. In August 2021, I
+      joined CNS full-time as a Research Engineer for Machine Learning to
+      continue working on 3D image registration as well as deep learning for
+      image segmentation and generative tasks for 2D and 3D biomedical data.
+    interests: >-
+      I love reading books and am trying to get through my list of hundreds of
+      books. And when inspiration strikes, I try my hand at writing as well.
+      Other than that, I enjoy drinking coffee, running, and hiking.
+    dateStart: '2020-10-05'
+    dateEnd: null

@@ -1,0 +1,17 @@
+slug: libby-maier
+name: Libby Maier
+lastName: Maier
+image: image.png
+roles:
+  - type: member
+    title: User Experience Designer
+    displayOrder: 11
+    office: ''
+    phone: ''
+    fax: ''
+    email: ecmaier@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2022-01-03'
+    dateEnd: null

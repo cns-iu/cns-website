@@ -1,0 +1,23 @@
+slug: aishwarya-sinhasane
+name: Aishwarya Sinhasane
+lastName: Sinhasane
+image: image.jpg
+roles:
+  - type: member
+    title: Data Analyst
+    displayOrder: 113
+    office: ''
+    phone: ''
+    fax: ''
+    email: avsinhas@iu.edu
+    education: >-
+      I am pursuing a Master’s in Computer Science at the Luddy School of
+      Informatics, Computing, and Engineering.
+    background: >-
+      I recently joined CNS as a Data Analyst. I am interested in working with
+      database technology and have always wanted to explore the field of data
+      analysis and visualization. With this opportunity, I hope to learn and
+      develop my expertise in this field.
+    interests: ''
+    dateStart: '2023-02-14'
+    dateEnd: '2023-10-10'

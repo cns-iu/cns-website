@@ -1,0 +1,32 @@
+slug: pub-461
+authors:
+  - ekin-yagis
+  - shahab-aslani
+  - yashvardhan-jain
+  - yang-zhou
+  - shahrokh-rahmani
+  - joseph-brunet
+  - alexandre-bellier
+  - christopher-werlein
+  - maximilian-ackermann
+  - danny-jonigk
+  - paul-tafforeau
+  - peter-d-lee
+  - claire-l-walsh
+editors: []
+type: article-journal
+title: >-
+  Deep learning for 3D vascular segmentation in hierarchical phase contrast
+  tomography: a case study on kidney
+date: '2024-11-08'
+publisher: ''
+venue: Nature Scientific Reports
+volume: '14'
+issue: '27258'
+doi: 10.1038/s41598-024-77582-5
+pages: ''
+chapter: ''
+links:
+  - https://www.nature.com/articles/s41598-024-77582-5
+tags:
+  - hra

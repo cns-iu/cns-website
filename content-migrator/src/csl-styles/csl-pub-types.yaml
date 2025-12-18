@@ -1,0 +1,38 @@
+- { label: Article, value: "article" }
+- { label: Bill, value: "bill" }
+- { label: Blog Post, value: "post-weblog" }
+- { label: Book, value: "book" }
+- { label: Book Chapter, value: "chapter" }
+- { label: Book Review, value: "review-book" }
+- { label: Broadcast, value: "broadcast" }
+- { label: Conference Paper, value: "paper-conference" }
+- { label: Dataset, value: "dataset" }
+- { label: Dictionary Entry, value: "entry-dictionary" }
+- { label: Encyclopedia Entry, value: "entry-encyclopedia" }
+- { label: Entry, value: "entry" }
+- { label: Figure, value: "figure" }
+- { label: Graphic, value: "graphic" }
+- { label: Interview, value: "interview" }
+- { label: Journal Article, value: "article-journal" }
+- { label: Legal Case, value: "legal_case" }
+- { label: Legislation, value: "legislation" }
+- { label: Magazine Article, value: "article-magazine" }
+- { label: Manuscript, value: "manuscript" }
+- { label: Map, value: "map" }
+- { label: Motion Picture, value: "motion_picture" }
+- { label: Musical Score, value: "musical_score" }
+- { label: Newspaper Article, value: "article-newspaper" }
+- { label: Pamphlet, value: "pamphlet" }
+- { label: Patent, value: "patent" }
+- { label: Performance, value: "performance" }
+- { label: Periodical, value: "periodical" }
+- { label: Personal Communication, value: "personal_communication" }
+- { label: Post, value: "post" }
+- { label: Report, value: "report" }
+- { label: Review, value: "review" }
+- { label: Software, value: "software" }
+- { label: Song, value: "song" }
+- { label: Speech, value: "speech" }
+- { label: Thesis, value: "thesis" }
+- { label: Treaty, value: "treaty" }
+- { label: Webpage, value: "webpage" }

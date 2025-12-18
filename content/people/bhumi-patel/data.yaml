@@ -1,0 +1,17 @@
+slug: bhumi-patel
+name: Bhumi Patel
+lastName: Patel
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: bypatel@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2012-10-08'
+    dateEnd: '2013-04-20'

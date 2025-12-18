@@ -1,0 +1,38 @@
+slug: ajinkya-pahinkar
+name: Ajinkya Pahinkar
+lastName: Pahinkar
+image: image.png
+roles:
+  - type: member
+    title: Machine Learning Research Assistant
+    displayOrder: 86
+    office: ''
+    phone: ''
+    fax: ''
+    email: ajspahi@iu.edu
+    education: >-
+      Ajinkya is pursuing his master’s degree from Indiana University,
+      Bloomington in Data Science at the Luddy school of Informatics, Computing,
+      and Engineering. He has a bachelor's degree in Computer Science and
+      Engineering from Vellore Institute of Technology, India.
+    background: >-
+      Ajinkya has worked as a Research Assistant at the Indiana University
+      Cognitive Laboratory wherein he worked on state-of-the-art NLP techniques
+      to decode human interaction. In spring 2021, Ajinkya worked with the
+      Indian Space Research Organization for a 6-month project in Computer
+      Vision techniques for Speckle Noise Removal in RISAT-1 SAR Satellite
+      Images. Ajinkya has also worked as a machine learning intern at a US based
+      start-up - Wikilimo to create time series prediction models in the
+      agriculture domain using deep learning techniques like LSTM to predict
+      pest infestation in rice and cotton crops. In the summer of 2019, Ajinkya
+      worked as a summer academic intern at the National University of Singapore
+      where he won scholarship for his excellent academic performance in the Big
+      Data Analytics and Deep Learning Internship Programme wherein, he worked
+      on computer vision techniques using Convolutional Neural Networks to
+      detect defects in vehicle tires.
+    interests: >-
+      Ajinkya is an avid puzzler and likes to solve the Rubiks cube. In his free
+      time, he likes to do escape-rooms, read books, play football, and enjoy pc
+      gaming.
+    dateStart: '2022-05-16'
+    dateEnd: '2023-04-28'

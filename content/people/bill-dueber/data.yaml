@@ -1,0 +1,11 @@
+slug: bill-dueber
+name: Bill Dueber
+lastName: Dueber
+image: image.jpg
+roles:
+  - type: student
+    topic: Citation analysis of Instructional Technology
+    degree: Ph.D.
+    department: ''
+    dateStart: '2004-01-01'
+    dateEnd: '2004-01-08'
