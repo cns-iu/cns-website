@@ -8,10 +8,11 @@ collections:
     extension: "yaml"
     create: true
     identifier_field: slug
-    preview_path: people/{{slug}}
+    preview_path: people/{{fields.slug}}/data.yaml
     media_folder: ''
     public_folder: ''
-    sortable_fields: [lastName, name]
+    summary: '{{name}}'
+    sortable_fields: [name, lastName]
     fields:
       - { name: slug, default: '{{fields.name}}', widget: hidden }
       - { name: name, label: Full Name }
@@ -74,10 +75,11 @@ collections:
     extension: "yaml"
     create: true
     identifier_field: slug
-    preview_path: people/{{slug}}
+    preview_path: publications/{{fields.slug}}/data.yaml
     media_folder: ''
     public_folder: ''
-    sortable_fields: [title, type, publisher, date]
+    summary: '{{title}}'
+    sortable_fields: [date, title, type, publisher]
     fields:
       - { name: slug, csl_name: id, default: 'EMPTY', widget: hidden }
       - name: type
@@ -124,9 +126,10 @@ collections:
     extension: "yaml"
     create: true
     identifier_field: slug
-    preview_path: people/{{slug}}
+    preview_path: tags/{{fields.slug}}/data.yaml
     media_folder: ''
     public_folder: ''
+    summary: '{{name}}'
     sortable_fields: [name]
     fields:
       - { name: slug, default: '{{fields.name}}', widget: hidden }
