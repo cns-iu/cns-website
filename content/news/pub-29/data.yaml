@@ -1,0 +1,138 @@
+slug: pub-29
+link: 20100410_InformationToday.html
+title: 'VIVO: What''s Driving the Data'
+description: >-
+  Creating a national network and getting it set up and running is no easy feat.
+  But as the VIVO National Network (aka, Facebook for Scientists) moves along
+  according to its 2-year timeline, the seven inaugural institutions in the
+  pilot are busy loading their own data into the network.  
+    
+  To a programmer, the phrase “just load the data” is much akin to “some
+  assembly required” for a parent on Christmas Eve. You just never know the
+  exact tools you’ll need to complete the job. With VIVO’s basic infrastructure
+  in place at the first institutions (University of Florida, Cornell University,
+  Washington University–St. Louis, the Weill Cornell Medical College, Indiana
+  University, the Scripps Research Institute, and the Ponce School of Medicine
+  in Puerto Rico), funnel­ ing the data into the network was easier for some
+  institutions than others.  
+    
+  Smaller institutions such as the Scripps Research Institute and the Ponce
+  School of Medicine are entering much of their data by hand, says Stephen V.
+  Williams, VIVO’s national site support and local IT support programmer. The
+  staff members at the smaller institutions are pulling data from their
+  respective human resources databases and then copying it into VIVO. “But
+  interestingly enough, since institutions like Indiana University, Cornell, and
+  the University of Florida are all very large, we’re very invested in auto­
+  mating ways to bring in our internal data,” he says.  
+    
+  **Helping Ingest the Data**  
+    
+  “I’m out in the field acting as the first implementer,” says Williams, who has
+  been helping participating institutions with their “data ingest.” In fact, he
+  recently automated the input of 18,000 profiles into the VIVO system at the
+  University of Florida (UF) that encompassed the faculty and the staff at the
+  university. He also collected data from the grant research database and the
+  institutional repository to add more authoritative content to the mix. The
+  cleaner the data, the easier it is to move forward with the project and build
+  on it.  
+    
+  Jon Corson-Rikert, the head of information technology services at Cornell
+  University’s Mann Library and VIVO creator, realized the importance of getting
+  vetted data into the network from the start. “We knew quite early on that we
+  had to use institutional sources of data,” he says, “and it just wouldn’t be
+  sustainable if we started to input all of the data manually or if we just
+  copied and pasted other webpages into the network.” So he reached out to
+  several key players at Cornell, including the university human resources
+  system called PeopleSoft (to export data about people and positions), the
+  grants database (to find current grants, funding information, and patterns of
+  funding research), and the courses database. “Then we supplemented that data
+  with an interactive interface where people could edit the information
+  themselves to add new data or supplement it with updates on anything new such
+  as international activity,” he says.  
+    
+  Every institution is treated as a separate silo, according to Corson-Rikert.
+  “One of the tenets for the grant is that there has to be an institutional
+  buy-in to the product,” he says. Each institution is required to have its own
+  local, sustainable version that doesn’t require continual federal funding. The
+  goal is to ensure local customization for any additional granularity and to
+  eventually make the data available to a national network level for
+  discovery.  
+    
+  Much of the brain power behind VIVO’s development at Cornell was provided by
+  Brian Caruso and Brian Lowe, programmers/developers who have been instrumental
+  in helping Corson-Rikert transform VIVO from a people-finding service into a
+  semantic web application. And their work continues as VIVO is enhanced and
+  upgraded.  
+    
+  **Unlocking Hidden Data**  
+    
+  One of the next items on the to-do list is creating a linked data
+  compatibility for the VIVOnetwork. “This is a way to expose the data within
+  any VIVO profile so that it can become part of the semantic web as a larger
+  and more seamless way to get data visible from one application to another on
+  the web,” says Corson-Rikert. Much of what the VIVO National Network is trying
+  to do is to unlock this institutional data that has long been hidden in silos.
+  Once the data has been unlocked, it can be available on a consistent platform
+  at the universities and then ultimately to a broader audience so that the
+  world can access this authoritative data.  
+    
+  And there have been more than a few surprises along the way. Although the team
+  initially figured that accessing institutional data would be easy, that hasn’t
+  always been the case. In theory, the data would always be available in one
+  place, where it could be found easily and pulled into the database. Plus, not
+  all institutions can provide a coherent map of their organizational structure,
+  so sometimes there’s no database that explains intradepartmental ties,
+  according to Williams. “The financial data tells you where the money goes,” he
+  says, “but we don’t always see the lines connecting the reporting process. A
+  couple of institutions actually had to draw in those dotted lines that just
+  don’t show up on \[the\] financial database.”  
+    
+  One of the challenges that universities face is that they are meeting so many
+  compliance requirements and regulations, says Corson-Rikert. “Their systems
+  must be driven by what they must do,” he says. “Institutions don’t always get
+  a chance to develop things that are academically useful for the school and for
+  communicating who they are to the outside world,” he says. Obviously, much
+  work goes into creating the schools’ webpages, which are chiefly designed for
+  student recruitment or marketing purposes. “But some of the feedback we’ve
+  received about VIVO is that academics like to see something that is obviously
+  meant for the exchange of information about what people are doing in their
+  academic lives, their teaching, their research, their interests, and it
+  doesn’t require any understanding of the administrative portion of the
+  university to approach it or navigate it.”  
+    
+  Corson-Rikert sees plenty of questions on the road ahead in terms of
+  scalability and how other people will ultimately use VIVO. “We’re very open to
+  that,” he says. “With the semantic web, we want to make sure the data is in a
+  very standard format so users can exchange structured data. There are lots of
+  other tools that work with that data too. So we’re not locked into one
+  solution.” The collaboration among the universities in the pilot stage may
+  have been slow at first, according to Williams, “but thatthe way projects tend
+  to go. Everyone is just testing the waters.” Now people are getting more
+  comfortable talking about problems with the ontologies or with the data in
+  conference calls or wikis.  
+    
+  So far, the team is quite encouraged with the progress of the pilot project.
+  “It’s gratifying to see schools being able to load data in and essentially do
+  real work with it,” says Corson-Rikert. The word is already spreading across
+  the globe. The University of Melbourne in Australia has adopted VIVO as part
+  of its work on developing a template application for the Australian national
+  data register. Likewise, China has three installations of VIVO hosted by the
+  Chinese Academy of Sciences as disciplinary research portals for biodiversity,
+  evolutionary biology, and biomedicine and health across 28 member
+  institutions.  
+    
+  “We’re doing a lot of work on the infrastructure, improving the way the
+  software was built, putting in documentation, and putting in safeguards to
+  tell us when links have broken,” says Corson-Rikert. “This lays a solid
+  foundation for us, so that as the VIVO National Network expands, we’ll have a
+  good handle on what is going on.”
+date: '2010-04-01'
+mediaType: document
+mediaUrl: 20100410_InformationToday.jpg
+caption: >-
+  The following is an article from Information Today. Read the original article
+  on the web [here](http://www.infotoday.com/IT/apr10/Brynko.shtml), or download
+  a PDF of the article [here](/docs/news/20100410_InformationToday.pdf).
+publisher: Information Today
+reporter: Barbara Brynko
+tags: []

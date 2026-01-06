@@ -1,0 +1,90 @@
+slug: pub-149
+link: 20160525_itsnewsandevents.html
+title: >-
+  IU receives NSF grant to develop tool to measure impact of campus-based
+  cyberinfrastructure
+description: >-
+  BLOOMINGTON, Ind.—Have you ever wondered about the exact impact of the
+  resources universities devote to
+  [cyberinfrastructure](https://kb.iu.edu/d/auhf)? Now, decision-makers in
+  higher education will be able to easily find out.  
+    
+  Thanks to a grant from the National Science Foundation, Indiana University is
+  developing an online service that will make it easier for university
+  administrators to understand the importance of funding related to IT systems
+  based at their institutions. The novel functionality will be available as a
+  module for Open XDMoD (XD Metrics on Demand), which was developed by the
+  University at Buffalo Center for Computational Research (CCR).  
+    
+  Open XDMoD is an NSF-funded, open-source tool designed for the comprehensive
+  management of cyberinfrastructure by providing a wide range of metrics and
+  performance diagnostics for high performance computing (HPC) resources. A
+  hosted version, known simply as XDMOD, was created specifically for
+  [XSEDE](https://www.xsede.org/) resources.  
+    
+  IU’s add-on module, called Open XDMoD Value Analytics (XDMoD-VA), will more
+  precisely measure the impact of campus-based cyberinfrastructure through the
+  tracking of grant outcomes and publication data.  
+    
+  Some details about the grant:  
+    
+  NSF’s EAGER (EArly-concept Grants for Exploratory Research) award. The award
+  amount is nearly $300,000 and the funding duration is 18 months. The Open
+  XDMoD Value Analytics service is being developed by IU’s Research Technologies
+  division, in conjunction with IU’s Cyberinfrastructure for Network Science
+  Center (CNS) and the University at Buffalo’s CCR.  
+    
+  “Indiana University has been interested in documenting, describing, and
+  understanding the value of cyberinfrastructure since 1991,” said Craig
+  Stewart, IU associate dean, Research Technologies, and executive director,
+  Pervasive Technology Institute. “This grant represents the continuation and
+  deepening of two-and-a-half decades of work of ensuring that we’re making the
+  best use of taxpayer money and university funds as we deploy
+  cyberinfrastructure to the national research community.”  
+    
+  Open XDMoD Value Analytics will allow university administrators to make
+  informed decisions about funding campus-based cyberinfrastructure for their
+  institutions by enabling a deeper understanding of how grants and publications
+  are supported by local cyberinfrastructure.  
+    
+  “Ultimately, the real value of investing in campus cyberinfrastructure comes
+  in knowing that it’s aiding and supporting our researchers,” said Matt Link,
+  IU Research Technologies director of systems.  
+    
+  Link and IU Research Technologies colleague Robert Henschel, senior manager
+  for the Scientific Applications and Performance Tuning team, collaborated with
+  the CNS team led by Dr. Katy Börner, IU distinguished professor of information
+  science, and Dr. Thomas Furlani, director of the University at Buffalo Center
+  for Computational Research.  
+    
+  “We are excited to be working with the Indiana team to incorporate this
+  capability into Open XDMoD,” said Furlani. “The addition of value analytics to
+  Open XDMoD will greatly expand its utility to managers and administrators of
+  advanced cyberinfrastructure by providing, for the first time, quantitative
+  measures of return on investment together with a visual means of communicating
+  return on investment.”  
+    
+  The Open XDMoD Value Analytics module is being developed for institutions to
+  install locally within an existing Open XDMoD installation to track grant
+  outcomes and publications of their local researchers.  
+    
+  Börner and her team at CNS will develop novel methods to track, analyze and
+  visualize publications by faculty, a primary method used to evaluate scholarly
+  performance.  
+    
+  “Since its inception in 2003, XSEDE has provided 23 billion CPU hours to 4,845
+  principal investigators. More than 2,660 scientific publications cite XSEDE
+  demonstrating its scholarly impact,” said Börner. “This project will develop
+  data mining and visualization capabilities that support the detailed analysis
+  and visual communication of XSEDE usage and its impact on scholarly
+  productivity and collaboration in support of data-driven decision making by
+  resource providers and consumers.”
+date: '2016-05-31'
+mediaType: image
+mediaUrl: 20160525_itsnewsandevents.jpg
+caption: >-
+  [View the originial
+  story.](https://itnews.iu.edu/articles/2016/iu-receives-nsf-grant-to-develop-tool-to-measure-impact-of-campus-based-cyberinfrastructure.php)
+publisher: ''
+reporter: IT News & Events
+tags: []

@@ -7,7 +7,7 @@
   "scripts": {
     "start": "npm-watch",
     "job2": "npm-run-all mkindexdir index sync",
-    "job": "node src/index-content.js",
+    "job": "bash scripts/30-index-content.sh",
     "index": "node src/index-content.js",
     "mkindexdir": "mkdirp ../apps/cns-website/src/assets/indexes",
     "sync": "rsync -avz --delete ../content ../apps/cns-website/src/assets",
