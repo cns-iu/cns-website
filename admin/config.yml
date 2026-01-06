@@ -42,8 +42,8 @@ collections:
               - { name: background, label: Background, widget: markdown, required: false }
               - { name: interests, label: Interests, widget: markdown, required: false }
               
-              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
+              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
 
           - label: "CNS Student"
             name: "student"
@@ -54,8 +54,8 @@ collections:
               - { name: degree, label: "Degree", widget: select, options: ["Ph.D.", "Masters"], required: true }
               - { name: department, label: Department }
 
-              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
+              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
 
           - label: "Collaborator"
             name: "collaborator"
@@ -64,8 +64,8 @@ collections:
             fields:
               - { name: project, label: "Project" }
 
-              - { name: dateStart, label: Start Date, widget: datetime, format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, format: "YYYY-MM-DD", required: false }
+              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
 
   - name: publications
     label: Publications
@@ -102,7 +102,7 @@ collections:
       - { name: editors, csl_name: editor, label: Editors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
       - { name: doi, csl_name: DOI, label: DOI, widget: string, required: false }
       - { name: pmid, csl_name: PMID, label: PMID, widget: string, required: false }
-      - { name: date, csl_name: issued, label: Date, widget: datetime, required: false }
+      - { name: date, csl_name: issued, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
       - { name: publisher, csl_name: publisher, label: Publisher, widget: string, required: false }
       - { name: venue, csl_name: container-title, label: Publication Venue, widget: string, required: false }
       - { name: volume, csl_name: volume, label: Venue Volume, widget: string, required: false }
@@ -136,7 +136,7 @@ collections:
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the news page.' }
       - { name: title, label: Title, widget: string, required: true }
       - { name: description, label: Description, widget: markdown, required: false }
-      - { name: date, label: Date, widget: datetime, required: true }
+      - { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
       - name: mediaType
         label: Media Type
         widget: select
@@ -145,10 +145,10 @@ collections:
           - { label: Image, value: image }
           - { label: Video, value: video }
           - { label: Document, value: document }
-      - { name: mediaUrl, label: Media URL, widget: file, required: true, help_text: 'URL of the image, video, or document.' }
+      - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
       - { name: caption, label: Caption, widget: text, required: false, help_text: 'The caption to be placed under the image.' }
       - { name: publisher, label: Publisher, widget: string, required: false }
-      - { name: reporter, label: Reporter, widget: string, required: true }
+      - { name: reporter, label: Reporter, widget: string, required: false }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: tags
