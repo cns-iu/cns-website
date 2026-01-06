@@ -1,0 +1,85 @@
+slug: pub-8
+link: ivmooc_drupal_06202013.html
+title: 'IVMOOC, Drupal, Google, and Course Builder: Creative Combinations'
+description: >-
+  SLIS faculty member Dr. Katy Bӧrner, Scott Weingart and Ted Polley taught one
+  of Indiana University’s first-ever MOOCs during the spring semester 2013. All
+  three are a part of the IU Cyberinfrastructure for Network Science (CNS)
+  Center: Dr. Bӧrner is the CNS Center founding director, Scott Weingart is a
+  current SLIS doctoral student, and Ted Polley is a SLIS alumnus (MIS/MLS’12)
+  and Research Assistant Staff at CNS. The Information Visualization MOOC
+  (IVMOOC) has over 2,000 registered students. The course designers wanted to
+  have student teams work with real world clients. ([Click here to see the list
+  of client project](http://ivmooc.cns.iu.edu/ivmooc_clientprojects.html))  
+    
+  To support this functionality, the implemented a Drupal Forum, which became an
+  integral tool to interconnect students to each other and to external clients.
+  A grant from Google supported part of the costs to develop the work. The
+  following press release (prepared by Robyn Im at Google, with Mike Widner and
+  Katy Bӧrner, SLIS) provides more detail about how Drupal Forums were
+  integrated with Course Builder to support the IVMOOC at Indiana University.  
+    
+  **Integrating Drupal with Course Builder**  
+    
+  When Indiana University needed to create a specialized forum, registration,
+  and profile management system for their Information Visualization MOOC
+  (IVMOOC) on Course Builder, they turned to Drupal.  
+    
+  Mike Widner, the Drupal developer on the project, used contributed Drupal 7
+  modules with his own custom created module. These modules powered the IVMOOC
+  forums, client profiles, and student groups and were integrated with Course
+  Builder. The Janrain Engage module allowed multiple third party sign in
+  options. However, since all students used Google accounts, third-party signons
+  other than Google login were disabled. Drupal also has its own user accounts
+  and login page (which Janrain Engage leverages) but having both signons could
+  have confused students. So Mike created a small, custom module that hides the
+  user registration, login, and password recovery options, thereby giving
+  students a single login ID using their Google accounts.  
+    
+  Indiana University also wanted third party clients to engage with students to
+  create projects. This was enabled through a special forum that allowed
+  students and third party clients to interact with each other without
+  restricting access to the IVMOOC team. The forums used Advanced Forums and
+  several custom Views to allow students to sort forum topics by the number of
+  votes each received. In order not to expose everyone's email addresses, which
+  otherwise would be their default username, the Real Name module overwrote all
+  username strings with the names students provided. Voting on topics was via
+  the Vote Up/Down modules. Custom content types showed client profiles, group
+  details, and student profiles.  
+    
+  Organic Groups allowed students to self-organize into project groups. Custom
+  behaviors based on Rules automatically created sub-forums for each new student
+  group where members discussed their clients' projects. There is a View of
+  student profiles that can be filtered by student competencies, skills, and
+  group membership. All of the customizations that make up the core IVMOOC
+  Forums functionality were packaged as Features for easy deployment.  
+    
+  **Drupal Modules Used:**
+
+
+  *   Advanced Forum
+
+  *   Features
+
+  *   Janrain Engage
+
+  *   Organic groups
+
+  *   Real Name
+
+  *   Rules
+
+  *   Views
+
+  *   Vote Up/Down
+date: '2013-06-20'
+mediaType: image
+mediaUrl: ivmooc_forum.jpg
+caption: >-
+  The following is an article from ILS News at Indiana University. [Click
+  here](http://ils.indiana.edu/news/story.php?story_id=2527) to read the
+  original article on the web, or download a PDF
+  [here](/docs/news/20130620_ILSNews.pdf).
+publisher: ILS News
+reporter: ''
+tags: []

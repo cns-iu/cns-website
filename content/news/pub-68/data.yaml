@@ -1,0 +1,113 @@
+slug: pub-68
+link: katy_globalinvestor.html
+title: Katy Börner published in Credit Suisse's _Global Investor_
+description: >-
+  Across the spectrum of human activity, decision making increasingly means
+  fathoming the complex systems described by Big Data. Examples include traffic
+  patterns, disease outbreaks and social media. Often, the most effective way of
+  coming to terms with this data is by picturing or visualizing it. Throughout
+  history, many of the best tools for visualization have been designed by
+  scientists keen to observe or comprehend something for the first time. In the
+  early 1600s, Galileo Galilei recognized the potential of a spyglass to study
+  the heavens, and ground and polished his own lenses. He then used these
+  improved optical instruments to make discoveries like the moons of Jupiter,
+  providing quantitative evidence for Copernicus’s startling insight that the
+  earth revolves around the sun and not the other way around.  
+    
+  Today, scientists and industry professionals repurpose, extend and invent new
+  hardware and software to visually make sense of and address local and global
+  challenges. For example, they might combine data on global population density,
+  patient records and social behavior – all large, complex data sets – to model,
+  visualize and forecast the spread of epidemic diseases. Or they might (and
+  did) map how New York City tweeted during Hurricane Sandy. Multivariate
+  visualization is not new. In 1786, William Playfair published the first known
+  time series by charting English exports and imports over 80 years. In 1861,
+  Charles Joseph Minard famously plotted date, temperature, direction of
+  movement and three other variables in a poignant “narrative” graphic of
+  Napoleon’s failed Russian campaign. What is different now is the sheer volume
+  of data to be sifted through.  
+    
+  **Plug-and-play visualization tools**  
+    
+  Visualizing Big Data is inherently collaborative. But good data sets are hard
+  to obtain, and standard tools are lacking. Consequently, at the
+  Cyberinfrastructure for Network Science Center at Indiana University, we have
+  created an open-source, community-driven project for exchanging and using data
+  sets, algorithms, tools and computing resources. In particular, we have
+  developed software tool sets ([called “macroscopes"](http://cishell.org)) that
+  enable non-computer scientists to plug and play data sets and algorithms as
+  easily as they share images and videos using Flickr and YouTube. Our tools
+  have been downloaded by more than 100,000 users from over 100 countries.  
+    
+  Other open-source software projects, such as Google Code and SourceForge.net,
+  do exist. Websites like IBM’s Many Eyes enable community data sharing and
+  visualization. Commercial programs like Tableau and TIBCO Spotfire, and free
+  tools, are widely used in research, education and industry for data analysis
+  and visualization. But none of these approaches enables easy mixing and
+  matching of software to solve specific research and practical problems.  
+    
+  Many real-world systems must be studied and understood at multiple – i.e.
+  local to global – levels before informed interventions can be designed and
+  executed. Advanced visualizations make it possible to explore and communicate
+  the results of these diverse analyses to experts, as well as to a general
+  audience.  
+    
+  **Measuring inventiveness**  
+    
+  In former times, access to land and minerals was important for ensuring
+  prosperity. Today, access to intellectual property is key for many industries.
+  Strategies for owning more and more intellectual space vary. We created a
+  patent classification map to visually communicate the intellectual coverage
+  and evolution of the patent space of different patent holders (see pages 40
+  and 41). We obtained data on 2.5 million patents granted between 1 January
+  1976 and 31 December 2002 from the US Patent and Trademark Office (USPTO)
+  archive. We grouped the patents by their USPTO classification, and depicted
+  and contrasted classes that experienced slow or rapid growth using tree maps,
+  a space-filling technique developed at the Human-Computer Interaction Lab at
+  the University of Maryland.  
+    
+  For example, we compared the evolving patent holdings of Apple (then Apple
+  Computer) from 1980 to 2002 with those of a private patent holder, Jerome
+  Lemelson, whose innovations led to industrial robots, bar code readers and
+  automatic teller machines (1976– 2002). Bright green patches represent more
+  patents for that class over the previous year, and red a decline. Black
+  denotes no change. Yellow signals “new” classes in which no patent has been
+  granted in the previous five years. In 1976 (far left) Lemelson was granted
+  eight patents in six patent classes. The next year (1977) he has some new
+  patents in existing classes, but most are related to four new classes. Whereas
+  Apple adds new patents to existing classes, Lemelson follows a different
+  strategy to claim more and more intellectual space. This longitudinal
+  comparison helps to reveal an assignee’s past, current (and possibly future)
+  intellectual limits and patenting behavior.  
+    
+  **Mapping the future**  
+    
+  Data literacy will soon be as important as being able to read and write. In
+  January 2013, registration opened for the [Information Visualization
+  MOOC](http://ivmooc.cns.iu.edu) (massive open online course) that I am
+  teaching at Indiana University. Students from 93 different countries are
+  taking theory and hands-on lessons. The course introduces a theoretical
+  framework that helps non-experts to assemble advanced analysis workflows and
+  to design different visualization layers, i.e. base map, overlay (real-time)
+  data, and color and size coding. The framework can also be applied to
+  “dissect” visualizations so they can be interpreted and optimized. As part of
+  the course assignments, students work in teams on real-world client
+  projects.  
+    
+  Developing the visualization tools to handle Big Data images, videos and data
+  sets for scholarly markets remains a work in progress. Our current efforts
+  focus on ways of ensuring data quality, dealing with streaming data such as
+  from social media, and making our tools more modular and even easier to use.
+  The ultimate goal of Big Data visualizations is to understand and use our
+  collective knowledge of science and technology to enable anyone to explore
+  complex technical, social and economic issues and to make better decisions.
+date: '2013-07-10'
+mediaType: image
+mediaUrl: katy_globalinvestor.png
+caption: >-
+  The following is an article on Big Data by Katy Börner that was featured in
+  Global Investor Magazine. [Click here](/docs/news/20130710_GlobalInvestor.pdf)
+  to download a PDF of the original article.
+publisher: Global Investor
+reporter: ''
+tags: []
