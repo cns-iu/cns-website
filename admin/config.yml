@@ -130,10 +130,10 @@ collections:
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
-    sortable_fields: [date, title, type, publisher]
+    sortable_fields: [date, title, publisher]
     fields:
-      - { name: id, label: ID, widget: number }
-      - { name: link, label: Link, widget: string, required: false, help_text: 'Link to the news page.' }
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the news page.' }
       - { name: title, label: Title, widget: string, required: true }
       - { name: description, label: Description, widget: markdown, required: false }
       - { name: date, label: Date, widget: datetime, required: true }
@@ -145,7 +145,7 @@ collections:
           - { label: Image, value: image }
           - { label: Video, value: video }
           - { label: Document, value: document }
-      - { name: mediaUrl, label: Media URL, widget: string, required: true, help_text: 'URL of the image, video, or document.' }
+      - { name: mediaUrl, label: Media URL, widget: file, required: true, help_text: 'URL of the image, video, or document.' }
       - { name: caption, label: Caption, widget: text, required: false, help_text: 'The caption to be placed under the image.' }
       - { name: publisher, label: Publisher, widget: string, required: false }
       - { name: reporter, label: Reporter, widget: string, required: true }
