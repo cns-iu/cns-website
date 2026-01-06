@@ -1,5 +1,5 @@
 import { join } from 'path';
-import { BASE_URL, index, INDEXES, readIndex, writeJSON } from './utils.js';
+import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 export function writeNewsIndex() {
   const news = readIndex('news');
@@ -35,8 +35,7 @@ export function writeNewsIndex() {
       dateEnd: item.date,
     };
   });
-  // writeMinifiedJSON(join(INDEXES, 'app-news.json'), entries);
-  writeJSON(join(INDEXES, 'app-news.json'), entries);
+  writeMinifiedJSON(join(INDEXES, 'app-news.json'), entries);
 }
 
 index('news/**/data.yaml', 'news.json');
