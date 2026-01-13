@@ -31,9 +31,13 @@ jobs:
         working-directory: content-migrator
       - run: npm run job
         working-directory: content-migrator
-
+      - name: Deploy website build
+        run: >
+          cp -r build dist
+          cp -r assets/* dist/assets/
+          cp -r content admin dist/
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: /dist
           commit_message: "Production deploy -- ${{ github.event.head_commit.message }}"
