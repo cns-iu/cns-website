@@ -1,0 +1,28 @@
+slug: humaid-ilyas
+name: Humaid Ilyas
+lastName: Ilyas
+image: image.png
+roles:
+  - type: member
+    title: Hourly Research Assistant
+    displayOrder: 40
+    office: ''
+    phone: ''
+    fax: ''
+    email: hilyas@iu.edu
+    education: "Master of Science in Data Science, Indiana University Bloomington, IN (2024 – 2026)\r\nBachelor of Technology in Computer Engineering, Jamia Millia Islamia, India (2019 – 2023)\r\n"
+    background: >-
+      With a background in computer engineering and a passion for AI, I’ve
+      applied solutions to projects in healthcare, business solutions, energy,
+      and bioinformatics, ranging from power forecasting models and customer
+      lead prediction to medical imaging, and most recently, multi-omics
+      analyses. I love finding useful patterns in data, working with teams to
+      build reliable data processes and easy-to-read dashboards, and trying out
+      new tools to tackle everyday problems.
+    interests: >-
+      I’m an avid cyclist who loves exploring Bloomington’s trails, a foodie
+      always looking for new cafés and eateries, and a casual photographer who
+      enjoys capturing everyday moments. I also unwind by watching sci-fi movies
+      and experimenting with new recipes in the kitchen.
+    dateStart: '2025-05-15'
+    dateEnd: null

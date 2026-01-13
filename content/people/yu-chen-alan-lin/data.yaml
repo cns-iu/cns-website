@@ -1,0 +1,9 @@
+slug: yu-chen-alan-lin
+name: Yu-Chen (Alan) Lin
+lastName: Lin
+image: image.jpg
+roles:
+  - type: collaborator
+    project: iUniverse
+    dateStart: '2000-01-01'
+    dateEnd: '2002-12-31'

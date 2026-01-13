@@ -1,0 +1,11 @@
+slug: richard-knepper
+name: Richard Knepper
+lastName: Knepper
+image: image.jpg
+roles:
+  - type: student
+    topic: Ph.D. Social Informatics Track
+    degree: Ph.D.
+    department: Informatics
+    dateStart: '2015-01-12'
+    dateEnd: '2016-05-31'

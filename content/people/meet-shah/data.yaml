@@ -1,0 +1,27 @@
+slug: meet-shah
+name: Meet Shah
+lastName: Shah
+image: image.png
+roles:
+  - type: member
+    title: Angular Developer
+    displayOrder: 94
+    office: ''
+    phone: ''
+    fax: ''
+    email: meetshah@iu.edu
+    education: >-
+      I'm currently pursuing Masters in Computer Science at Luddy School of
+      Informatics, Computing and Engineering. I have completed my B.E. in
+      Electronics from University of Mumbai.
+    background: >-
+      I'm born and brought up in Mumbai, India. I have done 3 internships for a
+      tenure of 6 months each as a Software Engineer in India where I got to
+      know and learn about Full Stack Web Development. I have worked on projects
+      which include key features like Chatbot, Voice Recognition, Maps and
+      Multimedia.
+    interests: >-
+      My interests include music production, cricket, swimming, trekking. I love
+      to travel and explore new places.
+    dateStart: '2022-07-06'
+    dateEnd: '2022-12-17'

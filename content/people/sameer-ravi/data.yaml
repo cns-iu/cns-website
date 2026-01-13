@@ -1,0 +1,28 @@
+slug: sameer-ravi
+name: Sameer Ravi
+lastName: Ravi
+roles:
+  - type: member
+    title: Hourly Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: sravi@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2013-10-10'
+    dateEnd: '2013-12-31'
+  - type: member
+    title: Sci2 Tester
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: sravi@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2013-09-05'
+    dateEnd: '2013-09-26'

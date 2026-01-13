@@ -1,0 +1,17 @@
+slug: sangmyung-lee
+name: Sangmyung Lee
+lastName: Lee
+image: image.png
+roles:
+  - type: member
+    title: Intern
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2022-05-26'
+    dateEnd: '2022-07-29'

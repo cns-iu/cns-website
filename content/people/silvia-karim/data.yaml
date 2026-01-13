@@ -1,0 +1,11 @@
+slug: silvia-karim
+name: Silvia Karim
+lastName: Karim
+image: image.jpg
+roles:
+  - type: student
+    topic: Ph.D. Intelligent Systems Engineering Student
+    degree: Ph.D.
+    department: Intelligent Systems Engineering
+    dateStart: '2017-08-21'
+    dateEnd: '2018-05-08'

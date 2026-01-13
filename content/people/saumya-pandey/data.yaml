@@ -1,0 +1,17 @@
+slug: saumya-pandey
+name: Saumya Pandey
+lastName: Pandey
+image: image.jpg
+roles:
+  - type: member
+    title: Hourly Developer
+    displayOrder: 15
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2015-08-24'
+    dateEnd: '2016-04-19'

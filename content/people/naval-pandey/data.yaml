@@ -1,0 +1,21 @@
+slug: naval-pandey
+name: Naval Pandey
+lastName: Pandey
+image: image.png
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: 85
+    office: ''
+    phone: ''
+    fax: ''
+    email: napandey@iu.edu
+    education: I am currently an HCI/d graduate student at Luddy.
+    background: >-
+      I am from Northern India, from a lovely place right at the foothills of
+      Himalayas. After my undergrad training in Bachelor's in Architecture, I
+      worked as professional architect from 2017 to 2021 in a firm which I
+      founded with my colleagues.
+    interests: "I love design, more than that I love design decision making. I believe that XR will be the tech which re-defines our physical space, by proliferating beyond the limiting portals of screens present around us. I plan to use design training to use emerging techs like VR and AR to create better experiences. \r\n"
+    dateStart: '2022-04-18'
+    dateEnd: '2023-04-28'

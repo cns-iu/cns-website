@@ -1,0 +1,17 @@
+slug: sean-lind
+name: Sean Lind
+lastName: Lind
+image: image.jpg
+roles:
+  - type: member
+    title: Research Assistant
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: smlind@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2010-10-05'
+    dateEnd: '2010-12-01'

@@ -1,0 +1,9 @@
+slug: munro-peacock
+name: Munro Peacock
+lastName: Peacock
+image: image.jpg
+roles:
+  - type: collaborator
+    project: CCD
+    dateStart: '2005-01-06'
+    dateEnd: '2007-08-31'

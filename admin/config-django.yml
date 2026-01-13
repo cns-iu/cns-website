@@ -1,0 +1,670 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} "{{slug}}"'
+    update: 'Update {{collection}} "{{slug}}"'
+    delete: 'Delete {{collection}} "{{slug}}"'
+    uploadMedia: '[skip ci] Upload "{{path}}"'
+    deleteMedia: '[skip ci] Delete "{{path}}"'
+
+media_folder: content/images
+public_folder: /images
+
+collections:
+  # People - Core entity with multiple inline relationships
+  - name: people
+    label: People
+    folder: content/people
+    create: true
+    identifier_field: slug
+    slug: '{{fields.firstName}}-{{fields.lastName}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: firstName, label: First Name, widget: string, required: false }
+      - { name: middleName, label: Middle Name, widget: string, required: false }
+      - { name: lastName, label: Last Name, widget: string, required: false }
+      - name: residences
+        label: Residences
+        widget: list
+        fields:
+          - { name: locationId, label: Location, widget: relation, collection: locations, search_fields: [name], value_field: slug, display_fields: [name] }
+          - { name: dateState, label: Start Date, widget: datetime, required: false }
+          - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: contactItems
+        label: Contact Information
+        widget: list
+        fields:
+          - { name: type, label: Type, widget: select, options: [email, phone, fax, address, website] }
+          - { name: value, label: Value, widget: string }
+      - name: affiliations
+        label: Affiliations
+        widget: list
+        fields:
+          - { name: organizationId, label: Organization, widget: relation, collection: organizations, search_fields: [name], value_field: slug, display_fields: [name] }
+          - { name: dateState, label: Start Date, widget: datetime, required: false }
+          - { name: dateEnd, label: End Date, widget: datetime, required: false }
+          - { name: description, label: Description, widget: text, required: false }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Publications
+  - name: publications
+    label: Publications
+    folder: content/publications
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: date, label: Date, widget: datetime, required: false }
+      - name: type
+        label: Type
+        widget: select
+        required: false
+        options:
+          - { label: Edited Journal, value: ej }
+          - { label: Journal Article, value: ja }
+          - { label: Book, value: bo }
+          - { label: Book Chapter, value: bc }
+          - { label: Edited Books, value: eb }
+          - { label: Conference Proceeding, value: cp }
+          - { label: Patent, value: pa }
+          - { label: Audio/Video, value: av }
+          - { label: Tech Report, value: tr }
+          - { label: Unrefereed, value: ur }
+      - { name: publisher, label: Publisher, widget: string, required: false }
+      - { name: venue, label: Venue, widget: string, required: false }
+      - { name: venueVolume, label: Venue Volume, widget: string, required: false }
+      - { name: venueNumber, label: Venue Number, widget: string, required: false }
+      - { name: venuePages, label: Venue Pages, widget: string, required: false }
+      - name: authors
+        label: Authors/Editors
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+          - { name: order, label: Order, widget: number, required: false }
+          - { name: role, label: Role, widget: select, options: [author, editor] }
+      - name: media
+        label: Associated Media
+        widget: list
+        fields:
+          - { name: mediaId, label: Media, widget: relation, collection: media, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: events
+        label: Associated Events
+        widget: list
+        fields:
+          - { name: eventId, label: Event, widget: relation, collection: events, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Events
+  - name: events
+    label: Events
+    folder: content/events
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.dateStart}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: type
+        label: Type
+        widget: select
+        required: false
+        options:
+          - { label: Conference, value: '10000' }
+          - { label: Workshop, value: '01000' }
+          - { label: Meeting, value: '00100' }
+          - { label: Visit, value: '00010' }
+          - { label: Other, value: '00001' }
+      - name: locations
+        label: Locations
+        widget: list
+        fields:
+          - { name: locationId, label: Location, widget: relation, collection: locations, search_fields: [name], value_field: slug, display_fields: [name] }
+      - name: people
+        label: Organizers & Attendees
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+          - { name: role, label: Role, widget: select, options: [organizer, attendee, speaker] }
+      - name: media
+        label: Associated Media
+        widget: list
+        fields:
+          - { name: mediaId, label: Media, widget: relation, collection: media, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: research
+        label: Associated Research
+        widget: list
+        fields:
+          - { name: researchId, label: Research, widget: relation, collection: research, search_fields: [fullTitle], value_field: slug, display_fields: [fullTitle] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # News/Articles
+  - name: news
+    label: News
+    folder: content/news
+    create: true
+    identifier_field: id
+    slug: '{{fields.title}}-{{fields.date}}-{{fields.id}}'
+    fields:
+      - { name: id, label: ID, widget: number }
+      - { name: title, label: Title, widget: string, required: true }
+      - { name: date, label: Date, widget: datetime, required: true }
+      - name: mediaType
+        label: Media Type
+        widget: select
+        required: false
+        options:
+          - { label: Image, value: IMAGE }
+          - { label: Video, value: VIDEO }
+          - { label: Document, value: DOCUMENT }
+      - { name: mediaUrl, label: Media URL, widget: string, required: true, help_text: 'URL of the image, video, or document.' }
+      - { name: caption, label: Caption, widget: text, required: false, help_text: 'The caption to be placed under the image.' }
+      - { name: link, label: Link, widget: string, required: false, help_text: 'Link to the news page.' }
+      - { name: publisher, label: Publisher, widget: string, required: false }
+      - { name: reporter, label: Reporter, widget: string, required: true }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # Research Projects
+  - name: research
+    label: Research
+    folder: content/research
+    create: true
+    identifier_field: slug
+    slug: '{{fields.shortTitle}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: fullTitle, label: Full Title, widget: string, required: false }
+      - { name: shortTitle, label: Short Title, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: teamMembers
+        label: Team Members
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+          - { name: role, label: Role, widget: string, required: false }
+      - name: funding
+        label: Funding/Grants
+        widget: list
+        fields:
+          - { name: grantId, label: Grant, widget: relation, collection: grants, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: publications
+        label: Publications
+        widget: list
+        fields:
+          - { name: publicationId, label: Publication, widget: relation, collection: publications, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: software
+        label: Software
+        widget: list
+        fields:
+          - { name: softwareId, label: Software, widget: relation, collection: software, search_fields: [name], value_field: slug, display_fields: [name] }
+      - name: tutorials
+        label: Tutorials
+        widget: list
+        fields:
+          - { name: tutorialId, label: Tutorial, widget: relation, collection: tutorials, search_fields: [title], value_field: slug, display_fields: [title] }
+      - name: hardware
+        label: Hardware
+        widget: list
+        fields:
+          - { name: hardwareId, label: Hardware, widget: relation, collection: hardware, search_fields: [name], value_field: slug, display_fields: [name] }
+      - name: datasets
+        label: Datasets
+        widget: list
+        fields:
+          - { name: datasetId, label: Dataset, widget: relation, collection: datasets, search_fields: [name], value_field: slug, display_fields: [name] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Courses
+  - name: courses
+    label: Courses
+    folder: content/courses
+    create: true
+    identifier_field: slug
+    slug: '{{fields.courseNumber}}-{{fields.year}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: courseTitle, label: Course Title, widget: string, required: false }
+      - { name: courseNumber, label: Course Number, widget: string, required: false }
+      - { name: year, label: Year, widget: datetime, required: false }
+      - { name: semester, label: Semester, widget: select, options: [Spring, Fall, Summer I, Summer II], required: false }
+      - { name: schoolDepartment, label: School/Department, widget: string, required: false }
+      - { name: institution, label: Institution, widget: string, required: false }
+      - name: teachers
+        label: Teachers
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Tutorials
+  - name: tutorials
+    label: Tutorials
+    folder: content/tutorials
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: additionalInfo, label: Additional Info, widget: markdown, required: false }
+      - name: research
+        label: Associated Research
+        widget: list
+        fields:
+          - { name: researchId, label: Research, widget: relation, collection: research, search_fields: [fullTitle], value_field: slug, display_fields: [fullTitle] }
+      - name: events
+        label: Associated Events
+        widget: list
+        fields:
+          - { name: eventId, label: Event, widget: relation, collection: events, search_fields: [title], value_field: slug, display_fields: [title] }
+          - { name: dateState, label: Start Date, widget: datetime, required: false }
+          - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Publications / Software
+  - name: software
+    label: Software
+    folder: content/software
+    create: true
+    identifier_field: slug
+    slug: '{{fields.name}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: name, label: Name, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - { name: url, label: URL, widget: string, required: false }
+      - name: developers
+        label: Developers
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Hardware
+  - name: hardware
+    label: Hardware
+    folder: content/hardware
+    create: true
+    identifier_field: slug
+    slug: '{{fields.name}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: name, label: Name, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Datasets
+  - name: datasets
+    label: Datasets
+    folder: content/datasets
+    create: true
+    identifier_field: slug
+    slug: '{{fields.name}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: name, label: Name, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: producers
+        label: Producers
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - name: researchNeeds
+        label: Research Needs
+        widget: list
+        fields:
+          - { name: researchId, label: Research, widget: relation, collection: research, search_fields: [fullTitle], value_field: slug, display_fields: [fullTitle] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Grants/Funding
+  - name: grants
+    label: Grants
+    folder: content/grants
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: coPis
+        label: Principal Investigators (Co-PIs)
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - name: research
+        label: Associated Research
+        widget: list
+        fields:
+          - { name: researchId, label: Research, widget: relation, collection: research, search_fields: [fullTitle], value_field: slug, display_fields: [fullTitle] }
+
+  # Presentations
+  - name: presentations
+    label: Presentations
+    folder: content/presentations
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: presenters
+        label: Presenters
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - name: events
+        label: Associated Events
+        widget: list
+        fields:
+          - { name: eventId, label: Event, widget: relation, collection: events, search_fields: [title], value_field: slug, display_fields: [title] }
+          - { name: date, label: Date, widget: datetime, required: false }
+      - name: research
+        label: Associated Research
+        widget: list
+        fields:
+          - { name: researchId, label: Research, widget: relation, collection: research, search_fields: [fullTitle], value_field: slug, display_fields: [fullTitle] }
+      - name: tags
+        label: Tags
+        widget: list
+        fields:
+          - { name: tagId, label: Tag, widget: relation, collection: tags, search_fields: [shortTag], value_field: slug, display_fields: [shortTag] }
+
+  # Media (Images, Videos, Documents)
+  - name: media
+    label: Media
+    folder: content/media
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - name: type
+        label: Type
+        widget: select
+        required: false
+        options:
+          - { label: Image, value: IMAGE }
+          - { label: Video, value: VIDEO }
+          - { label: Document, value: DOC }
+      - { name: filePath, label: File Path, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # News/Homepage Items
+  - name: homepage_items
+    label: Homepage Items
+    folder: content/homepage_items
+    create: true
+    identifier_field: slug
+    slug: '{{fields.caption}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - label: Category
+        name: contentType
+        widget: select
+        required: true
+        options:
+          - { label: Research, value: research }
+          - { label: News, value: news }
+          - { label: Development, value: development }
+          - { label: Outreach, value: outreach }
+          - { label: Video, value: video }
+          - { label: Teaching, value: teaching }
+      - { name: caption, label: Caption, widget: string, help_text: 'This text will display on the homepage' }
+      - { name: link, label: Link to Full Item, widget: string, help_text: 'Where should clicking this item take the user?' }
+      - { name: image, label: Image, widget: image, help_text: 'A graphic to go along with the link' }
+      - { name: imageAlt, label: Image Alt Text, widget: string, help_text: 'Alt text for the graphic' }
+      - { name: dateAdded, label: Date Added, widget: datetime }
+      - { name: displayOrder, label: Display Order, widget: number, required: false }
+      - { name: panel, label: Featured in Panel, widget: boolean, required: false }
+
+  # Tags (Semantic Tags)
+  - name: tags
+    label: Tags
+    folder: content/tags
+    create: true
+    identifier_field: slug
+    slug: '{{fields.shortTag}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: shortTag, label: Short Tag, widget: string, required: false, help_text: 'Short description of the tag for display on the website' }
+      - { name: description, label: Description, widget: string, required: false }
+
+  # Locations/Venues
+  - name: locations
+    label: Locations
+    folder: content/locations
+    create: true
+    identifier_field: slug
+    slug: '{{fields.name}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: name, label: Name, widget: string, required: false }
+      - { name: address, label: Address, widget: text, required: false }
+      - { name: city, label: City, widget: string, required: false }
+      - { name: state, label: State, widget: string, required: false }
+      - { name: zipCode, label: Zip Code, widget: string, required: false }
+      - { name: country, label: Country, widget: string, required: false }
+
+  # Organizations
+  - name: organizations
+    label: Organizations
+    folder: content/organizations
+    create: true
+    identifier_field: slug
+    slug: '{{fields.name}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: name, label: Name, widget: string, required: false }
+
+  # Static Pages
+  - name: static_pages
+    label: Static Pages
+    folder: content/static_pages
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string }
+      - { name: content, label: Content, widget: markdown }
+      - label: Type
+        name: pageType
+        widget: select
+        options:
+          - { label: Other, value: other }
+          - { label: Workshops, value: workshops }
+          - { label: Open House, value: open_house }
+
+  # Videos
+  - name: videos
+    label: Videos
+    folder: content/videos
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - label: Video Type
+        name: videoType
+        widget: select
+        options:
+          - { label: Educational Talk, value: EDUCATIONAL_TALK_TYPE }
+          - { label: Project Demonstration, value: PROJECT_DEMO_TYPE }
+          - { label: Miscellaneous, value: MISCELLANEOUS_TALK_TYPE }
+      - { name: filePath, label: File Path, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # Visualizations
+  - name: visualizations
+    label: Visualizations
+    folder: content/visualizations
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # Workshops
+  - name: workshops
+    label: Workshops
+    folder: content/workshops
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # Educational Materials
+  - name: educational_materials
+    label: Educational Materials
+    folder: content/educational_materials
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+      - name: compilers
+        label: Compilers
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+
+  # Contact Information Types
+  - name: contact_information
+    label: Contact Information
+    folder: content/contact_information
+    create: true
+    identifier_field: slug
+    slug: '{{fields.type}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - name: type
+        label: Type
+        widget: select
+        options: [email, phone, fax, address, website]
+        required: true
+      - { name: value, label: Value, widget: string }
+
+  # Master/PhD Students
+  - name: master_phd_students
+    label: Master/PhD Students
+    folder: content/master_phd
+    create: true
+    identifier_field: slug
+    slug: '{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: studentId, label: Student, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - { name: degreeType, label: Degree Type, widget: select, options: [Masters, PhD] }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: advisors
+        label: Advisors
+        widget: list
+        fields:
+          - { name: advisorId, label: Advisor, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+
+  # Independent Study
+  - name: independent_study
+    label: Independent Study
+    folder: content/independent_study
+    create: true
+    identifier_field: slug
+    slug: '{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: studentId, label: Student, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: supervisors
+        label: Supervisors
+        widget: list
+        fields:
+          - { name: supervisorId, label: Supervisor, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }
+
+  # Net Sci Talks
+  - name: netscitalks
+    label: Net Sci Talks
+    folder: content/netscitalks
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: date, label: Date, widget: datetime, required: false }
+      - { name: description, label: Description, widget: markdown, required: false }
+
+  # Trips
+  - name: trips
+    label: Trips
+    folder: content/trips
+    create: true
+    identifier_field: slug
+    slug: '{{fields.title}}-{{fields.id}}'
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: title, label: Title, widget: string, required: false }
+      - { name: dateState, label: Start Date, widget: datetime, required: false }
+      - { name: dateEnd, label: End Date, widget: datetime, required: false }
+      - name: travelers
+        label: Travelers
+        widget: list
+        fields:
+          - { name: personId, label: Person, widget: relation, collection: people, search_fields: [firstName, lastName], value_field: slug, display_fields: [firstName, lastName] }

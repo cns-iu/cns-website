@@ -1,0 +1,17 @@
+slug: gagandeep-singh
+name: Gagandeep Singh
+lastName: Singh
+image: image.png
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: 9
+    office: Luddy Hall 4024
+    phone: 812-855-6279
+    fax: ''
+    email: 'singhgag@iu.edu '
+    education: "BTech. in Computer Science - Eternal University, Himachal Pradesh, India. (2012)<br>\r\nMS in Computer Science - Indiana University, Bloomington. (2017)"
+    background: "Before pursuing a masters at IU, I had the opportunity to work professionally for about 3 years at Aricent. Prime responsibilities for me included resolving customer bugs, conducting web-ex’s, participating in release development, undertaking enhancements, conducting unit testing and more, for Aricent’s 4G network offering of Packet Data Network Gateway software. <br><br>\r\n\r\nThe advent of my masters program at IU gave me the opportunity to diversify my skill-set. As a summer-intern and later a graduate research assistant at the Advanced Visualization Laboratory at UITS, Research Technologies I had the opportunity to work professionally with the best in the domain of Advanced Visualizations in Virtual Reality environments, as well as work and play with the best and latest in VR tech such as HTC Vive, Oculus Rift, Microsoft Hololens and the likes. <br><br>\r\n\r\nI have also had the opportunity to be a part of many administrative endeavors such as organizing events, collaborating with industry experts and helping the placement department during my undergrads and now graduate studies as well. I also served as a Director of Corporate Relations/Case Competitions at ICCA (Informatics and Computing Consulting Association) and a member of the executive council with the Student Alumni Association under Alan Goodno - Director of Annual Giving and Alumni Relations."
+    interests: "I enjoy listening and exploring contemporary music. I like playing table-tennis. I believe I am pretty good at it and so I am always on the lookout for somebody who can match my game! I also enjoy doing Creative Writing in my spare time. Exploring new things from different walks of life keeps me inspired.  \r\n"
+    dateStart: '2017-03-10'
+    dateEnd: '2019-06-26'

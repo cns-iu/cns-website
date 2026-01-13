@@ -1,0 +1,24 @@
+slug: esme-middaugh
+name: Esmé Middaugh
+lastName: Middaugh
+image: image.jpg
+roles:
+  - type: member
+    title: Exhibit Assistant
+    displayOrder: 10
+    office: '4014'
+    phone: ''
+    fax: ''
+    email: middaugh@iu.edu
+    education: "B.A. in Information Science and Arts, University of Arizona, 2017\r\n<br>\r\nPursuing an M.S. in Data Science, Indiana University"
+    background: >-
+      Prior to serving on the CNS Team, Esmé worked at National Public Radio
+      (NPR) as their Digital Media, Data Analytics Intern and as an
+      undergraduate research assistant on the NSF Funded Grant "Collaborative
+      Research: University Commitment to Interdisciplinary Research: Scope,
+      Causes, and Consequences." 
+    interests: >-
+      I love to bake! I worked for 6 months as a baker at The Wydown, an
+      artisanal coffee shop & bakery in DC. 
+    dateStart: '2018-06-18'
+    dateEnd: '2020-06-23'

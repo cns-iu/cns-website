@@ -1,0 +1,16 @@
+slug: emily-johnson
+name: Emily Johnson
+lastName: Johnson
+roles:
+  - type: member
+    title: Design assistant
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: emily.johnson59@gmail.com
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2010-07-11'
+    dateEnd: '2010-10-26'

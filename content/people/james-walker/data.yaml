@@ -1,0 +1,9 @@
+slug: james-walker
+name: James Walker
+lastName: Walker
+image: image.jpg
+roles:
+  - type: collaborator
+    project: SELab
+    dateStart: '2002-08-01'
+    dateEnd: '2007-07-31'

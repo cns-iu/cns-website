@@ -1,0 +1,35 @@
+slug: pub-478
+authors:
+  - uriah-israel
+  - markus-marks
+  - rohit-dilip
+  - qilin-li
+  - changhua-yu
+  - emily-laubscher
+  - ahamed-iqbal
+  - elora-pradhan
+  - ada-ates
+  - martin-abt
+  - caitlin-brown
+  - edward-pao
+  - shenyi-li
+  - alexander-pearson-goulart
+  - pietro-perona
+  - georgia-gkioxari
+  - ross-barnowski
+  - yisong-yue
+  - david-van-valen
+editors: []
+type: article-journal
+title: 'CellSAM: A Foundation Model for Cell Segmentation'
+date: '2025-02-17'
+publisher: ''
+venue: bioRxiv
+volume: ''
+issue: ''
+doi: 10.1101/2023.11.17.567630
+pages: ''
+chapter: ''
+links:
+  - https://www.biorxiv.org/content/10.1101/2023.11.17.567630v5
+tags: []

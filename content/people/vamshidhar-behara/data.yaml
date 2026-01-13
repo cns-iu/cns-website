@@ -1,0 +1,17 @@
+slug: vamshidhar-behara
+name: Vamshidhar Behara
+lastName: Behara
+image: image.jpg
+roles:
+  - type: member
+    title: Software Developer
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: vbeharav@umail.iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2011-02-10'
+    dateEnd: '2011-04-12'

@@ -1,0 +1,29 @@
+slug: sumeet-adinath-ambre
+name: Sumeet Adinath Ambre
+lastName: Ambre
+image: image.jpg
+roles:
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: sambre@iu.edu
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2006-03-01'
+    dateEnd: '2007-06-07'
+  - type: member
+    title: ''
+    displayOrder: null
+    office: ''
+    phone: ''
+    fax: ''
+    email: sumeet.ambre@cookmedical.com
+    education: ''
+    background: ''
+    interests: ''
+    dateStart: '2006-03-01'
+    dateEnd: '2007-06-07'
