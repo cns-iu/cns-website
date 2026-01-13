@@ -1,9 +1,0 @@
-slug: mark-gerstein
-name: Mark Gerstein
-lastName: Gerstein
-image: image.jpg
-roles:
-  - type: collaborator
-    project: CDI08
-    dateStart: '2008-01-01'
-    dateEnd: '2008-12-31'

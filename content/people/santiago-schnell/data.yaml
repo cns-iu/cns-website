@@ -1,9 +1,0 @@
-slug: santiago-schnell
-name: Santiago Schnell
-lastName: Schnell
-image: image.jpg
-roles:
-  - type: collaborator
-    project: NWB
-    dateStart: '2006-01-01'
-    dateEnd: '2009-08-31'
