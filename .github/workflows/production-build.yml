@@ -32,7 +32,7 @@ jobs:
       - run: npm run job
         working-directory: content-migrator
       - name: Deploy website build
-        run: >
+        run: |
           cp -r build dist
           cp -r assets/* dist/assets/
           cp -r content admin dist/
