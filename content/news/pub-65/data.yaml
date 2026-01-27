@@ -1,5 +1,5 @@
 slug: pub-65
-link: 20070519_NewScientist.html
+link: https://cns.iu.edu/docs/news/20070519_NewScientist.html
 title: Power Struggle
 description: >-
   How do you keep track of the bubbling mass of information that is Wikipedia?
@@ -33,7 +33,8 @@ description: >-
   Conference on Network Science in Bloomington.
 date: '2007-05-19'
 mediaType: document
-mediaUrl: 20070519_NewScientist.jpg
+mediaUrl: >-
+  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070519_NewScientist.html
 caption: >-
   The following is an article from New Scientist. Read the original article on
   the web

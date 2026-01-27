@@ -1,0 +1,17 @@
+slug: pres-666
+type: presentation
+links:
+  - >-
+    https://cns.iu.edu/docs/presentations/21-GTEx-Cross-Consortium
+    Presentation.pdf
+title: >-
+  Cloud-Based Common Coordinate Framework to Enable Integration and Analyses
+  Across GTEx and HuBMAP Data
+description: ''
+location: Bethesda, MD (Virtual Event)
+presenters:
+  - katy-borner
+  - kristin-ardlie
+dateStart: '2021-10-05'
+dateEnd: '2021-10-05'
+event: ev-831

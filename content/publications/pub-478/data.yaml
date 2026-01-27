@@ -1,7 +1,7 @@
 slug: pub-478
 authors:
-  - uriah-israel
   - markus-marks
+  - uriah-israel
   - rohit-dilip
   - qilin-li
   - changhua-yu
@@ -22,14 +22,14 @@ authors:
 editors: []
 type: article-journal
 title: 'CellSAM: A Foundation Model for Cell Segmentation'
-date: '2025-02-17'
-publisher: ''
-venue: bioRxiv
+date: '2024-12-08'
+publisher: Nature
+venue: Nature Methods
 volume: ''
 issue: ''
-doi: 10.1101/2023.11.17.567630
+doi: 10.1038/s41592-025-02879-w
 pages: ''
 chapter: ''
 links:
-  - https://www.biorxiv.org/content/10.1101/2023.11.17.567630v5
+  - https://www.nature.com/articles/s41592-025-02879-w
 tags: []

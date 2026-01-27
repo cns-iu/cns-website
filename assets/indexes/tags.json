@@ -20,11 +20,6 @@
     "description": "Human Reference Atlas"
   },
   {
-    "slug": "featured",
-    "name": "Featured",
-    "description": "Items to feature on the CNS landing page"
-  },
-  {
     "slug": "expert",
     "name": "Expert",
     "description": "expert (usually just for people)"

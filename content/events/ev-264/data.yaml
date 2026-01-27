@@ -1,0 +1,20 @@
+slug: ev-264
+type: visit
+links: []
+title: Bruce visited Mike Smoot
+description: >
+  Bruce showed Mike how to take advantage of OSGi for Cytoscape3,
+
+  implementing a proof of concept of Cytoscape running on OSGi, creating an
+
+  initial draft API for Cytoscape3 and forming a strategy for bridging NWB and
+  Cytoscape in the future.
+location: San Diego, CA
+organizers: []
+attendees: []
+publications: []
+presentations: []
+tutorials: []
+dateStart: '2007-10-01'
+dateEnd: '2007-10-10'
+tags: []
