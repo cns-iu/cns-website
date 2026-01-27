@@ -1419,7 +1419,7 @@
   {
     "slug": "uits",
     "name": "UITS",
-    "lastName": "",
+    "lastName": "UITS",
     "roles": []
   },
   {
@@ -1621,7 +1621,7 @@
         "office": "",
         "phone": "",
         "fax": "",
-        "email": "todd.holloway@gmail.com",
+        "email": "tohollow@cs.indiana.edu",
         "education": "",
         "background": "",
         "interests": "",
@@ -1635,7 +1635,7 @@
         "office": "",
         "phone": "",
         "fax": "",
-        "email": "tohollow@cs.indiana.edu",
+        "email": "todd.holloway@gmail.com",
         "education": "",
         "background": "",
         "interests": "",
@@ -2536,7 +2536,7 @@
         "office": "",
         "phone": "",
         "fax": "",
-        "email": "sambre@iu.edu",
+        "email": "sumeet.ambre@cookmedical.com",
         "education": "",
         "background": "",
         "interests": "",
@@ -2550,7 +2550,7 @@
         "office": "",
         "phone": "",
         "fax": "",
-        "email": "sumeet.ambre@cookmedical.com",
+        "email": "sambre@iu.edu",
         "education": "",
         "background": "",
         "interests": "",
@@ -3967,7 +3967,7 @@
   },
   {
     "slug": "sarah-a-teichmann",
-    "name": "Sarah A Teichmann",
+    "name": "Sarah A. Teichmann",
     "lastName": "Teichmann",
     "roles": []
   },
@@ -5291,7 +5291,7 @@
   },
   {
     "slug": "rebecca-t-beuschel",
-    "name": "Rebecca T. Beuschel",
+    "name": "Rebecca T Beuschel",
     "lastName": "Beuschel",
     "roles": []
   },
@@ -6422,7 +6422,7 @@
   },
   {
     "slug": "oyvind-eide",
-    "name": "Øyvind Eide",
+    "name": "Oyvind Eide",
     "lastName": "Eide",
     "roles": []
   },
@@ -8342,17 +8342,17 @@
     "roles": [
       {
         "type": "student",
-        "topic": "Behavioral Analysis of Network Flow Data",
+        "topic": "Internet Traffic Analysis, Chizu",
         "degree": "Ph.D.",
-        "department": "Computer Science",
+        "department": "",
         "dateStart": "2004-01-01",
         "dateEnd": "2010-08-01"
       },
       {
         "type": "student",
-        "topic": "Internet Traffic Analysis, Chizu",
+        "topic": "Behavioral Analysis of Network Flow Data",
         "degree": "Ph.D.",
-        "department": "",
+        "department": "Computer Science",
         "dateStart": "2004-01-01",
         "dateEnd": "2010-08-01"
       }
@@ -8801,7 +8801,7 @@
   },
   {
     "slug": "m-todd-valerius",
-    "name": "M. Todd Valerius",
+    "name": "M Todd Valerius",
     "lastName": "Valerius",
     "roles": []
   },
@@ -10220,7 +10220,7 @@
   {
     "slug": "kaare-christensen",
     "name": "Kaare Christensen",
-    "lastName": "",
+    "lastName": "Christensen",
     "roles": []
   },
   {
@@ -12017,7 +12017,7 @@
   {
     "slug": "iuni",
     "name": "IUNI",
-    "lastName": "",
+    "lastName": "IUNI",
     "roles": []
   },
   {
@@ -12317,7 +12317,7 @@
   {
     "slug": "hubmap-consortium",
     "name": "HuBMAP Consortium",
-    "lastName": "Consortium",
+    "lastName": "",
     "roles": []
   },
   {
@@ -12879,7 +12879,7 @@
   },
   {
     "slug": "griffin-m-weber",
-    "name": "Griffin M. Weber",
+    "name": "Griffin M Weber",
     "lastName": "Weber",
     "roles": []
   },
@@ -13342,7 +13342,7 @@
   {
     "slug": "for-the-alzheimers-disease-neuroimaging-initiative",
     "name": "for the Alzheimer’s Disease Neuroimaging Initiative",
-    "lastName": "for the Alzheimer’s Disease Neuroimaging Initiative",
+    "lastName": "",
     "roles": []
   },
   {
@@ -14306,6 +14306,14 @@
         "interests": "Outside of academics and professional pursuits, I enjoy watching historical docuseries and staying updated with the latest trends in the data science industry.",
         "dateStart": "2025-01-13",
         "dateEnd": null
+      },
+      {
+        "type": "student",
+        "topic": "Ph.D. Intelligent Systems Engineering",
+        "degree": "Ph.D.",
+        "department": "ISE",
+        "dateStart": "2026-01-12",
+        "dateEnd": null
       }
     ]
   },
@@ -15225,6 +15233,21 @@
     "roles": []
   },
   {
+    "slug": "congcong-wang",
+    "name": "Congcong Wang",
+    "lastName": "Wang",
+    "roles": [
+      {
+        "type": "student",
+        "topic": "Ph.D. Information and Library Science",
+        "degree": "Ph.D.",
+        "department": "",
+        "dateStart": "2025-01-01",
+        "dateEnd": null
+      }
+    ]
+  },
+  {
     "slug": "colin-ware",
     "name": "Colin Ware",
     "lastName": "Ware",
@@ -15279,7 +15302,7 @@
   {
     "slug": "cns",
     "name": "CNS",
-    "lastName": "CNS",
+    "lastName": "",
     "roles": []
   },
   {
@@ -17500,7 +17523,7 @@
   },
   {
     "slug": "andrea-j-radtke",
-    "name": "Andrea J Radtke",
+    "name": "Andrea J. Radtke",
     "lastName": "Radtke",
     "roles": []
   },

@@ -27,14 +27,11 @@ for (const entry of data) {
   const dir = join(OUTPUT_DIR, entry.slug);
   mkdirpSync(dir);
 
-  const linkFile = join(IMAGES_DIR, entry.link || 'undefined');
-  if (entry.link && existsSync(linkFile)) {
-    cpSync(linkFile, join(dir, entry.link));
+  if (entry.link && !entry.link.startsWith('http')) {
+    entry.link = `https://cns.iu.edu/docs/news/${entry.link}`;
   }
-
-  const mediaFile = join(IMAGES_DIR, entry.mediaUrl || 'undefined');
-  if (entry.mediaUrl && existsSync(mediaFile)) {
-    cpSync(mediaFile, join(dir, entry.mediaUrl));
+  if (entry.mediaUrl && !entry.mediaUrl.startsWith('http')) {
+    entry.mediaUrl = `https://cns.iu.edu/docs/news/${entry.link}`;
   }
 
   writeFileSync(join(dir, 'data.yaml'), dump(entry));

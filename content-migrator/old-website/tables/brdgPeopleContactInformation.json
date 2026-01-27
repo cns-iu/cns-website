@@ -872,5 +872,6 @@
 	{"peopleContactInformationId":1022,"peopleId":2131,"contactInformationId":1110,"rank":1,"type":"100"},
 	{"peopleContactInformationId":1023,"peopleId":2131,"contactInformationId":1111,"rank":1,"type":"010"},
 	{"peopleContactInformationId":1024,"peopleId":2152,"contactInformationId":1112,"rank":1,"type":"100"},
-	{"peopleContactInformationId":1025,"peopleId":2152,"contactInformationId":1113,"rank":1,"type":"010"}
+	{"peopleContactInformationId":1025,"peopleId":2152,"contactInformationId":1113,"rank":1,"type":"010"},
+	{"peopleContactInformationId":1026,"peopleId":2153,"contactInformationId":1114,"rank":1,"type":"100"}
 ]

@@ -20,10 +20,11 @@ for (const entry of data) {
   const dir = join(OUTPUT_DIR, entry.slug);
   mkdirpSync(dir);
 
-  for (const link of entry.links ?? []) {
-    const file = join(DOCS_DIR, link || 'undefined');
-    if (link && existsSync(file)) {
-      cpSync(file, join(dir, link));
+  for (let i = 0; i < entry.links?.length; i++) {
+    let link = entry.links[i];
+    if (link && !link.startsWith('http')) {
+      link = `https://cns.iu.edu/docs/publications/${link}`;
+      entry.links[i] = link;
     }
   }
 

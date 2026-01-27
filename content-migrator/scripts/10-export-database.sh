@@ -15,3 +15,9 @@ pg_dump --schema-only -x -t '*.vw*' > old-website/resources/cns-website.pg.views
 
 grep -i peopleid old-website/resources/cns-website.schema.sql | sort > old-website/resources/people-tables.schema.sql
 grep -i publicationid old-website/resources/cns-website.schema.sql > old-website/resources/publication-tables.schema.sql
+
+grep -i event old-website/resources/cns-website.schema.sql > old-website/resources/event-tables.schema.sql.1
+grep -i workshop old-website/resources/cns-website.schema.sql >> old-website/resources/event-tables.schema.sql.1
+grep -i presentation old-website/resources/cns-website.schema.sql >> old-website/resources/event-tables.schema.sql.1
+sort old-website/resources/event-tables.schema.sql.1 | uniq > old-website/resources/event-tables.schema.sql
+rm old-website/resources/event-tables.schema.sql.1

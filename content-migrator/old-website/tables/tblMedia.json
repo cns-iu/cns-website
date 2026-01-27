@@ -1978,5 +1978,8 @@
 	{"mediumId":2012,"fileNameURL":"https://www.biorxiv.org/content/10.1101/2025.09.11.675730v1","type":"01"},
 	{"mediumId":2013,"fileNameURL":"https://www.biorxiv.org/content/10.1101/2025.09.23.678129v1","type":"01"},
 	{"mediumId":2014,"fileNameURL":"ICIBM_2025_Poster_Ruopeng_Wu.pdf","type":"10"},
-	{"mediumId":2015,"fileNameURL":"ICIBM_2025_Poster_Ruopeng_Wu.pdf","type":"10"}
+	{"mediumId":2015,"fileNameURL":"ICIBM_2025_Poster_Ruopeng_Wu.pdf","type":"10"},
+	{"mediumId":2016,"fileNameURL":"https://www.nature.com/articles/s41597-025-06383-w","type":"01"},
+	{"mediumId":2017,"fileNameURL":"https://www.nature.com/articles/s41592-025-02879-w","type":"01"},
+	{"mediumId":2018,"fileNameURL":"https://www.biorxiv.org/content/10.1101/2025.08.14.670406v2","type":"01"}
 ]

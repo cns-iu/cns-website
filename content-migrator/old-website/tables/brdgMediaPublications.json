@@ -369,10 +369,11 @@
 	{"mediumPublicationId":389,"mediumId":2006,"publicationId":441,"rank":1},
 	{"mediumPublicationId":412,"mediumId":2004,"publicationId":465,"rank":1},
 	{"mediumPublicationId":418,"mediumId":1994,"publicationId":471,"rank":1},
-	{"mediumPublicationId":424,"mediumId":2007,"publicationId":478,"rank":1},
-	{"mediumPublicationId":425,"mediumId":2009,"publicationId":479,"rank":1},
 	{"mediumPublicationId":426,"mediumId":2008,"publicationId":480,"rank":1},
 	{"mediumPublicationId":427,"mediumId":2012,"publicationId":481,"rank":1},
 	{"mediumPublicationId":428,"mediumId":2013,"publicationId":482,"rank":1},
-	{"mediumPublicationId":429,"mediumId":2015,"publicationId":483,"rank":1}
+	{"mediumPublicationId":429,"mediumId":2015,"publicationId":483,"rank":1},
+	{"mediumPublicationId":430,"mediumId":2016,"publicationId":484,"rank":1},
+	{"mediumPublicationId":424,"mediumId":2017,"publicationId":478,"rank":1},
+	{"mediumPublicationId":425,"mediumId":2018,"publicationId":479,"rank":1}
 ]

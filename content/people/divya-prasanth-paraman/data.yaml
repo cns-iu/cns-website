@@ -30,3 +30,9 @@ roles:
       data science industry.
     dateStart: '2025-01-13'
     dateEnd: null
+  - type: student
+    topic: Ph.D. Intelligent Systems Engineering
+    degree: Ph.D.
+    department: ISE
+    dateStart: '2026-01-12'
+    dateEnd: null
