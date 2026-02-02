@@ -1,0 +1,25 @@
+slug: vis-16
+type: visualization
+link: https://cns.iu.edu/images/research/visualizations/nete_screenshots_full.jpg
+title: NETE Analyzer/Visualizer
+description: >-
+  Our development team has been collaborating with NET ESOLUTIONS on an
+  NIH-funded SBIR Phase II project that will result in a major overhaul of the
+  NETE Analyzer/Visualizer, a web-based data visualization tool originally
+  developed in 2012 and used by NIH program officers. The all-new responsive
+  interface scales effortlessly from desktop to tablet browsing and boasts
+  several new features aimed at optimizing a variety of visualization types for
+  effective communication of the insights inherent in the data. This project
+  created Geographic, Temporal, Bimodal, and Map of Science visualizations based
+  on existing Sci2 visualizations and conventions. Each vizualization provides
+  different insights into NIH grant, project, and publication data, and provide
+  multiple forms of interaction, allowing users to pan, pinch- or scroll-zoom,
+  and click individual nodes or clusters to gain more detailed information.
+  NETEAV 1.7.1 was released in October, 2014, and incorporates both back- and
+  front-end changes to the NETEAV system to produce scale-free and responsive
+  visualizations for four visualization types for the full range of data NETEAV
+  provides.
+mediaType: image
+mediaUrl: https://cns.iu.edu/images/research/visualizations/nete_screenshots_400W.jpg
+date: '2014-10-09'
+tags: []

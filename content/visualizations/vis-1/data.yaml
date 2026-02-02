@@ -1,0 +1,23 @@
+slug: vis-1
+type: visualization
+link: https://cns.iu.edu/docs/research/visualizations/2013_TEDx.pdf
+title: TEDxBloomington Map of Registrations
+description: >-
+  Shown here are all TEDxBloomington attendees who registered by March 8, 2013
+  together with the subjects they like 313 subject nodes in colors. People are
+  linked via popular topics. The resulting bi-modal network has 508 nodes
+  connected by 553 edges. It is dominated by the “Technology” (listed 33 times),
+  “Education” (21), “Art” (13), “Design” (12), “Health” (11) nodes. Sizes of
+  subject nodes and labels correspond to the number of attendees who listed
+  them. The densely connect core of the network, also called giant component, is
+  surrounded by smaller networks. For a long time, only one person wanted to
+  talk about “Beer” and this was the only subject he wanted to talk about (top
+  center). Only recently, another registration interconnected “Beer” with
+  “Startups” and from there to other people and subjects in the network.
+  Portraits of the speakers from this year’s conference are placed by their
+  subjects of interest. A listing of all subjects and their counts is given in
+  the lower left.
+mediaType: image
+mediaUrl: https://cns.iu.edu/images/research/visualizations/2013_TEDx_400W.png
+date: '2013-01-23'
+tags: []
