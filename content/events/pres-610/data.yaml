@@ -1,7 +1,5 @@
 slug: pres-610
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-IEEEVIS-Borner-Keynote.pdf
 title: Data Visualization Literacy
 description: ''
 location: Vancouver, Canada
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-10-22'
 dateEnd: '2019-10-22'
 event: ev-753
+link: https://cns.iu.edu/docs/presentations/19-IEEEVIS-Borner-Keynote.pdf

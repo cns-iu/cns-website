@@ -1,7 +1,5 @@
 slug: pres-24
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-medline-poster.pdf
 title: >-
   Mapping Medline Papers, Genes, and Proteins Related to Melanoma Research
   (Poster)
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-05-27'
 dateEnd: '2004-05-27'
 event: ev-55
+link: https://cns.iu.edu/docs/presentations/2004-borner-medline-poster.pdf

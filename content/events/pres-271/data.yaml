@@ -1,7 +1,5 @@
 slug: pres-271
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-Atlas-London.pdf
 title: 'Atlas of Science: Visualizing What We Know'
 description: ''
 location: London, England
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2010-11-15'
 dateEnd: '2010-11-15'
 event: ev-427
+link: https://cns.iu.edu/docs/presentations/2010-borner-Atlas-London.pdf

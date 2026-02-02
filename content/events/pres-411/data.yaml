@@ -1,7 +1,5 @@
 slug: pres-411
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-rice.pdf
 title: Envisioning Communication and Collaboration
 description: ''
 location: Rice University, 6100 Main St, Houston, TX, 77005
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-11-11'
 dateEnd: '2014-11-11'
 event: ev-545
+link: https://cns.iu.edu/docs/presentations/2014-borner-rice.pdf

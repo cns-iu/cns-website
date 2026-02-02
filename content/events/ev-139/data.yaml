@@ -1,7 +1,5 @@
 slug: ev-139
 type: other
-links:
-  - http://www.nii.ac.jp/
 title: Visit to the National Insititute of Informatics
 description: null
 location: Tokyo, Japan
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2007-02-03'
 dateEnd: '2007-02-12'
 tags: []
+link: http://www.nii.ac.jp/

@@ -1,7 +1,5 @@
 slug: ev-668
 type: workshop
-links:
-  - 2017-borner-issi.pdf
 title: Workshop on “Reproducible Scientometrics Research”
 description: ''
 location: Wuhan, China
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2017-10-17'
 dateEnd: '2017-10-17'
 tags: []
+link: 2017-borner-issi.pdf

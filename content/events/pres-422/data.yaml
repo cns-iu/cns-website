@@ -1,7 +1,5 @@
 slug: pres-422
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-halsey-NCATS.pdf
 title: Scalable Multi-Scale Visual Analytical Tools for NCATS
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-04-02'
 dateEnd: '2015-04-02'
 event: ev-556
+link: https://cns.iu.edu/docs/presentations/2015-borner-halsey-NCATS.pdf

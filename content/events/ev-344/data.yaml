@@ -1,7 +1,5 @@
 slug: ev-344
 type: other
-links:
-  - http://www.graphicslink.co.uk/IV09/KDViz.htm
 title: Symposium on Knowledge Domain Visualizations
 description: null
 location: Pompeu Fabra University, Barcelona, Spain
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2009-07-15'
 dateEnd: '2009-07-17'
 tags: []
+link: http://www.graphicslink.co.uk/IV09/KDViz.htm

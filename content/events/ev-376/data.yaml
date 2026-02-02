@@ -1,7 +1,5 @@
 slug: ev-376
 type: visit
-links:
-  - http://www.beckman.illinois.edu/about/index.aspx
 title: >-
   Seminar, The Beckman Institute for Advanced Science and Technology, University
   of Illinois
@@ -18,3 +16,4 @@ tutorials: []
 dateStart: '2009-12-03'
 dateEnd: '2009-12-03'
 tags: []
+link: http://www.beckman.illinois.edu/about/index.aspx

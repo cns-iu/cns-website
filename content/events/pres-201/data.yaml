@@ -1,7 +1,5 @@
 slug: pres-201
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-duhon-vda-collaborations.pdf
 title: >-
   Understanding Outside Collaborations of the Chinese Academy of Science Using
   Jensen-Shannon Divergence
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-01-19'
 dateEnd: '2009-01-19'
 event: ev-324
+link: https://cns.iu.edu/docs/presentations/2009-duhon-vda-collaborations.pdf

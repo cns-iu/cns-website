@@ -1,7 +1,5 @@
 slug: ev-199
 type: other
-links:
-  - http://vw.indiana.edu/07netsci/
 title: Visualizing Network Dynamics Competition
 description: null
 location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-05-20'
 dateEnd: '2007-05-20'
 tags: []
+link: http://vw.indiana.edu/07netsci/

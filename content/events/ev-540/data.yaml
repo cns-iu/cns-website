@@ -1,7 +1,5 @@
 slug: ev-540
 type: meeting
-links:
-  - http://cs-colloq.soic.indiana.edu/
 title: Computer Science Colloquium
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2014-09-05'
 dateEnd: '2014-09-05'
 tags: []
+link: http://cs-colloq.soic.indiana.edu/

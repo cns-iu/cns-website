@@ -1,7 +1,5 @@
 slug: pres-471
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-halsey-bpviz.pptx
 title: 'CNS: Places and Spaces & HSD'
 description: ''
 location: Purdue Technology Center, 3000 Kent Ave, West Lafayette, Indiana, 47906
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-08-03'
 dateEnd: '2016-08-03'
 event: ev-605
+link: https://cns.iu.edu/docs/presentations/2016-halsey-bpviz.pptx

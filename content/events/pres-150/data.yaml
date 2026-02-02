@@ -1,7 +1,5 @@
 slug: pres-150
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-huang-nwb-netsci.pdf
 title: >-
   Network Workbench - Using Service-Oriented Architecture and Component-Based
   Development to Build a Toolkit for Network Scientists
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2007-05-23'
 dateEnd: '2007-05-23'
 event: ev-144
+link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-netsci.pdf

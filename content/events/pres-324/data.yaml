@@ -1,7 +1,5 @@
 slug: pres-324
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-oecd.pdf
 title: '"Sci2 Tool: A Tool for Science of Science Research and Practice" Tutorial'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-04-13'
 dateEnd: '2012-04-13'
 event: ev-472
+link: https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-oecd.pdf

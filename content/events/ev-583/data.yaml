@@ -1,7 +1,5 @@
 slug: ev-583
 type: visit
-links:
-  - http://www.nhlbi.nih.gov/about/org/dcvs
 title: NHLBI Division of Cardiovascular Sciences
 description: ''
 location: Bethesda, MD
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-02-11'
 dateEnd: '2016-02-11'
 tags: []
+link: http://www.nhlbi.nih.gov/about/org/dcvs

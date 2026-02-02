@@ -1,7 +1,5 @@
 slug: ev-871
 type: meeting
-links:
-  - https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders
 title: NIH Junior Investigators Atlas Builders Meeting 2023
 description: ''
 location: New York, NY
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2023-03-01'
 dateEnd: '2023-03-03'
 tags: []
+link: https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders

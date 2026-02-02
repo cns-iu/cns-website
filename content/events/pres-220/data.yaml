@@ -1,8 +1,5 @@
 slug: pres-220
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2009-borner-mediax-science-from-above.pdf
 title: Science from Above
 description: ''
 location: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
@@ -11,3 +8,5 @@ presenters:
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
 event: ev-367
+link: >-
+  https://cns.iu.edu/docs/presentations/2009-borner-mediax-science-from-above.pdf

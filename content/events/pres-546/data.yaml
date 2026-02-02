@@ -1,7 +1,5 @@
 slug: pres-546
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2018-borner-SFI-scivis.pdf
 title: >-
   From Judgment to Impact:  Combining Human and Machine Perception &
   Intelligence to Invent and Implement Desirable Futures
@@ -11,3 +9,4 @@ presenters: []
 dateStart: '2018-04-03'
 dateEnd: '2018-04-03'
 event: ev-694
+link: https://cns.iu.edu/docs/presentations/2018-borner-SFI-scivis.pdf

@@ -1,7 +1,5 @@
 slug: ev-878
 type: conference
-links:
-  - https://www.auanet.org/AUA2024
 title: American Urology Association Basic Sciences Symposium
 description: ''
 location: San Antonio, TX
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2024-05-03'
 dateEnd: '2024-05-06'
 tags: []
+link: https://www.auanet.org/AUA2024

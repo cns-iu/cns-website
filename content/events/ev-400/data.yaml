@@ -1,7 +1,5 @@
 slug: ev-400
 type: workshop
-links:
-  - http://crds.jst.go.jp/en/index.html
 title: >-
   Towards Evidence-based policy making for Science, technology and Innovation.
   Center for Research and Development Strategy (CRDS), Japan Science and
@@ -17,3 +15,4 @@ tutorials: []
 dateStart: '2010-03-09'
 dateEnd: '2010-03-10'
 tags: []
+link: http://crds.jst.go.jp/en/index.html

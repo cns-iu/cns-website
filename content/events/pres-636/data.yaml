@@ -1,7 +1,5 @@
 slug: pres-636
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/20-Borner-IU-Physics.pdf
 title: Data Visualization Literacy
 description: ''
 location: Bloomington, Indiana (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2020-09-30'
 dateEnd: '2020-09-30'
 event: ev-823
+link: https://cns.iu.edu/docs/presentations/20-Borner-IU-Physics.pdf

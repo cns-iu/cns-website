@@ -1,7 +1,5 @@
 slug: pres-392
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-aaas.pdf
 title: The Use of Knowledge Mapping in International STI Horizon Scanning
 description: ''
 location: Chicago, IL
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-02-14'
 dateEnd: '2014-02-14'
 event: ev-526
+link: https://cns.iu.edu/docs/presentations/2014-borner-aaas.pdf

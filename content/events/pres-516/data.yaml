@@ -1,7 +1,5 @@
 slug: pres-516
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-CNS-Opioid-Vis-Challenge.pdf
 title: Reproducible Visual Analytics of Public Opioid Data
 description: ''
 location: Indiana Convention Center, 100 S Capitol Ave, Indianapolis, Indiana, 46225
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2017-09-14'
 dateEnd: '2017-09-14'
 event: ev-664
+link: https://cns.iu.edu/docs/presentations/2017-CNS-Opioid-Vis-Challenge.pdf

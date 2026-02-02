@@ -1,7 +1,5 @@
 slug: ev-744
 type: other
-links:
-  - https://www.exploratorium.edu/visualise
 title: 'VISUALISE: Visualization for Informal Science Education'
 description: ''
 location: San Francisco, CA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2019-05-08'
 dateEnd: '2019-05-09'
 tags: []
+link: https://www.exploratorium.edu/visualise

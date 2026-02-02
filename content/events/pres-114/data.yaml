@@ -1,7 +1,5 @@
 slug: pres-114
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-hook-vistopspc-issi.pdf
 title: Visualizing the Topic Space of the United States Supreme Court
 description: ''
 location: Madrid, Spain
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-06-25'
 dateEnd: '2007-06-25'
 event: ev-142
+link: https://cns.iu.edu/docs/presentations/2007-hook-vistopspc-issi.pdf

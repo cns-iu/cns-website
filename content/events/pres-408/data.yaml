@@ -1,7 +1,5 @@
 slug: pres-408
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-10th-umiami.pdf
 title: 'Places & Spaces Mapping Science: Miami Opening'
 description: ''
 location: Miami, FL
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-09-04'
 dateEnd: '2014-09-04'
 event: ev-541
+link: https://cns.iu.edu/docs/presentations/2014-borner-10th-umiami.pdf

@@ -1,7 +1,5 @@
 slug: ev-449
 type: meeting
-links:
-  - http://www.nasonline.org/site/PageServer
 title: National Academy of Sciences
 description: null
 location: Washington, DC
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-08-22'
 dateEnd: '2011-08-22'
 tags: []
+link: http://www.nasonline.org/site/PageServer

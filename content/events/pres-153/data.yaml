@@ -1,7 +1,5 @@
 slug: pres-153
 type: presentation
-links:
-  - http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931
 title: >-
   Cyberinfrastructure Shell (CIShell): An OSGi-Based Framework for the
   Integration of Datasets and Algorithms
@@ -15,3 +13,4 @@ presenters:
 dateStart: '2007-03-06'
 dateEnd: '2007-03-06'
 event: ev-241
+link: http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931

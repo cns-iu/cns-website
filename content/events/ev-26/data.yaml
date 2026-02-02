@@ -1,7 +1,5 @@
 slug: ev-26
 type: workshop
-links:
-  - http://oai4.web.cern.ch/OAI4/
 title: CERN Workshop on Innovations in Scholarly Communications (OAI4)
 description: null
 location: Geneva, Switzerland
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2005-10-20'
 dateEnd: '2005-10-23'
 tags: []
+link: http://oai4.web.cern.ch/OAI4/

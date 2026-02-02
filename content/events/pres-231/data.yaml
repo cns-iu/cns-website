@@ -1,7 +1,5 @@
 slug: pres-231
 type: presentation
-links:
-  - http://ivl.slis.indiana.edu/km/pres/2002-borner-cscl/
 title: 'Data Harvesting: Intensive Session, Summer 2002'
 description: ''
 location: >-
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2002-05-09'
 dateEnd: '2002-05-09'
 event: ev-379
+link: http://ivl.slis.indiana.edu/km/pres/2002-borner-cscl/

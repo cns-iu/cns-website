@@ -1,7 +1,5 @@
 slug: ev-186
 type: conference
-links:
-  - http://vis.computer.org/vis2007/
 title: IEEE Visualization 2007 Conference
 description: null
 location: Sacramento, CA
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-10-28'
 dateEnd: '2007-10-30'
 tags: []
+link: http://vis.computer.org/vis2007/

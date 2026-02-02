@@ -1,7 +1,5 @@
 slug: pres-232
 type: presentation
-links:
-  - http://ivl.slis.indiana.edu/km/pres/2000-borner-sc/
 title: Demonstration of LVis and iUni for Research@Indiana
 description: ''
 location: Dallas, Texas, 75270
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2000-11-04'
 dateEnd: '2000-11-04'
 event: ev-380
+link: http://ivl.slis.indiana.edu/km/pres/2000-borner-sc/

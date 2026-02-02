@@ -1,7 +1,5 @@
 slug: ev-706
 type: meeting
-links:
-  - https://www.me.hs-mittweida.de/
 title: Research Colloquium
 description: ''
 location: Mittweida, Germany
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-07-02'
 dateEnd: '2018-07-02'
 tags: []
+link: https://www.me.hs-mittweida.de/

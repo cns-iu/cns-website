@@ -1,7 +1,5 @@
 slug: pres-575
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-AllenInstitute.pdf
 title: Actionable Data Visualizations of Science & Technology
 description: ''
 location: Seattle, WA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-03-07'
 dateEnd: '2019-03-07'
 event: ev-725
+link: https://cns.iu.edu/docs/presentations/19-Borner-AllenInstitute.pdf

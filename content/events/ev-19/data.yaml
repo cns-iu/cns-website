@@ -1,7 +1,5 @@
 slug: ev-19
 type: conference
-links:
-  - http://www.siggraph.org/s2005/
 title: >-
   SIGGRAPH 2005: The 32nd International Conference on Computer Graphics and
   Interactive Techniques
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2005-07-31'
 dateEnd: '2005-08-04'
 tags: []
+link: http://www.siggraph.org/s2005/

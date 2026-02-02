@@ -1,7 +1,5 @@
 slug: ev-361
 type: conference
-links:
-  - http://www.grc.org/programs.aspx?year=2009&program=visualiz
 title: Visualization in Science and Education, The Gordon Research Conference
 description: null
 location: Magdalen College, Oxford University, Oxford, UK
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2009-07-26'
 dateEnd: '2009-07-31'
 tags: []
+link: http://www.grc.org/programs.aspx?year=2009&program=visualiz

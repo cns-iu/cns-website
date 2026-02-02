@@ -1,7 +1,5 @@
 slug: pres-173
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-nrc.pdf
 title: 'Science Maps: How to Analyze, Map, and Make Sense of Science'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2008-07-07'
 dateEnd: '2008-07-07'
 event: ev-269
+link: https://cns.iu.edu/docs/presentations/2008-borner-nrc.pdf

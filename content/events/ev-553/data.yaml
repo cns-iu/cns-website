@@ -1,7 +1,5 @@
 slug: ev-553
 type: conference
-links:
-  - https://aaas.confex.com/aaas/2015/webprogram/start.html
 title: 'AAAS 2015 Annual Meeting: Innovations, Information, and Imaging'
 description: ''
 location: San Jose, CA
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2015-02-12'
 dateEnd: '2015-02-16'
 tags: []
+link: https://aaas.confex.com/aaas/2015/webprogram/start.html

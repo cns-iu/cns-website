@@ -1,7 +1,5 @@
 slug: ev-531
 type: meeting
-links:
-  - http://www.iscpif.fr/20140612KatyBorner
 title: Institut des Systèmes Complexes Paris Île-de-France
 description: ''
 location: Paris, France
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2014-06-12'
 dateEnd: '2014-06-12'
 tags: []
+link: http://www.iscpif.fr/20140612KatyBorner

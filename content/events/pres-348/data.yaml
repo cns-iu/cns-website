@@ -1,8 +1,5 @@
 slug: pres-348
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial1-2pages.pdf
 title: >-
   Network Analysis using the Network Workbench (NWB) Tool and the Science of
   Science (Sci2) Tool
@@ -16,3 +13,4 @@ presenters:
 dateStart: '2012-09-17'
 dateEnd: '2012-09-17'
 event: ev-491
+link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial1-2pages.pdf

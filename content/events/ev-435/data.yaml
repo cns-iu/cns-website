@@ -1,7 +1,5 @@
 slug: ev-435
 type: conference
-links:
-  - http://www.insna.org/sunbelt/current.html
 title: 'INSNA Sunbelt Social Networks Conference: Sunbelt XXXI'
 description: ''
 location: St Pete Beach, FL, USA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-02-08'
 dateEnd: '2011-02-13'
 tags: []
+link: http://www.insna.org/sunbelt/current.html

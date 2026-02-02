@@ -1,7 +1,5 @@
 slug: pres-347
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-vivo-iu.pdf
 title: 'Faculty Profiling Systems at IU: VIVO et al.'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2012-09-10'
 dateEnd: '2012-09-10'
 event: ev-494
+link: https://cns.iu.edu/docs/presentations/2012-borner-vivo-iu.pdf

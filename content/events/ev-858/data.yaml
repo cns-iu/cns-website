@@ -1,7 +1,5 @@
 slug: ev-858
 type: conference
-links:
-  - https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21401
 title: >-
   Dagstuhl Seminar on Visualization of Biological Data - From Analysis to
   Communication
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2021-10-03'
 dateEnd: '2021-10-08'
 tags: []
+link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21401

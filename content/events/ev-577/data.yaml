@@ -1,7 +1,5 @@
 slug: ev-577
 type: meeting
-links:
-  - http://iuni.iu.edu/index.html
 title: IUNI Web of Science Meeting
 description: ''
 location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-01-11'
 dateEnd: '2016-01-11'
 tags: []
+link: http://iuni.iu.edu/index.html

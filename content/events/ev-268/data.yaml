@@ -1,7 +1,5 @@
 slug: ev-268
 type: conference
-links:
-  - http://www.ia-cap.org/na-cap08/
 title: The 2008 North American Conference on Computing and Philosophy
 description: 'NA-CAP @IU2008: The Limits of Computation'
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-07-10'
 dateEnd: '2008-07-12'
 tags: []
+link: http://www.ia-cap.org/na-cap08/

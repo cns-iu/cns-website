@@ -1,7 +1,5 @@
 slug: ev-447
 type: conference
-links:
-  - http://events.cels.anl.gov/scidac11/
 title: Scientific Discovery through Advanced Computing Program (SciDAC)
 description: ''
 location: Denver, CO
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-07-10'
 dateEnd: '2011-07-14'
 tags: []
+link: http://events.cels.anl.gov/scidac11/

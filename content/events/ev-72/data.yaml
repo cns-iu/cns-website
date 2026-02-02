@@ -1,7 +1,5 @@
 slug: ev-72
 type: other
-links:
-  - http://nsdl.comm.nsdl.org/
 title: NSDL Annual Meeting
 description: null
 location: Chicago, IL
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2004-11-15'
 dateEnd: '2004-11-17'
 tags: []
+link: http://nsdl.comm.nsdl.org/

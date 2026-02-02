@@ -1,7 +1,5 @@
 slug: ev-320
 type: conference
-links:
-  - http://iplantcollaborative.org/component/conferences/conference/6
 title: IPlant Collaborative Cyberinfrastructure Workshop
 description: null
 location: University of Arizona-Biosphere 2, 32540 S. Biosphere Road, Oracle, AZ, 85623
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2009-01-06'
 dateEnd: '2009-01-09'
 tags: []
+link: http://iplantcollaborative.org/component/conferences/conference/6

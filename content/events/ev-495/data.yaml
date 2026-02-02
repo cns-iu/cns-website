@@ -1,7 +1,5 @@
 slug: ev-495
 type: conference
-links:
-  - http://www.giscience.org/
 title: GIScience 2012
 description: ''
 location: Columbus, OH
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2012-09-18'
 dateEnd: '2012-09-21'
 tags: []
+link: http://www.giscience.org/

@@ -1,7 +1,5 @@
 slug: ev-645
 type: conference
-links:
-  - http://jceb.indiana.edu/events.shtml
 title: Third Annual IUB Innovation  Conference & Reception
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2017-04-06'
 dateEnd: '2017-04-06'
 tags: []
+link: http://jceb.indiana.edu/events.shtml

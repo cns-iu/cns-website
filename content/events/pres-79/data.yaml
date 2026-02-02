@@ -1,7 +1,5 @@
 slug: pres-79
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2005-borner-visinter-tokyo.pdf
 title: Visual Interfaces to Digital Libraries
 description: ''
 location: Tokyo, Japan
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2005-11-21'
 dateEnd: '2005-11-21'
 event: ev-113
+link: https://cns.iu.edu/docs/presentations/2005-borner-visinter-tokyo.pdf

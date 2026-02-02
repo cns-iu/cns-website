@@ -1,7 +1,5 @@
 slug: ev-597
 type: conference
-links:
-  - https://www.i2b2.org/
 title: i2b2 AUG/SHRINE Annual Conference
 description: ''
 location: Boston, MA
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2016-06-21'
 dateEnd: '2016-06-21'
 tags: []
+link: https://www.i2b2.org/

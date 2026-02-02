@@ -1,7 +1,5 @@
 slug: ev-217
 type: other
-links:
-  - http://www.nii.ac.jp/
 title: Gavin LaRowe and Katy Brner work at the National Institute of Informatics
 description: null
 location: Tokyo, Japan
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-02-04'
 dateEnd: '2007-02-13'
 tags: []
+link: http://www.nii.ac.jp/

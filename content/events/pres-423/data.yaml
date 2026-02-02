@@ -1,7 +1,5 @@
 slug: pres-423
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-atlas2-umd.pdf
 title: 'Atlas of Knowledge: Anyone Can Map'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2015-04-03'
 dateEnd: '2015-04-03'
 event: ev-555
+link: https://cns.iu.edu/docs/presentations/2015-borner-atlas2-umd.pdf

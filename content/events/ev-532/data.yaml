@@ -1,7 +1,5 @@
 slug: ev-532
 type: workshop
-links:
-  - http://ec.europa.eu/research/index.cfm?pg=home&lg=en
 title: European Commission Directorate-General for Research and Innovation
 description: ''
 location: Brussels, Belgium
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2014-06-23'
 dateEnd: '2014-06-23'
 tags: []
+link: http://ec.europa.eu/research/index.cfm?pg=home&lg=en

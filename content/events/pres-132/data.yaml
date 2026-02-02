@@ -1,7 +1,5 @@
 slug: pres-132
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-borner-borders.pdf
 title: >-
   Scholarly Data, Network Science, and (Google) Maps - Modeling, Mapping, and
   Exploring the Dynamic Landscape of Science
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2007-05-10'
 dateEnd: '2007-05-10'
 event: ev-206
+link: https://cns.iu.edu/docs/presentations/2007-borner-borders.pdf

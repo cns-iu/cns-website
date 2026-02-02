@@ -1,7 +1,5 @@
 slug: pres-219
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-mediax-macroscopes.pdf
 title: |
   Plug-and-Play Macroscopes
 description: ''
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
 event: ev-366
+link: https://cns.iu.edu/docs/presentations/2009-borner-mediax-macroscopes.pdf

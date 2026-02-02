@@ -1,7 +1,5 @@
 slug: pres-174
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-kdvis-nsf.ppt
 title: Towards a Science of Science (Policy)
 description: ''
 location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2008-09-12'
 dateEnd: '2008-09-12'
 event: ev-270
+link: https://cns.iu.edu/docs/presentations/2008-borner-kdvis-nsf.ppt

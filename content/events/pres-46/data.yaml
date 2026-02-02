@@ -1,7 +1,5 @@
 slug: pres-46
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2003-mane-bioperl-unknown.ppt
 title: BioPerl
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2003-01-01'
 dateEnd: '2003-01-01'
 event: ev-153
+link: https://cns.iu.edu/docs/presentations/2003-mane-bioperl-unknown.ppt

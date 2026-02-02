@@ -1,7 +1,5 @@
 slug: pres-233
 type: presentation
-links:
-  - http://ivl.slis.indiana.edu/km/pres/2001-borner-lvis/
 title: >-
   Searching for the Perfect Match: A Comparison of Free Sorting Results for
   Images by Human Subjects and by Latent Semantic Analysis Techniques
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2000-07-21'
 dateEnd: '2000-07-21'
 event: ev-382
+link: http://ivl.slis.indiana.edu/km/pres/2001-borner-lvis/

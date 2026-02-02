@@ -1,7 +1,5 @@
 slug: pres-170
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-weixia-P&SExhibit-beijing.pdf
 title: 'Places and Spaces: Mapping Science'
 description: ''
 location: National Science Library, Chinese Academy of Science, Beijing, China
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2008-05-17'
 dateEnd: '2008-05-17'
 event: ev-266
+link: https://cns.iu.edu/docs/presentations/2008-weixia-P&SExhibit-beijing.pdf

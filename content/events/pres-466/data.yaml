@@ -1,7 +1,5 @@
 slug: pres-466
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-odonnell-i2b2.pdf
 title: Healthcare System Dynamics
 description: ''
 location: Boston, MA
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2016-06-21'
 dateEnd: '2016-06-21'
 event: ev-597
+link: https://cns.iu.edu/docs/presentations/2016-odonnell-i2b2.pdf

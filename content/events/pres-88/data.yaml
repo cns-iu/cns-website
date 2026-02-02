@@ -1,7 +1,5 @@
 slug: pres-88
 type: presentation
-links:
-  - http://iv.slis.indiana.edu/sw/
 title: IVCSF Plugin Integration Intensive Session
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2005-12-13'
 dateEnd: '2005-12-13'
 event: ev-33
+link: http://iv.slis.indiana.edu/sw/

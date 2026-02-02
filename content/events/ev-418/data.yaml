@@ -1,7 +1,5 @@
 slug: ev-418
 type: workshop
-links:
-  - http://www.ictp.it/
 title: >-
   Lecturer at the Abdus Salam International Centre for Theoretical Physics
   (ICTP)
@@ -18,3 +16,4 @@ tutorials: []
 dateStart: '2005-05-15'
 dateEnd: '2005-05-27'
 tags: []
+link: http://www.ictp.it/

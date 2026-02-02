@@ -1,7 +1,5 @@
 slug: pres-208
 type: presentation
-links:
-  - http://ia-cap.org/na-cap09/index.htm
 title: Science from Above
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-06-15'
 dateEnd: '2009-06-15'
 event: ev-357
+link: http://ia-cap.org/na-cap09/index.htm

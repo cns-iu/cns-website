@@ -1,7 +1,5 @@
 slug: ev-90
 type: workshop
-links:
-  - http://collnet.inist.fr/
 title: >-
   The International Workshop on Webometrics, Informetrics and Scientometrics &
   Seventh COLLNET Meeting
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2006-05-10'
 dateEnd: '2006-05-12'
 tags: []
+link: http://collnet.inist.fr/

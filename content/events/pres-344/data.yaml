@@ -1,7 +1,5 @@
 slug: pres-344
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-ucsdmap-netsci.pdf
 title: 'Design and Update of a Classification System: The UCSD Map of Science'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-09-10'
 dateEnd: '2012-09-10'
 event: ev-491
+link: https://cns.iu.edu/docs/presentations/2012-borner-ucsdmap-netsci.pdf

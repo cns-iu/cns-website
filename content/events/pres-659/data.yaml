@@ -1,7 +1,5 @@
 slug: pres-659
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-HuBMAP-SpatialOmics-Borner.pdf
 title: >-
   Toward a Human Reference Atlas: Anatomical Structures, Cell Types, and
   Biomarkers
@@ -12,3 +10,6 @@ presenters:
 dateStart: '2021-04-15'
 dateEnd: '2021-04-15'
 event: ev-805
+link: https://cns.iu.edu/docs/presentations/21-HuBMAP-SpatialOmics-Borner.pdf
+tags:
+  - hra

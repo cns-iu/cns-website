@@ -1,7 +1,5 @@
 slug: ev-500
 type: workshop
-links:
-  - http://www.dans.knaw.nl/en
 title: VIVO Workshop
 description: ''
 location: KNAW, Amsterdam, The Netherlands
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2013-01-18'
 dateEnd: '2013-01-18'
 tags: []
+link: http://www.dans.knaw.nl/en

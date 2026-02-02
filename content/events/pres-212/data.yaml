@@ -1,7 +1,5 @@
 slug: pres-212
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-nwb-issi.pdf
 title: >-
   Rete-Netzwerk-Red: Analyzing and Visualizing Scholarly Networks Using the
   Network Workbench Tool
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-07-17'
 dateEnd: '2009-07-17'
 event: ev-360
+link: https://cns.iu.edu/docs/presentations/2009-borner-nwb-issi.pdf

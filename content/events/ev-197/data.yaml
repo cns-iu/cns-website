@@ -1,7 +1,5 @@
 slug: ev-197
 type: conference
-links:
-  - http://www.jcdl2007.org/
 title: ACM IEEE Joint Conference on Digital Libraries
 description: null
 location: Vancouver, BC, Canada
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-06-17'
 dateEnd: '2007-06-23'
 tags: []
+link: http://www.jcdl2007.org/

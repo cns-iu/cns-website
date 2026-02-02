@@ -1,7 +1,5 @@
 slug: ev-546
 type: visit
-links:
-  - http://cewit.indiana.edu/
 title: Woman in Computing
 description: ''
 location: >-
@@ -17,3 +15,4 @@ tutorials: []
 dateStart: '2014-11-05'
 dateEnd: null
 tags: []
+link: http://cewit.indiana.edu/

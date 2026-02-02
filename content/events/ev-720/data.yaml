@@ -1,7 +1,5 @@
 slug: ev-720
 type: other
-links:
-  - http://conference.mcn.edu/2018/about.cfm
 title: Museum Computer Network conference
 description: ''
 location: Denver, CO
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-11-13'
 dateEnd: '2018-12-16'
 tags: []
+link: http://conference.mcn.edu/2018/about.cfm

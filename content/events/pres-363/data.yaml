@@ -1,7 +1,5 @@
 slug: pres-363
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-davos-betawall.pdf
 title: 'Atlas of Science: Visualizing What We Know'
 description: ''
 location: Davos-Klosters, Switzerland
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-01-25'
 dateEnd: '2013-01-25'
 event: ev-501
+link: https://cns.iu.edu/docs/presentations/2013-borner-davos-betawall.pdf

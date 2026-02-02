@@ -1,7 +1,5 @@
 slug: ev-281
 type: conference
-links:
-  - http://www.crics8.org/php/index.php?lang=en
 title: 8th Regional Congress on Health Sciences Information (CRICS8)
 description: null
 location: Rio de Janeiro, Brazil
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2008-09-16'
 dateEnd: '2008-09-19'
 tags: []
+link: http://www.crics8.org/php/index.php?lang=en

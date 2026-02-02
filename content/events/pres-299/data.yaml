@@ -1,7 +1,5 @@
 slug: pres-299
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-weingart-dh.pdf
 title: Network and Topical Analysis for the Humanities Using NWB and Sci2
 description: ''
 location: Charlotte, NC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-06-19'
 dateEnd: '2011-06-19'
 event: ev-442
+link: https://cns.iu.edu/docs/presentations/2011-weingart-dh.pdf

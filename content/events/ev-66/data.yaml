@@ -1,9 +1,5 @@
 slug: ev-66
 type: conference
-links:
-  - http://infovis.org/infovis2004/
-  - >-
-    http://www.cs.umd.edu/hcil/InfovisRepository/contest-2004/6/unzip/iv2004.htm 
 title: IEEE Information Visualization Conference
 description: Austin, TX (1st Prize!)
 location: Austin, TX
@@ -17,3 +13,4 @@ tutorials: []
 dateStart: '2004-10-10'
 dateEnd: '2004-10-15'
 tags: []
+link: http://infovis.org/infovis2004/

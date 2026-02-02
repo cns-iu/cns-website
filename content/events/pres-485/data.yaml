@@ -1,7 +1,5 @@
 slug: pres-485
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-IUOnline-IVMOOCPreEd.pdf
 title: >-
   The Information Visualization (IVMOOC):  Precision Education for Students from
   100+ Countries
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2016-11-11'
 dateEnd: '2016-11-11'
 event: ev-621
+link: https://cns.iu.edu/docs/presentations/2016-IUOnline-IVMOOCPreEd.pdf

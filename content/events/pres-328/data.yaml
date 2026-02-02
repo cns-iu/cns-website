@@ -1,7 +1,5 @@
 slug: pres-328
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-psu.pdf
 title: Mining, Visualizing, and Accelerating Science and Technology
 description: ''
 location: |-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-04-26'
 dateEnd: '2012-04-26'
 event: ev-475
+link: https://cns.iu.edu/docs/presentations/2012-borner-psu.pdf

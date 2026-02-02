@@ -1,7 +1,5 @@
 slug: ev-584
 type: workshop
-links:
-  - http://cewit.indiana.edu/
 title: CEWiT, Indiana University
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2016-02-26'
 dateEnd: '2016-02-26'
 tags: []
+link: http://cewit.indiana.edu/

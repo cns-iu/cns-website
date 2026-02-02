@@ -1,7 +1,5 @@
 slug: ev-866
 type: meeting
-links:
-  - https://dknet.org/about/webinar
 title: dkNET Webinar
 description: ''
 location: La Jolla, CA (Virtual Event)
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2022-10-14'
 dateEnd: '2022-10-14'
 tags: []
+link: https://dknet.org/about/webinar

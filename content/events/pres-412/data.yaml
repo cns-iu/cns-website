@@ -1,7 +1,5 @@
 slug: pres-412
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-wic.pdf
 title: 'Humanexus: Envisioning Communication and Collaboration'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2014-11-05'
 dateEnd: '2014-11-05'
 event: ev-546
+link: https://cns.iu.edu/docs/presentations/2014-borner-wic.pdf

@@ -1,7 +1,5 @@
 slug: pres-578
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2019-gindaborner-lak.pdf
 title: Visualizing Learner Trajectories and Engagement to Improve Teaching & Learning
 description: ''
 location: Tempe, AZ
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2019-03-05'
 dateEnd: '2019-03-05'
 event: ev-727
+link: https://cns.iu.edu/docs/presentations/2019-gindaborner-lak.pdf

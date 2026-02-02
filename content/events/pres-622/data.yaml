@@ -1,7 +1,5 @@
 slug: pres-622
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2020.03.17-MC-IU.KPMP-Talk.pdf
 title: >-
   Harmonizing KPMP/HuBMAP Data: Developing Novel Common Coordinate Framework
   User Interfaces
@@ -12,3 +10,6 @@ presenters:
 dateStart: '2020-03-17'
 dateEnd: '2020-03-17'
 event: ev-830
+link: https://cns.iu.edu/docs/presentations/2020.03.17-MC-IU.KPMP-Talk.pdf
+tags:
+  - hra

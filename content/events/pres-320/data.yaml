@@ -1,7 +1,5 @@
 slug: pres-320
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-neu-cs.pdf
 title: Mining, Mapping, and Accelerating Science and Technology
 description: ''
 location: Northeastern University, Boston, MA, 02115
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2012-02-03'
 dateEnd: '2012-02-03'
 event: ev-468
+link: https://cns.iu.edu/docs/presentations/2012-borner-neu-cs.pdf

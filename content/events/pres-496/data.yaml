@@ -1,7 +1,5 @@
 slug: pres-496
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-liu-iconference.pdf
 title: Enter a Job, Get Course Recommendations!
 description: ''
 location: Wuhan, China
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2017-03-24'
 dateEnd: '2017-03-24'
 event: ev-637
+link: https://cns.iu.edu/docs/presentations/2017-liu-iconference.pdf

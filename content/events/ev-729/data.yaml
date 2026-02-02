@@ -1,8 +1,5 @@
 slug: ev-729
 type: workshop
-links:
-  - >-
-    http://www.ibs-laubusch.de/de/veranstaltungen/ibsws/edition-2019/mc/programm/
 title: IBS Workshop Media Computing
 description: ''
 location: Lauta, Germany
@@ -15,3 +12,4 @@ tutorials: []
 dateStart: '2019-02-05'
 dateEnd: null
 tags: []
+link: http://www.ibs-laubusch.de/de/veranstaltungen/ibsws/edition-2019/mc/programm/

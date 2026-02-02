@@ -1,7 +1,5 @@
 slug: pres-140
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-hook-aals-phdrsch.pdf
 title: >-
   The Association of American Law Schools (AALS) Dataset: Visualizations,
   Informetrics and the History of a Discipline
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2007-10-06'
 dateEnd: '2007-10-06'
 event: ev-230
+link: https://cns.iu.edu/docs/presentations/2007-hook-aals-phdrsch.pdf

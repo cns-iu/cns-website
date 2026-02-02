@@ -1,7 +1,5 @@
 slug: ev-545
 type: visit
-links:
-  - http://www.rice.edu/
 title: Rice University
 description: ''
 location: Rice University, 6100 Main St, Houston, TX, 77005
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2014-11-11'
 dateEnd: '2014-11-11'
 tags: []
+link: http://www.rice.edu/

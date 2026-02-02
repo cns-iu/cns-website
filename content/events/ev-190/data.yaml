@@ -1,7 +1,5 @@
 slug: ev-190
 type: other
-links:
-  - http://ella.slis.indiana.edu/%7Ekaty/gallery/07-openhouse/
 title: Cyberinfrastructure for Network Science and InfoViz Lab Annual Open House
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2007-10-15'
 dateEnd: '2007-10-15'
 tags: []
+link: http://ella.slis.indiana.edu/%7Ekaty/gallery/07-openhouse/

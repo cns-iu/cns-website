@@ -1,7 +1,5 @@
 slug: tut-16
 type: tutorial
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-ivctut-ivlondon.pdf
 title: Data Analysis, Modeling and Visualization Tutorial
 description: ''
 location: ''
@@ -9,3 +7,4 @@ instructors: []
 dateStart: '2004-01-01'
 dateEnd: '2004-01-01'
 event: null
+link: https://cns.iu.edu/docs/presentations/2004-borner-ivctut-ivlondon.pdf

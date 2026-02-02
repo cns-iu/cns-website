@@ -1,7 +1,5 @@
 slug: ev-60
 type: conference
-links:
-  - http://www.graphicslink.demon.co.uk/IV04/
 title: Symposium on Knowledge Domain Visualizations; IV 2004
 description: null
 location: London, UK
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2004-07-14'
 dateEnd: '2004-07-16'
 tags: []
+link: http://www.graphicslink.demon.co.uk/IV04/

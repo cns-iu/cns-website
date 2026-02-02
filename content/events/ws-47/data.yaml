@@ -1,10 +1,9 @@
 slug: ws-47
 type: workshop
-links:
-  - http://cis-ieee.org/encon2017/
 title: CIS IEEE EnCON 2017
 description: ''
 location: Bloomington, Indiana, USA
 dateStart: '2017-11-10'
 dateEnd: '2017-11-11'
 tags: []
+link: http://cis-ieee.org/encon2017/

@@ -1,7 +1,5 @@
 slug: pres-453
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-aaas.pdf
 title: >-
   Visual Analytics: Mining, Mapping, and Accelerating Local and Global Science
   and Technology
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2016-02-13'
 dateEnd: '2016-02-13'
 event: ev-582
+link: https://cns.iu.edu/docs/presentations/2016-borner-aaas.pdf

@@ -1,8 +1,5 @@
 slug: ev-689
 type: workshop
-links:
-  - >-
-    https://apps.iu.edu/ccl-prd/events/view?date=02232018&type=month&pubCalId=GRP13640
 title: Intro to Python Web Scraping Faculty Workshop
 description: "Join the CEWiT faculty for a special introduction to Web Scraping via Python. No previous experience necessary.\r\n\r\nWondering what Web scraping is and why you might want to use it? Let’s say you’re interested in the books most frequently recommended on the internet. There are millions of pages devoted to book recommendations, making it impossible to comb through them all. Web scraping makes this possible! Web scraping searches structured data from the web, selects some of that data, and then extracts and organizes that data in the manner specified. Your project is now manageable."
 location: Bloomington, Indiana
@@ -15,3 +12,5 @@ tutorials: []
 dateStart: '2018-02-23'
 dateEnd: '2018-02-23'
 tags: []
+link: >-
+  https://apps.iu.edu/ccl-prd/events/view?date=02232018&type=month&pubCalId=GRP13640

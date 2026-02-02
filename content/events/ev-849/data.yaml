@@ -1,7 +1,5 @@
 slug: ev-849
 type: meeting
-links:
-  - https://beta.nsf.gov/funding/initiatives/convergence-accelerator
 title: >-
   National Science Foundation (NSF) Convergence Accelerator (C-Accel) All-Hands
   Meeting
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2022-04-22'
 dateEnd: '2022-04-22'
 tags: []
+link: https://beta.nsf.gov/funding/initiatives/convergence-accelerator

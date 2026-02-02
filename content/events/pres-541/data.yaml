@@ -1,9 +1,5 @@
 slug: pres-541
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2018-02-23-scrivner-workshop-WIM-python
-    web.pdf
 title: An Introduction to Web Scraping with Python and DataCamp
 description: ''
 location: Bloomington, Indiana
@@ -12,3 +8,6 @@ presenters:
 dateStart: '2018-02-23'
 dateEnd: '2018-02-23'
 event: ev-689
+link: >-
+  https://cns.iu.edu/docs/presentations/2018-02-23-scrivner-workshop-WIM-python
+  web.pdf

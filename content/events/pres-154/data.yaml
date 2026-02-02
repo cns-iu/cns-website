@@ -1,7 +1,5 @@
 slug: pres-154
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2006-huang-cishell-netsci.pdf
 title: >-
   CIShell - A Plug-in Based Architecture for the Integration of Algorithms and
   Data Models
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2006-05-24'
 dateEnd: '2006-05-24'
 event: ev-92
+link: https://cns.iu.edu/docs/presentations/2006-huang-cishell-netsci.pdf

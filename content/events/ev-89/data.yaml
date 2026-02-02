@@ -1,7 +1,5 @@
 slug: ev-89
 type: conference
-links:
-  - http://www.gelconference.com/c/gel06.php
 title: GEL 2006
 description: null
 location: New York, NY
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2006-05-04'
 dateEnd: '2006-05-04'
 tags: []
+link: http://www.gelconference.com/c/gel06.php

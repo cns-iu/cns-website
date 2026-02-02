@@ -1,7 +1,5 @@
 slug: ev-587
 type: meeting
-links:
-  - http://iuni.iu.edu/index.html
 title: Indiana University Network Science Institute
 description: ''
 location: 1320 E 10th St., Wells 021, Bloomington, Indiana, 47405
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-03-25'
 dateEnd: '2016-03-25'
 tags: []
+link: http://iuni.iu.edu/index.html

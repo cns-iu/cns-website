@@ -1,6 +1,5 @@
 slug: ev-870
 type: meeting
-links: []
 title: SenNet Monthly Science Talk Series
 description: ''
 location: Pittsburgh, PA (Virtual Event)
@@ -12,4 +11,5 @@ presentations:
 tutorials: []
 dateStart: '2023-02-22'
 dateEnd: '2023-02-22'
-tags: []
+tags:
+  - hra

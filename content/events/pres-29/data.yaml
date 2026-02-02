@@ -1,7 +1,5 @@
 slug: pres-29
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-datamine-iu.ppt
 title: Data Mining and Information Visualization
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-09-28'
 dateEnd: '2004-09-28'
 event: ev-64
+link: https://cns.iu.edu/docs/presentations/2004-borner-datamine-iu.ppt

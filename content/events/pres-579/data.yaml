@@ -1,7 +1,5 @@
 slug: pres-579
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-ISE-E500.pdf
 title: Data Visualizations for Effective Systems Design
 description: ''
 location: Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-02-21'
 dateEnd: '2019-02-21'
 event: ev-728
+link: https://cns.iu.edu/docs/presentations/19-Borner-ISE-E500.pdf

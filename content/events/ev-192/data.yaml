@@ -1,8 +1,5 @@
 slug: ev-192
 type: conference
-links:
-  - http://ess.si.umich.edu/index.htm
-  - http://www.dlib.indiana.edu/education/brownbags/index.shtml
 title: >-
   Invited Panelist at "Flagship Projects in e-Social Science," Third
   International Conference on e-Social Science
@@ -16,3 +13,4 @@ tutorials: []
 dateStart: '2007-10-08'
 dateEnd: '2007-10-09'
 tags: []
+link: http://ess.si.umich.edu/index.htm

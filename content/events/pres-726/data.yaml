@@ -1,9 +1,5 @@
 slug: pres-726
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2023.10.31_Presentation_to_HuBMAP_WG
-    (1).pdf
 title: >-
   Quality Control/Quality Assurance for the Human Reference Atlas and On-Ramping
   to the HuBMAP Portal Using the HRA Organ Gallery in Virtual Reality
@@ -15,3 +11,8 @@ presenters:
 dateStart: '2023-10-18'
 dateEnd: '2023-10-18'
 event: ev-881
+link: >-
+  https://cns.iu.edu/docs/presentations/2023.10.31_Presentation_to_HuBMAP_WG
+  (1).pdf
+tags:
+  - hra

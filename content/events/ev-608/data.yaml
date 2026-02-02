@@ -1,7 +1,5 @@
 slug: ev-608
 type: meeting
-links:
-  - http://www.nber.org/
 title: National Bureau of Economic Research
 description: ''
 location: Cambridge, MA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-09-08'
 dateEnd: '2016-09-08'
 tags: []
+link: http://www.nber.org/

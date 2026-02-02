@@ -1,7 +1,5 @@
 slug: tut-21
 type: tutorial
-links:
-  - https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial5.pdf
 title: Hierarchical Networks using Sci2 and OSLOM
 description: ''
 location: >-
@@ -12,3 +10,4 @@ instructors:
 dateStart: '2013-01-28'
 dateEnd: '2013-04-29'
 event: ev-502
+link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial5.pdf

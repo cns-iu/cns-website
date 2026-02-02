@@ -1,8 +1,5 @@
 slug: ev-487
 type: workshop
-links:
-  - >-
-    http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html
 title: Portfolio Analysis Symposium
 description: ''
 location: >-
@@ -18,3 +15,5 @@ tutorials: []
 dateStart: '2012-07-23'
 dateEnd: '2012-07-24'
 tags: []
+link: >-
+  http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html

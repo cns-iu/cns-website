@@ -1,7 +1,5 @@
 slug: pres-98
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2006-borner-collwis.pdf
 title: >-
   Using Our Collective Wisdom: Supporting the Global Brain Emerging on this
   Planet
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2006-10-25'
 dateEnd: '2006-10-25'
 event: ev-133
+link: https://cns.iu.edu/docs/presentations/2006-borner-collwis.pdf

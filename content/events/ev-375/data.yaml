@@ -1,7 +1,5 @@
 slug: ev-375
 type: other
-links:
-  - http://informatics.iupui.edu/colloquia/archive.html
 title: School of Informatics Colloquium Series, IUPUI
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-11-20'
 dateEnd: '2009-11-20'
 tags: []
+link: http://informatics.iupui.edu/colloquia/archive.html

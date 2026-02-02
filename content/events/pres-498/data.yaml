@@ -1,7 +1,5 @@
 slug: pres-498
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-bueckle-IIS-vis-living-arch.pdf
 title: 'Sentient Architecture: Visualizing Signal Flow in Intelligent Systems'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2017-04-07'
 dateEnd: '2017-04-07'
 event: ev-643
+link: https://cns.iu.edu/docs/presentations/2017-bueckle-IIS-vis-living-arch.pdf

@@ -1,7 +1,5 @@
 slug: ev-677
 type: conference
-links:
-  - https://scws2017.org/
 title: Science Center World Summit
 description: ''
 location: Tokyo, Japan
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2017-11-16'
 dateEnd: '2017-11-16'
 tags: []
+link: https://scws2017.org/

@@ -1,7 +1,5 @@
 slug: ev-557
 type: meeting
-links:
-  - https://www.regenstrief.org/
 title: Regenstrief Institute
 description: ''
 location: Indianapolis, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2015-04-29'
 dateEnd: '2015-04-29'
 tags: []
+link: https://www.regenstrief.org/

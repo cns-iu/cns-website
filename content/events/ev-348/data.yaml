@@ -1,7 +1,5 @@
 slug: ev-348
 type: other
-links:
-  - http://www.wikisym.org/ws2009/
 title: The International Symposium on Wikis and Open Collaboration
 description: null
 location: Orlando, FL
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2009-10-25'
 dateEnd: '2009-10-27'
 tags: []
+link: http://www.wikisym.org/ws2009/

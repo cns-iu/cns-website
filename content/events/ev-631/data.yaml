@@ -1,7 +1,5 @@
 slug: ev-631
 type: conference
-links:
-  - http://netsci2017.net/
 title: NetSci 2017
 description: ''
 location: Indianapolis, Indiana
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2017-06-21'
 dateEnd: '2017-06-23'
 tags: []
+link: http://netsci2017.net/

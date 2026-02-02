@@ -1,7 +1,5 @@
 slug: ev-318
 type: workshop
-links:
-  - http://www.slis.indiana.edu/news/story.php?story_id=1855
 title: Network Workbench Workshop
 description: null
 location: |-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-11-18'
 dateEnd: '2008-11-18'
 tags: []
+link: http://www.slis.indiana.edu/news/story.php?story_id=1855

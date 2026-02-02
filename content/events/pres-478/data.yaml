@@ -1,7 +1,5 @@
 slug: pres-478
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-nber.pdf
 title: Modelling Science, Technology, and Innovation
 description: ''
 location: Boston, MA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-10-06'
 dateEnd: '2016-10-06'
 event: ev-613
+link: https://cns.iu.edu/docs/presentations/2016-borner-nber.pdf

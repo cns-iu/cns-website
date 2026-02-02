@@ -1,7 +1,5 @@
 slug: ev-380
 type: conference
-links:
-  - http://www.sc2000.org/
 title: 'SC2000: High Performance Networking and Computing Conference'
 description: null
 location: Dallas, Texas, 75270
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2000-11-04'
 dateEnd: '2000-11-10'
 tags: []
+link: http://www.sc2000.org/

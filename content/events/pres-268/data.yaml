@@ -1,7 +1,5 @@
 slug: pres-268
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-vivo-ovpr.pdf
 title: An Overview of VIVO at IU
 description: ''
 location: >-
@@ -15,3 +13,4 @@ presenters:
 dateStart: '2010-10-27'
 dateEnd: '2010-10-27'
 event: ev-424
+link: https://cns.iu.edu/docs/presentations/2010-borner-vivo-ovpr.pdf

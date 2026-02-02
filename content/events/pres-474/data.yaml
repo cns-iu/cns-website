@@ -1,8 +1,5 @@
 slug: pres-474
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2016-borner-research-horizons-sept9.pdf
 title: 'Visual Analytics: Empowering Teachers, Students, Researchers, and Leadership'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -11,3 +8,4 @@ presenters:
 dateStart: '2016-09-09'
 dateEnd: '2016-09-09'
 event: ev-607
+link: https://cns.iu.edu/docs/presentations/2016-borner-research-horizons-sept9.pdf

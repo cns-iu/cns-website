@@ -1,7 +1,5 @@
 slug: ev-603
 type: conference
-links:
-  - http://www.cdc.gov/
 title: >-
   An Introduction to Open Risk Assessment: Data Analysis and Information
   Visualization
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2016-06-14'
 dateEnd: '2016-06-14'
 tags: []
+link: http://www.cdc.gov/

@@ -1,7 +1,5 @@
 slug: ev-802
 type: conference
-links:
-  - https://www.oxfordglobal.co.uk/spatial-biology-online/
 title: The Common Coordinate Framework Registration User Interface (CCF RUI)
 description: ''
 location: Oxford, UK (Virtual Event)
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2021-04-14'
 dateEnd: '2021-04-16'
 tags: []
+link: https://www.oxfordglobal.co.uk/spatial-biology-online/

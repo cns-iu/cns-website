@@ -1,7 +1,5 @@
 slug: pres-49
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-hook-ussupco-poster.ppt
 title: >-
   The United States Supreme Court: Visualizations and Metrics (60 Years of Data)
   (Poster)
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2004-09-10'
 dateEnd: '2004-09-10'
 event: ev-112
+link: https://cns.iu.edu/docs/presentations/2004-hook-ussupco-poster.ppt

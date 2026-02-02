@@ -1,7 +1,5 @@
 slug: pres-148
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-evosci-heraeus.pdf
 title: Mapping the Evolution of Science
 description: ''
 location: Bad Honnef, Germany
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2008-01-22'
 dateEnd: '2008-01-22'
 event: ev-181
+link: https://cns.iu.edu/docs/presentations/2008-borner-evosci-heraeus.pdf

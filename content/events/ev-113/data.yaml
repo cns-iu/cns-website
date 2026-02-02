@@ -1,7 +1,5 @@
 slug: ev-113
 type: other
-links:
-  - http://www.nii.ac.jp/
 title: National Institute of Informatics
 description: null
 location: Tokyo, Japan
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2005-11-17'
 dateEnd: '2005-11-22'
 tags: []
+link: http://www.nii.ac.jp/

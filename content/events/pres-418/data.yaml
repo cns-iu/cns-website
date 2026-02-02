@@ -1,7 +1,5 @@
 slug: pres-418
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-Duke-Opening.pdf
 title: Duke University Places & Spaces Exhibit Opening
 description: ''
 location: Duke University, 615 Chapel Drive, Durham, NC, 27708
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-01-21'
 dateEnd: '2015-01-21'
 event: ev-552
+link: https://cns.iu.edu/docs/presentations/2015-Duke-Opening.pdf

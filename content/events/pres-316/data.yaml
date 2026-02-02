@@ -1,7 +1,5 @@
 slug: pres-316
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-asist.pdf
 title: Envisioning Science and Technology
 description: ''
 location: Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-11-15'
 dateEnd: '2011-11-15'
 event: ev-464
+link: https://cns.iu.edu/docs/presentations/2011-borner-asist.pdf

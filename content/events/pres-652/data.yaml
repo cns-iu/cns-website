@@ -1,7 +1,5 @@
 slug: pres-652
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21.04.06-CZI-Borner.pdf
 title: Data Visualization Best Practices
 description: ''
 location: Redwood City, CA (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2021-04-06'
 dateEnd: '2021-04-06'
 event: ev-807
+link: https://cns.iu.edu/docs/presentations/21.04.06-CZI-Borner.pdf

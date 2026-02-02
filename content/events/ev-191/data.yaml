@@ -1,7 +1,5 @@
 slug: ev-191
 type: conference
-links:
-  - http://www.informatik.uni-leipzig.de/%7Etmra/2007/
 title: Third Annual Conference on Topic Maps Research and Applications
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2007-10-11'
 dateEnd: '2007-10-12'
 tags: []
+link: http://www.informatik.uni-leipzig.de/%7Etmra/2007/

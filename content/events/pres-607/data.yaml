@@ -1,7 +1,5 @@
 slug: pres-607
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-Brighton-VisWS.pdf
 title: Data Visualization Literacy
 description: ''
 location: Brighton, UK
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-06-04'
 dateEnd: '2019-06-04'
 event: ev-748
+link: https://cns.iu.edu/docs/presentations/19-Borner-Brighton-VisWS.pdf

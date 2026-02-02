@@ -1,7 +1,5 @@
 slug: ev-542
 type: workshop
-links:
-  - http://www.nsf.gov
 title: >-
   NSF Workshop on "Methodological Issues in the Evaluation of NSF's
   Interdisciplinary Research Programs"
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2014-10-03'
 dateEnd: '2014-10-03'
 tags: []
+link: http://www.nsf.gov

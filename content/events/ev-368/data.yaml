@@ -1,7 +1,5 @@
 slug: ev-368
 type: workshop
-links:
-  - http://www.northwestern.edu/nico/complexity-conference/workshop.html
 title: >-
   Northwestern Institute on Complex Systems (NICO) Complexity Conference
   Workshops
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-09-03'
 dateEnd: '2009-09-03'
 tags: []
+link: http://www.northwestern.edu/nico/complexity-conference/workshop.html

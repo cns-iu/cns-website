@@ -1,7 +1,5 @@
 slug: pres-406
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-vivo-reuters.pdf
 title: >-
   Using An Enterprise Research Management System to Maintain Accurate and
   Up-to-date Scholarly Data For Campus Re-use
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2014-08-08'
 dateEnd: '2014-08-08'
 event: ev-538
+link: https://cns.iu.edu/docs/presentations/2014-borner-vivo-reuters.pdf

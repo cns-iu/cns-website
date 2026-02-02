@@ -1,7 +1,5 @@
 slug: ev-70
 type: workshop
-links:
-  - http://www.cs.indiana.edu/%7Ejett/
 title: 'JETT 2004: Java Engagement for Teacher Training'
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2004-11-05'
 dateEnd: '2004-11-06'
 tags: []
+link: http://www.cs.indiana.edu/%7Ejett/

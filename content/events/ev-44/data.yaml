@@ -1,7 +1,5 @@
 slug: ev-44
 type: other
-links:
-  - http://www.cs.indiana.edu/cicwic/
 title: Central Indiana Celebration of Women in Computing
 description: null
 location: Spencer, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2004-02-20'
 dateEnd: '2004-02-21'
 tags: []
+link: http://www.cs.indiana.edu/cicwic/

@@ -1,7 +1,5 @@
 slug: ev-646
 type: workshop
-links:
-  - https://rt.uits.iu.edu/visualization/avl/
 title: Web Visualization Demonstration to Advanced Visualization Lab
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2017-04-21'
 dateEnd: '2017-04-21'
 tags: []
+link: https://rt.uits.iu.edu/visualization/avl/

@@ -1,7 +1,5 @@
 slug: ev-14
 type: workshop
-links:
-  - http://web.mit.edu/i-m/program2005.htm
 title: >-
   Image and Meaning 2: A Collaborative Exploration to Discover New Visual
   Expressions in Science and Technology
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2005-06-23'
 dateEnd: '2005-06-25'
 tags: []
+link: http://web.mit.edu/i-m/program2005.htm

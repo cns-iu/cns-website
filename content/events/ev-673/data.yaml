@@ -1,8 +1,5 @@
 slug: ev-673
 type: workshop
-links:
-  - >-
-    https://www.sice.indiana.edu/graduate/courses/index.html?number=e599&department=ISE
 title: E599 Lecture
 description: ''
 location: >-
@@ -17,3 +14,5 @@ tutorials: []
 dateStart: '2017-10-15'
 dateEnd: '2017-10-15'
 tags: []
+link: >-
+  https://www.sice.indiana.edu/graduate/courses/index.html?number=e599&department=ISE

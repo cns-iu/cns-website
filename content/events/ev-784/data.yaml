@@ -1,7 +1,5 @@
 slug: ev-784
 type: meeting
-links:
-  - https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
 title: HuBMAP Y3:Q1 Demo Day (Virtual Event)
 description: ''
 location: Bloomington, Indiana
@@ -12,4 +10,6 @@ presentations: []
 tutorials: []
 dateStart: '2020-09-21'
 dateEnd: '2020-09-22'
-tags: []
+tags:
+  - hra
+link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/

@@ -1,7 +1,5 @@
 slug: pres-526
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-scrivner-megaputer.pdf
 title: >-
   Building Effective Visualization Tools for Everyday Business: Web
   Visualization Framework
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2017-10-18'
 dateEnd: '2017-10-18'
 event: ev-672
+link: https://cns.iu.edu/docs/presentations/2017-scrivner-megaputer.pdf

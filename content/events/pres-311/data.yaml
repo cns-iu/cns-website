@@ -1,7 +1,5 @@
 slug: pres-311
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-nih-modeling.pdf
 title: >-
   Monitoring, Modeling & Forecasting Tools for Fostering Innovative S&T
   Workforce
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2011-10-06'
 dateEnd: '2011-10-06'
 event: ev-459
+link: https://cns.iu.edu/docs/presentations/2011-borner-nih-modeling.pdf

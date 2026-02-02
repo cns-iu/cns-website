@@ -1,7 +1,5 @@
 slug: ev-443
 type: meeting
-links:
-  - http://www.soms.ethz.ch/
 title: Research Seminar, Dirk Helbing Team
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-06-09'
 dateEnd: '2011-06-09'
 tags: []
+link: http://www.soms.ethz.ch/

@@ -19,8 +19,8 @@ COPY (
     COALESCE(publications, []) as publications,
     COALESCE(presentations, []) as presentations,
     COALESCE(tutorials, []) as tutorials,
-    startDate as dateStart,
-    endDate as dateEnd,
+    COALESCE(startDate, try(date(left(title, 4) || '-01-01'))) as dateStart,
+    COALESCE(endDate, try(date(left(title, 4) || '-01-01'))) as dateEnd,
     [] as tags,
   FROM tblCallsEvents AS t
     -- Location

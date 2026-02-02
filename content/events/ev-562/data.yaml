@@ -1,7 +1,5 @@
 slug: ev-562
 type: meeting
-links:
-  - https://www.jsmf.org/meetings/2015/may/
 title: Symposium Honoring John T. Bruer
 description: ''
 location: St. Louis, MO
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2015-05-29'
 dateEnd: '2015-05-29'
 tags: []
+link: https://www.jsmf.org/meetings/2015/may/

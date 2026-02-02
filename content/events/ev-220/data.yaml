@@ -1,7 +1,5 @@
 slug: ev-220
 type: conference
-links:
-  - http://conferences.computer.org/vast/vast2007/
 title: IEEE VAST 2007 Symposium
 description: null
 location: Sacramento, CA
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-10-28'
 dateEnd: '2007-10-30'
 tags: []
+link: http://conferences.computer.org/vast/vast2007/

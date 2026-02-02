@@ -1,7 +1,5 @@
 slug: pres-34
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-infovis-acmnyc.pdf
 title: >-
   Information Visualizations that Improve Access to Scholarly Knowledge and
   Expertise
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-10-22'
 dateEnd: '2004-10-22'
 event: ev-68
+link: https://cns.iu.edu/docs/presentations/2004-borner-infovis-acmnyc.pdf

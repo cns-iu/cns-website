@@ -1,7 +1,5 @@
 slug: ev-580
 type: meeting
-links:
-  - http://www.cdc.gov
 title: Inaugural Lecture
 description: ''
 location: |-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2016-02-04'
 dateEnd: '2016-02-04'
 tags: []
+link: http://www.cdc.gov

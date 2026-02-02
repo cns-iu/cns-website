@@ -1,7 +1,5 @@
 slug: ev-796
 type: workshop
-links:
-  - https://www.didvizandstats.org/
 title: >-
   NIMH Workshop on Advanced Statistical Methods and Dynamic Data Visualizations
   for Mental Health Studies
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2021-06-28'
 dateEnd: '2021-06-30'
 tags: []
+link: https://www.didvizandstats.org/

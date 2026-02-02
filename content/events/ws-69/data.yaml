@@ -1,10 +1,10 @@
 slug: ws-69
 type: workshop
-links:
-  - https://hubmapconsortium.github.io/ccf/pages/kaggle.html
 title: HuBMAP – Hacking the Kidney Awards Ceremony
 description: ''
 location: This was a virtual event, hosted by Kaggle
 dateStart: '2021-05-21'
 dateEnd: '2021-05-21'
-tags: []
+tags:
+  - hra
+link: https://hubmapconsortium.github.io/ccf/pages/kaggle.html

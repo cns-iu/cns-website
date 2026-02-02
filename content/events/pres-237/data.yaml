@@ -1,7 +1,5 @@
 slug: pres-237
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-macroscope-japan.pdf
 title: Towards Plug-and-Play Macroscopes for Science Policy Decisioin Making
 description: ''
 location: Tokyo, Japan
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2010-03-10'
 dateEnd: '2010-03-10'
 event: ev-400
+link: https://cns.iu.edu/docs/presentations/2010-borner-macroscope-japan.pdf

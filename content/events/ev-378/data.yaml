@@ -1,7 +1,5 @@
 slug: ev-378
 type: other
-links:
-  - http://vw.slis.indiana.edu/netscitalks/
 title: Networks and Complex Systems Talk Series, Fall 2009
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-12-07'
 dateEnd: '2009-12-07'
 tags: []
+link: http://vw.slis.indiana.edu/netscitalks/

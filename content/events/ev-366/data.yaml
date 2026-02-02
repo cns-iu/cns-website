@@ -1,7 +1,5 @@
 slug: ev-366
 type: workshop
-links:
-  - http://mediax.stanford.edu/WSI/convergence.html
 title: |-
   Structured Data, Synthetic Minds: Visualizing the Dynamics of Knowledge
   Media X Vanguard Visualization Collaboratory, 2nd Presentation
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
 tags: []
+link: http://mediax.stanford.edu/WSI/convergence.html

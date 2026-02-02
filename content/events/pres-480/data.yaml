@@ -1,7 +1,5 @@
 slug: pres-480
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-workforce-nsf.pdf
 title: '(STEM) Career Experiences and Outcomes '
 description: ''
 location: Arlington, VA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-10-27'
 dateEnd: '2016-10-27'
 event: ev-616
+link: https://cns.iu.edu/docs/presentations/2016-borner-workforce-nsf.pdf

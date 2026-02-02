@@ -1,7 +1,5 @@
 slug: pres-390
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf
 title: 'Visual Insights: A Practical Guide to Making Sense of Data'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-12-06'
 dateEnd: '2013-12-06'
 event: ev-523
+link: https://cns.iu.edu/docs/presentations/2013-borner-visualinsights-cs10k.pdf

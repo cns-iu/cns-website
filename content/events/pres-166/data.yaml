@@ -1,8 +1,5 @@
 slug: pres-166
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2008-borner-computational-poster-beijing.ppt
 title: Computational Scientometrics-Studying Science by Scientific Means(Poster)
 description: ''
 location: Beijing, China
@@ -11,3 +8,5 @@ presenters:
 dateStart: '2008-03-28'
 dateEnd: '2008-03-28'
 event: ev-262
+link: >-
+  https://cns.iu.edu/docs/presentations/2008-borner-computational-poster-beijing.ppt

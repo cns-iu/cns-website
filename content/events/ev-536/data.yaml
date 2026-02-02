@@ -1,7 +1,5 @@
 slug: ev-536
 type: workshop
-links:
-  - http://www.arl.army.mil/www/default.cfm
 title: Workshop at US Army Research Laboratory
 description: ''
 location: Adelphi, MD
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2014-06-18'
 dateEnd: '2014-06-19'
 tags: []
+link: http://www.arl.army.mil/www/default.cfm

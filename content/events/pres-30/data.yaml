@@ -1,7 +1,5 @@
 slug: pres-30
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-infovs15-unknown.pdf
 title: InfoVis Lab Research in 15 Minutes
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-10-08'
 dateEnd: '2004-10-08'
 event: ev-65
+link: https://cns.iu.edu/docs/presentations/2004-borner-infovs15-unknown.pdf

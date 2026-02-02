@@ -1,7 +1,5 @@
 slug: pres-641
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2020.11.16-Helmsley-Bueckle.pptx.pdf
 title: The HuBMAP Common Coordinate Framework (CCF) Registration User Interface (RUI)
 description: ''
 location: New York, NY (Virtual Event)
@@ -9,3 +7,6 @@ presenters: []
 dateStart: '2020-11-16'
 dateEnd: '2020-11-16'
 event: ev-818
+link: https://cns.iu.edu/docs/presentations/2020.11.16-Helmsley-Bueckle.pptx.pdf
+tags:
+  - hra

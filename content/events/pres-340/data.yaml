@@ -1,7 +1,5 @@
 slug: pres-340
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-nih.pdf
 title: '"Sci2 Tool: A Tool for Science of Science Research and Practice" Tutorial'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-07-24'
 dateEnd: '2012-07-24'
 event: ev-487
+link: https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-nih.pdf

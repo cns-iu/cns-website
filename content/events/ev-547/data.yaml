@@ -1,7 +1,5 @@
 slug: ev-547
 type: workshop
-links:
-  - http://cns.iu.edu/workshops/event/141103.html
 title: CNS Plug-and-Play Macroscopes Workshop
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2014-11-02'
 dateEnd: '2014-11-02'
 tags: []
+link: http://cns.iu.edu/workshops/event/141103.html

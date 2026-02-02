@@ -1,8 +1,5 @@
 slug: pres-273
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2010-wagner-Borner-sci2tool-sospwksp.pdf
 title: >-
   Introducing the Science of Science (Sci2) Tool to the Reporting Branch at the
   National Institutes of Health
@@ -14,3 +11,4 @@ presenters:
 dateStart: '2010-12-03'
 dateEnd: '2010-12-03'
 event: ev-429
+link: https://cns.iu.edu/docs/presentations/2010-wagner-Borner-sci2tool-sospwksp.pdf

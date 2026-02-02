@@ -1,7 +1,5 @@
 slug: ev-4
 type: conference
-links:
-  - http://www.socsci.uci.edu/%7Essnconf/
 title: >-
   Sunbelt XXV: International Sunbelt Social Network Conference: International
   Network for Social Network Analysis
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2005-02-16'
 dateEnd: '2005-02-20'
 tags: []
+link: http://www.socsci.uci.edu/%7Essnconf/

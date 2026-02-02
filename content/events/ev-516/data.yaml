@@ -1,7 +1,5 @@
 slug: ev-516
 type: visit
-links:
-  - http://yongyeol.com/courses/2013F-I400/
 title: Data Visualization Guest Lecture
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2013-09-17'
 dateEnd: '2013-09-17'
 tags: []
+link: http://yongyeol.com/courses/2013F-I400/

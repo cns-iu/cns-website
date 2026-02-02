@@ -1,7 +1,5 @@
 slug: pres-678
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-Akoya-Webinar.pdf
 title: >-
   A Framework for Cell Atlas Initiatives: The Information Science Behind HuBMAP
   (Genomeweb Panel Discussion)
@@ -15,3 +13,6 @@ presenters:
 dateStart: '2022-05-25'
 dateEnd: '2022-05-25'
 event: ev-844
+link: https://cns.iu.edu/docs/presentations/22-Akoya-Webinar.pdf
+tags:
+  - hra

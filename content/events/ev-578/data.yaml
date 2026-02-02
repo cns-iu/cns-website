@@ -1,7 +1,5 @@
 slug: ev-578
 type: conference
-links:
-  - http://www.esri.com/events/cartographic-summit
 title: 'Cartographic Summit: Future of Mapping'
 description: ''
 location: Redlands, CA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-02-08'
 dateEnd: '2016-02-10'
 tags: []
+link: http://www.esri.com/events/cartographic-summit

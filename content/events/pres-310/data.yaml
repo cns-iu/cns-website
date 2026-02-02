@@ -1,7 +1,5 @@
 slug: pres-310
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-vanguard-tools.pdf
 title: Plug-and-Play Macroscopes
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-10-04'
 dateEnd: '2011-10-04'
 event: ev-458
+link: https://cns.iu.edu/docs/presentations/2011-borner-vanguard-tools.pdf

@@ -1,7 +1,5 @@
 slug: pres-222
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-scharnhorst-borner-modsci-vks.pdf
 title: 'Models of Science: An Overview'
 description: ''
 location: >-
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2009-10-06'
 dateEnd: '2009-10-06'
 event: ev-370
+link: https://cns.iu.edu/docs/presentations/2009-scharnhorst-borner-modsci-vks.pdf

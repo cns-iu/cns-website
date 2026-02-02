@@ -1,7 +1,5 @@
 slug: pres-334
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-dowman-modsci-nih-april.pdf
 title: 'Modelling the Scientific Workforce: A Progress Report'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-04-12'
 dateEnd: '2012-04-12'
 event: ev-480
+link: https://cns.iu.edu/docs/presentations/2012-dowman-modsci-nih-april.pdf

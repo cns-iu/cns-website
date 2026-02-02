@@ -1,7 +1,5 @@
 slug: ev-448
 type: visit
-links:
-  - https://www.fidelity.com/
 title: Fidelity Investments
 description: ''
 location: Boston, MA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-07-21'
 dateEnd: '2011-07-21'
 tags: []
+link: https://www.fidelity.com/

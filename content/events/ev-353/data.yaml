@@ -1,7 +1,5 @@
 slug: ev-353
 type: other
-links:
-  - http://www.dataandsearch.org/schedule.php
 title: Center for Data and Search Informatics Spring 2009 Seminar Series
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-04-08'
 dateEnd: '2009-04-08'
 tags: []
+link: http://www.dataandsearch.org/schedule.php

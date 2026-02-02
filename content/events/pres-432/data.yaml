@@ -1,7 +1,5 @@
 slug: pres-432
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-issi-exhibit.pdf
 title: Places & Spaces Exhibit
 description: ''
 location: Istanbul, Turkey
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-06-29'
 dateEnd: '2015-06-29'
 event: ev-563
+link: https://cns.iu.edu/docs/presentations/2015-borner-issi-exhibit.pdf

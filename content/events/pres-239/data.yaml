@@ -1,7 +1,5 @@
 slug: pres-239
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-zoss-et-al-job-map.pdf
 title: "Where are the Academic Jobs? \v\vInteractive Exploration of Job Advertisements in Geospatial and Topical Space\v"
 description: ''
 location: >-
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2010-03-30'
 dateEnd: '2010-03-30'
 event: ev-406
+link: https://cns.iu.edu/docs/presentations/2010-zoss-et-al-job-map.pdf

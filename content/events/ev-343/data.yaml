@@ -1,7 +1,5 @@
 slug: ev-343
 type: conference
-links:
-  - http://www.issi2009.org/php/index.php
 title: 12th International Conference on Scientometrics and Informetrics
 description: null
 location: Rio de Janeiro, Brazil
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2009-07-14'
 dateEnd: '2009-07-17'
 tags: []
+link: http://www.issi2009.org/php/index.php

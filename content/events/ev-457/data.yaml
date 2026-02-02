@@ -1,7 +1,5 @@
 slug: ev-457
 type: visit
-links:
-  - http://www.scimaps.org/exhibitions/unt/
 title: University of North Texas Places and Spaces Exhibit Opening
 description: ''
 location: >-
@@ -20,3 +18,4 @@ tutorials: []
 dateStart: '2011-09-29'
 dateEnd: '2011-10-01'
 tags: []
+link: http://www.scimaps.org/exhibitions/unt/

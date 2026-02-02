@@ -1,7 +1,5 @@
 slug: ev-687
 type: visit
-links:
-  - https://www.exploratorium.edu/
 title: the Exploratorium
 description: ''
 location: San Francisco, CA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-01-25'
 dateEnd: '2018-01-25'
 tags: []
+link: https://www.exploratorium.edu/

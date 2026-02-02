@@ -1,7 +1,5 @@
 slug: ev-754
 type: conference
-links:
-  - http://collnet2019.dlut.edu.cn/meeting/index_en.asp?id=2676
 title: >-
   15th International Conference on Webometrics, Informetrics and Scientometrics
   (WIS) & 20th COLLNET Meeting
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2019-11-05'
 dateEnd: '2019-11-08'
 tags: []
+link: http://collnet2019.dlut.edu.cn/meeting/index_en.asp?id=2676

@@ -1,7 +1,5 @@
 slug: pres-621
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2020-Borner-Boeing-VisualAnalytics.pdf
 title: Visual Analytics in Support of Data-Driven Decision Making
 description: ''
 location: Seattle, WA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2020-02-04'
 dateEnd: '2020-02-04'
 event: ev-760
+link: https://cns.iu.edu/docs/presentations/2020-Borner-Boeing-VisualAnalytics.pdf

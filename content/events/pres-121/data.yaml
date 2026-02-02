@@ -1,7 +1,5 @@
 slug: pres-121
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-borner-mktplc-ucsd.ppt
 title: Towards Scholarly Marketplaces
 description: ''
 location: San Diego, CA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-08-06'
 dateEnd: '2007-08-06'
 event: ev-162
+link: https://cns.iu.edu/docs/presentations/2007-borner-mktplc-ucsd.ppt

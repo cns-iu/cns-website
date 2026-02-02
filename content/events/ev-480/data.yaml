@@ -1,7 +1,5 @@
 slug: ev-480
 type: meeting
-links:
-  - http://nih.gov/
 title: SWAM Meeting at NIH
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2012-04-12'
 dateEnd: '2012-04-12'
 tags: []
+link: http://nih.gov/

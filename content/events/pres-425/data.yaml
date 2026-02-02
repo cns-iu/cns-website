@@ -1,7 +1,5 @@
 slug: pres-425
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-atlas2-mundaneum.pdf
 title: 'Atlas of Knowledge: Anyone Can Map'
 description: ''
 location: Mons, Belgium
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-04-22'
 dateEnd: '2015-04-22'
 event: ev-558
+link: https://cns.iu.edu/docs/presentations/2015-borner-atlas2-mundaneum.pdf

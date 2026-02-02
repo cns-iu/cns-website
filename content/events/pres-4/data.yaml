@@ -1,7 +1,5 @@
 slug: pres-4
 type: presentation
-links:
-  - http://vw.indiana.edu/aag05/
 title: >-
   Speaker Session on Mapping Humanity's Knowledge and Expertise in the Digital
   Domain
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2005-04-06'
 dateEnd: '2005-04-06'
 event: ev-6
+link: http://vw.indiana.edu/aag05/

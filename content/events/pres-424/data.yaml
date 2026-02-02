@@ -1,7 +1,5 @@
 slug: pres-424
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-halsey-regenstrief.pdf
 title: Scalable Multi-Scale Visual Analytical Tools for Health Science
 description: ''
 location: Indianapolis, Indiana
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2015-04-29'
 dateEnd: '2015-04-29'
 event: ev-557
+link: https://cns.iu.edu/docs/presentations/2015-borner-halsey-regenstrief.pdf

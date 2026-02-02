@@ -1,7 +1,5 @@
 slug: ev-128
 type: workshop
-links:
-  - http://web.mit.edu/I-m/index.html
 title: Image and Meaning 2.x Workshop
 description: null
 location: Chicago, IL
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2006-09-07'
 dateEnd: '2006-09-07'
 tags: []
+link: http://web.mit.edu/I-m/index.html

@@ -1,7 +1,5 @@
 slug: pres-359
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-tokyo.pdf
 title: Interactive Maps of S&T
 description: ''
 location: Tokyo, Japan
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2012-12-13'
 dateEnd: '2012-12-13'
 event: ev-498
+link: https://cns.iu.edu/docs/presentations/2012-borner-tokyo.pdf

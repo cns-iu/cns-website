@@ -1,8 +1,5 @@
 slug: ev-792
 type: meeting
-links:
-  - >-
-    https://www.cdc.gov/surveillance/surveillance-data-strategies/data-IT-transformation.html
 title: >-
   Data Science Upskilling Program/Data Modernization Initiative, United States
   Centers for Disease Control and Prevention
@@ -16,3 +13,5 @@ tutorials: []
 dateStart: '2021-04-02'
 dateEnd: '2021-04-02'
 tags: []
+link: >-
+  https://www.cdc.gov/surveillance/surveillance-data-strategies/data-IT-transformation.html

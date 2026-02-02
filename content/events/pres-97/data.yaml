@@ -1,7 +1,5 @@
 slug: pres-97
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.pdf
 title: >-
   Ideological Alliances on the United States Supreme Court: Visualizing 50 Years
   of Co-Voting Data
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2006-09-16'
 dateEnd: '2006-09-16'
 event: ev-138
+link: https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.pdf

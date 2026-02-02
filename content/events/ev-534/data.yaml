@@ -1,7 +1,5 @@
 slug: ev-534
 type: meeting
-links:
-  - http://nih.gov/
 title: SWAM Meeting at NIH
 description: ''
 location: Bethesda, MD
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2014-06-16'
 dateEnd: '2014-06-16'
 tags: []
+link: http://nih.gov/

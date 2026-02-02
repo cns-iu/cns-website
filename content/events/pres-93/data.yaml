@@ -1,7 +1,5 @@
 slug: pres-93
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-poster.ppt
 title: Information Visualization Learning Modules (Poster)
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-05-21'
 dateEnd: '2004-05-21'
 event: ev-54
+link: https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-poster.ppt

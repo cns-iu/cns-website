@@ -1,7 +1,5 @@
 slug: ev-464
 type: meeting
-links:
-  - https://www3.gotomeeting.com/register/756023558
 title: American Society for Information Science & Technology (ASIS&T) Webinar
 description: ''
 location: Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-11-15'
 dateEnd: '2011-11-15'
 tags: []
+link: https://www3.gotomeeting.com/register/756023558

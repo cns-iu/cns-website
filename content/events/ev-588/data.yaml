@@ -1,8 +1,5 @@
 slug: ev-588
 type: workshop
-links:
-  - >-
-    http://www.ipam.ucla.edu/programs/workshops/workshop-ii-culture-analytics-and-user-experience-design/
 title: >-
   Workshop II: Culture Analytics and User Experience Design Part of the Long
   Program on “Culture Analytics”
@@ -17,3 +14,5 @@ tutorials: []
 dateStart: '2016-04-11'
 dateEnd: '2016-04-15'
 tags: []
+link: >-
+  http://www.ipam.ucla.edu/programs/workshops/workshop-ii-culture-analytics-and-user-experience-design/

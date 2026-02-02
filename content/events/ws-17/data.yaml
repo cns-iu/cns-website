@@ -1,7 +1,5 @@
 slug: ws-17
 type: workshop
-links:
-  - http://vw.slis.indiana.edu/cdi2008/workshop2.html
 title: >-
   NSF Workshops on Knowledge Management and Visualization Tools in Support of
   Discovery-Workshop II
@@ -10,3 +8,4 @@ location: Queens, NY
 dateStart: '2008-04-07'
 dateEnd: '2008-04-08'
 tags: []
+link: http://vw.slis.indiana.edu/cdi2008/workshop2.html

@@ -1,7 +1,5 @@
 slug: ev-326
 type: workshop
-links:
-  - http://mast.mat.ucsb.edu/
 title: Workshop on the Future of Interactive Media
 description: null
 location: University Center Corwin Pavillion, Santa Barbara, CA, 93117
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2009-01-29'
 dateEnd: '2009-01-30'
 tags: []
+link: http://mast.mat.ucsb.edu/

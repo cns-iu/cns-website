@@ -1,7 +1,5 @@
 slug: pres-527
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-E599.pdf
 title: Visual Insights
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2017-10-15'
 dateEnd: '2017-10-15'
 event: ev-673
+link: https://cns.iu.edu/docs/presentations/2017-borner-E599.pdf

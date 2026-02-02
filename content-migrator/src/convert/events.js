@@ -8,6 +8,7 @@ const STAGING_DIR = 'old-website/staging';
 const OUTPUT_DIR = '../content/events';
 
 const EVENT_JSONS = ['events.json', 'presentations.json', 'tutorials.json', 'workshops.json'];
+const HRA_KEYWORDS = ['hubmap', 'sennet', 'hra', 'human reference atlas'];
 
 function readJson(file, baseDir = STAGING_DIR) {
   const path = join(baseDir, file);
@@ -37,6 +38,13 @@ for (const jsonFile of EVENT_JSONS) {
       entry.links[i] = link;
     }
     entry.links = entry.links.filter((e) => !!e);
+    entry.link = entry.links.length > 0 ? entry.links[0] : undefined;
+    delete entry.links;
+
+    const searchString = `${entry.title} ${entry.description}`;
+    if (HRA_KEYWORDS.some((tag) => searchString.toLowerCase().includes(tag))) {
+      entry.tags = ['hra'];
+    }
 
     writeFileSync(join(dir, 'data.yaml'), dump(entry));
   }

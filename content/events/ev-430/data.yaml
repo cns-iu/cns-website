@@ -1,7 +1,5 @@
 slug: ev-430
 type: other
-links:
-  - http://www.soic.indiana.edu/discover/news-events/events/2011/colloquia.shtml
 title: the School of Informatics and Computing Colloquium Series
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-01-28'
 dateEnd: '2011-01-28'
 tags: []
+link: http://www.soic.indiana.edu/discover/news-events/events/2011/colloquia.shtml

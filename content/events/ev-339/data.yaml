@@ -1,7 +1,5 @@
 slug: ev-339
 type: conference
-links:
-  - http://www.icsti2009.org/
 title: International Council for Scientific and Technical Information Conference
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2009-06-09'
 dateEnd: '2009-06-10'
 tags: []
+link: http://www.icsti2009.org/

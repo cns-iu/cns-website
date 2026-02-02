@@ -1,7 +1,5 @@
 slug: ev-781
 type: meeting
-links:
-  - https://informatics.indiana.edu/courses/class/iub-fall-2020-info-t100
 title: >-
   Indiana University Department of Informatics: Virtual Guest Lecture in T100
   What is Data Science
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2020-12-07'
 dateEnd: '2020-12-07'
 tags: []
+link: https://informatics.indiana.edu/courses/class/iub-fall-2020-info-t100

@@ -1,7 +1,5 @@
 slug: pres-675
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-Lisboa-June.pdf
 title: Atlas of Forecasts & Mapping Science
 description: ''
 location: Lisbon, Portugal (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2022-06-15'
 dateEnd: '2022-06-15'
 event: ev-840
+link: https://cns.iu.edu/docs/presentations/22-Lisboa-June.pdf

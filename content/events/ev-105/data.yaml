@@ -1,7 +1,5 @@
 slug: ev-105
 type: workshop
-links:
-  - http://www.argreenhouse.com/midnight/
 title: Telcordia Technologies Applied Research Midnight Seminars
 description: null
 location: New York, NY
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2006-08-15'
 dateEnd: '2006-08-15'
 tags: []
+link: http://www.argreenhouse.com/midnight/

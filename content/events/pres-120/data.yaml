@@ -1,7 +1,5 @@
 slug: pres-120
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-borner-diggov-nsf.ppt
 title: 'Mapping Science: Opportunities and Challenges'
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-08-14'
 dateEnd: '2007-08-14'
 event: ev-161
+link: https://cns.iu.edu/docs/presentations/2007-borner-diggov-nsf.ppt

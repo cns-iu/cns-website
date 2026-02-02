@@ -1,7 +1,5 @@
 slug: ev-514
 type: meeting
-links:
-  - http://digitalhps.org/node/151
 title: Digital HPS Meeting
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2013-09-07'
 dateEnd: '2013-09-07'
 tags: []
+link: http://digitalhps.org/node/151

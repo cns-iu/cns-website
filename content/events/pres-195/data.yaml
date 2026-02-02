@@ -1,7 +1,5 @@
 slug: pres-195
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-nwb-ws.pdf
 title: >-
   Network Workbench Tool For Large Scale Network Analysis, Modeling, and
   Visualization
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2008-11-18'
 dateEnd: '2008-11-18'
 event: ev-318
+link: https://cns.iu.edu/docs/presentations/2008-borner-nwb-ws.pdf

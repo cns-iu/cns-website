@@ -1,7 +1,5 @@
 slug: ev-402
 type: workshop
-links:
-  - http://www.scimaps.org/flat/meeting/100318/
 title: >-
   NIH Workshop on Identifiers and Disambiguation in Scholarly Work, Katy Börner
   and Mike Conlon, organizers
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2010-03-18'
 dateEnd: '2010-03-19'
 tags: []
+link: http://www.scimaps.org/flat/meeting/100318/

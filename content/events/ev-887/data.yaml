@@ -1,6 +1,5 @@
 slug: ev-887
 type: other
-links: []
 title: CFDE Knowledge Center HRA v2.1
 description: ''
 location: Virtual
@@ -12,4 +11,5 @@ presentations:
 tutorials: []
 dateStart: '2024-07-26'
 dateEnd: '2024-07-26'
-tags: []
+tags:
+  - hra

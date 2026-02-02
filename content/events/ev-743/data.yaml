@@ -1,7 +1,5 @@
 slug: ev-743
 type: conference
-links:
-  - https://www.exploratorium.edu/visualise
 title: 'VISUALISE: Visualization for Informal Science Education'
 description: ''
 location: ''
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2019-05-08'
 dateEnd: '2019-05-09'
 tags: []
+link: https://www.exploratorium.edu/visualise

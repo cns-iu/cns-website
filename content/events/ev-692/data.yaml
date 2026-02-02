@@ -1,7 +1,5 @@
 slug: ev-692
 type: conference
-links:
-  - http://www.indiana.edu/~cewit/summit2018/index.html
 title: CEWIT Summit 2018
 description: ''
 location: Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-03-23'
 dateEnd: '2018-03-24'
 tags: []
+link: http://www.indiana.edu/~cewit/summit2018/index.html

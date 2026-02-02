@@ -1,7 +1,5 @@
 slug: pres-711
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-NISTEP-Seminar.pdf
 title: >-
   Atlas of Forecasts: Predicting and Broadcasting Science, Technology, and
   Innovation
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2022-12-13'
 dateEnd: '2022-12-13'
 event: ev-869
+link: https://cns.iu.edu/docs/presentations/22-NISTEP-Seminar.pdf

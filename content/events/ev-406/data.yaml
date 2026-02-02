@@ -1,7 +1,5 @@
 slug: ev-406
 type: other
-links:
-  - http://sbp.asu.edu/sbp2010/program.html
 title: >-
   2010 International Conference on Social Computing, Behavioral Modeling and
   Prediction
@@ -18,3 +16,4 @@ tutorials: []
 dateStart: '2010-03-31'
 dateEnd: '2010-03-31'
 tags: []
+link: http://sbp.asu.edu/sbp2010/program.html

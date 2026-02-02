@@ -1,7 +1,5 @@
 slug: pres-262
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-nih-biomed.pdf
 title: Envisioning (Biomedical) Science
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters: []
 dateStart: '2010-07-22'
 dateEnd: '2010-07-22'
 event: ev-419
+link: https://cns.iu.edu/docs/presentations/2010-borner-nih-biomed.pdf

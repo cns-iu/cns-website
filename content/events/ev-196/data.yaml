@@ -1,7 +1,5 @@
 slug: ev-196
 type: conference
-links:
-  - http://www.ia.arch.ethz.ch/summit.htm
 title: Visualization Summit
 description: null
 location: Zürich, Switzerland
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-07-03'
 dateEnd: '2007-07-03'
 tags: []
+link: http://www.ia.arch.ethz.ch/summit.htm

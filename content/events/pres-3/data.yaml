@@ -1,7 +1,5 @@
 slug: pres-3
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2005-borner-glbrain.ppt
 title: >-
   Studying the Emergent 'Global Brain' in Large-Scale Co-Author Networks and
   Mapping the 'Backbone of Science'
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2005-02-28'
 dateEnd: '2005-02-28'
 event: ev-5
+link: https://cns.iu.edu/docs/presentations/2005-borner-glbrain.ppt

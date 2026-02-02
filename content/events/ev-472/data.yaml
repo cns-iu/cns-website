@@ -1,9 +1,5 @@
 slug: ev-472
 type: workshop
-links:
-  - http://www.oecd.org
-  - http://www.oecd.org
-  - http://www.oecd.org
 title: Organisation for Economic Co-operation and Development (OECD)
 description: null
 location: >-
@@ -19,3 +15,4 @@ tutorials: []
 dateStart: '2012-04-13'
 dateEnd: '2012-04-13'
 tags: []
+link: http://www.oecd.org

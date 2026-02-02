@@ -1,7 +1,5 @@
 slug: ev-859
 type: conference
-links:
-  - https://giscience2021.netlify.app/
 title: >-
   11th International Conference on Geographic Information Science (GIScience
   2021)
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2021-09-27'
 dateEnd: '2021-09-30'
 tags: []
+link: https://giscience2021.netlify.app/

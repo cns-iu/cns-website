@@ -1,7 +1,5 @@
 slug: pres-609
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-ISSI-CADRE.pdf
 title: 'BIG Data for BIG Science of Science Research: The Value of CADRE'
 description: ''
 location: Rome, Italy
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-09-02'
 dateEnd: '2019-09-02'
 event: ev-752
+link: https://cns.iu.edu/docs/presentations/19-Borner-ISSI-CADRE.pdf

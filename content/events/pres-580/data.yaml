@@ -1,7 +1,5 @@
 slug: pres-580
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-IBSachsen-AvH.pdf
 title: Data Visualizations for Effective Exploration and Communication
 description: ''
 location: Lauta, Germany
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-02-05'
 dateEnd: '2019-02-05'
 event: ev-729
+link: https://cns.iu.edu/docs/presentations/19-Borner-IBSachsen-AvH.pdf

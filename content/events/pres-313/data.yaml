@@ -1,7 +1,5 @@
 slug: pres-313
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-ctsi-iub.pdf
 title: Using Scientometrics to Accelerate Science
 description: ''
 location: Apartment 11, 418 S. Grant Street, Bloomington, Indiana, 47401
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-10-10'
 dateEnd: '2011-10-10'
 event: ev-461
+link: https://cns.iu.edu/docs/presentations/2011-borner-ctsi-iub.pdf

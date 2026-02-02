@@ -1,7 +1,5 @@
 slug: ev-434
 type: other
-links:
-  - http://www.scimaps.org/exhibitions/umich/
 title: Places & Spaces Exhibit at University of Michigan
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-03-07'
 dateEnd: '2011-05-24'
 tags: []
+link: http://www.scimaps.org/exhibitions/umich/

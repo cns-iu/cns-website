@@ -1,7 +1,5 @@
 slug: pres-508
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-netsci-datavislit.pdf
 title: Data Visualization Literacy
 description: ''
 location: Indianapolis, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2017-06-20'
 dateEnd: '2017-06-20'
 event: ev-631
+link: https://cns.iu.edu/docs/presentations/2017-borner-netsci-datavislit.pdf

@@ -1,7 +1,5 @@
 slug: ev-12
 type: conference
-links:
-  - http://www.aisti.org/events/mini05/index.php
 title: >-
   Fifth Annual AISTI Conference, 2005: Seeds of Transformation for Digital
   Libraries
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2005-05-25'
 dateEnd: '2005-05-26'
 tags: []
+link: http://www.aisti.org/events/mini05/index.php

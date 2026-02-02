@@ -1,7 +1,5 @@
 slug: pres-504
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-iuni-os-xdmod-jetstream.pdf
 title: 'IVMOOC on Jetstream & Open XD Metrics on Demand Value Analytics  '
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2017-04-26'
 dateEnd: '2017-04-26'
 event: ev-649
+link: https://cns.iu.edu/docs/presentations/2017-iuni-os-xdmod-jetstream.pdf

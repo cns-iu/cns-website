@@ -1,7 +1,5 @@
 slug: pres-446
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-all -open-house.pdf
 title: CNS Staff Presentations
 description: ''
 location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-11-30'
 dateEnd: '2015-11-30'
 event: ev-575
+link: https://cns.iu.edu/docs/presentations/2015-all -open-house.pdf

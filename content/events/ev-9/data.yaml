@@ -1,7 +1,5 @@
 slug: ev-9
 type: workshop
-links:
-  - http://www.how-why.com/ucs2004/
 title: Understanding Complex Systems 2004
 description: null
 location: Urbana, IL
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2004-05-17'
 dateEnd: '2004-05-20'
 tags: []
+link: http://www.how-why.com/ucs2004/

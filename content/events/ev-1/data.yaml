@@ -1,7 +1,5 @@
 slug: ev-1
 type: conference
-links:
-  - http://vw.indiana.edu/vda2005/
 title: >-
   Conference on Visualization and Data Analysis 2005, part of IS&T /SPIE's 17th
   Annual Symposium on Electronic Imaging 2005
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2005-01-17'
 dateEnd: '2005-01-18'
 tags: []
+link: http://vw.indiana.edu/vda2005/

@@ -1,7 +1,5 @@
 slug: ev-35
 type: conference
-links:
-  - http://vw.indiana.edu/vda2006/
 title: >-
   Conference on Visualization and Data Analysis 2006 (EI10); IS&T/SPIE's
   International Symposium on Electronic Imaging 2006
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2006-01-15'
 dateEnd: '2006-01-19'
 tags: []
+link: http://vw.indiana.edu/vda2006/

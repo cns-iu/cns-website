@@ -1,7 +1,5 @@
 slug: ev-746
 type: workshop
-links:
-  - https://satijalab.org/lungccf/
 title: >-
   Constructing a Common Coordinate Framework for the Human Lung at Harvard
   Medical School
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: null
 dateEnd: null
 tags: []
+link: https://satijalab.org/lungccf/

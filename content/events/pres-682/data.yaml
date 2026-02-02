@@ -1,7 +1,5 @@
 slug: pres-682
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-Lisboa-April-Borner.pdf
 title: >-
   Atlas of Forecasts: Predicting and Broadcasting Science, Technology, and
   Innovation
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2022-04-28'
 dateEnd: '2022-04-28'
 event: ev-840
+link: https://cns.iu.edu/docs/presentations/22-Lisboa-April-Borner.pdf

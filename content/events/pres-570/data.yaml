@@ -1,7 +1,5 @@
 slug: pres-570
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/18-borner-Dagstuhl.pdf
 title: Actionable Data Visualizations
 description: ''
 location: Dagstuhl, Germany
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2018-11-27'
 dateEnd: '2018-11-27'
 event: ev-718
+link: https://cns.iu.edu/docs/presentations/18-borner-Dagstuhl.pdf

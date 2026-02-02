@@ -1,7 +1,5 @@
 slug: ev-309
 type: other
-links:
-  - http://www.cs.indiana.edu/
 title: CS Honors Seminar
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2006-09-18'
 dateEnd: '2006-09-18'
 tags: []
+link: http://www.cs.indiana.edu/

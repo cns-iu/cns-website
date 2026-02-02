@@ -1,7 +1,5 @@
 slug: ev-882
 type: meeting
-links:
-  - https://nih-cfde.github.io/2024-march-all-hands-meeting/
 title: CFDE All Hands Meeting March 2024
 description: ''
 location: ''
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2024-03-19'
 dateEnd: '2024-03-20'
 tags: []
+link: https://nih-cfde.github.io/2024-march-all-hands-meeting/

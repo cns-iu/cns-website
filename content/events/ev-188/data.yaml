@@ -1,7 +1,5 @@
 slug: ev-188
 type: workshop
-links:
-  - http://www.imageandmeaning.org/
 title: Image and Meaning (IM2.4) Workshop
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2007-10-27'
 dateEnd: '2007-10-28'
 tags: []
+link: http://www.imageandmeaning.org/

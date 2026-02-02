@@ -1,7 +1,5 @@
 slug: ev-857
 type: workshop
-links:
-  - https://www.dimensionmill.org/innovation-week/
 title: Innovation Week at The Mill
 description: ''
 location: Bloomington, Indiana
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2021-10-10'
 dateEnd: '2021-10-15'
 tags: []
+link: https://www.dimensionmill.org/innovation-week/

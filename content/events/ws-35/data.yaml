@@ -1,7 +1,5 @@
 slug: ws-35
 type: workshop
-links:
-  - https://web.archive.org/web/20260000000000*/https://cns.iu.edu/151017.html
 title: >-
   Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that Render
   Data into Insights
@@ -10,3 +8,4 @@ location: Montreal, Canada
 dateStart: '2015-10-17'
 dateEnd: '2015-10-17'
 tags: []
+link: https://web.archive.org/web/20260000000000*/https://cns.iu.edu/151017.html
