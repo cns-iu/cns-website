@@ -1,7 +1,5 @@
 slug: ev-719
 type: conference
-links:
-  - https://teachingonline.iu.edu/events/conference2018/index.html
 title: IU Online Conference
 description: ''
 location: Indianapolis, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-11-09'
 dateEnd: '2018-11-09'
 tags: []
+link: https://teachingonline.iu.edu/events/conference2018/index.html

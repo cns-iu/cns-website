@@ -1,7 +1,5 @@
 slug: ev-413
 type: visit
-links:
-  - http://mitpress.mit.edu/main/home/
 title: 'The MIT Press: Fall 2010 Publications Preview'
 description: null
 location: The MIT Press, 55 Hayward St., Cambridge, MA, 02142
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2010-05-06'
 dateEnd: '2010-05-06'
 tags: []
+link: http://mitpress.mit.edu/main/home/

@@ -1,7 +1,5 @@
 slug: ev-694
 type: conference
-links:
-  - https://www.santafe.edu/events/judgment-impact
 title: SFI Colloquium on “From Judgement to Impact”
 description: ''
 location: Santa Fe, New Mexico
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-04-03'
 dateEnd: '2018-04-04'
 tags: []
+link: https://www.santafe.edu/events/judgment-impact

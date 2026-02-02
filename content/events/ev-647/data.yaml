@@ -1,7 +1,5 @@
 slug: ev-647
 type: meeting
-links:
-  - http://cns.iu.edu/
 title: "Monthly PHI Informatics Leadership\_Group Meeting"
 description: ''
 location: Regenstrief Institute, Indianapolis, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2017-04-26'
 dateEnd: '2017-04-26'
 tags: []
+link: http://cns.iu.edu/

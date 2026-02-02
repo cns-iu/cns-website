@@ -1,7 +1,5 @@
 slug: pres-563
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2018-borner-phi.pdf
 title: 'Precision Health Initiative (PHI): Impact Assessment & Strategic Foresight'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2018-08-24'
 dateEnd: '2018-08-24'
 event: ev-710
+link: https://cns.iu.edu/docs/presentations/2018-borner-phi.pdf

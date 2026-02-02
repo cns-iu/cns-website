@@ -1,7 +1,5 @@
 slug: ev-671
 type: conference
-links:
-  - http://www.issi2017.org/
 title: ISSI 2017
 description: ''
 location: Wuhan, China
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2017-10-16'
 dateEnd: '2017-10-20'
 tags: []
+link: http://www.issi2017.org/

@@ -1,7 +1,5 @@
 slug: pres-204
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-macrosope-aaas.pdf
 title: |-
   TLS: Towards a Macroscope for Science Policy Decision Making
   NSF SBE-0738111
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2009-03-25'
 dateEnd: '2009-03-25'
 event: ev-352
+link: https://cns.iu.edu/docs/presentations/2009-borner-macrosope-aaas.pdf

@@ -1,7 +1,5 @@
 slug: ev-270
 type: workshop
-links:
-  - http://www.tpac.gatech.edu/nsfvw.php
 title: |-
   NSF Workshop on A Deeper Look at the Visualization of Scientific 
   Discovery in the Federal Context
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-09-11'
 dateEnd: '2008-09-12'
 tags: []
+link: http://www.tpac.gatech.edu/nsfvw.php

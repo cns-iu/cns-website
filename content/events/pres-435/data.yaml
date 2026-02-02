@@ -1,7 +1,5 @@
 slug: pres-435
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-light-econ.pdf
 title: Aging and the Production of High-Impact and Transformative Science (HITS)
 description: ''
 location: 29 Wood St, Cambridge, MA, 02140
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-07-16'
 dateEnd: '2015-07-16'
 event: ev-565
+link: https://cns.iu.edu/docs/presentations/2015-light-econ.pdf

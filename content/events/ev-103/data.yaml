@@ -1,7 +1,5 @@
 slug: ev-103
 type: conference
-links:
-  - http://vw.indiana.edu/vda2007/
 title: SPIE Conference on Visualization and Data Analysis
 description: null
 location: San Jose, CA
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-01-28'
 dateEnd: '2007-02-01'
 tags: []
+link: http://vw.indiana.edu/vda2007/

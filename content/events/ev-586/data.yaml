@@ -1,7 +1,5 @@
 slug: ev-586
 type: meeting
-links:
-  - https://www.buffalo.edu/ccr.html
 title: Center for Computational Research at SUNY Buffalo
 description: ''
 location: |-
@@ -17,3 +15,4 @@ tutorials: []
 dateStart: '2016-03-29'
 dateEnd: '2016-03-29'
 tags: []
+link: https://www.buffalo.edu/ccr.html

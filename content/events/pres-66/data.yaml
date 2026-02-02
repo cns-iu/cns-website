@@ -1,7 +1,5 @@
 slug: pres-66
 type: presentation
-links:
-  - http://scimaps.org/maps/movieactors
 title: IMDB Movie Database Visualization
 description: ''
 location: Vancouver, BC, Canada
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2006-04-28'
 dateEnd: '2006-04-28'
 event: ev-87
+link: http://scimaps.org/maps/movieactors

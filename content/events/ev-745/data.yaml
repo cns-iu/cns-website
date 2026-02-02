@@ -1,6 +1,5 @@
 slug: ev-745
 type: workshop
-links: []
 title: HuBMAP CCF WS at Harvard Medical School
 description: ''
 location: Boston, MA
@@ -11,4 +10,5 @@ presentations: []
 tutorials: []
 dateStart: '2019-06-27'
 dateEnd: null
-tags: []
+tags:
+  - hra

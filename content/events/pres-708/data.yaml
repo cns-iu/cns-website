@@ -1,7 +1,5 @@
 slug: pres-708
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-dkNET-Borner-Spraggins.pdf
 title: Human Biomolecular Atlas Program (HuBMAP)
 description: ''
 location: La Jolla, CA (Virtual Event)
@@ -11,3 +9,6 @@ presenters:
 dateStart: '2022-10-14'
 dateEnd: '2022-10-14'
 event: ev-866
+link: https://cns.iu.edu/docs/presentations/22-dkNET-Borner-Spraggins.pdf
+tags:
+  - hra

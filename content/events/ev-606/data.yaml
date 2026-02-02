@@ -1,7 +1,5 @@
 slug: ev-606
 type: conference
-links:
-  - http://ht.acm.org/ht2016/
 title: Hypertext 2016
 description: ''
 location: Halifax, Canada
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2016-07-10'
 dateEnd: '2016-07-13'
 tags: []
+link: http://ht.acm.org/ht2016/

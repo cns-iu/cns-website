@@ -1,7 +1,5 @@
 slug: ev-450
 type: meeting
-links:
-  - http://www.aaas.org/
 title: Science/AAAS
 description: null
 location: Washington, DC
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-08-23'
 dateEnd: '2011-08-23'
 tags: []
+link: http://www.aaas.org/

@@ -1,7 +1,5 @@
 slug: pres-545
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/18-NSF-ERC-HUBzero.pdf
 title: 'Engineering Research Center Observatory Visualizations '
 description: ''
 location: Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2018-03-28'
 dateEnd: '2018-03-28'
 event: ev-693
+link: https://cns.iu.edu/docs/presentations/18-NSF-ERC-HUBzero.pdf

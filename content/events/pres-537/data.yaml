@@ -1,7 +1,5 @@
 slug: pres-537
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-sackler-exhibit.pdf
 title: 'Macroscopes: Interactive  Visualizations for Actionable Insights'
 description: ''
 location: Irvine, CA
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2017-12-04'
 dateEnd: '2017-12-04'
 event: ev-680
+link: https://cns.iu.edu/docs/presentations/2017-borner-sackler-exhibit.pdf

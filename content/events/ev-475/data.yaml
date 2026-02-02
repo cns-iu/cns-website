@@ -1,7 +1,5 @@
 slug: ev-475
 type: other
-links:
-  - http://ist.psu.edu/
 title: College of Information Sciences and Technology
 description: null
 location: |-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2012-04-26'
 dateEnd: '2012-04-26'
 tags: []
+link: http://ist.psu.edu/

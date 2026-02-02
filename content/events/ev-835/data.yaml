@@ -1,7 +1,5 @@
 slug: ev-835
 type: conference
-links:
-  - https://secwww.jhuapl.edu/EventLink/Event/142
 title: >-
   3rd Annual Johns Hopkins University Applied Physics Laboratory (APL) XR
   Symposium
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2022-07-27'
 dateEnd: '2022-07-28'
 tags: []
+link: https://secwww.jhuapl.edu/EventLink/Event/142

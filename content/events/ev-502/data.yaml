@@ -1,7 +1,5 @@
 slug: ev-502
 type: meeting
-links:
-  - http://vw.slis.indiana.edu/talks-spring13/
 title: Networks and Complex Systems Talk Series, Spring 2013
 description: ''
 location: >-
@@ -18,3 +16,4 @@ tutorials:
 dateStart: '2013-01-28'
 dateEnd: '2013-04-29'
 tags: []
+link: http://vw.slis.indiana.edu/talks-spring13/

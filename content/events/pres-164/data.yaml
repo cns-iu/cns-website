@@ -1,7 +1,5 @@
 slug: pres-164
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2002-borner-iuniverse.pdf
 title: 'iUniverse: A Collaborative Information Universe for IU'
 description: ''
 location: Indianapolis, Indiana
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2002-12-04'
 dateEnd: '2002-12-04'
 event: ev-260
+link: https://cns.iu.edu/docs/presentations/2002-borner-iuniverse.pdf

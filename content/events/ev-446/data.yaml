@@ -1,7 +1,5 @@
 slug: ev-446
 type: workshop
-links:
-  - http://www.futurict.ethz.ch/InnovAccDefineMeeting
 title: FuturICT Meeting on the Innovation Accelerator
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-06-30'
 dateEnd: '2011-06-30'
 tags: []
+link: http://www.futurict.ethz.ch/InnovAccDefineMeeting

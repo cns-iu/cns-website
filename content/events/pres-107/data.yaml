@@ -1,7 +1,5 @@
 slug: pres-107
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-herr-cishell-umd.pdf
 title: An Introduction to the Network Workbench and Cyberinfrastructure Shell
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2007-06-01'
 dateEnd: '2007-06-01'
 event: ev-150
+link: https://cns.iu.edu/docs/presentations/2007-herr-cishell-umd.pdf

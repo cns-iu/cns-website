@@ -1,7 +1,5 @@
 slug: pres-358
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-tokyo.pdf
 title: '“Sci2 Tool: A Tool for Science of  Science Research and Practice"  Tutorial'
 description: ''
 location: Tokyo, Japan
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2012-12-14'
 dateEnd: '2012-12-14'
 event: ev-498
+link: https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-tokyo.pdf

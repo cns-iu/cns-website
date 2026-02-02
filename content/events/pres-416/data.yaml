@@ -1,7 +1,5 @@
 slug: pres-416
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-korea-workshop.pdf
 title: 'Workshop: Open Source Tools for Data Analysis and Visualization'
 description: ''
 location: Seoul, Korea
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-12-04'
 dateEnd: '2014-12-04'
 event: ev-549
+link: https://cns.iu.edu/docs/presentations/2014-borner-korea-workshop.pdf

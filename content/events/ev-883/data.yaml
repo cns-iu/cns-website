@@ -1,6 +1,5 @@
 slug: ev-883
 type: other
-links: []
 title: SenNet Sci-talk
 description: ''
 location: Virtual
@@ -12,4 +11,5 @@ presentations:
 tutorials: []
 dateStart: '2024-05-29'
 dateEnd: '2024-05-29'
-tags: []
+tags:
+  - hra

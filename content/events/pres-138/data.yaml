@@ -1,7 +1,5 @@
 slug: pres-138
 type: presentation
-links:
-  - http://ella.slis.indiana.edu/~katy/events/06-nsf-oci.pdf
 title: >-
   User-Friendly Cyberinfrastructures and Their Utility for Scholarly Knowledge
   Management
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2006-12-13'
 dateEnd: '2006-12-13'
 event: ev-226
+link: http://ella.slis.indiana.edu/~katy/events/06-nsf-oci.pdf

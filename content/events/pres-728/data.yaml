@@ -1,7 +1,5 @@
 slug: pres-728
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf
 title: VCCF Cell Distance Visualizations
 description: ''
 location: Virtual
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2024-05-29'
 dateEnd: '2024-05-29'
 event: ev-883
+link: https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf

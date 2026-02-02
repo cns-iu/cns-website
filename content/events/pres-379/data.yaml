@@ -1,7 +1,5 @@
 slug: pres-379
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-weingart-hps-iu.pdf
 title: Finding the History & Philosophy of Science
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-09-07'
 dateEnd: '2013-09-07'
 event: ev-514
+link: https://cns.iu.edu/docs/presentations/2013-weingart-hps-iu.pdf

@@ -1,7 +1,5 @@
 slug: ev-260
 type: conference
-links:
-  - http://ilight.net/about
 title: I-Light Presentation
 description: ''
 location: Indianapolis, Indiana
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2002-12-01'
 dateEnd: '2002-12-31'
 tags: []
+link: http://ilight.net/about

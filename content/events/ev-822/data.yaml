@@ -1,7 +1,5 @@
 slug: ev-822
 type: meeting
-links:
-  - https://db.cngb.org/HCL/meeting.html
 title: Human Cell Atlas (HCA) Asia Meeting 2020
 description: ''
 location: Beijing, China (Virtual Event)
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2020-10-22'
 dateEnd: '2020-10-23'
 tags: []
+link: https://db.cngb.org/HCL/meeting.html

@@ -1,7 +1,5 @@
 slug: pres-349
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-statewideIT-oim.pdf
 title: Online Interactive Maps
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-09-24'
 dateEnd: '2012-09-24'
 event: ev-492
+link: https://cns.iu.edu/docs/presentations/2012-borner-statewideIT-oim.pdf

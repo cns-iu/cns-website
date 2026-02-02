@@ -1,7 +1,5 @@
 slug: ev-827
 type: meeting
-links:
-  - https://hubmapconsortium.org/
 title: HuBMAP Annual Meeting
 description: ''
 location: Washington, DC (Virtual Event)
@@ -13,4 +11,6 @@ presentations:
 tutorials: []
 dateStart: '2020-05-19'
 dateEnd: '2020-05-20'
-tags: []
+tags:
+  - hra
+link: https://hubmapconsortium.org/

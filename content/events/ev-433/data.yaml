@@ -1,7 +1,5 @@
 slug: ev-433
 type: workshop
-links:
-  - http://sonic.northwestern.edu/events/webnetsciworkshop/
 title: >-
   The Third International Workshop on Network Theory: "Web Science meets Network
   Science"
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-03-04'
 dateEnd: '2011-03-05'
 tags: []
+link: http://sonic.northwestern.edu/events/webnetsciworkshop/

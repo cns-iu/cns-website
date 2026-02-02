@@ -1,7 +1,5 @@
 slug: pres-130
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-lee-chinaseg.pdf
 title: Chinese Text Segmentation
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2007-09-10'
 dateEnd: '2007-09-10'
 event: ev-169
+link: https://cns.iu.edu/docs/presentations/2007-lee-chinaseg.pdf

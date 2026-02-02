@@ -1,8 +1,5 @@
 slug: pres-676
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/Spatial-Biology-EU-2022-Conference-Brochure.pdf
 title: 'Human Reference Atlas: Construction And Usage'
 description: ''
 location: Berlin, Germany
@@ -11,3 +8,7 @@ presenters:
 dateStart: '2022-06-08'
 dateEnd: '2022-06-08'
 event: ev-841
+link: >-
+  https://cns.iu.edu/docs/presentations/Spatial-Biology-EU-2022-Conference-Brochure.pdf
+tags:
+  - hra

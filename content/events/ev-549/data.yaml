@@ -1,7 +1,5 @@
 slug: ev-549
 type: workshop
-links:
-  - http://eng.kofac.re.kr/userIndex/engIndex.do
 title: Science & Creativity Annual Conference (KOFAC)
 description: ''
 location: Seoul, Korea
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2014-12-05'
 dateEnd: null
 tags: []
+link: http://eng.kofac.re.kr/userIndex/engIndex.do

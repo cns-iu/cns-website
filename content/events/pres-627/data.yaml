@@ -1,8 +1,5 @@
 slug: pres-627
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/20-Borner-HuBMAP-AnnualMeeting-ExtCollab-CCF.pdf
 title: 'Ontologies & CCF: Anatomical Structures, Cell Types and Biomarkers'
 description: ''
 location: Washington, DC (Virtual Event)
@@ -11,3 +8,5 @@ presenters:
 dateStart: '2020-05-20'
 dateEnd: '2020-05-20'
 event: ev-766
+link: >-
+  https://cns.iu.edu/docs/presentations/20-Borner-HuBMAP-AnnualMeeting-ExtCollab-CCF.pdf

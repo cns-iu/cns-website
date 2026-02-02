@@ -1,7 +1,5 @@
 slug: pres-374
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-sci2tutorial-issi.pdf
 title: '“Sci2: A Tool for Science of Science Research and Practice" Workshop'
 description: ''
 location: Vienna, Austria
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-07-15'
 dateEnd: '2013-07-15'
 event: ev-510
+link: https://cns.iu.edu/docs/presentations/2013-borner-sci2tutorial-issi.pdf

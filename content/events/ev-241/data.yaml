@@ -1,7 +1,5 @@
 slug: ev-241
 type: conference
-links:
-  - http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931
 title: EclipseCon 2007
 description: null
 location: Santa Clara, CA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2007-03-05'
 dateEnd: '2007-03-08'
 tags: []
+link: http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931

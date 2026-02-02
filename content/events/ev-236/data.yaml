@@ -1,7 +1,5 @@
 slug: ev-236
 type: visit
-links:
-  - http://www.virtualknowledgestudio.nl/
 title: Talk at Virtual Knowledge Studio (VKS)
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-01-25'
 dateEnd: '2008-01-25'
 tags: []
+link: http://www.virtualknowledgestudio.nl/

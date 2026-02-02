@@ -1,7 +1,5 @@
 slug: ev-770
 type: meeting
-links:
-  - https://cns.iu.edu/amatria.html
 title: Amatria's 2nd Birthday Celebration
 description: ''
 location: Virtual, Cyberinfrastructure for Network Science Center (CNS) Zoom Event
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2020-04-13'
 dateEnd: '2020-04-13'
 tags: []
+link: https://cns.iu.edu/amatria.html

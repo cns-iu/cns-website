@@ -1,7 +1,5 @@
 slug: pres-569
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2018-10-10-bueckle-scivis.pdf
 title: IoT Visualization and Amatria
 description: ''
 location: Bloomington, Indiana
@@ -9,3 +7,4 @@ presenters: []
 dateStart: '2018-10-10'
 dateEnd: '2018-10-10'
 event: ev-717
+link: https://cns.iu.edu/docs/presentations/2018-10-10-bueckle-scivis.pdf

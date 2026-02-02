@@ -1,7 +1,5 @@
 slug: ev-210
 type: other
-links:
-  - http://scimaps.org/mcpl/
 title: Mapping Science Exhibit
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2007-05-01'
 dateEnd: '2007-05-30'
 tags: []
+link: http://scimaps.org/mcpl/

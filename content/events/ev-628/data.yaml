@@ -1,7 +1,5 @@
 slug: ev-628
 type: workshop
-links:
-  - https://www.nsf.gov/
 title: NSF Workshop
 description: ''
 location: ''
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2016-12-14'
 dateEnd: null
 tags: []
+link: https://www.nsf.gov/

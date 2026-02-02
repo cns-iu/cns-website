@@ -1,6 +1,5 @@
 slug: ev-891
 type: other
-links: []
 title: SenNet Science Talk
 description: ''
 location: ''
@@ -12,4 +11,5 @@ presentations:
 tutorials: []
 dateStart: '2024-07-30'
 dateEnd: '2024-07-30'
-tags: []
+tags:
+  - hra

@@ -1,7 +1,5 @@
 slug: ev-523
 type: other
-links:
-  - http://cs10kcommunity.org/
 title: 'Teaching Data: A CS10K Community-Wide Online Event'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2013-12-05'
 dateEnd: '2013-12-07'
 tags: []
+link: http://cs10kcommunity.org/

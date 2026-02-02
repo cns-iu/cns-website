@@ -1,7 +1,5 @@
 slug: ev-356
 type: conference
-links:
-  - http://www.icsti2009.org/02-program_e.shtml
 title: 'ICSTI 2009 Conference: Managing Data for Science'
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-06-09'
 dateEnd: '2009-06-10'
 tags: []
+link: http://www.icsti2009.org/02-program_e.shtml

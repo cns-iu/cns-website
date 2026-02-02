@@ -1,7 +1,5 @@
 slug: ev-820
 type: conference
-links:
-  - https://innovationdigi.com/
 title: 2020 Innovation Digi Virtual Conference
 description: ''
 location: Indianapolis, Indiana (Virtual Event)
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2020-11-05'
 dateEnd: '2020-11-05'
 tags: []
+link: https://innovationdigi.com/

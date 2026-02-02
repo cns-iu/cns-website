@@ -1,7 +1,5 @@
 slug: ev-269
 type: visit
-links:
-  - http://www.nrc-cnrc.gc.ca/newsroom/news/2008_e.html
 title: Meetings at the National Research Council
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-07-07'
 dateEnd: '2008-07-07'
 tags: []
+link: http://www.nrc-cnrc.gc.ca/newsroom/news/2008_e.html

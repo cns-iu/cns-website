@@ -1,7 +1,5 @@
 slug: pres-50
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2005-hook-edknow-aageo.ppt
 title: >-
   Educational Knowledge Domain Visualizations: Tools to Navigate, Understand,
   and Internalize the Structure of Scholarly Knowledge and Expertise
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2005-04-06'
 dateEnd: '2005-04-06'
 event: ev-6
+link: https://cns.iu.edu/docs/presentations/2005-hook-edknow-aageo.ppt

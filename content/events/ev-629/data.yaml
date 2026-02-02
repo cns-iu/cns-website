@@ -1,8 +1,5 @@
 slug: ev-629
 type: workshop
-links:
-  - >-
-    https://cistp.elliott.gwu.edu/nsw-ncses-can-network-measures-serve-indicators-knowledge-creation-and-flow
 title: >-
   NSW NCSES: Can Network Measures Serve as Indicators of Knowledge Creation and
   Flow?
@@ -17,3 +14,5 @@ tutorials: []
 dateStart: '2016-12-14'
 dateEnd: null
 tags: []
+link: >-
+  https://cistp.elliott.gwu.edu/nsw-ncses-can-network-measures-serve-indicators-knowledge-creation-and-flow

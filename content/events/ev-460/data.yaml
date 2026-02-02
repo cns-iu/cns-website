@@ -1,7 +1,5 @@
 slug: ev-460
 type: workshop
-links:
-  - https://sci2.cns.iu.edu/user/index.php
 title: 'Sci2: A Tool for Science of Science Research and Practice'
 description: ''
 location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-10-17'
 dateEnd: '2011-10-17'
 tags: []
+link: https://sci2.cns.iu.edu/user/index.php

@@ -1,7 +1,5 @@
 slug: ev-666
 type: workshop
-links:
-  - http://www.fashiontechweekny.com/agenda.html
 title: Fashion Tech Week NY, The Internet of Fashion
 description: ''
 location: New York, NY
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2017-09-18'
 dateEnd: '2017-09-18'
 tags: []
+link: http://www.fashiontechweekny.com/agenda.html

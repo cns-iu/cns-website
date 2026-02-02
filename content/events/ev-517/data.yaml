@@ -1,8 +1,5 @@
 slug: ev-517
 type: conference
-links:
-  - >-
-    http://www.diggingintodata.org/Home/AwardRecipientsRound22011/DiggingRoundTwoConference/tabid/200/Default.aspx
 title: DID Conference
 description: ''
 location: Montreal, Quebec, Canada
@@ -15,3 +12,5 @@ tutorials: []
 dateStart: '2013-10-12'
 dateEnd: '2013-10-12'
 tags: []
+link: >-
+  http://www.diggingintodata.org/Home/AwardRecipientsRound22011/DiggingRoundTwoConference/tabid/200/Default.aspx

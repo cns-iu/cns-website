@@ -1,7 +1,5 @@
 slug: ev-648
 type: workshop
-links:
-  - http://cns.iu.edu/
 title: Salon Talk
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2017-04-30'
 dateEnd: '2017-04-30'
 tags: []
+link: http://cns.iu.edu/

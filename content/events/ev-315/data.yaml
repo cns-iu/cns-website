@@ -1,7 +1,5 @@
 slug: ev-315
 type: visit
-links:
-  - http://www.si.umich.edu/about-SI/event-details.htm?ID=2830
 title: NWB Workshop
 description: null
 location: |-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-11-19'
 dateEnd: '2008-11-19'
 tags: []
+link: http://www.si.umich.edu/about-SI/event-details.htm?ID=2830

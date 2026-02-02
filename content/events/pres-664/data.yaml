@@ -1,7 +1,5 @@
 slug: pres-664
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2022-Boline_Herr_HuBMAP-SPARC.pdf
 title: >-
   HuBMAP-SPARC anatomical interoperation of resources Collaboration (for the
   CFDE)
@@ -13,3 +11,6 @@ presenters:
 dateStart: '2022-10-04'
 dateEnd: '2022-10-04'
 event: ev-831
+link: https://cns.iu.edu/docs/presentations/2022-Boline_Herr_HuBMAP-SPARC.pdf
+tags:
+  - hra

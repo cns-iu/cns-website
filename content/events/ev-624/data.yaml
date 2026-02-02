@@ -1,8 +1,5 @@
 slug: ev-624
 type: other
-links:
-  - >-
-    https://imagwiki.nibib.nih.gov/webinars/modeling-science-technology-and-innovation-webinar
 title: Modeling Science Technology and Innovation webinar
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -15,3 +12,5 @@ tutorials: []
 dateStart: '2016-11-18'
 dateEnd: '2016-11-18'
 tags: []
+link: >-
+  https://imagwiki.nibib.nih.gov/webinars/modeling-science-technology-and-innovation-webinar

@@ -1,8 +1,5 @@
 slug: ev-349
 type: workshop
-links:
-  - >-
-    http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html
 title: NWB Colloquium Talk and Workshop
 description: null
 location: >-
@@ -16,3 +13,5 @@ tutorials: []
 dateStart: '2009-11-20'
 dateEnd: '2009-11-20'
 tags: []
+link: >-
+  http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html

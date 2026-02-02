@@ -1,7 +1,5 @@
 slug: pres-290
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-UZH.pdf
 title: Cartographies of Science
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2011-06-23'
 dateEnd: '2011-06-23'
 event: ev-445
+link: https://cns.iu.edu/docs/presentations/2011-borner-UZH.pdf

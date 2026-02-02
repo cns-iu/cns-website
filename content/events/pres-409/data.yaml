@@ -1,7 +1,5 @@
 slug: pres-409
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-nsf-evaluation.pdf
 title: Networks, Collaborations, and Emerging Fields
 description: ''
 location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-10-03'
 dateEnd: '2014-10-03'
 event: ev-542
+link: https://cns.iu.edu/docs/presentations/2014-borner-nsf-evaluation.pdf

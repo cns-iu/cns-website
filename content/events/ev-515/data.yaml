@@ -1,7 +1,5 @@
 slug: ev-515
 type: meeting
-links:
-  - http://www.acs.org/content/acs/en/meetings.html
 title: American Chemical Society Meeting
 description: ''
 location: Indianapolis, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2013-09-10'
 dateEnd: '2013-09-10'
 tags: []
+link: http://www.acs.org/content/acs/en/meetings.html

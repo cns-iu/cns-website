@@ -1,7 +1,5 @@
 slug: pres-395
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-scimodeling-nl.pdf
 title: Multi-Level Science Models
 description: ''
 location: Leiden, The Netherlands
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2014-04-07'
 dateEnd: '2014-04-07'
 event: ev-529
+link: https://cns.iu.edu/docs/presentations/2014-borner-scimodeling-nl.pdf

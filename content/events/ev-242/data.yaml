@@ -1,7 +1,5 @@
 slug: ev-242
 type: workshop
-links:
-  - http://www.nescent.org/cal/calendar_detail.php?id=355
 title: Talk at NSF National Evolutionary Synthesis Center
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-02-29'
 dateEnd: '2008-02-29'
 tags: []
+link: http://www.nescent.org/cal/calendar_detail.php?id=355

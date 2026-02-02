@@ -1,7 +1,5 @@
 slug: pres-115
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-borner-mapchem-issi.ppt
 title: Mapping the Structure and Evolution of Chemistry Research
 description: ''
 location: Madrid, Spain
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-06-26'
 dateEnd: '2007-06-26'
 event: ev-142
+link: https://cns.iu.edu/docs/presentations/2007-borner-mapchem-issi.ppt

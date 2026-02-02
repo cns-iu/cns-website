@@ -1,9 +1,5 @@
 slug: pres-667
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/22-GTEx-Cross-Consortium Presentation
-    03.01.22.pdf
 title: >-
   Cloud-Based Common Coordinate Framework to Enable Integration and Analyses
   Across GTEx and HuBMAP Data
@@ -18,3 +14,8 @@ presenters:
 dateStart: '2022-03-01'
 dateEnd: '2022-03-01'
 event: ev-833
+link: >-
+  https://cns.iu.edu/docs/presentations/22-GTEx-Cross-Consortium Presentation
+  03.01.22.pdf
+tags:
+  - hra

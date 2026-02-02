@@ -1,7 +1,5 @@
 slug: pres-277
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-WebScience-SONIC.pdf
 title: Interactive Maps of Science and Technology
 description: ''
 location: Northwestern University, Evanston, IL
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-03-04'
 dateEnd: '2011-03-04'
 event: ev-433
+link: https://cns.iu.edu/docs/presentations/2011-borner-WebScience-SONIC.pdf

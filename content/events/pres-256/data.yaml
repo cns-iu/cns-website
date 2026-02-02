@@ -1,7 +1,5 @@
 slug: pres-256
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/10-NIH-Tutorial-07.pdf
 title: '12 Tutorials in 12 Days at NIH: Tree Analysis and Visualization, 7/12'
 description: ''
 location: >-
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2010-07-19'
 dateEnd: '2010-07-19'
 event: ev-419
+link: https://cns.iu.edu/docs/presentations/10-NIH-Tutorial-07.pdf

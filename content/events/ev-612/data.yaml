@@ -1,7 +1,5 @@
 slug: ev-612
 type: other
-links:
-  - 2016-eds-demos.pdf
 title: Educational Data Science
 description: >-
   Traditional universities are struggling to provide expanding skill sets to
@@ -25,3 +23,4 @@ tutorials: []
 dateStart: '2016-10-17'
 dateEnd: '2016-10-17'
 tags: []
+link: 2016-eds-demos.pdf

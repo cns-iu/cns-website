@@ -1,7 +1,5 @@
 slug: ev-735
 type: other
-links:
-  - https://music.indiana.edu/
 title: Indiana University Jacobs School of Music
 description: ''
 location: Bloomington, Indiana
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2018-09-08'
 dateEnd: null
 tags: []
+link: https://music.indiana.edu/

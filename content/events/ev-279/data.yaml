@@ -1,7 +1,5 @@
 slug: ev-279
 type: workshop
-links:
-  - http://www.dlib.indiana.edu/education/brownbags/
 title: 'Digital Library Brown Bag: Fall 2008'
 description: null
 location: Wells Media Room E174, Bloomington, Indiana, 47405
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-09-17'
 dateEnd: '2008-12-03'
 tags: []
+link: http://www.dlib.indiana.edu/education/brownbags/

@@ -1,6 +1,5 @@
 slug: ev-895
 type: conference
-links: []
 title: >-
   "HRA Discussion at Mount Sinai: Pulmonary, Critical Care and  Sleep Medicine
   Grand Rounds "
@@ -15,4 +14,5 @@ presentations:
 tutorials: []
 dateStart: '2025-03-14'
 dateEnd: '2025-03-14'
-tags: []
+tags:
+  - hra

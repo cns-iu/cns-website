@@ -1,7 +1,5 @@
 slug: pres-534
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-sackler-opening.pdf
 title: >-
   Setting the Stage: Modelling and Visualizing  Science and Technology
   Developments
@@ -15,3 +13,4 @@ presenters:
 dateStart: '2017-12-04'
 dateEnd: '2017-12-04'
 event: ev-680
+link: https://cns.iu.edu/docs/presentations/2017-borner-sackler-opening.pdf

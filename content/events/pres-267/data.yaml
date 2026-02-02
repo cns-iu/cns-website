@@ -1,7 +1,5 @@
 slug: pres-267
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-vivo-iu.pdf
 title: VIVO and VIVO@IU
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2010-09-17'
 dateEnd: '2010-09-17'
 event: ev-423
+link: https://cns.iu.edu/docs/presentations/2010-borner-vivo-iu.pdf

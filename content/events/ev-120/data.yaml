@@ -1,7 +1,5 @@
 slug: ev-120
 type: other
-links:
-  - National Cancer Institute
 title: Informatics in Action Talk Series
 description: null
 location: Washington, DC
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2006-07-20'
 dateEnd: '2006-07-20'
 tags: []
+link: National Cancer Institute

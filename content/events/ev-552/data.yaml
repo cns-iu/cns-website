@@ -1,7 +1,5 @@
 slug: ev-552
 type: visit
-links:
-  - http://scimaps.org/duke.html
 title: Duke University
 description: ''
 location: Duke University, 615 Chapel Drive, Durham, NC, 27708
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2015-01-21'
 dateEnd: '2015-01-21'
 tags: []
+link: http://scimaps.org/duke.html

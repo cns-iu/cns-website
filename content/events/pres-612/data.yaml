@@ -1,7 +1,5 @@
 slug: pres-612
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Scrivner-VisualAnalytics.pdf
 title: >-
   Visual Analytics of STEM Graduate Education: Combining the Systems Evaluation
   Protocol and Data Visualizations in Support of a NSF NRT Program Evaluation
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2019-11-11'
 dateEnd: '2019-11-11'
 event: ev-755
+link: https://cns.iu.edu/docs/presentations/19-Scrivner-VisualAnalytics.pdf

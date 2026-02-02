@@ -1,7 +1,5 @@
 slug: ev-175
 type: conference
-links:
-  - http://bmia.bmt.tue.nl/EuroVis08/index.php
 title: Eurographics/IEEE Computer Society VGTC Symposium on Visualization
 description: null
 location: Eindhoven, The Netherlands
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-05-26'
 dateEnd: '2008-05-28'
 tags: []
+link: http://bmia.bmt.tue.nl/EuroVis08/index.php

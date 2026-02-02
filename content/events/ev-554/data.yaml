@@ -1,7 +1,5 @@
 slug: ev-554
 type: workshop
-links:
-  - http://www.fields.utoronto.ca
 title: The Fields Institute
 description: ''
 location: Toronto, Canada
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2015-02-23'
 dateEnd: '2015-02-27'
 tags: []
+link: http://www.fields.utoronto.ca

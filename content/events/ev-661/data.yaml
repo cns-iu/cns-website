@@ -1,7 +1,5 @@
 slug: ev-661
 type: meeting
-links:
-  - https://www.engineering.indiana.edu/
 title: ISE Student Orientation
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2017-08-17'
 dateEnd: '2017-08-17'
 tags: []
+link: https://www.engineering.indiana.edu/

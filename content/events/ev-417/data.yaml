@@ -1,7 +1,5 @@
 slug: ev-417
 type: workshop
-links:
-  - http://www.cs.su.oz.au/research/news/seminars.shtml
 title: >-
   Basser Seminar Series, School of Information Technologies, University of
   Sydney
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2010-06-24'
 dateEnd: '2010-06-24'
 tags: []
+link: http://www.cs.su.oz.au/research/news/seminars.shtml

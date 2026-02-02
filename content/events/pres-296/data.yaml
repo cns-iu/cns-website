@@ -1,7 +1,5 @@
 slug: pres-296
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-AAAS.pdf
 title: 'Building a Science Observatory: Data, Tools, and Maps'
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-08-23'
 dateEnd: '2011-08-23'
 event: ev-450
+link: https://cns.iu.edu/docs/presentations/2011-borner-AAAS.pdf

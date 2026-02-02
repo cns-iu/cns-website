@@ -1,7 +1,5 @@
 slug: ev-869
 type: conference
-links:
-  - https://www.ifeng.or.jp/wp/e-nistep2022fs-form/
 title: NISTEP Seminar Series "International Foresight Trend"
 description: ''
 location: Tokyo, Japan (Virtual Event)
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2022-12-13'
 dateEnd: '2022-12-13'
 tags: []
+link: https://www.ifeng.or.jp/wp/e-nistep2022fs-form/

@@ -1,7 +1,5 @@
 slug: ev-424
 type: meeting
-links:
-  - http://www.research.indiana.edu/
 title: Office of the Vice Provost for Research
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2010-10-27'
 dateEnd: '2010-10-27'
 tags: []
+link: http://www.research.indiana.edu/

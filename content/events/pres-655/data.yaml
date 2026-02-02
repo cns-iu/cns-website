@@ -1,7 +1,5 @@
 slug: pres-655
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-Dagstuhl-Overview-Borner.pdf
 title: Dagstuhl Seminar Overview
 description: ''
 location: Wadern, Germany
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2021-04-11'
 dateEnd: '2021-04-11'
 event: ev-793
+link: https://cns.iu.edu/docs/presentations/21-Dagstuhl-Overview-Borner.pdf

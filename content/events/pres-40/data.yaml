@@ -1,7 +1,5 @@
 slug: pres-40
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-ivc-iu.pdf
 title: InfoVis Cyberinfrastructure
 description: ''
 location: San Jose, CA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2004-11-19'
 dateEnd: '2004-11-19'
 event: ev-1
+link: https://cns.iu.edu/docs/presentations/2004-borner-ivc-iu.pdf

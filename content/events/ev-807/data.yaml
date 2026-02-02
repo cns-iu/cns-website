@@ -1,7 +1,5 @@
 slug: ev-807
 type: meeting
-links:
-  - https://chanzuckerberg.com/science/meetings/
 title: Chan Zuckerberg Initiative (CZI) Seed Networks Computational Biology Meeting
 description: ''
 location: Redwood City, CA (Virtual Event)
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2021-04-06'
 dateEnd: '2021-04-08'
 tags: []
+link: https://chanzuckerberg.com/science/meetings/

@@ -1,7 +1,5 @@
 slug: pres-213
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-comm-sci-oxford.pdf
 title: Envisioning and Communicating Science
 description: ''
 location: Magdalen College, Oxford University, Oxford, UK
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2009-07-27'
 dateEnd: '2009-07-27'
 event: ev-361
+link: https://cns.iu.edu/docs/presentations/2009-borner-comm-sci-oxford.pdf

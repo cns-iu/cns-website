@@ -1,7 +1,5 @@
 slug: ev-98
 type: workshop
-links:
-  - http://www.kli.ac.at/workshops-c.html
 title: >-
   The New Cognitive Sciences, Workshop at the Konrad Lorenz Institute for
   Evolution and Cognition
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2006-06-15'
 dateEnd: '2006-06-18'
 tags: []
+link: http://www.kli.ac.at/workshops-c.html

@@ -1,8 +1,5 @@
 slug: ev-713
 type: workshop
-links:
-  - >-
-    https://www.sice.indiana.edu/graduate/admissions/how-to-apply/intelligent-systems-engineering.html
 title: ISE Undergraduate Student Orientation
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -15,3 +12,5 @@ tutorials: []
 dateStart: '2017-11-02'
 dateEnd: '2017-11-02'
 tags: []
+link: >-
+  https://www.sice.indiana.edu/graduate/admissions/how-to-apply/intelligent-systems-engineering.html

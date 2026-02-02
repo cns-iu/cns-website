@@ -1,7 +1,5 @@
 slug: ev-95
 type: conference
-links:
-  - http://www.alifex.org/
 title: >-
   ALIFE X: Tenth International Conference on the Simulation and Synthesis of
   Living Systems
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2006-06-02'
 dateEnd: '2006-06-07'
 tags: []
+link: http://www.alifex.org/

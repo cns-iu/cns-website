@@ -1,8 +1,5 @@
 slug: pres-677
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2022.06.01-Katy-SenNet-Biomarkers-Talk.pdf
 title: ASCT+B Tables and SenNet Biomarkers
 description: ''
 location: Pittsburgh, PA (Virtual Event)
@@ -12,3 +9,7 @@ presenters:
 dateStart: '2022-06-01'
 dateEnd: '2022-06-01'
 event: ev-842
+link: >-
+  https://cns.iu.edu/docs/presentations/2022.06.01-Katy-SenNet-Biomarkers-Talk.pdf
+tags:
+  - hra

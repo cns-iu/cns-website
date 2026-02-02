@@ -1,7 +1,5 @@
 slug: pres-300
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-weingart-hague.pdf
 title: Analyzing and Visualizing Correspondence Networks for Browsable Interfaces
 description: ''
 location: Den Haag, The Netherlands
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-07-01'
 dateEnd: '2011-07-01'
 event: ev-452
+link: https://cns.iu.edu/docs/presentations/2011-weingart-hague.pdf

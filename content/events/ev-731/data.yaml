@@ -1,7 +1,5 @@
 slug: ev-731
 type: other
-links:
-  - https://cns.iu.edu/amatria.html
 title: >-
   OurCS Hello Research 2018 Conference: Augmented Reality Visualizations of IoT
   Data
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2018-10-27'
 dateEnd: null
 tags: []
+link: https://cns.iu.edu/amatria.html

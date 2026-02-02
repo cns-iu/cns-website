@@ -1,7 +1,5 @@
 slug: ws-93
 type: workshop
-links:
-  - https://cns-iu.github.io/data-vis-xr-panel-2025/
 title: >-
   IEEE VIS 2025: Challenges and Opportunities for Theory-Grounded Data
   Visualization in Extended Reality
@@ -10,3 +8,4 @@ location: Vienna, Austria
 dateStart: '2025-11-05'
 dateEnd: '2025-11-05'
 tags: []
+link: https://cns-iu.github.io/data-vis-xr-panel-2025/

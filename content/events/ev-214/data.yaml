@@ -1,7 +1,5 @@
 slug: ev-214
 type: meeting
-links:
-  - http://ella.slis.indiana.edu/%7Ekaty/events/07-acs-nsf07029.pdf
 title: NSF Town Hall Meeting at ACS
 description: null
 location: Chicago, IL
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2007-03-26'
 dateEnd: '2007-03-26'
 tags: []
+link: http://ella.slis.indiana.edu/%7Ekaty/events/07-acs-nsf07029.pdf

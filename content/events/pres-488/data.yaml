@@ -1,7 +1,5 @@
 slug: pres-488
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-imag.pdf
 title: Modelling Science, Technology, and Innovation
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-11-17'
 dateEnd: '2016-11-17'
 event: ev-624
+link: https://cns.iu.edu/docs/presentations/2016-borner-imag.pdf

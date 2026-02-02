@@ -1,7 +1,5 @@
 slug: pres-434
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-record-vsa.pdf
 title: 'Complex Studies of a Complex Subject:  Data Visualization and Visitors'
 description: ''
 location: Indianapolis, Indiana
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2015-07-18'
 dateEnd: '2015-07-18'
 event: ev-564
+link: https://cns.iu.edu/docs/presentations/2015-record-vsa.pdf

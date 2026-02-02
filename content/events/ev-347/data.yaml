@@ -1,7 +1,5 @@
 slug: ev-347
 type: other
-links:
-  - http://www.nsf.gov/news/special_reports/scivis/challenge.jsp
 title: >-
   Deadline for the 2009 International Science & Engineering Visualization
   Challenge
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2009-09-15'
 dateEnd: '2009-09-15'
 tags: []
+link: http://www.nsf.gov/news/special_reports/scivis/challenge.jsp

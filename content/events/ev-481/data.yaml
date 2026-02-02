@@ -1,7 +1,5 @@
 slug: ev-481
 type: meeting
-links:
-  - http://nih.gov/
 title: NIH SWAM Teleconference
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2012-01-26'
 dateEnd: '2012-01-26'
 tags: []
+link: http://nih.gov/

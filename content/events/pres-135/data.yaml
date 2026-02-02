@@ -1,7 +1,5 @@
 slug: pres-135
 type: presentation
-links:
-  - http://ella.slis.indiana.edu/%7Ekaty/events/07-nii-km.pdf
 title: >-
   Designing Effective Knowledge Management Systems for Scholars and (Science)
   Policy Makers
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2007-02-06'
 dateEnd: '2007-02-06'
 event: ev-139
+link: http://ella.slis.indiana.edu/%7Ekaty/events/07-nii-km.pdf

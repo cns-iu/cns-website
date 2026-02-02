@@ -1,7 +1,5 @@
 slug: ev-193
 type: conference
-links:
-  - http://www.trafficforum.org/dresden
 title: European Conference on Complex Systems (ECCS'07)
 description: null
 location: Dresden, Germany
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-10-01'
 dateEnd: '2007-10-06'
 tags: []
+link: http://www.trafficforum.org/dresden

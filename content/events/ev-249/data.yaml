@@ -1,7 +1,5 @@
 slug: ev-249
 type: other
-links:
-  - http://www.cikm2008.org/
 title: ACM Seventeenth Conference on Information and Knowledge Management (CIKM 2008)
 description: null
 location: Napa Valley Marriott Hotel & Spa, 3425 Solano Avenue, Napa Valley, CA, 94558
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-10-26'
 dateEnd: '2008-10-30'
 tags: []
+link: http://www.cikm2008.org/

@@ -1,7 +1,5 @@
 slug: ev-419
 type: visit
-links:
-  - http://grants.nih.gov/grants/oer.htm
 title: >-
   Visiting Professor at the Reporting Branch, Office of Extramural Research,
   NIH. (Robin Wagner, Chief, Reporting Branch, Division of Information Services)
@@ -31,3 +29,4 @@ tutorials: []
 dateStart: '2010-07-05'
 dateEnd: '2010-07-28'
 tags: []
+link: http://grants.nih.gov/grants/oer.htm

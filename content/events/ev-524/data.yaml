@@ -1,7 +1,5 @@
 slug: ev-524
 type: conference
-links:
-  - http://www.ala.org/acrl/acrl-2013-conference
 title: ACRL 2013 Conference, "Imagine, Innovate, Inspire"
 description: ''
 location: Indianapolis, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2013-04-10'
 dateEnd: '2013-04-13'
 tags: []
+link: http://www.ala.org/acrl/acrl-2013-conference

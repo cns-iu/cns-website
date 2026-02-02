@@ -1,7 +1,5 @@
 slug: pres-530
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-zoss-openscienceforum.pdf
 title: Network Visualization Literacy
 description: ''
 location: Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2017-11-01'
 dateEnd: '2017-11-01'
 event: ev-676
+link: https://cns.iu.edu/docs/presentations/2017-zoss-openscienceforum.pdf

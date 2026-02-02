@@ -1,7 +1,5 @@
 slug: pres-111
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-herr-cdmed-cmv.ppt
 title: 'Computational Diagnostics: A Novel Approach to Viewing Medical Data'
 description: ''
 location: Zürich, Switzerland
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-07-02'
 dateEnd: '2007-07-02'
 event: ev-156
+link: https://cns.iu.edu/docs/presentations/2007-herr-cdmed-cmv.ppt

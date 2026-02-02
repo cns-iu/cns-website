@@ -1,7 +1,5 @@
 slug: ev-541
 type: visit
-links:
-  - http://www.miami.edu/
 title: 10th Iteration University of Miami Opening
 description: ''
 location: Miami, FL
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2014-09-04'
 dateEnd: '2014-09-04'
 tags: []
+link: http://www.miami.edu/

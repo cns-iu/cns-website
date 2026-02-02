@@ -1,7 +1,5 @@
 slug: pres-371
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-dagstuhl-ivmooc.pdf
 title: The Information Visualization MOOC
 description: ''
 location: Dagstuhl, Germany
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-05-14'
 dateEnd: '2013-05-14'
 event: ev-507
+link: https://cns.iu.edu/docs/presentations/2013-borner-dagstuhl-ivmooc.pdf

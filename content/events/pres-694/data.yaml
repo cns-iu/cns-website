@@ -1,7 +1,5 @@
 slug: pres-694
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-IEEE-DVL-Panel.pdf
 title: (Data) Visualization Literacy
 description: ''
 location: New Orleans, LA (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2021-10-27'
 dateEnd: '2021-10-27'
 event: ev-856
+link: https://cns.iu.edu/docs/presentations/21-IEEE-DVL-Panel.pdf

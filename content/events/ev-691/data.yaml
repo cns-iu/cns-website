@@ -1,7 +1,5 @@
 slug: ev-691
 type: conference
-links:
-  - https://crest.soic.indiana.edu/
 title: CREST Advisory Board Review
 description: ''
 location: Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-02-27'
 dateEnd: '2018-02-27'
 tags: []
+link: https://crest.soic.indiana.edu/

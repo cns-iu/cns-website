@@ -1,7 +1,5 @@
 slug: tut-10
 type: tutorial
-links:
-  - https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt
 title: Network Workbench Workshop
 description: ''
 location: >-
@@ -12,3 +10,4 @@ instructors:
 dateStart: '2007-12-10'
 dateEnd: '2007-12-10'
 event: ev-239
+link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt

@@ -1,7 +1,5 @@
 slug: pres-481
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-nih-library.pdf
 title: (Network) Data Visualization Literacy
 description: ''
 location: NIH, Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-10-31'
 dateEnd: '2016-10-31'
 event: ev-619
+link: https://cns.iu.edu/docs/presentations/2016-borner-nih-library.pdf

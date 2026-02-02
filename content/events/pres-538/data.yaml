@@ -1,7 +1,5 @@
 slug: pres-538
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2018-borner-nsf-nsci.pdf
 title: >-
   STEAM Observatory:  Data Mining, Modeling, and Visualization in Support of 
   Smart Decision Making
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2018-01-16'
 dateEnd: '2018-01-16'
 event: ev-684
+link: https://cns.iu.edu/docs/presentations/2018-borner-nsf-nsci.pdf

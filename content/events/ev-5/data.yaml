@@ -1,7 +1,5 @@
 slug: ev-5
 type: other
-links:
-  - http://vw.indiana.edu/talks-spring05/
 title: Spring 2005 Talk Series on Networks and Complex Systems
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2005-01-10'
 dateEnd: '2005-05-02'
 tags: []
+link: http://vw.indiana.edu/talks-spring05/

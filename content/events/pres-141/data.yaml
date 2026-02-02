@@ -1,7 +1,5 @@
 slug: pres-141
 type: presentation
-links:
-  - http://faculty.arch.usyd.edu.au/kcdc/ijdc/vol02/dcnet/Katy/katy2.html
 title: 'VegoWelt: A Smart Virtual Playroom'
 description: ''
 location: University of Sydney, Sydney, Australia
@@ -10,3 +8,4 @@ presenters:
 dateStart: '1999-12-02'
 dateEnd: '1999-12-02'
 event: ev-231
+link: http://faculty.arch.usyd.edu.au/kcdc/ijdc/vol02/dcnet/Katy/katy2.html

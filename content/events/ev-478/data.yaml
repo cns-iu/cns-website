@@ -1,7 +1,5 @@
 slug: ev-478
 type: meeting
-links:
-  - http://www.medialab.sciences-po.fr/
 title: Médialab Sciences
 description: ''
 location: Paris, France
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2012-04-11'
 dateEnd: '2012-04-11'
 tags: []
+link: http://www.medialab.sciences-po.fr/

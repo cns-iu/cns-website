@@ -1,7 +1,5 @@
 slug: pres-647
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-SpatialStudies-Lightning-Borner.pdf
 title: 'HuBMAP Reference Atlas: Toward a human [reference] map'
 description: ''
 location: Santa Barbara, CA (Virtual Event)
@@ -10,3 +8,6 @@ presenters:
 dateStart: '2021-03-16'
 dateEnd: '2021-03-16'
 event: ev-811
+link: https://cns.iu.edu/docs/presentations/21-SpatialStudies-Lightning-Borner.pdf
+tags:
+  - hra

@@ -1,7 +1,5 @@
 slug: ev-485
 type: meeting
-links:
-  - http://www.forschungsinfo.de/
 title: Institut für Forschungsinformation und Qualitätssicherung
 description: ''
 location: Schützenstrasse 6a, Berlin, Germany, D-10117
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2012-06-28'
 dateEnd: '2012-06-28'
 tags: []
+link: http://www.forschungsinfo.de/

@@ -1,7 +1,5 @@
 slug: pres-639
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2020.11.13-HTAN-ASCT+B.pdf
 title: >-
   Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables: Design &
   Usage
@@ -13,3 +11,4 @@ presenters:
 dateStart: '2020-11-13'
 dateEnd: '2020-11-13'
 event: ev-819
+link: https://cns.iu.edu/docs/presentations/2020.11.13-HTAN-ASCT+B.pdf

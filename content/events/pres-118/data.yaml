@@ -1,7 +1,5 @@
 slug: pres-118
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2007-borner-sdb-issi.pdf
 title: The Scholarly Database and its Utility for Scientometrics Research
 description: ''
 location: Madrid, Spain
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2007-06-27'
 dateEnd: '2007-06-27'
 event: ev-142
+link: https://cns.iu.edu/docs/presentations/2007-borner-sdb-issi.pdf

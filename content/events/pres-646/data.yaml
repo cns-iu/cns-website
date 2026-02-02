@@ -1,8 +1,5 @@
 slug: pres-646
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2020.09.21-Borner-HIVE-DD-Master-Poster.pdf
 title: >-
   The Human Body Atlas: High-Resolution, Functional Mapping of Voxel, Vector,
   and Meta Datasets
@@ -13,3 +10,5 @@ presenters:
 dateStart: '2020-09-21'
 dateEnd: '2020-09-21'
 event: ev-824
+link: >-
+  https://cns.iu.edu/docs/presentations/2020.09.21-Borner-HIVE-DD-Master-Poster.pdf

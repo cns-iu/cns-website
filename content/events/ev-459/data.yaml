@@ -1,7 +1,5 @@
 slug: ev-459
 type: conference
-links:
-  - http://meetings.nigms.nih.gov/?ID=12754
 title: Scientific Workforce Analysis and Modeling
 description: ''
 location: Washington, DC
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-10-05'
 dateEnd: '2011-10-06'
 tags: []
+link: http://meetings.nigms.nih.gov/?ID=12754

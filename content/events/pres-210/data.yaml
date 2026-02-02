@@ -1,7 +1,5 @@
 slug: pres-210
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-bireme-brazil.pdf
 title: >-
   Analyzing and Visualizing Science Using the Scholarly Database and the Network
   Workbench Tool
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-07-20'
 dateEnd: '2009-07-20'
 event: ev-359
+link: https://cns.iu.edu/docs/presentations/2009-borner-bireme-brazil.pdf

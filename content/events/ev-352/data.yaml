@@ -1,7 +1,5 @@
 slug: ev-352
 type: workshop
-links:
-  - http://www.aaas.org/spp/SciSIP/
 title: 'NSF SciSIP Grantees Workshop: Toward a Community of Practice'
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2009-03-24'
 dateEnd: '2009-03-25'
 tags: []
+link: http://www.aaas.org/spp/SciSIP/

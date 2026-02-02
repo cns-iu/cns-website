@@ -1,7 +1,5 @@
 slug: ev-856
 type: conference
-links:
-  - https://ieeevis.org/year/2021/welcome
 title: >-
   Visualization Literacy for General Audiences - Can We Make A Difference? Panel
   at IEEE VIS 2021 Conference
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2021-10-24'
 dateEnd: '2021-10-29'
 tags: []
+link: https://ieeevis.org/year/2021/welcome

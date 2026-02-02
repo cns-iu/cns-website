@@ -1,7 +1,5 @@
 slug: ev-543
 type: visit
-links:
-  - http://www.cs.arizona.edu/
 title: Department of Computer Science, University of Arizona
 description: ''
 location: |-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2014-10-07'
 dateEnd: '2014-10-07'
 tags: []
+link: http://www.cs.arizona.edu/

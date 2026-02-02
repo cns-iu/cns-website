@@ -1,7 +1,5 @@
 slug: pres-529
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-onr.pdf
 title: Visualizing Science &Technology
 description: ''
 location: Arlington, VA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2017-11-06'
 dateEnd: '2017-11-06'
 event: ev-675
+link: https://cns.iu.edu/docs/presentations/2017-borner-onr.pdf

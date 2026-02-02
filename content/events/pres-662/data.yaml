@@ -1,7 +1,5 @@
 slug: pres-662
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-ISSI.pdf
 title: Modeling and Mapping Science, Technology, and Education
 description: ''
 location: Leuven, Belgium (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2021-07-13'
 dateEnd: '2021-07-13'
 event: ev-797
+link: https://cns.iu.edu/docs/presentations/21-ISSI.pdf

@@ -1,7 +1,5 @@
 slug: ev-623
 type: other
-links:
-  - http://umich.edu/
 title: Indiana University Network Science Institute, Open Science Forum
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2016-11-15'
 dateEnd: '2016-11-15'
 tags: []
+link: http://umich.edu/

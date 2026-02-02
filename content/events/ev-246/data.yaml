@@ -1,7 +1,5 @@
 slug: ev-246
 type: conference
-links:
-  - http://www.cs.umd.edu/hcil/soh/index.shtml
 title: Human Computer Interaction Lab's 25th Annual Symposium
 description: null
 location: Washington, DC
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-05-29'
 dateEnd: '2008-05-30'
 tags: []
+link: http://www.cs.umd.edu/hcil/soh/index.shtml

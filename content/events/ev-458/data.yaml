@@ -1,7 +1,5 @@
 slug: ev-458
 type: conference
-links:
-  - http://www.ttivanguard.com/conference/2011/complexity.html
 title: Taming Complexity
 description: ''
 location: Washington, DC
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-10-04'
 dateEnd: '2011-10-05'
 tags: []
+link: http://www.ttivanguard.com/conference/2011/complexity.html

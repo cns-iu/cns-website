@@ -1,7 +1,5 @@
 slug: ev-289
 type: other
-links:
-  - http://www.polnet-school.info/
 title: Summer School on the Analysis of Political and Managerial Networks (POLNET)
 description: null
 location: Konstanz, Germany
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-08-31'
 dateEnd: '2008-09-05'
 tags: []
+link: http://www.polnet-school.info/

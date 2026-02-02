@@ -1,7 +1,5 @@
 slug: ev-401
 type: other
-links:
-  - http://www.scimaps.org/exhibitions/marston/
 title: >-
   Places and Spaces: Mapping Science  at the Marston Science Library, University
   of Florida
@@ -18,3 +16,4 @@ tutorials: []
 dateStart: '2010-03-18'
 dateEnd: '2010-05-31'
 tags: []
+link: http://www.scimaps.org/exhibitions/marston/

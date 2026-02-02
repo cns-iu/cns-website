@@ -1,7 +1,5 @@
 slug: ev-2
 type: workshop
-links:
-  - http://vw.indiana.edu/envision05/
 title: 'EnVision 2005: Exploring a New Visualization Infrastructure'
 description: null
 location: Mountain View, CA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2005-01-19'
 dateEnd: '2005-01-19'
 tags: []
+link: http://vw.indiana.edu/envision05/

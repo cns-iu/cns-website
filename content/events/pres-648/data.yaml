@@ -1,8 +1,5 @@
 slug: pres-648
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/21-EnvisioningDigitalScience-Keynote.pdf
 title: Envisioning Digital Science
 description: ''
 location: Lovain-la-Neuve, Belgium (Virtual Event)
@@ -11,3 +8,4 @@ presenters:
 dateStart: '2021-03-15'
 dateEnd: '2021-03-15'
 event: ev-813
+link: https://cns.iu.edu/docs/presentations/21-EnvisioningDigitalScience-Keynote.pdf

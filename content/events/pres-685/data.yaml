@@ -1,7 +1,5 @@
 slug: pres-685
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-AAA-Poster.pdf
 title: Anatomical Structures Object Library of the Human Reference Atlas (Poster)
 description: ''
 location: Philadelphia, PA
@@ -10,3 +8,6 @@ presenters:
 dateStart: '2022-04-05'
 dateEnd: '2022-04-05'
 event: ev-850
+link: https://cns.iu.edu/docs/presentations/22-AAA-Poster.pdf
+tags:
+  - hra

@@ -1,7 +1,5 @@
 slug: pres-224
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-nih-nwb.pdf
 title: Network Workbench (NWB) and Science of Science (Sci2) Tools Workshop
 description: ''
 location: 9000 Rockville Pike, NIH Bethesda, Maryland, US, 20892
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2009-10-20'
 dateEnd: '2009-10-20'
 event: ev-372
+link: https://cns.iu.edu/docs/presentations/2009-borner-nih-nwb.pdf

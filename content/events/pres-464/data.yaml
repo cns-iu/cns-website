@@ -1,7 +1,5 @@
 slug: pres-464
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-nhlbi-june.pdf
 title: 'Human BioMolecular Atlas: Maps and Macroscopes'
 description: ''
 location: NIH, Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-06-15'
 dateEnd: '2016-06-15'
 event: ev-596
+link: https://cns.iu.edu/docs/presentations/2016-borner-nhlbi-june.pdf

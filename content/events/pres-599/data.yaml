@@ -1,7 +1,5 @@
 slug: pres-599
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-BB-LASG-Toronto-ab-k-final.pdf
 title: Envisioning the Internet of Things
 description: ''
 location: Toronto, Canada
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-03-02'
 dateEnd: '2019-03-02'
 event: ev-741
+link: https://cns.iu.edu/docs/presentations/19-BB-LASG-Toronto-ab-k-final.pdf

@@ -1,7 +1,5 @@
 slug: ev-644
 type: other
-links:
-  - http://data-science-colloq.soic.indiana.edu/
 title: Data Science Invited Talk Series
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2017-04-12'
 dateEnd: '2017-04-12'
 tags: []
+link: http://data-science-colloq.soic.indiana.edu/

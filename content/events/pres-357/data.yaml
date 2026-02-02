@@ -1,8 +1,5 @@
 slug: pres-357
 type: presentation
-links:
-  - >-
-    http://www.slideshare.net/rhmcdonald/building-a-data-discovery-network-for-sustainability-science
 title: Building a Data Discovery Network for Sustainability Science
 description: ''
 location: 100 Chopin Plaza, Miami, FL, 33131
@@ -28,3 +25,5 @@ presenters:
 dateStart: '2012-08-24'
 dateEnd: '2012-08-24'
 event: ev-490
+link: >-
+  http://www.slideshare.net/rhmcdonald/building-a-data-discovery-network-for-sustainability-science

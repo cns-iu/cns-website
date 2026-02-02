@@ -1,7 +1,5 @@
 slug: pres-42
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2002-mane-bioinfo-unknown.ppt
 title: Bioinformatics at IU
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2002-12-15'
 dateEnd: '2002-12-15'
 event: ev-154
+link: https://cns.iu.edu/docs/presentations/2002-mane-bioinfo-unknown.ppt

@@ -1,7 +1,5 @@
 slug: ev-284
 type: other
-links:
-  - http://www.indiana.edu/~mith/
 title: Make IT Happen
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2008-09-10'
 dateEnd: '2008-09-10'
 tags: []
+link: http://www.indiana.edu/~mith/

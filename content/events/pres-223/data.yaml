@@ -1,7 +1,5 @@
 slug: pres-223
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-stem-activity.pdf
 title: 'STEM: Individual, Local and Global Flows and Activity Patterns'
 description: >-
   (transcript available at
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-10-21'
 dateEnd: '2009-10-21'
 event: ev-371
+link: https://cns.iu.edu/docs/presentations/2009-borner-stem-activity.pdf

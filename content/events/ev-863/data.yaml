@@ -1,7 +1,5 @@
 slug: ev-863
 type: meeting
-links:
-  - https://cancer.iu.edu/education/grand-rounds.html
 title: >-
   Indiana University Melvin and Bren Simon Comprehensive Cancer Center (IUSCCC)
   Grand Rounds
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2021-03-12'
 dateEnd: '2021-03-12'
 tags: []
+link: https://cancer.iu.edu/education/grand-rounds.html

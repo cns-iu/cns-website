@@ -1,7 +1,5 @@
 slug: ev-474
 type: workshop
-links:
-  - http://lak12.sites.olt.ubc.ca/
 title: Learning Analytics and Knowledge
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2012-05-01'
 dateEnd: '2012-05-01'
 tags: []
+link: http://lak12.sites.olt.ubc.ca/

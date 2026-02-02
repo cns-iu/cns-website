@@ -1,7 +1,5 @@
 slug: pres-228
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-biomedical.pdf
 title: Envisioning Biomedical Science
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-12-03'
 dateEnd: '2009-12-03'
 event: ev-376
+link: https://cns.iu.edu/docs/presentations/2009-borner-biomedical.pdf

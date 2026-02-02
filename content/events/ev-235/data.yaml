@@ -1,7 +1,5 @@
 slug: ev-235
 type: visit
-links:
-  - http://www.amse.org/
 title: American Museum of Science and Energy Places & Spaces Exhibition
 description: null
 location: American Museum of Science and Energy, Oak Ridge, TN
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2008-01-03'
 dateEnd: '2008-01-03'
 tags: []
+link: http://www.amse.org/

@@ -1,7 +1,5 @@
 slug: ev-223
 type: workshop
-links:
-  - http://www.indiana.edu/%7Egis/gisday/
 title: GIS Day
 description: null
 location: >-
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2007-11-14'
 dateEnd: '2007-11-14'
 tags: []
+link: http://www.indiana.edu/%7Egis/gisday/

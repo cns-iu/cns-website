@@ -1,7 +1,5 @@
 slug: pres-448
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-wos-enclave.pdf
 title: 'IUNI Web of Science Data: An Introduction for Beginners'
 description: ''
 location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2016-01-11'
 dateEnd: '2016-01-11'
 event: ev-577
+link: https://cns.iu.edu/docs/presentations/2016-borner-wos-enclave.pdf

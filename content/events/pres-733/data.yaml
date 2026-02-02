@@ -1,7 +1,5 @@
 slug: pres-733
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/Katy BornerScimap.pdf
 title: International School and Conference on Network Science
 description: ''
 location: Québec City
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2024-06-19'
 dateEnd: '2024-06-19'
 event: ev-888
+link: https://cns.iu.edu/docs/presentations/Katy BornerScimap.pdf

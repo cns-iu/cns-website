@@ -1,8 +1,5 @@
 slug: ev-675
 type: other
-links:
-  - >-
-    https://new.nsf.gov/events/distinguished-lecture-visualizing-science/2018-01-16
 title: ONR Distinguished Lecture Series
 description: ''
 location: Arlington, VA
@@ -15,3 +12,5 @@ tutorials: []
 dateStart: '2017-11-06'
 dateEnd: '2017-11-06'
 tags: []
+link: >-
+  https://new.nsf.gov/events/distinguished-lecture-visualizing-science/2018-01-16

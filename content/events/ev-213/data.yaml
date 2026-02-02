@@ -1,7 +1,5 @@
 slug: ev-213
 type: conference
-links:
-  - http://www.socialsciences.cornell.edu/0508/Symposium.html
 title: International Symposium on Self-Organizing Online Communities
 description: null
 location: Cornell University, 358 Uris Hall, Ithaca, NY, USA, 14853
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2007-03-28'
 dateEnd: '2007-03-31'
 tags: []
+link: http://www.socialsciences.cornell.edu/0508/Symposium.html

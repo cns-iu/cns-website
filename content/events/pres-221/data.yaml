@@ -1,7 +1,5 @@
 slug: pres-221
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-map-mod-sci-vks.pdf
 title: 'Modeling and Mapping Science: Possible Futures'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-10-06'
 dateEnd: '2009-10-06'
 event: ev-369
+link: https://cns.iu.edu/docs/presentations/2009-borner-map-mod-sci-vks.pdf

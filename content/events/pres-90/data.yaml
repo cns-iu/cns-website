@@ -1,7 +1,5 @@
 slug: pres-90
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2005-borner-panel.doc
 title: >-
   Studying and Supporting the Emerging Global Brain, as part of the Joint
   4S/ISSI Panel on Mapping Science
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2005-10-22'
 dateEnd: '2005-10-22'
 event: ev-25
+link: https://cns.iu.edu/docs/presentations/2005-borner-panel.doc

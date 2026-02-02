@@ -1,7 +1,5 @@
 slug: pres-661
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/21-NIMH-Borner.pdf
 title: Registering, Visualizing, and Exploring Biomedical Data
 description: ''
 location: Bethesda, MD (Virtual Event)
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2021-06-30'
 dateEnd: '2021-06-30'
 event: ev-798
+link: https://cns.iu.edu/docs/presentations/21-NIMH-Borner.pdf

@@ -1,7 +1,5 @@
 slug: ev-762
 type: meeting
-links:
-  - https://hubmapconsortium.org/all-hands-2020/
 title: HuBMAP Annual Meeting (Virtual Event)
 description: ''
 location: Washington, DC
@@ -12,4 +10,6 @@ presentations: []
 tutorials: []
 dateStart: '2020-05-19'
 dateEnd: '2020-05-20'
-tags: []
+tags:
+  - hra
+link: https://hubmapconsortium.org/all-hands-2020/

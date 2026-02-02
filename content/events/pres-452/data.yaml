@@ -1,7 +1,5 @@
 slug: pres-452
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-emory.pdf
 title: Designing Effective Data Visualizations
 description: ''
 location: |-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2016-02-04'
 dateEnd: '2016-02-04'
 event: ev-581
+link: https://cns.iu.edu/docs/presentations/2016-borner-emory.pdf

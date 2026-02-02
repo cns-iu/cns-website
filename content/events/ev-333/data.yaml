@@ -1,7 +1,5 @@
 slug: ev-333
 type: conference
-links:
-  - http://www.research-information.de/Tagungen/Programm_engl.pdf
 title: '3rd Annual iFQ Conference: Foresight-Between Science and Fiction'
 description: null
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-12-11'
 dateEnd: '2008-12-12'
 tags: []
+link: http://www.research-information.de/Tagungen/Programm_engl.pdf

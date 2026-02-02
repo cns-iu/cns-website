@@ -1,7 +1,5 @@
 slug: pres-102
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.ppt
 title: 'The United States Supreme Court: Visualizations and Metrics (60 Years of Data)'
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2004-09-18'
 dateEnd: '2004-09-18'
 event: ev-76
+link: https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.ppt

@@ -1,7 +1,5 @@
 slug: pres-680
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22.05.02-HuBMAP-Borner--CCB-HMS(3).pdf
 title: 'Human Reference Atlas: Construction and Usage'
 description: ''
 location: Boston, MA (Virtual Event)
@@ -10,3 +8,6 @@ presenters:
 dateStart: '2022-05-02'
 dateEnd: '2022-05-02'
 event: ev-846
+link: https://cns.iu.edu/docs/presentations/22.05.02-HuBMAP-Borner--CCB-HMS(3).pdf
+tags:
+  - hra

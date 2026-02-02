@@ -1,7 +1,5 @@
 slug: pres-420
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-borner-field-toronto.pdf
 title: Empowering Anyone to Envision Science, Technology, and Innovation
 description: ''
 location: Toronto, Canada
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-02-26'
 dateEnd: '2015-02-26'
 event: ev-554
+link: https://cns.iu.edu/docs/presentations/2015-borner-field-toronto.pdf

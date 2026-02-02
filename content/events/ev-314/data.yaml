@@ -1,7 +1,5 @@
 slug: ev-314
 type: other
-links:
-  - http://www.dlib.indiana.edu/education/brownbags/index.shtml
 title: Indiana University Digital Library Brown Bag Luncheon Series
 description: luncheon talk series
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2008-11-05'
 dateEnd: '2008-11-05'
 tags: []
+link: http://www.dlib.indiana.edu/education/brownbags/index.shtml

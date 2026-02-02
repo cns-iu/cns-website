@@ -1,7 +1,5 @@
 slug: ev-834
 type: meeting
-links:
-  - https://hubmapconsortium.org/
 title: HuBMAP Steering Committee Meeting
 description: ''
 location: Bethesda, MD (Virtual Event)
@@ -13,4 +11,6 @@ presentations:
 tutorials: []
 dateStart: '2022-08-01'
 dateEnd: '2022-08-01'
-tags: []
+tags:
+  - hra
+link: https://hubmapconsortium.org/

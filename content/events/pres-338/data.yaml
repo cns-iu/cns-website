@@ -1,7 +1,5 @@
 slug: pres-338
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-berlin.pdf
 title: Mining, Visualizing, and Accelerating Science and Technology
 description: ''
 location: Schützenstrasse 6a, Berlin, Germany, D-10117
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2012-06-28'
 dateEnd: '2012-06-28'
 event: ev-485
+link: https://cns.iu.edu/docs/presentations/2012-borner-berlin.pdf

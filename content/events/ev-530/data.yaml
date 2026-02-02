@@ -1,7 +1,5 @@
 slug: ev-530
 type: meeting
-links:
-  - https://nitrd.gov
 title: >-
   Frontiers of Visualization Meeting Networking and Information Technology R&D
   (NITRD) Program
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2014-05-02'
 dateEnd: '2014-05-02'
 tags: []
+link: https://nitrd.gov

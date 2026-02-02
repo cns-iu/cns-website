@@ -1,7 +1,5 @@
 slug: pres-410
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2014-borner-arizona.pdf
 title: Designing Multi-Scale Maps of Science and Technology
 description: ''
 location: |-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2014-10-07'
 dateEnd: '2014-10-07'
 event: ev-543
+link: https://cns.iu.edu/docs/presentations/2014-borner-arizona.pdf

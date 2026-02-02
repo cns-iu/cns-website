@@ -1,7 +1,5 @@
 slug: ev-718
 type: conference
-links:
-  - https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482
 title: Dagstuhl Seminar on “Network Visualization in the Humanities”
 description: ''
 location: Dagstuhl, Germany
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-11-27'
 dateEnd: '2018-11-27'
 tags: []
+link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482

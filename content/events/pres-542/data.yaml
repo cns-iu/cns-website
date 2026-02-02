@@ -1,7 +1,5 @@
 slug: pres-542
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2018-borner-sackler-data-vis-lit.pdf
 title: >-
   Data Visualization Literacy: Research and Tools that Advance Public
   Understanding of Scientific Data
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2018-03-13'
 dateEnd: '2018-03-13'
 event: ev-690
+link: https://cns.iu.edu/docs/presentations/2018-borner-sackler-data-vis-lit.pdf

@@ -1,7 +1,5 @@
 slug: pres-459
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-loc.pdf
 title: Measuring, Predicting, and Communicating Science
 description: ''
 location: |-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2016-03-22'
 dateEnd: '2016-03-22'
 event: ev-589
+link: https://cns.iu.edu/docs/presentations/2016-borner-loc.pdf

@@ -1,7 +1,5 @@
 slug: ev-522
 type: other
-links:
-  - http://www.sciencecafebloomington.org/
 title: Blooomington Science Café
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2013-12-03'
 dateEnd: '2013-12-03'
 tags: []
+link: http://www.sciencecafebloomington.org/

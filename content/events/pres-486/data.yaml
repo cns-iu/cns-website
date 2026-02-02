@@ -1,7 +1,5 @@
 slug: pres-486
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-bueckle-lasg-event.pdf
 title: 'Living Architecture Systems '
 description: ''
 location: Toronto, Canada
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2016-11-15'
 dateEnd: '2016-11-15'
 event: ev-625
+link: https://cns.iu.edu/docs/presentations/2016-bueckle-lasg-event.pdf

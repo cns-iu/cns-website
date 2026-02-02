@@ -1,7 +1,5 @@
 slug: ev-282
 type: conference
-links:
-  - http://vlhcc08.cs.unibw.de/VW-prog.php
 title: Visual Week 2008
 description: null
 location: Ammersee, Germany
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2008-09-15'
 dateEnd: '2008-09-21'
 tags: []
+link: http://vlhcc08.cs.unibw.de/VW-prog.php

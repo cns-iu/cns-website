@@ -1,7 +1,5 @@
 slug: ev-752
 type: workshop
-links:
-  - https://cadre.iu.edu/news-and-events/events/cadre-workshop
 title: CADRE Workshop at ISSI 2019
 description: ''
 location: Rome, Italy
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2019-09-02'
 dateEnd: null
 tags: []
+link: https://cadre.iu.edu/news-and-events/events/cadre-workshop

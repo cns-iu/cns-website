@@ -1,7 +1,5 @@
 slug: pres-628
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2020.03.30-CCF-Session-ASCT.pdf
 title: Common Coordinate Framework (CCF) Session
 description: ''
 location: Bethesda, MD (Virtual Event)
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2020-03-30'
 dateEnd: '2020-03-30'
 event: ev-767
+link: https://cns.iu.edu/docs/presentations/2020.03.30-CCF-Session-ASCT.pdf

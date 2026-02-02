@@ -1,7 +1,5 @@
 slug: ev-555
 type: other
-links:
-  - http://www.umd.edu/
 title: University of Maryland
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2015-04-02'
 dateEnd: null
 tags: []
+link: http://www.umd.edu/

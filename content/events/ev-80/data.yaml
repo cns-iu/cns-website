@@ -1,7 +1,5 @@
 slug: ev-80
 type: other
-links:
-  - http://www.ncsa.uiuc.edu/Conferences/Networks/
 title: >-
   Symposium at NCSA: The Age of Networks: Social, Cultural and Technological
   Connections
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2006-02-13'
 dateEnd: '2006-05-12'
 tags: []
+link: http://www.ncsa.uiuc.edu/Conferences/Networks/

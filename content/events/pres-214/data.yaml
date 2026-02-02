@@ -1,7 +1,5 @@
 slug: pres-214
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-zoss-arteleku-spain.pdf
 title: Analyzing and Visualizing the Structure and Evolution of World Wide Science
 description: ''
 location: San Sebastian, Spain
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
 event: ev-362
+link: https://cns.iu.edu/docs/presentations/2009-zoss-arteleku-spain.pdf

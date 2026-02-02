@@ -1,7 +1,5 @@
 slug: pres-441
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2015-halsey-astc.pdf
 title: 'Building Macroscope Workflows: Big Data In -> Big Insights Out'
 description: ''
 location: Montreal, Quebec, Canada
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2015-10-17'
 dateEnd: '2015-10-17'
 event: ev-570
+link: https://cns.iu.edu/docs/presentations/2015-halsey-astc.pdf

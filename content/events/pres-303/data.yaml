@@ -1,7 +1,5 @@
 slug: pres-303
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-doe.pdf
 title: 'Impact Evaluation: Data, Tools, Analysis & Visualization'
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2011-09-14'
 dateEnd: '2011-09-14'
 event: ev-455
+link: https://cns.iu.edu/docs/presentations/2011-borner-doe.pdf

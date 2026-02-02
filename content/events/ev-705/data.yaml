@@ -1,7 +1,5 @@
 slug: ev-705
 type: other
-links:
-  - http://www.conoscope.de/
 title: Flowbile Workshop
 description: ''
 location: Leipzig, Germany
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-06-26'
 dateEnd: '2018-07-26'
 tags: []
+link: http://www.conoscope.de/

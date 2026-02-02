@@ -1,7 +1,5 @@
 slug: pres-376
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-kong-vivo.pdf
 title: VIVO Data and Visualizations
 description: ''
 location: St. Louis, MO
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2013-08-14'
 dateEnd: '2013-08-14'
 event: ev-511
+link: https://cns.iu.edu/docs/presentations/2013-kong-vivo.pdf

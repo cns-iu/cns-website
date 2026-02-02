@@ -1,7 +1,5 @@
 slug: pres-382
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-datavis-class.pdf
 title: Insightful Data Visualizations
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2013-09-17'
 dateEnd: '2013-09-17'
 event: ev-516
+link: https://cns.iu.edu/docs/presentations/2013-borner-datavis-class.pdf

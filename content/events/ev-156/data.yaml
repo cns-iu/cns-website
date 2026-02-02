@@ -1,7 +1,5 @@
 slug: ev-156
 type: conference
-links:
-  - http://www.cvev.org/cmv2007/index.php?p=home
 title: >-
   5th International Conference on Coordinated & Multiple Views in Exploratory
   Visualization
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2007-07-02'
 dateEnd: '2007-07-02'
 tags: []
+link: http://www.cvev.org/cmv2007/index.php?p=home

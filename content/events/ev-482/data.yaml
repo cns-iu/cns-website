@@ -1,7 +1,5 @@
 slug: ev-482
 type: meeting
-links:
-  - http://www.aag.org/cs/annualmeeting/about_the_meeting
 title: AAG Annual Meeting 2011
 description: ''
 location: Seattle, WA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2011-04-12'
 dateEnd: '2011-04-16'
 tags: []
+link: http://www.aag.org/cs/annualmeeting/about_the_meeting

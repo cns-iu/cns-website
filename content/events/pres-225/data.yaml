@@ -1,7 +1,5 @@
 slug: pres-225
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-I501.pdf
 title: Open Data and Open Code for S&T Assessment
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-11-11'
 dateEnd: '2009-11-11'
 event: ev-373
+link: https://cns.iu.edu/docs/presentations/2009-borner-I501.pdf

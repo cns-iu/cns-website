@@ -1,7 +1,5 @@
 slug: pres-156
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-astro-caltech.pdf
 title: The Science of Science
 description: ''
 location: Pasadena, CA
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2008-02-20'
 dateEnd: '2008-02-20'
 event: ev-180
+link: https://cns.iu.edu/docs/presentations/2008-borner-astro-caltech.pdf

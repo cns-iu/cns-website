@@ -1,7 +1,5 @@
 slug: pres-177
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-cnls-scimaps.pdf
 title: Science Maps in Action
 description: ''
 location: Santa Fe, NM
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2008-05-13'
 dateEnd: '2008-05-13'
 event: ev-292
+link: https://cns.iu.edu/docs/presentations/2008-borner-cnls-scimaps.pdf

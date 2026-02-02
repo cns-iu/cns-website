@@ -1,7 +1,5 @@
 slug: ev-613
 type: workshop
-links:
-  - http://www.nber.org/
 title: >-
   Economics of Science and Engineering Workshop The National Bureau of Economic
   Research (NBER)
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2016-10-06'
 dateEnd: '2016-10-06'
 tags: []
+link: http://www.nber.org/

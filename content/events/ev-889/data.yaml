@@ -1,7 +1,5 @@
 slug: ev-889
 type: workshop
-links:
-  - https://vis.csh.ac.at/vis-workshop-2024/
 title: Visualizing Complexity Science Workshop 2024
 description: ''
 location: Vienna, Austria
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2024-08-26'
 dateEnd: '2024-08-30'
 tags: []
+link: https://vis.csh.ac.at/vis-workshop-2024/

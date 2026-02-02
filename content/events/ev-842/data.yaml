@@ -1,6 +1,5 @@
 slug: ev-842
 type: meeting
-links: []
 title: >-
   Cellular Senescence Network (SenNet) Consortium Organization and Data
   Coordination Center (CODCC) Weekly Meeting
@@ -14,4 +13,5 @@ presentations:
 tutorials: []
 dateStart: '2022-06-01'
 dateEnd: '2022-06-01'
-tags: []
+tags:
+  - hra

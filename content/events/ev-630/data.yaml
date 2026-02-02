@@ -1,7 +1,5 @@
 slug: ev-630
 type: other
-links:
-  - http://mediaschool.indiana.edu/
 title: 'MSCH-T 604 Topical Seminar in Media & Society: Media Life'
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -13,3 +11,4 @@ tutorials: []
 dateStart: '2016-02-05'
 dateEnd: null
 tags: []
+link: http://mediaschool.indiana.edu/

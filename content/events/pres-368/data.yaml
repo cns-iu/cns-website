@@ -1,7 +1,5 @@
 slug: pres-368
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-ivmooc-medicine.pdf
 title: The Information Visualization MOOC
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2013-03-25'
 dateEnd: '2013-03-25'
 event: ev-504
+link: https://cns.iu.edu/docs/presentations/2013-borner-ivmooc-medicine.pdf

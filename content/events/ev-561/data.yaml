@@ -1,7 +1,5 @@
 slug: ev-561
 type: visit
-links:
-  - http://scimaps.org/northwestern2015.html
 title: Northwestern University
 description: ''
 location: Chicago, IL
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2015-05-14'
 dateEnd: '2015-05-14'
 tags: []
+link: http://scimaps.org/northwestern2015.html

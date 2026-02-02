@@ -1,7 +1,5 @@
 slug: pres-41
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2004-borner-3dvirtw-iu.ppt
 title: 3D Virtual Worlds and the Active Worlds Toolkit
 description: ''
 location: Woodburn Hall 220, Indiana University at Bloomington, Bloomington, Indiana
@@ -11,3 +9,4 @@ presenters:
 dateStart: '2004-12-01'
 dateEnd: '2004-12-01'
 event: ev-74
+link: https://cns.iu.edu/docs/presentations/2004-borner-3dvirtw-iu.ppt

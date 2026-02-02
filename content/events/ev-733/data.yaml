@@ -1,7 +1,5 @@
 slug: ev-733
 type: other
-links:
-  - https://ssrc.indiana.edu/seminars/datascience-socialscience/index.html
 title: Data Science Meets Social Science, Social Science Research Commons (SSRC)
 description: ''
 location: Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2018-09-27'
 dateEnd: null
 tags: []
+link: https://ssrc.indiana.edu/seminars/datascience-socialscience/index.html

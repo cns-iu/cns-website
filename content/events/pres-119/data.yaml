@@ -1,7 +1,5 @@
 slug: pres-119
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2006-borner-scopus-iu.ppt
 title: >-
   Mapping the Structure and Evolution of Scholarly Knowledge: Data (Integration)
   Issues
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2006-08-29'
 dateEnd: '2006-08-29'
 event: ev-106
+link: https://cns.iu.edu/docs/presentations/2006-borner-scopus-iu.ppt

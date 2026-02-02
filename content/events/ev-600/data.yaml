@@ -1,7 +1,5 @@
 slug: ev-600
 type: workshop
-links:
-  - https://www.loc.gov/loc/kluge/news/save-web-2016.html
 title: 'Saving the Web: The Ethics and Challenges of Preserving What’s on the Internet'
 description: ''
 location: Library of Congress, Washington, DC
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2016-06-16'
 dateEnd: '2016-06-16'
 tags: []
+link: https://www.loc.gov/loc/kluge/news/save-web-2016.html

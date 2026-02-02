@@ -1,7 +1,5 @@
 slug: ev-867
 type: meeting
-links:
-  - https://www.navsea.navy.mil/Media/News/
 title: SCALE ESS/Trusted AI Review Meeting
 description: ''
 location: Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2022-10-28'
 dateEnd: '2022-10-28'
 tags: []
+link: https://www.navsea.navy.mil/Media/News/

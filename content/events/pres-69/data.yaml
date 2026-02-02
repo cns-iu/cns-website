@@ -1,7 +1,5 @@
 slug: pres-69
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2006-borner-cmpscimet-telcord.pdf
 title: 'Computational Scientometrics: Mapping All of Science'
 description: ''
 location: New York, NY
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2006-08-15'
 dateEnd: '2006-08-15'
 event: ev-105
+link: https://cns.iu.edu/docs/presentations/2006-borner-cmpscimet-telcord.pdf

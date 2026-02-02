@@ -1,8 +1,5 @@
 slug: ev-422
 type: conference
-links:
-  - >-
-    http://www.hastac.org/events/networks-network-analysis-humanities-neh-institute-advanced-topics-digital-humanities
 title: >-
   Networks and Network Analysis for Humanities: An NEH Institute for Advanced
   Topics in Digital Humanities
@@ -18,3 +15,5 @@ tutorials: []
 dateStart: '2010-08-15'
 dateEnd: '2010-08-27'
 tags: []
+link: >-
+  http://www.hastac.org/events/networks-network-analysis-humanities-neh-institute-advanced-topics-digital-humanities

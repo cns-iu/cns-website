@@ -1,7 +1,5 @@
 slug: pres-611
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/19-Borner-WIS-Collnet.pdf
 title: Visualizing Education, Science, and Technology
 description: ''
 location: Dalian, China
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2019-11-07'
 dateEnd: '2019-11-07'
 event: ev-754
+link: https://cns.iu.edu/docs/presentations/19-Borner-WIS-Collnet.pdf

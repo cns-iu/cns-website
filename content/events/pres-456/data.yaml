@@ -1,7 +1,5 @@
 slug: pres-456
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-light-odonnell-suny.pdf
 title: Scalable Multi-Scale Visual Analytical Tools for Health Science
 description: ''
 location: |-
@@ -14,3 +12,4 @@ presenters:
 dateStart: '2016-03-29'
 dateEnd: '2016-03-29'
 event: ev-586
+link: https://cns.iu.edu/docs/presentations/2016-light-odonnell-suny.pdf

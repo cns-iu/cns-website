@@ -1,7 +1,5 @@
 slug: ev-28
 type: other
-links:
-  - http://www.rogers.mccsc.edu/
 title: Google Maps for 1st and 2nd Graders
 description: null
 location: Rogers Elementary School, 2200 East Second Street, Bloomington, Indiana
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2005-11-10'
 dateEnd: '2005-11-10'
 tags: []
+link: http://www.rogers.mccsc.edu/

@@ -1,7 +1,5 @@
 slug: pres-321
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-meertens.pdf
 title: >-
   Sci2 Tool: Temporal, Geospatial, Topical, and Network Analysis and
   Visualization
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2012-02-16'
 dateEnd: '2012-02-16'
 event: ev-469
+link: https://cns.iu.edu/docs/presentations/2012-borner-sci2tutorial-meertens.pdf

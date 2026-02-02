@@ -1,7 +1,5 @@
 slug: pres-528
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-borner-NAS-educ.pdf
 title: >-
   Data Visualization Literacy: Research and Tools that Advance Public
   Understanding of Scientific Data
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2017-10-20'
 dateEnd: '2017-10-20'
 event: ev-674
+link: https://cns.iu.edu/docs/presentations/2017-borner-NAS-educ.pdf

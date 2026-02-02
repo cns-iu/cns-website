@@ -1,7 +1,5 @@
 slug: pres-449
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2016-borner-esri.pdf
 title: >-
   Improving Data Visualization Literacy: Empowering Anyone to Read and Make
   Visualizations
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2016-02-08'
 dateEnd: '2016-02-08'
 event: ev-578
+link: https://cns.iu.edu/docs/presentations/2016-borner-esri.pdf

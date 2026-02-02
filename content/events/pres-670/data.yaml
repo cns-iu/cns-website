@@ -1,7 +1,5 @@
 slug: pres-670
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/22-HealthResearchAlliance-JSMF.pdf
 title: 'Utilizing Visualization for Program Evaluation: Techniques and Strategies'
 description: ''
 location: Research Triangle Park, NC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2022-09-22'
 dateEnd: '2022-09-22'
 event: ev-836
+link: https://cns.iu.edu/docs/presentations/22-HealthResearchAlliance-JSMF.pdf

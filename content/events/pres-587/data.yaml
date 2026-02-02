@@ -1,7 +1,5 @@
 slug: pres-587
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/18-borner-SSRC.pdf
 title: Actionable Data Visualizations
 description: ''
 location: Bloomington, Indiana
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2018-09-27'
 dateEnd: '2018-09-27'
 event: ev-733
+link: https://cns.iu.edu/docs/presentations/18-borner-SSRC.pdf

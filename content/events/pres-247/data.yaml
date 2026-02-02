@@ -1,7 +1,5 @@
 slug: pres-247
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2010-borner-jcdl.pdf
 title: Envisioning Knowledge (and Expertise)
 description: ''
 location: 22 View Avenue, Surfers Paradise, Queensland, Australia, 4217
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2010-06-22'
 dateEnd: '2010-06-22'
 event: ev-416
+link: https://cns.iu.edu/docs/presentations/2010-borner-jcdl.pdf

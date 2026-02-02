@@ -1,7 +1,5 @@
 slug: pres-288
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-ETHZ.pdf
 title: Science of Science Research and Tools
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2011-06-09'
 dateEnd: '2011-06-09'
 event: ev-443
+link: https://cns.iu.edu/docs/presentations/2011-borner-ETHZ.pdf

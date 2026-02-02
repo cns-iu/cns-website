@@ -1,8 +1,5 @@
 slug: ev-787
 type: meeting
-links:
-  - >-
-    https://gradsweb.sitehost.iu.edu/courses/B551%20Elements%20of%20Artificial%20Intelligence.html
 title: >-
   Indiana University Department of Computer Science: Virtual Guest Lecture in
   CSCI B551 Elements of Artificial Intelligence
@@ -16,3 +13,5 @@ tutorials: []
 dateStart: '2021-03-25'
 dateEnd: '2021-03-25'
 tags: []
+link: >-
+  https://gradsweb.sitehost.iu.edu/courses/B551%20Elements%20of%20Artificial%20Intelligence.html

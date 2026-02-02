@@ -1,7 +1,5 @@
 slug: pres-370
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-daser-nas.pdf
 title: Gaining Key Insights from Big Data
 description: ''
 location: Washington, DC
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-04-25'
 dateEnd: '2013-04-25'
 event: ev-506
+link: https://cns.iu.edu/docs/presentations/2013-borner-daser-nas.pdf

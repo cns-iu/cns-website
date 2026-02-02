@@ -1,7 +1,5 @@
 slug: pres-194
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2008-borner-scimap-umich.pdf
 title: Mapping the Structure and Dynamics of Science
 description: ''
 location: |-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2008-11-19'
 dateEnd: '2008-11-19'
 event: ev-315
+link: https://cns.iu.edu/docs/presentations/2008-borner-scimap-umich.pdf

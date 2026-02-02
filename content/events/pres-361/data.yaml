@@ -1,7 +1,5 @@
 slug: pres-361
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2013-borner-knaw-vivo.pdf
 title: VIVO International Researcher Network
 description: ''
 location: KNAW, Amsterdam, The Netherlands
@@ -10,3 +8,4 @@ presenters:
 dateStart: '2013-01-18'
 dateEnd: '2013-01-18'
 event: ev-500
+link: https://cns.iu.edu/docs/presentations/2013-borner-knaw-vivo.pdf

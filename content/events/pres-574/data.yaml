@@ -1,7 +1,5 @@
 slug: pres-574
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/18-Borner-NIH-RebuildKidney.pdf
 title: >-
   High-Resolution, Functional Mapping of Voxel, Vector, and Meta Datasets within
   the Human BioMolecular Atlas Program (HuBMAP)
@@ -13,3 +11,6 @@ presenters:
 dateStart: '2018-12-14'
 dateEnd: '2018-12-14'
 event: ev-724
+link: https://cns.iu.edu/docs/presentations/18-Borner-NIH-RebuildKidney.pdf
+tags:
+  - hra

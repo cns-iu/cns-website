@@ -1,7 +1,5 @@
 slug: pres-276
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2011-borner-18months-vivo-vis.pdf
 title: VIVO Social Network Visualizations
 description: ''
 location: >-
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2011-03-03'
 dateEnd: '2011-03-03'
 event: ev-432
+link: https://cns.iu.edu/docs/presentations/2011-borner-18months-vivo-vis.pdf

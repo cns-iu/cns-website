@@ -1,7 +1,5 @@
 slug: ev-432
 type: meeting
-links:
-  - http://vivoweb.org/
 title: VIVO 18 months review
 description: ''
 location: >-
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2011-03-03'
 dateEnd: '2011-03-03'
 tags: []
+link: http://vivoweb.org/

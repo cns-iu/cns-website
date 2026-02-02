@@ -1,7 +1,5 @@
 slug: ev-861
 type: conference
-links:
-  - http://sti2020.org/index.php
 title: >-
   25th International Conference on Science, Technology and Innovation Indicators
   (STI 2021)
@@ -16,3 +14,4 @@ tutorials: []
 dateStart: '2021-09-13'
 dateEnd: '2021-09-17'
 tags: []
+link: http://sti2020.org/index.php

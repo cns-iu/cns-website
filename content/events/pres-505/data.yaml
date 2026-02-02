@@ -1,8 +1,5 @@
 slug: pres-505
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2017-pentchev-wos-iuni-open-science.pdf
 title: "Web\_of Science as a  Research Data Set"
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -11,3 +8,4 @@ presenters:
 dateStart: '2017-04-12'
 dateEnd: '2017-04-12'
 event: ev-650
+link: https://cns.iu.edu/docs/presentations/2017-pentchev-wos-iuni-open-science.pdf

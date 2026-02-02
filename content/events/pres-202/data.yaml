@@ -1,8 +1,5 @@
 slug: pres-202
 type: presentation
-links:
-  - >-
-    https://cns.iu.edu/docs/presentations/2009-duhon-marketplaces-sanken-japan.pdf
 title: >-
   Creating Marketplaces for Science: The Emerging Characteristics of Modern
   Science Cyberinfrastructures
@@ -13,3 +10,4 @@ presenters:
 dateStart: '2009-01-22'
 dateEnd: '2009-01-22'
 event: ev-350
+link: https://cns.iu.edu/docs/presentations/2009-duhon-marketplaces-sanken-japan.pdf

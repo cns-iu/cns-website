@@ -1,7 +1,5 @@
 slug: ev-607
 type: conference
-links:
-  - http://researchhorizons.soic.indiana.edu/
 title: Research Horizons
 description: ''
 location: Indiana University Bloomington, Bloomington, Indiana
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2016-09-08'
 dateEnd: '2016-09-09'
 tags: []
+link: http://researchhorizons.soic.indiana.edu/

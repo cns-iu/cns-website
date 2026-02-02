@@ -1,7 +1,5 @@
 slug: ev-865
 type: meeting
-links:
-  - https://www.anatomy.org/AAA/AAA/Meetings-Events/Regional-Meeting-2022.aspx
 title: 'AAA Regional Meeting: Anatomy Across Scales: From Molecules to Organisms'
 description: ''
 location: Iowa City, IA
@@ -14,3 +12,4 @@ tutorials: []
 dateStart: '2022-10-07'
 dateEnd: '2022-10-08'
 tags: []
+link: https://www.anatomy.org/AAA/AAA/Meetings-Events/Regional-Meeting-2022.aspx

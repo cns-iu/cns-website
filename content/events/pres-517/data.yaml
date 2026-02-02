@@ -1,7 +1,5 @@
 slug: pres-517
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2017-scrivner-ATLT.pdf
 title: >-
   Immersive Mobile Technologies: Virtual/Augmented Reality Technologies in the
   Classroom
@@ -15,3 +13,4 @@ presenters:
 dateStart: '2017-09-15'
 dateEnd: '2017-09-15'
 event: ev-665
+link: https://cns.iu.edu/docs/presentations/2017-scrivner-ATLT.pdf

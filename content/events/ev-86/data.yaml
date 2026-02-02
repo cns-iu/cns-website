@@ -1,7 +1,5 @@
 slug: ev-86
 type: workshop
-links:
-  - http://www.ncsa.uiuc.edu/Conferences/SNAC/
 title: >-
   Social Networks and Cyberinfrastructure (SNAC): The Role of Social Network
   Research in Enabling Cyberinfrastructure
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2005-11-03'
 dateEnd: '2005-11-05'
 tags: []
+link: http://www.ncsa.uiuc.edu/Conferences/SNAC/

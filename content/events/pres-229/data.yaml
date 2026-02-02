@@ -1,7 +1,5 @@
 slug: pres-229
 type: presentation
-links:
-  - https://cns.iu.edu/docs/presentations/2009-borner-astra.pdf
 title: >
   Mapping Innovation for Congress: Creating an Innovation Dashboard to Inform
   Policy Makers
@@ -12,3 +10,4 @@ presenters:
 dateStart: '2009-12-10'
 dateEnd: '2009-12-10'
 event: ev-377
+link: https://cns.iu.edu/docs/presentations/2009-borner-astra.pdf

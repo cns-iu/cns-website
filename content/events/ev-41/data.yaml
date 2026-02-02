@@ -1,7 +1,5 @@
 slug: ev-41
 type: conference
-links:
-  - http://vw.indiana.edu/vda2004/
 title: >-
   Conference on Visualization and Data Analysis 2004 (EI10): Part of IS&T/SPIE's
   International Symposium on Electronic Imaging 2004
@@ -15,3 +13,4 @@ tutorials: []
 dateStart: '2004-01-18'
 dateEnd: '2004-01-22'
 tags: []
+link: http://vw.indiana.edu/vda2004/

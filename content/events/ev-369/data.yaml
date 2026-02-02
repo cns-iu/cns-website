@@ -1,7 +1,5 @@
 slug: ev-369
 type: workshop
-links:
-  - http://modelling-science.simshelf.virtualknowledgestudio.nl/
 title: >-
   Modelling Science: Understanding, Forecasting, and Communicating the Science
   System
@@ -18,3 +16,4 @@ tutorials: []
 dateStart: '2009-10-06'
 dateEnd: '2009-10-09'
 tags: []
+link: http://modelling-science.simshelf.virtualknowledgestudio.nl/
