@@ -1,6 +1,3 @@
--- CREATE TABLE tblVisualizations(id INTEGER, title VARCHAR, description VARCHAR, 
---   media_type ENUM('IMAGE', 'VIDEO', 'DOC'), media_url VARCHAR, link VARCHAR, pub_date DATE);
-
 COPY (
   SELECT DISTINCT
     slugify(html_decode('vis-' || id)) as slug,
