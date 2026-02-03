@@ -1,4 +1,30 @@
 collections:
+  - name: funding
+    label: Funding
+    folder: content/funding
+    path: "{{slug}}/data"
+    format: "yaml"
+    extension: "yaml"
+    create: true
+    identifier_field: slug
+    preview_path: funding/{{fields.slug}}/data.yaml
+    media_folder: ''
+    public_folder: ''
+    summary: '{{title}}'
+    sortable_fields: [dateStart, title, funder]
+    fields:
+      - { name: slug, default: 'EMPTY', widget: hidden }
+      - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the funding page.' }
+      - { name: name, label: Name, widget: string }
+      - { name: title, label: Title, widget: string }
+      - { name: funder, label: Funding Agency, widget: string }
+      - { name: investigators, label: Primary Investigators, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - { name: amount, label: Funding Amount, widget: number, value_type: int, min: 0 }
+      - { name: receivedAmount, label: Funding Amount, widget: number, value_type: int, min: 0, required: false }
+      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+
   - name: people
     label: People
     label_singular: Person
