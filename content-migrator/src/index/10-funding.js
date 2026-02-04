@@ -1,3 +1,5 @@
+import { readFileSync } from 'fs';
+import YAML from 'js-yaml';
 import { join } from 'path';
 import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
@@ -41,5 +43,13 @@ export function writeFundingIndex() {
   writeMinifiedJSON(join(INDEXES, 'app-funding.json'), entries);
 }
 
+export function writeFundingTypesIndex() {
+  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
+  const coll = config.collections.find((c) => c.name === 'funding');
+  const types = coll.fields.find((f) => f.name === 'type');
+  writeMinifiedJSON(join(INDEXES, 'app-funding-types.json'), types.options);
+}
+
 index('funding/**/data.yaml', 'funding.json');
 writeFundingIndex();
+writeFundingTypesIndex();
