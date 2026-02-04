@@ -1,7 +1,7 @@
 COPY (
   SELECT DISTINCT
     slugify(html_decode('fun-' || grantId)) as slug,
-    'funding' as "type",
+    'research' as "type",
     grantName as "name",
     grantTitle as title,
     organizationName as "funder",
