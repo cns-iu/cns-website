@@ -14,6 +14,13 @@ collections:
     sortable_fields: [dateStart, title, funder]
     fields:
       - { name: slug, default: 'EMPTY', widget: hidden }
+      - name: type
+        label: Type
+        widget: select
+        options:
+          - { label: Research, value: "research" }
+          - { label: Teaching, value: "teaching" }
+          - { label: Workshop, value: "workshop" }
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the funding page.' }
       - { name: name, label: Name, widget: string }
       - { name: title, label: Title, widget: string }
@@ -111,7 +118,6 @@ collections:
       - name: type
         label: Type
         widget: select
-        required: false
         options:
           - { label: Edited Journal, value: "periodical" }
           - { label: Journal Article, value: "article-journal" }
@@ -226,7 +232,6 @@ collections:
       - name: type
         label: Type
         widget: select
-        required: false
         options:
           - { label: Workshop, value: "workshop" }
           - { label: Conference, value: "conference" }
