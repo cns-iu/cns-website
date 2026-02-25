@@ -7,7 +7,14 @@ const STAGING_DIR = 'old-website/staging';
 const OUTPUT_DIR = '../content/people';
 const IMAGES_DIR = 'old-website/images/people';
 
-const NOIMAGES = new Set(['noimage.png', 'no-image-man.png', 'no-image-woman.png']);
+const NOIMAGES = new Set([
+  'noimage.png',
+  'no-image-man.png',
+  'no-image-woman.png',
+  'placeholder.png',
+  'male-placeholder.png',
+  'female-placeholder.png',
+]);
 
 const BASE_JSON = 'people.json';
 const ROLE_JSONs = ['members.json', 'students.json', 'collaborators.json'];
