@@ -58,7 +58,9 @@ export function writePublicationIndex() {
     link: links[index],
     title: pub.title,
     description: links[index]
-      ? markdown[pub.slug].replaceAll(pub.title, `[${pub.title}](${links[index]})`)
+      ? markdown[pub.slug]
+        .replaceAll(pub.title, `[${pub.title}](${links[index]})`)
+        .replaceAll(links[index], `[${links[index].replace(/http[s]\:\/\//, '')}](${links[index]})`)
       : markdown[pub.slug],
     tags: pub.tags ?? [],
     dateStart: pub.date,
