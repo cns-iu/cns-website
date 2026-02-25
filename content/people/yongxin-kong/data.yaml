@@ -4,7 +4,7 @@ lastName: Kong
 roles:
   - type: member
     title: Postdoctoral Fellow
-    displayOrder: 1
+    displayOrder: 12
     office: ''
     phone: ''
     fax: ''
