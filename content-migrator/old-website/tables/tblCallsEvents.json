@@ -845,5 +845,6 @@
 	{"eventId":895,"title":"\"HRA Discussion at Mount Sinai: Pulmonary, Critical Care and  Sleep Medicine Grand Rounds \"","startDate":"2025-03-14","endDate":"2025-03-14","description":"","type":"10000","ivlweb":true,"cnsweb":true},
 	{"eventId":896,"title":"2025 Human Cell Atlas General Meeting (Singapore)","startDate":null,"endDate":null,"description":"","type":null,"ivlweb":true,"cnsweb":true},
 	{"eventId":897,"title":"iConference 2025","startDate":"2025-03-18","endDate":"2025-03-22","description":"","type":"10000","ivlweb":true,"cnsweb":true},
-	{"eventId":898,"title":"NetSci 2025","startDate":"2025-06-02","endDate":"2025-06-02","description":"","type":"10000","ivlweb":true,"cnsweb":true}
+	{"eventId":898,"title":"NetSci 2025","startDate":"2025-06-02","endDate":"2025-06-02","description":"","type":"10000","ivlweb":true,"cnsweb":true},
+	{"eventId":899,"title":"Aegean Conferences: 16th International Conference on Genomics and Systems Biology of Human Disease and Aging","startDate":"2026-05-07","endDate":"2026-05-12","description":"","type":"10000","ivlweb":true,"cnsweb":true}
 ]

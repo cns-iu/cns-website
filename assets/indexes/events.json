@@ -1,5 +1,16 @@
 [
   {
+    "slug": "ws-97",
+    "type": "workshop",
+    "title": "NetSci 2026 Network Geometry, Theory and Applications",
+    "description": "",
+    "location": "Boston, MA, USA",
+    "dateStart": "2026-06-01",
+    "dateEnd": "2026-06-01",
+    "tags": [],
+    "link": "https://mappingcomplexity.net/mainpage/netsci2026/"
+  },
+  {
     "slug": "ws-96",
     "type": "workshop",
     "title": "24 Hour Human Physiology Event",
@@ -215,7 +226,7 @@
     "dateStart": "2010-12-01",
     "dateEnd": "2010-12-01",
     "tags": [],
-    "link": "http://web.archive.org/web/20260108191823/https://cns.iu.edu/101201.html"
+    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/101201.html"
   },
   {
     "slug": "ws-79",
@@ -542,7 +553,7 @@
     "dateStart": "2011-08-11",
     "dateEnd": "2011-08-12",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/110810.html"
+    "link": "http://web.archive.org/web/20260108202022/https://cns.iu.edu/110810.html"
   },
   {
     "slug": "ws-49",
@@ -641,7 +652,7 @@
     "dateStart": "2016-09-25",
     "dateEnd": "2016-09-25",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/160924.html"
+    "link": "http://web.archive.org/web/20260108182914/https://cns.iu.edu/160924.html"
   },
   {
     "slug": "ws-38",
@@ -685,7 +696,7 @@
     "dateStart": "2015-10-17",
     "dateEnd": "2015-10-17",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/151017.html"
+    "link": "http://web.archive.org/web/20260108192724/https://cns.iu.edu/151017.html"
   },
   {
     "slug": "ws-34",
@@ -696,7 +707,7 @@
     "dateStart": "2015-06-29",
     "dateEnd": "2015-06-29",
     "tags": [],
-    "link": "http://web.archive.org/web/20260127210317/https://cns.iu.edu/150629.html"
+    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/150629.html"
   },
   {
     "slug": "ws-32",
@@ -718,7 +729,7 @@
     "dateStart": "2014-07-21",
     "dateEnd": "2014-07-21",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/140721.html"
+    "link": "http://web.archive.org/web/20260108192545/https://cns.iu.edu/140721.html"
   },
   {
     "slug": "ws-3",
@@ -751,7 +762,7 @@
     "dateStart": "2014-03-25",
     "dateEnd": "2014-03-25",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/140325.html"
+    "link": "http://web.archive.org/web/20260108192445/https://cns.iu.edu/140325.html"
   },
   {
     "slug": "ws-27",
@@ -850,7 +861,7 @@
     "dateStart": "2012-11-16",
     "dateEnd": "2012-11-17",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/121116.html"
+    "link": "http://web.archive.org/web/20260108202816/https://cns.iu.edu/121116.html"
   },
   {
     "slug": "ws-19",
@@ -905,7 +916,7 @@
     "dateStart": "2009-06-17",
     "dateEnd": "2009-06-18",
     "tags": [],
-    "link": "http://web.archive.org/web/20260108191119/https://cns.iu.edu/090617.html"
+    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/090617.html"
   },
   {
     "slug": "ws-14",
@@ -927,7 +938,7 @@
     "dateStart": "2009-10-01",
     "dateEnd": "2009-10-02",
     "tags": [],
-    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/091001.html"
+    "link": "http://web.archive.org/web/20260108203019/https://cns.iu.edu/091001.html"
   },
   {
     "slug": "ws-12",
@@ -971,7 +982,7 @@
     "dateStart": "2013-03-25",
     "dateEnd": "2013-03-26",
     "tags": [],
-    "link": "http://web.archive.org/web/20260108201711/https://cns.iu.edu/130325.html"
+    "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/130325.html"
   },
   {
     "slug": "tut-23",
@@ -1149,7 +1160,7 @@
     "dateStart": "2007-05-22",
     "dateEnd": "2007-05-22",
     "event": "ev-144",
-    "link": "https://cns.iu.edu/docs/presentations/2007-hook-netderdm-nyhsci.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2007-hook-netderdm-nyhsci.pdf"
   },
   {
     "slug": "pres-98",
@@ -1177,7 +1188,7 @@
     "dateStart": "2006-09-16",
     "dateEnd": "2006-09-16",
     "event": "ev-138",
-    "link": "https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.ppt"
   },
   {
     "slug": "pres-96",
@@ -1219,7 +1230,7 @@
     "dateStart": "2004-05-21",
     "dateEnd": "2004-05-21",
     "event": "ev-54",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-poster.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-poster.pdf"
   },
   {
     "slug": "pres-90",
@@ -1247,7 +1258,7 @@
     "dateStart": "2005-05-31",
     "dateEnd": "2005-05-31",
     "event": "ev-13",
-    "link": "https://cns.iu.edu/docs/presentations/2005-borner-modcoevo-unknown.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2005-borner-modcoevo-unknown.ppt"
   },
   {
     "slug": "pres-88",
@@ -1615,7 +1626,7 @@
     "dateStart": "2006-04-01",
     "dateEnd": "2006-04-01",
     "event": "ev-108",
-    "link": "https://cns.iu.edu/docs/presentations/2006-kowalczyk-diglib-iasist.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2006-kowalczyk-diglib-iasist.ppt"
   },
   {
     "slug": "pres-717",
@@ -1813,7 +1824,7 @@
     "dateStart": "2005-12-01",
     "dateEnd": "2005-12-01",
     "event": "ev-31",
-    "link": "https://cns.iu.edu/docs/presentations/2005-hook-knwdmvis-philly.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2005-hook-knwdmvis-philly.pdf"
   },
   {
     "slug": "pres-694",
@@ -2888,7 +2899,7 @@
     "dateStart": "2005-09-02",
     "dateEnd": "2005-09-02",
     "event": "ev-149",
-    "link": "https://cns.iu.edu/docs/presentations/2005-kowalczyk-dgdatpre-poster.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2005-kowalczyk-dgdatpre-poster.pdf"
   },
   {
     "slug": "pres-609",
@@ -3803,7 +3814,7 @@
     "dateStart": "2006-01-17",
     "dateEnd": "2006-01-17",
     "event": "ev-77",
-    "link": "https://cns.iu.edu/docs/presentations/2005-hook-instrvis-poster.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2005-hook-instrvis-poster.ppt"
   },
   {
     "slug": "pres-539",
@@ -3945,7 +3956,7 @@
     "dateStart": "2005-10-03",
     "dateEnd": "2005-10-03",
     "event": "ev-23",
-    "link": "https://cns.iu.edu/docs/presentations/2005-hook-edknow-poster.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2005-hook-edknow-poster.pdf"
   },
   {
     "slug": "pres-529",
@@ -4029,7 +4040,7 @@
     "dateStart": "2005-05-25",
     "dateEnd": "2005-05-25",
     "event": "ev-12",
-    "link": "https://cns.iu.edu/docs/presentations/2005-hook-knowdom-santafe.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2005-hook-knowdom-santafe.ppt"
   },
   {
     "slug": "pres-519",
@@ -4189,7 +4200,7 @@
     "dateStart": "2005-09-24",
     "dateEnd": "2005-09-24",
     "event": "ev-22",
-    "link": "https://cns.iu.edu/docs/presentations/2005-hook-instrvis-unknown.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2005-hook-instrvis-unknown.pdf"
   },
   {
     "slug": "pres-508",
@@ -4582,7 +4593,7 @@
     "dateStart": "2003-09-10",
     "dateEnd": "2003-09-10",
     "event": "ev-75",
-    "link": "https://cns.iu.edu/docs/presentations/2003-mane-pnas0105-unknown.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2003-mane-pnas0105-unknown.pdf"
   },
   {
     "slug": "pres-479",
@@ -5117,7 +5128,7 @@
     "dateStart": "2003-07-19",
     "dateEnd": "2003-07-19",
     "event": "ev-110",
-    "link": "https://cns.iu.edu/docs/presentations/2003-ord-ethol-unknown.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2003-ord-ethol-unknown.ppt"
   },
   {
     "slug": "pres-439",
@@ -5275,7 +5286,7 @@
     "dateStart": "2003-05-31",
     "dateEnd": "2003-05-31",
     "event": "ev-111",
-    "link": "https://cns.iu.edu/docs/presentations/2003-mane-oncosift-unknown.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2003-mane-oncosift-unknown.ppt"
   },
   {
     "slug": "pres-429",
@@ -5433,7 +5444,7 @@
     "dateStart": "2002-12-15",
     "dateEnd": "2002-12-15",
     "event": "ev-154",
-    "link": "https://cns.iu.edu/docs/presentations/2002-mane-bioinfo-unknown.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2002-mane-bioinfo-unknown.pdf"
   },
   {
     "slug": "pres-419",
@@ -5743,7 +5754,7 @@
     "dateStart": "2004-11-19",
     "dateEnd": "2004-11-19",
     "event": "ev-1",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-ivc-iu.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-ivc-iu.ppt"
   },
   {
     "slug": "pres-4",
@@ -6060,7 +6071,7 @@
     "dateStart": "2004-11-12",
     "dateEnd": "2004-11-12",
     "event": "ev-71",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-evolosci-iu.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-evolosci-iu.pdf"
   },
   {
     "slug": "pres-379",
@@ -6357,7 +6368,7 @@
     ],
     "dateStart": "2012-10-26",
     "dateEnd": "2012-10-26",
-    "event": "ev-550",
+    "event": "ev-497",
     "link": "https://cns.iu.edu/docs/presentations/2012-borner-yale.pdf"
   },
   {
@@ -6911,7 +6922,7 @@
     "dateStart": "2004-10-20",
     "dateEnd": "2004-10-20",
     "event": "ev-122",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-manknwxp-nsfcise.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-manknwxp-nsfcise.ppt"
   },
   {
     "slug": "pres-319",
@@ -7377,7 +7388,7 @@
     "dateStart": "2004-09-28",
     "dateEnd": "2004-09-28",
     "event": "ev-64",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-datamine-iu.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-datamine-iu.pdf"
   },
   {
     "slug": "pres-289",
@@ -8258,7 +8269,7 @@
     "dateStart": "2004-05-21",
     "dateEnd": "2004-05-21",
     "event": "ev-54",
-    "link": "https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-sbc.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2004-borner-infvsmod-sbc.pdf"
   },
   {
     "slug": "pres-229",
@@ -8581,7 +8592,7 @@
     "dateStart": "2009-06-15",
     "dateEnd": "2009-06-15",
     "event": "ev-357",
-    "link": "http://ia-cap.org/na-cap09/index.htm"
+    "link": "https://cns.iu.edu/docs/presentations/2009-borner-science-above-nacap.pdf"
   },
   {
     "slug": "pres-207",
@@ -8990,7 +9001,7 @@
     "dateStart": "2008-03-27",
     "dateEnd": "2008-03-27",
     "event": "ev-262",
-    "link": "https://cns.iu.edu/docs/presentations/2008-borner-cybertools-cas.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2008-borner-cybertools-cas.pdf"
   },
   {
     "slug": "pres-166",
@@ -9018,7 +9029,7 @@
     "dateStart": "2008-03-28",
     "dateEnd": "2008-03-28",
     "event": "ev-262",
-    "link": "https://cns.iu.edu/docs/presentations/2008-borner-computational-beijing.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2008-borner-computational-beijing.pdf"
   },
   {
     "slug": "pres-164",
@@ -9197,7 +9208,7 @@
     "dateStart": "2008-01-22",
     "dateEnd": "2008-01-22",
     "event": "ev-181",
-    "link": "https://cns.iu.edu/docs/presentations/2008-borner-evosci-heraeus.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2008-borner-evosci-heraeus.ppt"
   },
   {
     "slug": "pres-147",
@@ -9239,7 +9250,7 @@
     "dateStart": "2007-12-07",
     "dateEnd": "2007-12-07",
     "event": "ev-234",
-    "link": "https://cns.iu.edu/docs/presentations/2007-borner-scholcom-telecom.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2007-borner-scholcom-telecom.ppt"
   },
   {
     "slug": "pres-143",
@@ -9449,7 +9460,7 @@
     "dateStart": "2005-07-24",
     "dateEnd": "2005-07-24",
     "event": "ev-18",
-    "link": "https://cns.iu.edu/docs/presentations/2005-borner-sptiotmp-sweden.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2005-borner-sptiotmp-sweden.ppt"
   },
   {
     "slug": "pres-129",
@@ -9533,7 +9544,7 @@
     "dateStart": "2007-08-07",
     "dateEnd": "2007-08-07",
     "event": "ev-164",
-    "link": "https://cns.iu.edu/docs/presentations/2007-borner-id-siggraph.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2007-borner-id-siggraph.ppt"
   },
   {
     "slug": "pres-122",
@@ -9603,7 +9614,7 @@
     "dateStart": "2006-08-29",
     "dateEnd": "2006-08-29",
     "event": "ev-106",
-    "link": "https://cns.iu.edu/docs/presentations/2006-borner-scopus-iu.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2006-borner-scopus-iu.pdf"
   },
   {
     "slug": "pres-118",
@@ -9645,7 +9656,7 @@
     "dateStart": "2007-07-06",
     "dateEnd": "2007-07-06",
     "event": "ev-143",
-    "link": "https://cns.iu.edu/docs/presentations/2007-larowe-jp-iv.pdf"
+    "link": "https://cns.iu.edu/docs/presentations/2007-larowe-jp-iv.ppt"
   },
   {
     "slug": "pres-115",
@@ -9801,7 +9812,7 @@
     "dateStart": "2004-09-18",
     "dateEnd": "2004-09-18",
     "event": "ev-76",
-    "link": "https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.ppt"
+    "link": "https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.pdf"
   },
   {
     "slug": "ev-99",
@@ -9986,6 +9997,21 @@
     "link": "http://www.how-why.com/ucs2004/"
   },
   {
+    "slug": "ev-899",
+    "type": "conference",
+    "title": "Aegean Conferences: 16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
+    "description": "",
+    "location": "",
+    "organizers": [],
+    "attendees": [],
+    "publications": [],
+    "presentations": [],
+    "tutorials": [],
+    "dateStart": "2026-05-07",
+    "dateEnd": "2026-05-12",
+    "tags": []
+  },
+  {
     "slug": "ev-898",
     "type": "conference",
     "title": "NetSci 2025",
@@ -10034,8 +10060,8 @@
     ],
     "presentations": [],
     "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
+    "dateStart": "2025-01-01",
+    "dateEnd": "2025-01-01",
     "tags": []
   },
   {
@@ -12835,8 +12861,8 @@
       "pres-608"
     ],
     "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
+    "dateStart": "2019-01-01",
+    "dateEnd": "2019-01-01",
     "tags": [],
     "link": "https://www.grc.org/computer-aided-drug-design-conference/2019/"
   },
@@ -12869,8 +12895,8 @@
     "publications": [],
     "presentations": [],
     "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
+    "dateStart": "2019-01-01",
+    "dateEnd": "2019-01-01",
     "tags": [],
     "link": "https://www.grc.org/computer-aided-drug-design-conference/2019/"
   },
@@ -15122,7 +15148,7 @@
     ],
     "tutorials": [],
     "dateStart": "2016-12-12",
-    "dateEnd": null,
+    "dateEnd": "2016-01-01",
     "tags": [],
     "link": "http://www.nseresearch.org/2016/"
   },

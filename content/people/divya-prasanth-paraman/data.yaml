@@ -29,7 +29,7 @@ roles:
       historical docuseries and staying updated with the latest trends in the
       data science industry.
     dateStart: '2025-01-13'
-    dateEnd: null
+    dateEnd: '2026-01-20'
   - type: student
     topic: Ph.D. Intelligent Systems Engineering
     degree: Ph.D.

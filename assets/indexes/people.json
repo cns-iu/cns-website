@@ -316,10 +316,23 @@
   },
   {
     "slug": "yongxin-kong",
-    "name": "Yongxin Kong",
+    "name": "Yongxin  Kong",
     "lastName": "Kong",
-    "image": "image.png",
     "roles": [
+      {
+        "type": "member",
+        "title": "Postdoctoral Fellow",
+        "displayOrder": 1,
+        "office": "",
+        "phone": "",
+        "fax": "",
+        "email": "",
+        "education": "B.S. - South China Normal University (2018) - Information Science\r\nM.S. - Nankai University (2020) - Information Science\r\nPh.D - Sun Yat-sen University (2024) - Information Science\r\n",
+        "background": "I work on data mining, data analysis, and data visualization. I am also exploring LLM-based methods. I am particularly interested in AI for Biology- leveraging data-driven and LLM-based approaches to support biological understanding and discovery.",
+        "interests": "I like swimming, playing table tennis and playing badminton.",
+        "dateStart": "2026-02-01",
+        "dateEnd": null
+      },
       {
         "type": "member",
         "title": "Visiting Scholar",
@@ -1419,7 +1432,7 @@
   {
     "slug": "uits",
     "name": "UITS",
-    "lastName": "UITS",
+    "lastName": "",
     "roles": []
   },
   {
@@ -1723,7 +1736,7 @@
   },
   {
     "slug": "timothy-a-sutton",
-    "name": "Timothy A Sutton",
+    "name": "Timothy A. Sutton",
     "lastName": "Sutton",
     "roles": []
   },
@@ -2632,7 +2645,7 @@
   },
   {
     "slug": "stewart-h-lecker",
-    "name": "Stewart H. Lecker",
+    "name": "Stewart H Lecker",
     "lastName": "Lecker",
     "roles": []
   },
@@ -2864,8 +2877,8 @@
   },
   {
     "slug": "stasa-milojevic",
-    "name": "Stasa Milojevic",
-    "lastName": "Milojevic",
+    "name": "Staša Milojević",
+    "lastName": "Milojević",
     "roles": []
   },
   {
@@ -3643,6 +3656,12 @@
     "roles": []
   },
   {
+    "slug": "selma-sabanovic",
+    "name": "Selma Sabanovic",
+    "lastName": "Sabanovic",
+    "roles": []
+  },
+  {
     "slug": "selen-c-muratoglu",
     "name": "Selen C. Muratoglu",
     "lastName": "Muratoglu",
@@ -3835,7 +3854,7 @@
         "background": "My research spans biomedical AI, large-scale NLP, and scalable ML infrastructure. At the CNS Lab, I am currently working on building scalable pipelines for cell segmentation using models such as SAM and DeepCell, combined with Docker, Kubernetes, and MLflow for reproducibility. Prior to this, I spent a year as a full-time researcher at Jio Institute in India, where I developed self-supervised pipelines for ultrasound imaging using spectral representations and attention-based models to improve generalization across multi-organ datasets. Earlier, at the Indian Statistical Institute, Kolkata, I worked as a Research Intern in the Biomedical Imaging Lab, developing advanced color normalization methods for H&E stained images and confirming HSI as the most effective channel for enhancing breast cancer cell detection. I also gained experience in enterprise AI during my internship with Ernst & Young, where I contributed to transformer-based NLP pipelines and speech analysis systems for compliance and risk monitoring. My current research interests include vision-language models, diffusion models, and 3D scene understanding, with a strong focus on applying these tools to advance biomedicine.",
         "interests": "Outside of work, I balance my time between the soccer field and the endless AI debates on X. Following voices like Karpathy, LeCun, and Goodfellow often pulls me into late-night rabbit holes that spark new ideas and keep me curious.",
         "dateStart": "2025-09-15",
-        "dateEnd": null
+        "dateEnd": "2026-02-13"
       }
     ]
   },
@@ -3967,7 +3986,7 @@
   },
   {
     "slug": "sarah-a-teichmann",
-    "name": "Sarah A. Teichmann",
+    "name": "Sarah A Teichmann",
     "lastName": "Teichmann",
     "roles": []
   },
@@ -4425,7 +4444,7 @@
         "background": "I’m a full-stack developer with over 3 years of experience building scalable platforms across IoT, procurement, consulting, and professional networking. I specialize in React, Angular, NestJS, and cloud services like AWS, with a strong focus on clean architecture, real-time features, and performance optimization. My work spans building platforms that deliver seamless user experiences, handle real-time data processing, and ensure scalability in diverse domains.\r\n\r\n\r\nI love working on personal projects that solve real-world problems. Some of my key projects include an LLM-powered document summarization bot, a pneumonia detection model using ensemble CNNs and GANs, a contactless COVID-19 screening system using computer vision and IoT, and a plant disease classifier with findings published in IRJET.",
         "interests": "Outside of work and academics, I enjoy exploring new tech stacks, contributing to open-source, and participating in hackathons. In my free time, I love traveling, organizing my room, playing board games, and discovering new music. I enjoy having coffee and masala chai.",
         "dateStart": "2025-03-24",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       }
     ]
   },
@@ -5291,7 +5310,7 @@
   },
   {
     "slug": "rebecca-t-beuschel",
-    "name": "Rebecca T Beuschel",
+    "name": "Rebecca T. Beuschel",
     "lastName": "Beuschel",
     "roles": []
   },
@@ -5490,7 +5509,7 @@
         "background": "I completed my Masters from IU graduating with a degree in Computer Science in 2023. I worked briefly in the summer of 2022 at CNS and then in 2023 where I primarily worked on the FTU explorer. After that I moved to California to work at a startup in claims industry. I worked as Full Stack Engineer there but I primarily worked on front end. I discovered my passion for front end in CNS itself where I thoroughly enjoyed working with Bruce’s team. I went on to learn in depth about frameworks like React and Angular. With this passion and learning I applied my knowledge to scale front end systems at the startup where our product was used by over 1 million active users. I recently rejoined CNS to contribute towards the HuBMAP effort. I look forward to learn more things and deliver meaningful impact alongside the team.",
         "interests": "When not at work, I like to experiment with my cooking. I recently learnt how to make a lobster bisque. I also enjoy walking around Bloomington. I am also a huge automobile enthusiast and worked on my car in California doing maintenance repairs. I also like reading engineering blogs, currently I am reading on how Airbnb optimized their website loading times for better user experience.",
         "dateStart": "2025-04-01",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       },
       {
         "type": "member",
@@ -5774,7 +5793,7 @@
         "background": "I worked as a Software Developer for two years at nVent, where I worked to a range of tasks, including fixing bugs, developing complex user interfaces, and implementing backend APIs. My responsibilities also included writing tests, migrations, automation scripts, and deployment pipelines. I worked with tools and technologies such as React, Angular, Python, Kubernetes, Docker, Ansible, OpenWhisk and MongoDB. Additionally, I led training sessions for new hires on technologies like React, Angular and Python and facilitated Agile practices as a Scrum Master, driving team collaboration and productivity.\r\n\r\nI bring expertise in Full Stack development with proficiency in Angular, React, TypeScript, JavaScript, Python, Node.js, SQL along with experience in backend development and database management. My passion for UI/UX design drives me to create applications that are both well designed and user friendly\r\n",
         "interests": "I enjoy watching movies, TV shows, and documentaries, and I’m always exploring different types of music, especially background scores. I also really enjoy traveling and discovering new places, especially big cities, for the unique experiences and cultures they have to offer.",
         "dateStart": "2025-01-15",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       }
     ]
   },
@@ -6332,7 +6351,7 @@
         "background": "My main interest lies in Artificial Intelligence, Machine Learning, and NLP. I have driven end-to-end machine learning and deep learning projects across NLP, computer vision, and big-data domains partnering with multiple cross-functional teams to build and deploy high-accuracy models such as sentiment analysis and recommendation systems. On the web side, I have experience in developing full stack applications using React, TypeScript, SQL, FastAPI, Firebase, some of the applications are Application Tracker and Customer-Relationship Management platforms. I have architected AWS-based big data analytics with PySpark and SageMaker Autopilot and led explainable deepfake audio detection using MobileNet, VGG16, and XAI techniques like LIME, SHAP, and GradCAM. My academic research has currently been developing various visualizations using OpenCV and Python.",
         "interests": "I love playing cricket, basketball and also to swim. Apart from that I also like playing video games.",
         "dateStart": "2025-05-12",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       }
     ]
   },
@@ -6946,7 +6965,7 @@
         "background": "I worked as a Full Stack Software Developer for two years at Cognizant Technology Solutions, where I developed RESTful APIs with ASP.NET Core and C#, built dynamic UI components using Angular and React, and engineered T-SQL stored procedures, triggers, and query optimizations in SQL Server. I also resolved complex bugs and implemented comprehensive unit tests using NUnit. As part of Agile Scrum teams, I collaborated closely with QA, DevOps, and UX colleagues to ensure smooth, timely rollouts. My expertise in ASP.NET Core,  Angular, React, JavaScript/TypeScript, Node.js, and MS SQL Server drives me to build maintainable, high-performance, and user-friendly applications. I am also proficient with programming languages such as C, C++, C#, and Python, as well as databases like MongoDB.\r\n\r\n",
         "interests": "During my free time, I enjoy watching a good movie, experimenting with new recipes in the kitchen, and staying on the cutting edge of software development by exploring the latest tools and technologies.",
         "dateStart": "2025-06-01",
-        "dateEnd": null
+        "dateEnd": "2025-12-22"
       }
     ]
   },
@@ -7496,7 +7515,7 @@
   },
   {
     "slug": "michael-t-eadon",
-    "name": "MIchael T Eadon",
+    "name": "Michael T. Eadon",
     "lastName": "Eadon",
     "roles": []
   },
@@ -8342,17 +8361,17 @@
     "roles": [
       {
         "type": "student",
-        "topic": "Internet Traffic Analysis, Chizu",
+        "topic": "Behavioral Analysis of Network Flow Data",
         "degree": "Ph.D.",
-        "department": "",
+        "department": "Computer Science",
         "dateStart": "2004-01-01",
         "dateEnd": "2010-08-01"
       },
       {
         "type": "student",
-        "topic": "Behavioral Analysis of Network Flow Data",
+        "topic": "Internet Traffic Analysis, Chizu",
         "degree": "Ph.D.",
-        "department": "Computer Science",
+        "department": "",
         "dateStart": "2004-01-01",
         "dateEnd": "2010-08-01"
       }
@@ -9756,7 +9775,7 @@
         "background": "I recently completed my Master’s degree with a focus on software development, immersive technologies, and machine learning. During my graduate studies, I worked on projects involving immersive VR/AR applications, machine learning models, and full-stack development, which helped me strengthen my skills in building interactive, data-driven, and scalable software systems. Prior to my master’s, I worked for two years at BillDesk, where I gained hands-on experience with technologies such as Angular, Java, databases, and CI/CD pipelines. Over the years, I have developed skills across a wide range of programming languages and frameworks, including Python, Angular, Java, JavaScript, TypeScript, C#, Unity, and React, along with experience in databases and cloud technologies. This diverse technical foundation enables me to effectively address modern challenges in software development.",
         "interests": "Outside of work, I enjoy exploring emerging tech trends, listening to music, staying active through hiking and outdoor activities, and reading sci-fi and non-fiction to expand my knowledge and imagination.",
         "dateStart": "2025-06-02",
-        "dateEnd": null
+        "dateEnd": "2026-02-02"
       }
     ]
   },
@@ -11815,7 +11834,7 @@
   },
   {
     "slug": "james-p-sluka",
-    "name": "James P Sluka",
+    "name": "James P. Sluka",
     "lastName": "Sluka",
     "roles": []
   },
@@ -12017,7 +12036,7 @@
   {
     "slug": "iuni",
     "name": "IUNI",
-    "lastName": "IUNI",
+    "lastName": "",
     "roles": []
   },
   {
@@ -12292,7 +12311,7 @@
         "background": "With a background in computer engineering and a passion for AI, I’ve applied solutions to projects in healthcare, business solutions, energy, and bioinformatics, ranging from power forecasting models and customer lead prediction to medical imaging, and most recently, multi-omics analyses. I love finding useful patterns in data, working with teams to build reliable data processes and easy-to-read dashboards, and trying out new tools to tackle everyday problems.",
         "interests": "I’m an avid cyclist who loves exploring Bloomington’s trails, a foodie always looking for new cafés and eateries, and a casual photographer who enjoys capturing everyday moments. I also unwind by watching sci-fi movies and experimenting with new recipes in the kitchen.",
         "dateStart": "2025-05-15",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       }
     ]
   },
@@ -12879,7 +12898,7 @@
   },
   {
     "slug": "griffin-m-weber",
-    "name": "Griffin M Weber",
+    "name": "Griffin M. Weber",
     "lastName": "Weber",
     "roles": []
   },
@@ -13158,7 +13177,7 @@
         "background": "I worked as a Software Engineer at Tietoevry India Private Ltd. in India for 2 years. I used Angular, TypeScript, SCSS, and the Ionic framework to develop a healthcare Android application there. I worked on designing RESTful APIs with C# .NET for seamless backend communication and managed data with SQL Server. I also enhanced code quality through testing frameworks like Karma, Jasmine, and NUnit, and optimized CI/CD pipelines using Git and Microsoft Azure. Additionally, I have expertise in programming languages such as Python, C, C++, and C# and frameworks such as .NET, React, and Django, and proficiency in database management and web development.",
         "interests": "In my free time, I enjoy watching classic movies, listening to music, drawing, painting, and dancing. I also have a strong passion for experimenting with new recipes! Additionally, I love traveling to new places and exploring different cultures.",
         "dateStart": "2025-01-13",
-        "dateEnd": null
+        "dateEnd": "2026-01-30"
       }
     ]
   },
@@ -14305,7 +14324,7 @@
         "background": "I bring a rich blend of technical expertise and hands-on experience in data science, visualization, and automation. Most recently, during my Data Engineer Internship at AAMC, I designed scalable Power BI data models by integrating diverse data sources like Snowflake and SQL, and automated manual data processing tasks, significantly improving operational efficiency. Previously, as a Senior Data Analyst at Bounteous, I developed end-to-end ETL pipelines and automated business intelligence dashboards, which reduced report development efforts by 80% across 1,000+ customers. My academic research as an NLP Research Assistant at Indiana University involved leveraging cutting-edge tools such as OpenAI Whisper and n-gram models for speech-to-text analysis and speaker identification, streamlining data annotation processes by 80%.",
         "interests": "Outside of academics and professional pursuits, I enjoy watching historical docuseries and staying updated with the latest trends in the data science industry.",
         "dateStart": "2025-01-13",
-        "dateEnd": null
+        "dateEnd": "2026-01-20"
       },
       {
         "type": "student",
@@ -15302,7 +15321,7 @@
   {
     "slug": "cns",
     "name": "CNS",
-    "lastName": "",
+    "lastName": "CNS",
     "roles": []
   },
   {
@@ -18248,7 +18267,7 @@
   },
   {
     "slug": "afolarin-a-amodu",
-    "name": "Afolarin A Amodu",
+    "name": "Afolarin A. Amodu",
     "lastName": "Amodu",
     "roles": []
   },
@@ -18533,6 +18552,21 @@
         "interests": "In my spare time, I like to read (both fiction and non-fiction). I also like to create art, with an increasing interest in digital art. I like to play video games with gripping storylines as well.",
         "dateStart": "2022-10-26",
         "dateEnd": "2023-04-28"
+      }
+    ]
+  },
+  {
+    "slug": "abhigya-agrawal",
+    "name": "Abhigya Agrawal",
+    "lastName": "Agrawal",
+    "roles": [
+      {
+        "type": "student",
+        "topic": "Ph.D Computer Engineering",
+        "degree": "Ph.D.",
+        "department": "Intelligent Systems Engineering",
+        "dateStart": "2022-08-01",
+        "dateEnd": null
       }
     ]
   },

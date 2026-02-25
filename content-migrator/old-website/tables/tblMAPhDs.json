@@ -49,5 +49,6 @@
 	{"maPhDId":57,"peopleId":1320,"topic":"Ph.D. Intelligent Systems Engineering","startDate":"2022-08-01","endDate":null,"degreeType":"p","dept":"ISE"},
 	{"maPhDId":58,"peopleId":2108,"topic":"Ph.D. Intelligent Systems Engineering (Learning Analytics)","startDate":"2024-08-26","endDate":"2025-08-07","degreeType":"p","dept":"ISE"},
 	{"maPhDId":59,"peopleId":2153,"topic":"Ph.D. Information and Library Science","startDate":"2025-01-01","endDate":null,"degreeType":"p","dept":""},
-	{"maPhDId":60,"peopleId":1871,"topic":"Ph.D. Intelligent Systems Engineering","startDate":"2026-01-12","endDate":null,"degreeType":"p","dept":"ISE"}
+	{"maPhDId":60,"peopleId":1871,"topic":"Ph.D. Intelligent Systems Engineering","startDate":"2026-01-12","endDate":null,"degreeType":"p","dept":"ISE"},
+	{"maPhDId":61,"peopleId":2154,"topic":"Ph.D Computer Engineering","startDate":"2022-08-01","endDate":null,"degreeType":"p","dept":"Intelligent Systems Engineering"}
 ]

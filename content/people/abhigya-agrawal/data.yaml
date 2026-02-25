@@ -1,0 +1,10 @@
+slug: abhigya-agrawal
+name: Abhigya Agrawal
+lastName: Agrawal
+roles:
+  - type: student
+    topic: Ph.D Computer Engineering
+    degree: Ph.D.
+    department: Intelligent Systems Engineering
+    dateStart: '2022-08-01'
+    dateEnd: null

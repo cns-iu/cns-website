@@ -918,8 +918,8 @@
 	{"authorEditorId":1381,"peopleId":1008,"publicationId":353,"rank":5,"type":"a"},
 	{"authorEditorId":1382,"peopleId":1010,"publicationId":353,"rank":6,"type":"a"},
 	{"authorEditorId":1383,"peopleId":1011,"publicationId":353,"rank":7,"type":"a"},
-	{"authorEditorId":1390,"peopleId":1014,"publicationId":354,"rank":1,"type":"a"},
 	{"authorEditorId":1384,"peopleId":50,"publicationId":354,"rank":1,"type":"a"},
+	{"authorEditorId":1390,"peopleId":1014,"publicationId":354,"rank":1,"type":"a"},
 	{"authorEditorId":1385,"peopleId":973,"publicationId":354,"rank":2,"type":"a"},
 	{"authorEditorId":1391,"peopleId":914,"publicationId":354,"rank":3,"type":"a"},
 	{"authorEditorId":1386,"peopleId":780,"publicationId":354,"rank":4,"type":"a"},
@@ -2202,5 +2202,11 @@
 	{"authorEditorId":2873,"peopleId":2129,"publicationId":484,"rank":12,"type":"a"},
 	{"authorEditorId":2874,"peopleId":2130,"publicationId":484,"rank":13,"type":"a"},
 	{"authorEditorId":2875,"peopleId":50,"publicationId":484,"rank":14,"type":"a"},
-	{"authorEditorId":2876,"peopleId":1258,"publicationId":484,"rank":15,"type":"a"}
+	{"authorEditorId":2876,"peopleId":1258,"publicationId":484,"rank":15,"type":"a"},
+	{"authorEditorId":2877,"peopleId":863,"publicationId":485,"rank":1,"type":"a"},
+	{"authorEditorId":2878,"peopleId":50,"publicationId":485,"rank":2,"type":"a"},
+	{"authorEditorId":2879,"peopleId":991,"publicationId":485,"rank":3,"type":"a"},
+	{"authorEditorId":2880,"peopleId":729,"publicationId":485,"rank":4,"type":"a"},
+	{"authorEditorId":2881,"peopleId":1296,"publicationId":485,"rank":5,"type":"a"},
+	{"authorEditorId":2882,"peopleId":2156,"publicationId":485,"rank":6,"type":"a"}
 ]
