@@ -8,7 +8,7 @@ attendees: []
 publications: []
 presentations: []
 tutorials: []
-dateStart: null
-dateEnd: null
+dateStart: '2019-01-01'
+dateEnd: '2019-01-01'
 tags: []
 link: https://www.grc.org/computer-aided-drug-design-conference/2019/

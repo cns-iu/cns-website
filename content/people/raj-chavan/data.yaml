@@ -32,7 +32,7 @@ roles:
       currently I am reading on how Airbnb optimized their website loading times
       for better user experience.
     dateStart: '2025-04-01'
-    dateEnd: null
+    dateEnd: '2026-01-30'
   - type: member
     title: Angular Developer
     displayOrder: 88

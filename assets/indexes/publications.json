@@ -1043,6 +1043,32 @@
     "tags": []
   },
   {
+    "slug": "pub-485",
+    "authors": [
+      "michael-ginda",
+      "katy-borner",
+      "olga-scrivner",
+      "william-trochim",
+      "luis-m-rocha",
+      "selma-sabanovic"
+    ],
+    "editors": [],
+    "type": "article-journal",
+    "title": "Preparing the next generation of Complex Networks and Systems scientists: Evaluation results for the Complex Networks and Systems NSF research training program at Indiana University",
+    "date": "2026-01-27",
+    "publisher": "PLOS",
+    "venue": "PLOS One",
+    "volume": "",
+    "issue": "",
+    "doi": ".org/10.1371/journal.pone.0334779",
+    "pages": "",
+    "chapter": "",
+    "links": [
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 "
+    ],
+    "tags": []
+  },
+  {
     "slug": "pub-484",
     "authors": [
       "anita-r-caron",
@@ -1309,7 +1335,7 @@
     "editors": [],
     "type": "article-journal",
     "title": "CellSAM: A Foundation Model for Cell Segmentation",
-    "date": "2024-12-08",
+    "date": "2025-12-08",
     "publisher": "Nature",
     "venue": "Nature Methods",
     "volume": "",

@@ -1,8 +1,23 @@
 slug: yongxin-kong
-name: Yongxin Kong
+name: Yongxin  Kong
 lastName: Kong
-image: image.png
 roles:
+  - type: member
+    title: Postdoctoral Fellow
+    displayOrder: 1
+    office: ''
+    phone: ''
+    fax: ''
+    email: ''
+    education: "B.S. - South China Normal University (2018) - Information Science\r\nM.S. - Nankai University (2020) - Information Science\r\nPh.D - Sun Yat-sen University (2024) - Information Science\r\n"
+    background: >-
+      I work on data mining, data analysis, and data visualization. I am also
+      exploring LLM-based methods. I am particularly interested in AI for
+      Biology- leveraging data-driven and LLM-based approaches to support
+      biological understanding and discovery.
+    interests: I like swimming, playing table tennis and playing badminton.
+    dateStart: '2026-02-01'
+    dateEnd: null
   - type: member
     title: Visiting Scholar
     displayOrder: 99
