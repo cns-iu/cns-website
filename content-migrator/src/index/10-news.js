@@ -14,7 +14,7 @@ export function writeNewsIndex() {
     const description = [
       item.reporter ? `${item.reporter}.` : '',
       `${item.date.split('-')[0].split('T')[0]}\\.`,
-      item.link ? `“[${item.title}](${item.link}).”` : `“${item.title}.”`,
+      item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.publisher ? `_${item.publisher}_.` : '',
       item.mediaType !== 'IMAGE' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
     ]
