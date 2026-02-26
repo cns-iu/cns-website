@@ -64,6 +64,15 @@ collections:
             summary: "{{fields.title}} — {{fields.displayOrder}}"
             fields:
               - { name: title, label: "Title / Position" }
+              - name: status
+                label: Status
+                widget: select
+                required: true
+                options:
+                  - { label: Leadership, value: "leadership" }
+                  - { label: Full-Time Staff, value: "full-time" }
+                  - { label: Part-Time, value: "part-time" }
+                  - { label: Contractor, value: "contractor" }
               - { name: displayOrder, label: Display Order, widget: number, value_type: int, min: 0, required: false }
 
               - { name: office, label: "Office", hint: "Luddy Hall 40xx", required: false }
@@ -331,4 +340,4 @@ show_preview_links: true
 # Set local_backend to true when testing locally
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
-local_backend: false
+local_backend: true
