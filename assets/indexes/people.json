@@ -9056,18 +9056,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Associate Director",
-        "displayOrder": 4,
-        "office": "Luddy Hall 4016",
-        "phone": "812.856.7034",
-        "fax": "",
-        "email": "recorde@iu.edu",
         "education": "B.A. in English, Carleton College<br/>\r\nM.A. in Anthropology with a concentration in Museum Studies, University of Denver",
-        "background": "Lisel has been with CNS since 2013, working originally with the <em>Places & Spaces: Mapping Science</em> exhibit and other outreach efforts. With nearly 15 years of curatorial experience at a variety of nonprofit and public institutions, she has extensive experience in the planning and implementation of outreach activities in places of informal science learning.  As Associate Director, Lisel manages Center projects, proposal development, and strategic planning efforts as well as directing outreach activities and working with Center collaborators.",
         "interests": "When I am not dragging my family to museums, you can find me in the garden growing vegetables.",
-        "dateStart": "2013-09-30",
-        "dateEnd": null
+        "displayOrder": 4,
+        "dateEnd": null,
+        "background": "Lisel has been with CNS since 2013, working originally with the <em>Places & Spaces: Mapping Science</em> exhibit and other outreach efforts. With nearly 15 years of curatorial experience at a variety of nonprofit and public institutions, she has extensive experience in the planning and implementation of outreach activities in places of informal science learning.  As Associate Director, Lisel manages Center projects, proposal development, and strategic planning efforts as well as directing outreach activities and working with Center collaborators.",
+        "phone": "812.856.7034",
+        "status": "leadership",
+        "dateStart": "2013-09-30T00:00:00.000Z",
+        "title": "Associate Director",
+        "type": "member",
+        "office": "Luddy Hall 4016",
+        "email": "recorde@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -10015,18 +10016,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Faculty, Center Director",
-        "displayOrder": 1,
-        "office": "Luddy Hall 4018",
-        "phone": "812.855.3256",
-        "fax": "812.855.6166",
-        "email": "katy@iu.edu",
         "education": "Katy holds a MS in Electrical Engineering from the University of Technology in Leipzig, 1991 and a Ph.D. in Computer Science from the University of Kaiserslautern, 1997. ",
-        "background": "Katy Börner is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, School of Informatics and Computing, Core Faculty of Cognitive Science, and Founding Director of the Cyberinfrastructure for Network Science Center at Indiana University in Bloomington, IN. She is a Visiting Professor at the Royal Netherlands Academy of Arts and Sciences (KNAW) in The Netherlands and a curator of the international Places & Spaces: Mapping Science exhibit. She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012 and as an Alexander von Humboldt Fellow in 2017.",
         "interests": "See more on Katy's <a href=\"http://info.ils.indiana.edu/~katy/\" target=\"_blank\">personal website</a>.",
-        "dateStart": "2003-01-01",
-        "dateEnd": null
+        "displayOrder": 1,
+        "dateEnd": null,
+        "background": "Katy Börner is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, School of Informatics and Computing, Core Faculty of Cognitive Science, and Founding Director of the Cyberinfrastructure for Network Science Center at Indiana University in Bloomington, IN. She is a Visiting Professor at the Royal Netherlands Academy of Arts and Sciences (KNAW) in The Netherlands and a curator of the international Places & Spaces: Mapping Science exhibit. She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012 and as an Alexander von Humboldt Fellow in 2017.",
+        "phone": "812.855.3256",
+        "status": "leadership",
+        "dateStart": "2003-01-01T00:00:00.000Z",
+        "title": "Faculty, Center Director",
+        "type": "member",
+        "office": "Luddy Hall 4018",
+        "email": "katy@iu.edu",
+        "fax": "812.855.6166"
       }
     ]
   },
@@ -14045,18 +14047,19 @@
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Software Developer",
-        "displayOrder": 10,
-        "office": "Luddy Hall 4025",
-        "phone": "",
-        "fax": "",
-        "email": "edlu@iu.edu",
         "education": "B.A. in Biology, Washington University in St. Louis\r\nM.Eng. in Biomedical Engineering, Cornell University",
-        "background": "I grew up in New York City and have a background in biology, engineering, and software development. Before coming to Indiana University I worked in life science research and the medical device industry for several years. Recently I made a transition into software due to my passion for coding, and am now at CNS focusing on web development and data visualization.",
         "interests": "Things I enjoy include but are not limited to: video games, piano, traveling, the ocean, tennis, literally anything with caffeine.",
-        "dateStart": "2020-02-24",
-        "dateEnd": null
+        "displayOrder": 10,
+        "dateEnd": null,
+        "background": "I grew up in New York City and have a background in biology, engineering, and software development. Before coming to Indiana University I worked in life science research and the medical device industry for several years. Recently I made a transition into software due to my passion for coding, and am now at CNS focusing on web development and data visualization.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2020-02-24T00:00:00.000Z",
+        "title": "Software Developer",
+        "type": "member",
+        "office": "Luddy Hall 4025",
+        "email": "edlu@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -15053,18 +15056,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Senior Software Developer",
-        "displayOrder": 13,
-        "office": "Luddy Hall 4024",
-        "phone": "",
-        "fax": "",
-        "email": "axbolin@iu.edu",
         "education": "B.S. in Computer Science. University of Houston",
-        "background": "I am a software developer at CNS. I have a B.S. in computer science from the University of Houston. Before working at Indiana University I worked at Digital Route and Ericsson. My main interests are in computer visualization and artificial intelligence.",
         "interests": "",
-        "dateStart": "2017-04-15",
-        "dateEnd": null
+        "displayOrder": 13,
+        "dateEnd": null,
+        "background": "I am a software developer at CNS. I have a B.S. in computer science from the University of Houston. Before working at Indiana University I worked at Digital Route and Ericsson. My main interests are in computer visualization and artificial intelligence.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2017-04-15T00:00:00.000Z",
+        "title": "Senior Software Developer",
+        "type": "member",
+        "office": "Luddy Hall 4024",
+        "email": "axbolin@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -16135,6 +16139,7 @@
         "dateEnd": null,
         "background": "I rejoined CNS in November 2017 after nearly 10 years in the software industry. I picked up my data analysis, visualization, and extensible software chops when I was originally at the IV Lab and CNS from 2004 to 2008. Then in the software industry, I learned about professional software development, serving clients, managing software teams, and generally learning how to excel in all aspects of software development. As part of CNS, I am providing my years of knowledge in data analysis and visualization, software architecture & design, and management experience to help CNS excel as a research center providing solid and innovative software.",
         "phone": "",
+        "status": "leadership",
         "dateStart": "2017-11-27T00:00:00.000Z",
         "title": "Technical Director",
         "type": "member",
@@ -16149,6 +16154,7 @@
         "dateEnd": "2008-08-08T00:00:00.000Z",
         "background": "",
         "phone": "",
+        "status": "full-time",
         "dateStart": "2004-01-01T00:00:00.000Z",
         "title": "Staff, Senior Software Developer",
         "type": "member",
@@ -17489,26 +17495,27 @@
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Research Lead, Faculty",
-        "displayOrder": 2,
-        "office": "Luddy Hall 4024",
-        "phone": "",
-        "fax": "",
-        "email": "abueckle@iu.edu",
         "education": "Ph.D. in Information Science, Indiana University<br>\r\nM.A. in Communications, Berlin University of the Arts (Germany)<br>\r\nB.A. in Media Studies, Eberhard Karls University Tuebingen (Germany)",
-        "background": "I am a Research Scientist here at CNS. My research interest is interactive information visualization in virtual reality (VR), augmented reality (AR), and other immersive techniques. Born and raised in Germany, I developed a deep interest in digital artifacts, most notably videography and photography. After working as a video journalist and cameraman on projects in Germany, France, India, and the US, I decided to switch to a more technical education and received my Ph.D. in Information Science, working with Dr. Katy Börner here at CNS before joining her team full-time. The title of my dissertation was \"Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework\" and is available here: <a href=\"https://doi.org/10.13140/RG.2.2.33214.00328\" target=\"_blank\">https://doi.org/10.13140/RG.2.2.33214.00328</a>. <br><br>\r\n\r\nYou can find more info about my work on my website: <a href=\"https://andreas-bueckle.com/\" target=\"_blank\">https://andreas-bueckle.com/</a>",
         "interests": "In my spare time, I enjoy the great outdoors by competing in local and regional sailing regattas with my 14-foot Force 5 sailboat. I am also the Head Coach of the Sailing Club at Indiana University, where I teach the basics of sailing, seamanship, and advanced racing strategies. Recently, I started rock-climbing in our local gym.",
-        "dateStart": "2021-08-02",
-        "dateEnd": null
+        "displayOrder": 2,
+        "dateEnd": null,
+        "background": "I am a Research Scientist here at CNS. My research interest is interactive information visualization in virtual reality (VR), augmented reality (AR), and other immersive techniques. Born and raised in Germany, I developed a deep interest in digital artifacts, most notably videography and photography. After working as a video journalist and cameraman on projects in Germany, France, India, and the US, I decided to switch to a more technical education and received my Ph.D. in Information Science, working with Dr. Katy Börner here at CNS before joining her team full-time. The title of my dissertation was \"Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework\" and is available here: <a href=\"https://doi.org/10.13140/RG.2.2.33214.00328\" target=\"_blank\">https://doi.org/10.13140/RG.2.2.33214.00328</a>. <br><br>\r\n\r\nYou can find more info about my work on my website: <a href=\"https://andreas-bueckle.com/\" target=\"_blank\">https://andreas-bueckle.com/</a>",
+        "phone": "",
+        "status": "leadership",
+        "dateStart": "2021-08-02T00:00:00.000Z",
+        "title": "Research Lead, Faculty",
+        "type": "member",
+        "office": "Luddy Hall 4024",
+        "email": "abueckle@iu.edu",
+        "fax": ""
       },
       {
         "type": "student",
         "topic": "Ph.D. Information Science Student",
         "degree": "Ph.D.",
         "department": "ILS",
-        "dateStart": "2015-08-24",
-        "dateEnd": "2021-07-30"
+        "dateStart": "2015-08-24T00:00:00.000Z",
+        "dateEnd": "2021-07-30T00:00:00.000Z"
       }
     ]
   },
