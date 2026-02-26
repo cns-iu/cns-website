@@ -322,7 +322,7 @@
       {
         "type": "member",
         "title": "Postdoctoral Fellow",
-        "displayOrder": 1,
+        "displayOrder": 12,
         "office": "",
         "phone": "",
         "fax": "",
@@ -1598,18 +1598,18 @@
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Technical Writer",
-        "displayOrder": 20,
-        "office": "n/a",
-        "phone": "812.856.7034",
-        "fax": "812.855.6166",
-        "email": "ttheriau@iu.edu",
         "education": "BA, English, University of Wisconsin, Milwaukee\r\n\r\nMA, English, Miami University of Ohio",
-        "background": "Upon receiving my MA in 1998, I spent 15 years teaching literature and composition at Indiana University, Miami University of Ohio, the University of Cincinnati, and Xavier University of Ohio. Since 2012, I've been primarily involved with the Places & Spaces: Mapping Science exhibit.",
         "interests": "I enjoy spending time with my wife and son, reading, cooking, and playing the piano.",
-        "dateStart": "2012-09-01",
-        "dateEnd": null
+        "displayOrder": 20,
+        "dateEnd": null,
+        "background": "Upon receiving my MA in 1998, I spent 15 years teaching literature and composition at Indiana University, Miami University of Ohio, the University of Cincinnati, and Xavier University of Ohio. Since 2012, I've been primarily involved with the Places & Spaces: Mapping Science exhibit.",
+        "phone": "",
+        "dateStart": "2012-09-01T00:00:00.000Z",
+        "title": "Technical Writer",
+        "type": "member",
+        "office": "",
+        "email": "ttheriau@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -16126,35 +16126,35 @@
     "slug": "bruce-w-herr-ii",
     "name": "Bruce W. Herr II",
     "lastName": "Herr II",
-    "image": "image.jpg",
+    "image": "bruce-herr-2025-400x500.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Technical Director",
-        "displayOrder": 3,
-        "office": "Luddy Hall 4028",
-        "phone": "",
-        "fax": "",
-        "email": "bherr@iu.edu",
         "education": "B.S., Computer Science - Indiana University, Bloomington, IN (2004)",
-        "background": "I rejoined CNS in November 2017 after nearly 10 years in the software industry. I picked up my data analysis, visualization, and extensible software chops when I was originally at the IV Lab and CNS from 2004 to 2008. Then in the software industry, I learned about professional software development, serving clients, managing software teams, and generally learning how to excel in all aspects of software development. As part of CNS, I am providing my years of knowledge in data analysis and visualization, software architecture & design, and management experience to help CNS excel as a research center providing solid and innovative software.",
         "interests": "I enjoy spending time with my little family, playing D&D, following technology trends, hiking, and staring at walls (meditation).",
-        "dateStart": "2017-11-27",
-        "dateEnd": null
+        "displayOrder": 3,
+        "dateEnd": null,
+        "background": "I rejoined CNS in November 2017 after nearly 10 years in the software industry. I picked up my data analysis, visualization, and extensible software chops when I was originally at the IV Lab and CNS from 2004 to 2008. Then in the software industry, I learned about professional software development, serving clients, managing software teams, and generally learning how to excel in all aspects of software development. As part of CNS, I am providing my years of knowledge in data analysis and visualization, software architecture & design, and management experience to help CNS excel as a research center providing solid and innovative software.",
+        "phone": "",
+        "dateStart": "2017-11-27T00:00:00.000Z",
+        "title": "Technical Director",
+        "type": "member",
+        "office": "Luddy Hall 4028",
+        "email": "bherr@iu.edu",
+        "fax": ""
       },
       {
-        "type": "member",
-        "title": "Staff, Senior Software Developer",
-        "displayOrder": null,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "bherr@iu.edu",
         "education": "",
-        "background": "",
         "interests": "",
-        "dateStart": "2004-01-01",
-        "dateEnd": "2008-08-08"
+        "displayOrder": null,
+        "dateEnd": "2008-08-08T00:00:00.000Z",
+        "background": "",
+        "phone": "",
+        "dateStart": "2004-01-01T00:00:00.000Z",
+        "title": "Staff, Senior Software Developer",
+        "type": "member",
+        "office": "",
+        "email": "bherr@iu.edu",
+        "fax": ""
       }
     ]
   },
