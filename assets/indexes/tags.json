@@ -20,6 +20,11 @@
     "description": "Human Reference Atlas"
   },
   {
+    "slug": "featured",
+    "name": "Featured",
+    "description": "Featured on the homepage"
+  },
+  {
     "slug": "expert",
     "name": "Expert",
     "description": "expert (usually just for people)"
