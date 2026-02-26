@@ -24,7 +24,7 @@ export function writeEventsIndex() {
     const description = [
       peopleString,
       item.dateStart !== '1979-01-01' ? `${item.dateStart.split('-')[0]}\\.` : '',
-      item.link ? `“[${item.title}](${item.link}).”` : item.title,
+      item.link ? `“[${item.title}](${item.link}).”` : `“${item.title}.”`,
       item.description,
     ]
       .filter((s) => s?.trim().length > 0)
