@@ -19,6 +19,7 @@ roles:
       to help CNS excel as a research center providing solid and innovative
       software.
     phone: ""
+    status: leadership
     dateStart: 2017-11-27
     title: Technical Director
     type: member
@@ -31,6 +32,7 @@ roles:
     dateEnd: 2008-08-08
     background: ""
     phone: ""
+    status: full-time
     dateStart: 2004-01-01
     title: Staff, Senior Software Developer
     type: member
