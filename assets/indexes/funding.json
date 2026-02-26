@@ -1279,5 +1279,19 @@
     "dateStart": "2006-01-01",
     "dateEnd": "2006-12-31",
     "tags": []
+  },
+  {
+    "slug": "991sxu2vfgd3va1sut4ok",
+    "type": "research",
+    "link": "https://reporter.nih.gov/project-details/11224772",
+    "name": "NIH 1U24AT013504-01",
+    "title": "Whole Person Reference Physiome Research and Coordination Center",
+    "funder": "National Institutes of Health",
+    "investigators": [
+      "katy-borner"
+    ],
+    "amount": 6476031,
+    "dateStart": "2025-08-08T00:00:00.000Z",
+    "dateEnd": "2028-07-31T00:00:00.000Z"
   }
 ]
