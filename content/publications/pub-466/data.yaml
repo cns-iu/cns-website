@@ -12,7 +12,7 @@ authors:
   - yun-zhang
 editors:
   - andreas-bueckle
-type: article-journal
+type: manuscript
 title: >-
   Benchmarking single cell transcriptome matching methods for incremental growth
   of reference atlases

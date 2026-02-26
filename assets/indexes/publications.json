@@ -1175,7 +1175,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Exploring endothelial cell environments across organs in spatially resolved omics data",
     "date": "2025-09-25",
     "publisher": "",
@@ -1199,7 +1199,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "AI-Supported Extraction of Functional Tissue Unit Properties for Human Reference Atlas Construction",
     "date": "2025-09-13",
     "publisher": "",
@@ -1240,7 +1240,7 @@
     "title": "A general strategy for generating expert-guided, simplified views of ontologies",
     "date": "2025-08-29",
     "publisher": "",
-    "venue": "bioRxiv",
+    "venue": "manuscript",
     "volume": "",
     "issue": "",
     "doi": "10.1101/2024.12.13.628309",
@@ -1292,7 +1292,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Cell type populations for 3D anatomical structures of the Human Reference Atlas",
     "date": "2025-12-05",
     "publisher": "",
@@ -1746,7 +1746,7 @@
     "editors": [
       "andreas-bueckle"
     ],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
     "date": "2025-04-16",
     "publisher": "",
@@ -1885,7 +1885,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys",
     "date": "2024-08-26",
     "publisher": "",
@@ -2470,7 +2470,7 @@
       "david-van-valen"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Generalized cell phenotyping for spatial proteomics with language-informed vision models",
     "date": "2024-11-17",
     "publisher": "",
@@ -2514,7 +2514,7 @@
       "adam-taylor"
     ],
     "editors": [],
-    "type": "",
+    "type": "manuscript",
     "title": "Enabling Global Image Data Sharing in the Life Sciences",
     "date": "2024-08-09",
     "publisher": "Arxiv- Quantitative Biology",
@@ -2614,7 +2614,7 @@
       "yuri-lin"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "The IBEX Knowledge-Base: Achieving more together with open science",
     "date": "2024-07-26",
     "publisher": "",
@@ -4073,7 +4073,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Comparing Completion Time, Accuracy, and Satisfaction in Virtual Reality vs. Desktop Implementation of the Common Coordinate Framework Registration User Interface (CCF RUI)",
     "date": "2021-02-24",
     "publisher": "",
@@ -4101,7 +4101,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Interactive Network Visualization of Opioid Crisis Related Data- Policy, Pharmaceutical, Training, and More",
     "date": "2021-02-10",
     "publisher": "",
@@ -4158,7 +4158,7 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Construction and Usage of a Human Body Common Coordinate Framework Comprising Clinical, Semantic, and Spatial Ontologies",
     "date": "2020-07-28",
     "publisher": "",
@@ -4212,7 +4212,7 @@
       "a-john-hart"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Key principles for workforce upskilling via online learning: a learning analytics study of a professional course in addictive manufacturing",
     "date": "2020-08-15",
     "publisher": "",
@@ -4452,7 +4452,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Hiring in the substance use disorder treatment related sector during the first five years of Medicaid expansion",
     "date": "2019-08-01",
     "publisher": "",
@@ -4476,7 +4476,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Multi-level tree based approach for interactive graph visualization with semantic zoom",
     "date": "2019-06-14",
     "publisher": "",
@@ -4521,7 +4521,7 @@
       "zorina-s-galis"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": "Mapping the Human Body at Cellular Resolution -- The NIH Common Fund Human BioMolecular Atlas Program",
     "date": "2019-03-18",
     "publisher": "",
@@ -5852,7 +5852,7 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
+    "type": "manuscript",
     "title": " Collective Allocation of Science Funding: From Funding Agencies to Scientific Agency",
     "date": "2013-04-13",
     "publisher": "",
