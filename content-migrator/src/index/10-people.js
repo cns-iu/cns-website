@@ -7,6 +7,8 @@ export function writePeopleIndex() {
     if (person.image) {
       person.image = `${BASE_URL}/people/${person.slug}/${person.image}`;
     }
+    person.dateStart = person.dateStart ? person.dateStart.split('T')[0] : '';
+    person.dateEnd = person.dateEnd ? person.dateEnd.split('T')[0] : '';
   }
   writeMinifiedJSON(join(INDEXES, 'app-people.json'), people);
 }
