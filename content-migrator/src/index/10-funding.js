@@ -22,7 +22,7 @@ export function writeFundingIndex() {
       item.link ? `“[**${item.title}**](${item.link}).”` : `“**${item.title}**.”`,
       item.name ? `${item.name}` : '',
       `(${peopleString}${item.amount ? ', \$' + Number(item.amount).toLocaleString() : ''})`,
-      `${item.dateStart.replaceAll('-', '.')} - ${item.dateEnd.replaceAll('-', '.')}.`,
+      `${item.dateStart.replaceAll('-', '.').split('T')[0]} - ${item.dateEnd.replaceAll('-', '.').split('T')[0]}.`,
     ]
       .filter((s) => s?.trim().length > 0)
       .join(' ');

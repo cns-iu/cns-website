@@ -10,7 +10,7 @@ export function writeVisualizationsIndex() {
     }
 
     const description = [
-      item.date !== '1979-01-01' ? `${item.date.split('-')[0]}.` : '',
+      item.date !== '1979-01-01' ? `${item.date.split('-')[0].split('T')[0]}.` : '',
       item.link ? `“[${item.title}](${item.link}).”` : `“${item.title}.”`,
       item.description,
     ]
