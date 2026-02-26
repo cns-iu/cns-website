@@ -19,7 +19,7 @@ export function writeFundingIndex() {
       .trim();
 
     const description = [
-      item.link ? `“[**${item.title}**](${item.link}).”` : `**${item.title}**.`,
+      item.link ? `“[**${item.title}**](${item.link}).”` : `“**${item.title}**.”`,
       item.name ? `${item.name}` : '',
       `(${peopleString}${item.amount ? ', \$' + Number(item.amount).toLocaleString() : ''})`,
       `${item.dateStart.replaceAll('-', '.')} - ${item.dateEnd.replaceAll('-', '.')}.`,
