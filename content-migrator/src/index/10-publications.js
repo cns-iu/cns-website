@@ -59,8 +59,11 @@ export function writePublicationIndex() {
     title: pub.title,
     description: links[index]
       ? markdown[pub.slug]
-        .replaceAll(links[index], `[${links[index].replace(/http[s]\:\/\//, '')}](${links[index].replaceAll(' ', '%20')})`)
-        .replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
+          .replaceAll(
+            links[index],
+            `[${links[index].replace(/http[s]\:\/\//, '')}](${links[index].replaceAll(' ', '%20')})`,
+          )
+          .replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
       : markdown[pub.slug],
     tags: pub.tags ?? [],
     dateStart: pub.date,
@@ -68,6 +71,10 @@ export function writePublicationIndex() {
   }));
 
   writeMinifiedJSON(join(INDEXES, 'app-publications.json'), entries);
+  writeMinifiedJSON(
+    join(INDEXES, 'app-hra-publications.json'),
+    entries.filter((entry) => entry.tags.includes('hra')),
+  );
 }
 
 export function writePublicationTypesIndex() {
