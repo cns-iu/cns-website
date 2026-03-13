@@ -17,8 +17,9 @@
     "title": "24 Hour Human Physiology Event",
     "description": "",
     "location": "This is a Virtual Event, Hosted by CNS",
-    "dateStart": "2026-12-12",
-    "dateEnd": "2026-12-13",
+    "mediaUrl": "hra-person.png",
+    "dateStart": "2026-12-12T00:00:00.000Z",
+    "dateEnd": "2026-12-13T00:00:00.000Z",
     "tags": []
   },
   {
