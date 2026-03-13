@@ -9,8 +9,11 @@ export function writeEventsIndex() {
   const events = readIndex('events');
   const peopleLookup = readIndex('people').reduce((acc, item) => ((acc[item.slug] = item), acc), {});
   const entries = events.map((item) => {
-    if (item.image) {
+    if (item.mediaUrl && !item.mediaUrl?.startsWith('http')) {
       item.image = `${BASE_URL}/events/${item.slug}/${item.image}`;
+    }
+    if (item.link && !item.link?.startsWith('http')) {
+      item.link = `${BASE_URL}/events/${item.slug}/${item.link}`;
     }
     item.dateStart = item.dateStart ?? '1979-01-01';
     item.dateEnd = !item.dateEnd && item.dateStart ? item.dateStart : (item.dateEnd ?? '1979-01-01');
