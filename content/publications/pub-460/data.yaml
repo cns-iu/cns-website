@@ -1,4 +1,7 @@
 slug: pub-460
+type: article-journal
+title: "myAURA: a personalized health library for epilepsy management via
+  knowledge graph sparsification and visualization "
 authors:
   - rion-brattig-correia
   - jordan-c-rozum
@@ -16,19 +19,15 @@ authors:
   - wendy-miller
   - luis-m-rocha
 editors: []
-type: article-journal
-title: >-
-  myAURA: a personalized health library for epilepsy management via knowledge
-  graph sparsification and visualization 
-date: '2025-01-31'
-publisher: ''
-venue: Journal of the American Medical Informatics Association.
-volume: ''
-issue: ''
-doi: 10.1093/jamia/ocaf012.
-pages: ''
-chapter: ''
+doi: 10.1093/jamia/ocaf012
+date: 2025-01-31
+publisher: ""
+venue: Journal of the American Medical Informatics Association
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
-  - >-
-    https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf012/7994402
+  - https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaf012/7994402
+mediaUrl: fig1ocaf012.png
 tags: []
