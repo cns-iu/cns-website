@@ -1740,6 +1740,8 @@
   },
   {
     "slug": "pub-466",
+    "type": "manuscript",
+    "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
     "authors": [
       "joyce-hu",
       "beverly-peng",
@@ -1755,19 +1757,18 @@
     "editors": [
       "andreas-bueckle"
     ],
-    "type": "manuscript",
-    "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
-    "date": "2025-04-16",
+    "doi": "10.1101/2025.04.10.648034",
+    "date": "2025-04-16T00:00:00.000Z",
     "publisher": "",
     "venue": "bioRxiv",
     "volume": "",
     "issue": "",
-    "doi": "10.1101/2025.04.10.648034",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1"
     ],
+    "mediaUrl": "fig1-2025.04.10.648034.png",
     "tags": [
       "hra"
     ]
