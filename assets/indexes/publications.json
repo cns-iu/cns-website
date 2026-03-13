@@ -1796,6 +1796,8 @@
   },
   {
     "slug": "pub-464",
+    "type": "article-journal",
+    "title": "The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques",
     "authors": [
       "andrea-j-radtke",
       "ifeanyichukwu-u-anidi",
@@ -1860,19 +1862,18 @@
       "ziv-yaniv"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques",
-    "date": "2025-03-19",
+    "doi": "10.1371/journal.pbio.3003070",
+    "date": "2025-03-19T00:00:00.000Z",
     "publisher": "",
     "venue": "PLOS Biology",
     "volume": "",
     "issue": "",
-    "doi": "10.1371/journal.pbio.3003070",
     "pages": "",
     "chapter": "",
     "links": [
       "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003070&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author"
     ],
+    "mediaUrl": "fig1journal.pbio.3003070.png",
     "tags": []
   },
   {
