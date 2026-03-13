@@ -1,4 +1,6 @@
 slug: pub-478
+type: article-journal
+title: "CellSAM: A Foundation Model for Cell Segmentation"
 authors:
   - markus-marks
   - uriah-israel
@@ -20,16 +22,15 @@ authors:
   - yisong-yue
   - david-van-valen
 editors: []
-type: article-journal
-title: 'CellSAM: A Foundation Model for Cell Segmentation'
-date: '2025-12-08'
+doi: 10.1038/s41592-025-02879-w
+date: 2025-12-08
 publisher: Nature
 venue: Nature Methods
-volume: ''
-issue: ''
-doi: 10.1038/s41592-025-02879-w
-pages: ''
-chapter: ''
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.nature.com/articles/s41592-025-02879-w
+mediaUrl: fig1-s41592-025-02879-w.png
 tags: []
