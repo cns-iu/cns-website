@@ -26,7 +26,7 @@ export function writeNewsIndex() {
       category: 'news',
       type: 'news',
       people: item.people || [],
-      image: item.mediaUrl || undefined,
+      image: item.mediaUrl && item.mediaType === 'IMAGE' ? item.mediaUrl : undefined,
       link: item.link,
       title: item.title,
       description,
