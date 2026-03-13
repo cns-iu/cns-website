@@ -39,13 +39,15 @@
   {
     "slug": "ws-94",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-24h/",
     "title": "24 Hour Envisioning Intelligences Event",
     "description": "",
     "location": "This is a Virtual Event, Hosted by CNS",
-    "dateStart": "2025-12-13",
-    "dateEnd": "2025-12-14",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2025-24h/"
+    "mediaType": "image",
+    "mediaUrl": "scimapsintelligences24hourevent.png",
+    "dateStart": "2025-12-13T00:00:00.000Z",
+    "dateEnd": "2025-12-14T00:00:00.000Z",
+    "tags": []
   },
   {
     "slug": "ws-93",
