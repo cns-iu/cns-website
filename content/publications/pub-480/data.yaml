@@ -1,4 +1,6 @@
 slug: pub-480
+type: article-journal
+title: A general strategy for generating expert-guided, simplified views of ontologies
 authors:
   - anita-r-caron
   - aleix-puig-barbe
@@ -16,19 +18,16 @@ authors:
   - katy-borner
   - david-osumi-sutherland
 editors: []
-type: article-journal
-title: >-
-  A general strategy for generating expert-guided, simplified views of
-  ontologies
-date: '2025-08-29'
-publisher: ''
-venue: manuscript
-volume: ''
-issue: ''
 doi: 10.1101/2024.12.13.628309
-pages: ''
-chapter: ''
+date: 2025-08-29
+publisher: ""
+venue: manuscript
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.biorxiv.org/content/10.1101/2024.12.13.628309v2
+mediaUrl: fig7-s41597-025-06383-w.png
 tags:
   - hra
