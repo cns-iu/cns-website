@@ -10,7 +10,7 @@ export function writeEventsIndex() {
   const peopleLookup = readIndex('people').reduce((acc, item) => ((acc[item.slug] = item), acc), {});
   const entries = events.map((item) => {
     if (item.mediaUrl && !item.mediaUrl?.startsWith('http')) {
-      item.image = `${BASE_URL}/events/${item.slug}/${item.image}`;
+      item.image = `${BASE_URL}/events/${item.slug}/${item.mediaUrl}`;
     }
     if (item.link && !item.link?.startsWith('http')) {
       item.link = `${BASE_URL}/events/${item.slug}/${item.link}`;
