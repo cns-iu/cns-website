@@ -8,8 +8,8 @@ export function writeFundingIndex() {
   const peopleLookup = readIndex('people').reduce((acc, item) => ((acc[item.slug] = item), acc), {});
   const entries = funding.map((item) => {
     item.category = 'funding';
-    if (item.image && !item.image.startsWith('http')) {
-      item.image = `${BASE_URL}/funding/${item.slug}/${item.image}`;
+    if (item.mediaUrl && !item.mediaUrl?.startsWith('http')) {
+      item.image = `${BASE_URL}/events/${item.slug}/${item.mediaUrl}`;
     }
 
     const addAndIndex = item.investigators.length > 1 ? item.investigators.length - 1 : -1;
@@ -32,6 +32,7 @@ export function writeFundingIndex() {
       category: 'funding',
       type: item.type || 'funding',
       people: item.investigators || [],
+      image: item.image,
       link: item.link,
       title: item.title,
       description,

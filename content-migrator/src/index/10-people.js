@@ -4,7 +4,7 @@ import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.
 export function writePeopleIndex() {
   const people = readIndex('people');
   for (const person of people) {
-    if (person.image) {
+    if (person.image && !person.image?.startsWith('http')) {
       person.image = `${BASE_URL}/people/${person.slug}/${person.image}`;
     }
   }

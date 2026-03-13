@@ -28,6 +28,7 @@ collections:
       - { name: investigators, label: Primary Investigators, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
       - { name: amount, label: Funding Amount, widget: number, value_type: int, min: 0 }
       - { name: receivedAmount, label: Funding Amount Received, widget: number, value_type: int, min: 0, required: false }
+      - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
       - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
       - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
@@ -157,6 +158,7 @@ collections:
         summary: '{{fields.media}}'
         field: { name: media, label: Media, widget: file }
         required: false
+      - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: news

@@ -18,6 +18,7 @@ export function writePublicationIndex() {
     id: pub.slug,
     ...pub,
     slug: undefined,
+    mediaUrl: undefined,
     DOI: pub.doi,
     'container-title': pub.venue,
     'chapter-number': pub.chapter,
@@ -54,7 +55,7 @@ export function writePublicationIndex() {
     type: pub.type,
     people: [...(pub.authors ?? []), ...(pub.editors ?? [])],
     // projects: [],
-    // image: images[index],
+    image: pub.mediaUrl || undefined,
     link: links[index],
     title: pub.title,
     description: links[index]

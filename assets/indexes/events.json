@@ -2,13 +2,14 @@
   {
     "slug": "ws-97",
     "type": "workshop",
+    "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
     "title": "NetSci 2026 Network Geometry, Theory and Applications",
     "description": "",
     "location": "Boston, MA, USA",
-    "dateStart": "2026-06-01",
-    "dateEnd": "2026-06-01",
-    "tags": [],
-    "link": "https://mappingcomplexity.net/mainpage/netsci2026/"
+    "mediaUrl": "netsciboston2026.png",
+    "dateStart": "2026-06-01T00:00:00.000Z",
+    "dateEnd": "2026-06-01T00:00:00.000Z",
+    "tags": []
   },
   {
     "slug": "ws-96",
@@ -16,22 +17,24 @@
     "title": "24 Hour Human Physiology Event",
     "description": "",
     "location": "This is a Virtual Event, Hosted by CNS",
-    "dateStart": "2026-12-12",
-    "dateEnd": "2026-12-13",
+    "mediaUrl": "hra-person.png",
+    "dateStart": "2026-12-12T00:00:00.000Z",
+    "dateEnd": "2026-12-13T00:00:00.000Z",
     "tags": []
   },
   {
     "slug": "ws-95",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2026-03-09_hra_hackathon/",
     "title": "HuBMAP Human Reference Atlas Hackathon",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2026-03-09",
-    "dateEnd": "2026-03-11",
+    "mediaUrl": "hra-hackathon3.8.2026.png",
+    "dateStart": "2026-03-09T00:00:00.000Z",
+    "dateEnd": "2026-03-11T00:00:00.000Z",
     "tags": [
       "hra"
-    ],
-    "link": "https://cns-iu.github.io/workshops/2026-03-09_hra_hackathon/"
+    ]
   },
   {
     "slug": "ws-94",
@@ -58,15 +61,16 @@
   {
     "slug": "ws-92",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-08-25_hra_hackathon/",
     "title": "HuBMAP Human Reference Atlas Hackathon",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2025-08-25",
-    "dateEnd": "2025-08-26",
+    "mediaUrl": "",
+    "dateStart": "2025-08-25T00:00:00.000Z",
+    "dateEnd": "2025-08-26T00:00:00.000Z",
     "tags": [
       "hra"
-    ],
-    "link": "https://cns-iu.github.io/workshops/2025-08-25_hra_hackathon/"
+    ]
   },
   {
     "slug": "ws-91",
@@ -9997,19 +10001,20 @@
     "link": "http://www.how-why.com/ucs2004/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-899",
     "type": "conference",
     "title": "Aegean Conferences: 16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
     "description": "",
     "location": "",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [],
+    "mediaUrl": "event5.6.2026.png",
+    "dateStart": "2026-05-07T00:00:00.000Z",
+    "dateEnd": "2026-05-12T00:00:00.000Z",
     "tutorials": [],
-    "dateStart": "2026-05-07",
-    "dateEnd": "2026-05-12",
-    "tags": []
+    "tags": [],
+    "presentations": [],
+    "attendees": []
   },
   {
     "slug": "ev-898",
