@@ -9,7 +9,7 @@ export function writeFundingIndex() {
   const entries = funding.map((item) => {
     item.category = 'funding';
     if (item.mediaUrl && !item.mediaUrl?.startsWith('http')) {
-      item.image = `${BASE_URL}/events/${item.slug}/${item.mediaUrl}`;
+      item.image = `${BASE_URL}/funding/${item.slug}/${item.mediaUrl}`;
     }
 
     const addAndIndex = item.investigators.length > 1 ? item.investigators.length - 1 : -1;

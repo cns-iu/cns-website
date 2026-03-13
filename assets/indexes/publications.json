@@ -1064,13 +1064,15 @@
     "pages": "",
     "chapter": "",
     "links": [
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 ",
-      "pub1.26.2026.png"
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 "
     ],
+    "mediaUrl": "pub1.26.2026.png",
     "tags": []
   },
   {
     "slug": "pub-484",
+    "type": "article-journal",
+    "title": "A general strategy for generating expert-guided, simplified views of ontologies",
     "authors": [
       "anita-r-caron",
       "aleix-puig-barbe",
@@ -1089,19 +1091,18 @@
       "david-osumi-sutherland"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "A general strategy for generating expert-guided, simplified views of ontologies",
-    "date": "2026-01-09",
+    "doi": "10.1101/2024.12.13.628309",
+    "date": "2026-01-09T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
     "volume": "",
     "issue": "",
-    "doi": "10.1101/2024.12.13.628309",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s41597-025-06383-w"
     ],
+    "mediaUrl": "fig1-s41597-025-06383-w.png",
     "tags": [
       "hra"
     ]
@@ -1312,6 +1313,8 @@
   },
   {
     "slug": "pub-478",
+    "type": "article-journal",
+    "title": "CellSAM: A Foundation Model for Cell Segmentation",
     "authors": [
       "markus-marks",
       "uriah-israel",
@@ -1334,42 +1337,42 @@
       "david-van-valen"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "CellSAM: A Foundation Model for Cell Segmentation",
-    "date": "2025-12-08",
+    "doi": "10.1038/s41592-025-02879-w",
+    "date": "2025-12-08T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Methods",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41592-025-02879-w",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s41592-025-02879-w"
     ],
+    "mediaUrl": "fig1-s41592-025-02879-w.png",
     "tags": []
   },
   {
     "slug": "pub-477",
+    "type": "book",
+    "title": " Atlas of Macroscopes: Interactive Data Visualizations",
     "authors": [
       "katy-borner",
       "elizabeth-g-record",
       "todd-theriault"
     ],
     "editors": [],
-    "type": "book",
-    "title": " Atlas of Macroscopes: Interactive Data Visualizations",
-    "date": "2025-09-30",
+    "doi": "",
+    "date": "2025-09-30T00:00:00.000Z",
     "publisher": "Cambridge, MA: The MIT Press",
     "venue": "",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/"
     ],
+    "mediaUrl": "atlas-macroscopes-book.png",
     "tags": []
   },
   {
