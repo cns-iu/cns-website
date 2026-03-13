@@ -49,13 +49,26 @@ export function writePublicationIndex() {
     }
   });
 
+  const images = publications.map((pub) => {
+    if (pub.mediaUrl?.length > 0) {
+      const link = pub.mediaUrl;
+      if (!link.startsWith('http:') && !link.startsWith('https:')) {
+        return `${BASE_URL}/publications/${pub.slug}/${link}`;
+      } else {
+        return link;
+      }
+    } else {
+      return undefined;
+    }
+  });
+
   const entries = publications.map((pub, index) => ({
     slug: pub.slug,
     category: 'publication',
     type: pub.type,
     people: [...(pub.authors ?? []), ...(pub.editors ?? [])],
     // projects: [],
-    image: pub.mediaUrl || undefined,
+    image: images[index],
     link: links[index],
     title: pub.title,
     description: links[index]
