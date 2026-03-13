@@ -1,4 +1,7 @@
 slug: pub-459
+type: article-journal
+title: Construction, Deployment, and Usage of the Human Reference Atlas
+  Knowledge Graph
 authors:
   - andreas-bueckle
   - bruce-w-herr-ii
@@ -7,19 +10,16 @@ authors:
   - mark-a-musen
   - katy-borner
 editors: []
-type: article-journal
-title: >-
-  Construction, Deployment, and Usage of the Human Reference Atlas Knowledge
-  Graph
-date: '2025-07-01'
+doi: 10.1038/s41597-025-05183-6
+date: 2025-07-01
 publisher: Nature
 venue: Nature Scientific Data
-volume: ''
-issue: ''
-doi: 10.1038/s41597-025-05183-6
-pages: ''
-chapter: ''
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.nature.com/articles/s41597-025-05183-6
+mediaUrl: hrakg2025.png
 tags:
   - hra
