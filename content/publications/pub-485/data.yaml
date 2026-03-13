@@ -1,4 +1,8 @@
 slug: pub-485
+type: article-journal
+title: "Preparing the next generation of Complex Networks and Systems
+  scientists: Evaluation results for the Complex Networks and Systems NSF
+  research training program at Indiana University"
 authors:
   - michael-ginda
   - katy-borner
@@ -7,19 +11,15 @@ authors:
   - luis-m-rocha
   - selma-sabanovic
 editors: []
-type: article-journal
-title: >-
-  Preparing the next generation of Complex Networks and Systems scientists:
-  Evaluation results for the Complex Networks and Systems NSF research training
-  program at Indiana University
-date: '2026-01-27'
+doi: 10.1371/journal.pone.0334779
+date: 2026-01-27
 publisher: PLOS
 venue: PLOS One
-volume: ''
-issue: ''
-doi: 10.1371/journal.pone.0334779
-pages: ''
-chapter: ''
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
-  - 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 '
+  - "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 "
+  - pub1.26.2026.png
 tags: []
