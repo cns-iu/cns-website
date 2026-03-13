@@ -1,4 +1,7 @@
 slug: pub-469
+type: article-journal
+title: Ensuring Adherence to Standards in Experiment-Related Metadata Entered
+  Via Spreadsheets
 authors:
   - martin-j-oconnor
   - josef-hardi
@@ -9,19 +12,16 @@ authors:
   - ajay-pillai
   - mark-musen
 editors: []
-type: article-journal
-title: >-
-  Ensuring Adherence to Standards in Experiment-Related Metadata Entered Via
-  Spreadsheets
-date: '2025-02-14'
-publisher: ''
-venue: Scientific Data
-volume: ''
-issue: ''
 doi: 10.1038/s41597-025-04589-6
-pages: ''
-chapter: ''
+date: 2025-02-14
+publisher: ""
+venue: Scientific Data
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.nature.com/articles/s41597-025-04589-6
+mediaUrl: fig1s41597-025-04589-6.png
 tags:
   - hra
