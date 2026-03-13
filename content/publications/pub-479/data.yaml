@@ -1,4 +1,6 @@
 slug: pub-479
+type: manuscript
+title: Cell type populations for 3D anatomical structures of the Human Reference Atlas
 authors:
   - andreas-bueckle
   - bruce-w-herr-ii
@@ -12,19 +14,16 @@ authors:
   - fusheng-wang
   - katy-borner
 editors: []
-type: manuscript
-title: >-
-  Cell type populations for 3D anatomical structures of the Human Reference
-  Atlas
-date: '2025-12-05'
-publisher: ''
-venue: bioRxiv
-volume: ''
-issue: ''
 doi: 10.1101/2025.08.14.670406
-pages: ''
-chapter: ''
+date: 2025-12-05
+publisher: ""
+venue: bioRxiv
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.biorxiv.org/content/10.1101/2025.08.14.670406v2
+mediaUrl: fig.-2.png
 tags:
   - hra
