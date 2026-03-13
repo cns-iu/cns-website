@@ -1,21 +1,21 @@
 slug: pub-481
+type: manuscript
+title: AI-Supported Extraction of Functional Tissue Unit Properties for Human
+  Reference Atlas Construction
 authors:
   - yongxin-kong
   - katy-borner
 editors: []
-type: manuscript
-title: >-
-  AI-Supported Extraction of Functional Tissue Unit Properties for Human
-  Reference Atlas Construction
-date: '2025-09-13'
-publisher: ''
-venue: bioRxiv
-volume: ''
-issue: ''
 doi: 10.1101/2025.09.11.675730
-pages: ''
-chapter: ''
+date: 2025-09-13
+publisher: ""
+venue: bioRxiv
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.biorxiv.org/content/10.1101/2025.09.11.675730v1
+mediaUrl: fig1-2025.09.11.675730.png
 tags:
   - hra
