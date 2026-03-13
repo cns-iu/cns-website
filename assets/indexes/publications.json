@@ -1353,25 +1353,26 @@
   },
   {
     "slug": "pub-477",
+    "type": "book",
+    "title": " Atlas of Macroscopes: Interactive Data Visualizations",
     "authors": [
       "katy-borner",
       "elizabeth-g-record",
       "todd-theriault"
     ],
     "editors": [],
-    "type": "book",
-    "title": " Atlas of Macroscopes: Interactive Data Visualizations",
-    "date": "2025-09-30",
+    "doi": "",
+    "date": "2025-09-30T00:00:00.000Z",
     "publisher": "Cambridge, MA: The MIT Press",
     "venue": "",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/"
     ],
+    "mediaUrl": "atlas-macroscopes-book.png",
     "tags": []
   },
   {
