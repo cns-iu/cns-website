@@ -47,7 +47,9 @@
     "mediaUrl": "scimapsintelligences24hourevent.png",
     "dateStart": "2025-12-13T00:00:00.000Z",
     "dateEnd": "2025-12-14T00:00:00.000Z",
-    "tags": []
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "ws-93",
