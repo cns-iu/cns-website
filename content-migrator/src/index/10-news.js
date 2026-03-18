@@ -16,7 +16,7 @@ export function writeNewsIndex() {
       `${item.date.split('-')[0].split('T')[0]}\\.`,
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.publisher ? `_${item.publisher}_.` : '',
-      item.mediaType !== 'IMAGE' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
+      item.mediaType !== 'image' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
     ]
       .filter((s) => s?.trim().length > 0)
       .join(' ');
@@ -26,7 +26,7 @@ export function writeNewsIndex() {
       category: 'news',
       type: 'news',
       people: item.people || [],
-      image: item.mediaUrl && item.mediaType === 'IMAGE' ? item.mediaUrl : undefined,
+      image: item.mediaUrl && item.mediaType === 'image' ? item.mediaUrl : undefined,
       link: item.link,
       title: item.title,
       description,
