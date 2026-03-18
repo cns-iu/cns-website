@@ -95,13 +95,15 @@
   {
     "slug": "ws-90",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/",
     "title": "CNS 20th Anniversary Celebration",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2025-04-18",
-    "dateEnd": "2025-04-18",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/"
+    "dateStart": "2025-04-18T00:00:00.000Z",
+    "dateEnd": "2025-04-18T00:00:00.000Z",
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "ws-9",
