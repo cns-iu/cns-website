@@ -1148,13 +1148,15 @@
     "link": "https://news.iu.edu/luddy/live/news/47255-borner-part-of-team-to-reach-nih-data-sharing",
     "title": "Börner part of team to reach NIH Data Sharing Index Challenge Finals",
     "description": "",
-    "date": "2025-09-19",
+    "date": "2025-09-19T00:00:00.000Z",
     "mediaType": "image",
     "mediaUrl": "https://cns.iu.edu/docs/news/https://news.iu.edu/luddy/live/news/47255-borner-part-of-team-to-reach-nih-data-sharing",
     "caption": "",
     "publisher": "IU News",
     "reporter": "Pete DiPrimio",
-    "tags": []
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "pub-190",
