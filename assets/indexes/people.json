@@ -15245,13 +15245,14 @@
     "slug": "congcong-wang",
     "name": "Congcong Wang",
     "lastName": "Wang",
+    "image": "congcong_wang.jpeg",
     "roles": [
       {
         "type": "student",
         "topic": "Ph.D. Information and Library Science",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2025-01-01",
+        "department": "Information and Library Science",
+        "dateStart": "2025-01-01T00:00:00.000Z",
         "dateEnd": null
       }
     ]
