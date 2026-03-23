@@ -33,30 +33,37 @@
     "dateStart": "2026-03-09T00:00:00.000Z",
     "dateEnd": "2026-03-11T00:00:00.000Z",
     "tags": [
-      "hra"
+      "hra",
+      "featured"
     ]
   },
   {
     "slug": "ws-94",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-24h/",
     "title": "24 Hour Envisioning Intelligences Event",
     "description": "",
     "location": "This is a Virtual Event, Hosted by CNS",
-    "dateStart": "2025-12-13",
-    "dateEnd": "2025-12-14",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2025-24h/"
+    "mediaType": "image",
+    "mediaUrl": "scimapsintelligences24hourevent.png",
+    "dateStart": "2025-12-13T00:00:00.000Z",
+    "dateEnd": "2025-12-14T00:00:00.000Z",
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "ws-93",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/data-vis-xr-panel-2025/",
     "title": "IEEE VIS 2025: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality",
     "description": "",
     "location": "Vienna, Austria",
-    "dateStart": "2025-11-05",
-    "dateEnd": "2025-11-05",
-    "tags": [],
-    "link": "https://cns-iu.github.io/data-vis-xr-panel-2025/"
+    "mediaType": "image",
+    "mediaUrl": "ieee2025.png",
+    "dateStart": "2025-11-05T00:00:00.000Z",
+    "dateEnd": "2025-11-05T00:00:00.000Z",
+    "tags": []
   },
   {
     "slug": "ws-92",
@@ -65,7 +72,7 @@
     "title": "HuBMAP Human Reference Atlas Hackathon",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "mediaUrl": "",
+    "mediaUrl": "hra-hackathon-aug2025.png",
     "dateStart": "2025-08-25T00:00:00.000Z",
     "dateEnd": "2025-08-26T00:00:00.000Z",
     "tags": [
@@ -75,26 +82,31 @@
   {
     "slug": "ws-91",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-06-23_hra_workshop",
     "title": "HuBMAP Human Reference Atlas Workshop",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2025-06-23",
-    "dateEnd": "2025-06-24",
+    "mediaType": "image",
+    "mediaUrl": "workshop-june2025.png",
+    "dateStart": "2025-06-23T00:00:00.000Z",
+    "dateEnd": "2025-06-24T00:00:00.000Z",
     "tags": [
       "hra"
-    ],
-    "link": "https://cns-iu.github.io/workshops/2025-06-23_hra_workshop"
+    ]
   },
   {
     "slug": "ws-90",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/",
     "title": "CNS 20th Anniversary Celebration",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2025-04-18",
-    "dateEnd": "2025-04-18",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/"
+    "mediaUrl": "cns-anniversary.png",
+    "dateStart": "2025-04-18T00:00:00.000Z",
+    "dateEnd": "2025-04-18T00:00:00.000Z",
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "ws-9",

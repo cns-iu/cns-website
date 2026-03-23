@@ -1,6 +1,12 @@
 import { join } from 'path';
 import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
+const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png']);
+function isImageUrl(url) {
+  const extension = url?.split('.').slice(-1)[0].toLowerCase();
+  return IMAGE_EXTENSIONS.has(extension);
+}
+
 export function writeNewsIndex() {
   const news = readIndex('news');
   const entries = news.map((item) => {
@@ -16,7 +22,7 @@ export function writeNewsIndex() {
       `${item.date.split('-')[0].split('T')[0]}\\.`,
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.publisher ? `_${item.publisher}_.` : '',
-      item.mediaType !== 'image' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
+      item.mediaType?.toLowerCase() !== 'image' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
     ]
       .filter((s) => s?.trim().length > 0)
       .join(' ');
@@ -26,7 +32,7 @@ export function writeNewsIndex() {
       category: 'news',
       type: 'news',
       people: item.people || [],
-      image: item.mediaUrl && item.mediaType === 'image' ? item.mediaUrl : undefined,
+      image: item.mediaUrl && item.mediaType?.toLowerCase() === 'image' && isImageUrl(item.mediaUrl) ? item.mediaUrl : undefined,
       link: item.link,
       title: item.title,
       description,
