@@ -1602,8 +1602,9 @@
         "interests": "I enjoy spending time with my wife and son, reading, cooking, and playing the piano.",
         "displayOrder": 20,
         "dateEnd": null,
-        "background": "Upon receiving my MA in 1998, I spent 15 years teaching literature and composition at Indiana University, Miami University of Ohio, the University of Cincinnati, and Xavier University of Ohio. Since 2012, I've been primarily involved with the Places & Spaces: Mapping Science exhibit.",
+        "background": "Upon receiving my MA in 1998, I spent 15 years teaching literature and composition at Indiana University, Miami University of Ohio, the University of Cincinnati, and Xavier University of Ohio. Since 2012, I've been primarily involved with the *Places & Spaces: Mapping Science* exhibit.",
         "phone": "",
+        "status": "part-time",
         "dateStart": "2012-09-01T00:00:00.000Z",
         "title": "Technical Writer",
         "type": "member",
@@ -10020,7 +10021,7 @@
         "interests": "See more on Katy's <a href=\"http://info.ils.indiana.edu/~katy/\" target=\"_blank\">personal website</a>.",
         "displayOrder": 1,
         "dateEnd": null,
-        "background": "Katy Börner is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, School of Informatics and Computing, Core Faculty of Cognitive Science, and Founding Director of the Cyberinfrastructure for Network Science Center at Indiana University in Bloomington, IN. She is a Visiting Professor at the Royal Netherlands Academy of Arts and Sciences (KNAW) in The Netherlands and a curator of the international Places & Spaces: Mapping Science exhibit. She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012 and as an Alexander von Humboldt Fellow in 2017.",
+        "background": "Katy Börner is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, School of Informatics and Computing, Core Faculty of Cognitive Science, and Founding Director of the Cyberinfrastructure for Network Science Center at Indiana University in Bloomington, IN. She is a Visiting Professor at the Royal Netherlands Academy of Arts and Sciences (KNAW) in The Netherlands and a curator of the international *Places & Spaces: Mapping Science* exhibit. She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012 and as an Alexander von Humboldt Fellow in 2017.",
         "phone": "812.855.3256",
         "status": "leadership",
         "dateStart": "2003-01-01T00:00:00.000Z",
@@ -15244,13 +15245,14 @@
     "slug": "congcong-wang",
     "name": "Congcong Wang",
     "lastName": "Wang",
+    "image": "congcong_wang.jpeg",
     "roles": [
       {
         "type": "student",
         "topic": "Ph.D. Information and Library Science",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2025-01-01",
+        "department": "Information and Library Science",
+        "dateStart": "2025-01-01T00:00:00.000Z",
         "dateEnd": null
       }
     ]
@@ -18550,13 +18552,14 @@
     "slug": "abhigya-agrawal",
     "name": "Abhigya Agrawal",
     "lastName": "Agrawal",
+    "image": "abhigya_agrawal.jpg",
     "roles": [
       {
         "type": "student",
         "topic": "Ph.D Computer Engineering",
         "degree": "Ph.D.",
         "department": "Intelligent Systems Engineering",
-        "dateStart": "2022-08-01",
+        "dateStart": "2022-08-01T00:00:00.000Z",
         "dateEnd": null
       }
     ]
