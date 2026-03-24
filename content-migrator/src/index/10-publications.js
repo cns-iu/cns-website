@@ -72,12 +72,7 @@ export function writePublicationIndex() {
     link: links[index],
     title: pub.title,
     description: links[index]
-      ? markdown[pub.slug]
-          .replaceAll(
-            links[index],
-            `[${links[index].replace(/http[s]\:\/\//, '')}](${links[index].replaceAll(' ', '%20')})`,
-          )
-          .replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
+      ? markdown[pub.slug].replaceAll(links[index], formatLink(links[index])).replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
       : markdown[pub.slug],
     tags: pub.tags ?? [],
     dateStart: pub.date,
@@ -96,6 +91,12 @@ export function writePublicationTypesIndex() {
   const coll = config.collections.find((c) => c.name === 'publications');
   const types = coll.fields.find((f) => f.name === 'type');
   writeMinifiedJSON(join(INDEXES, 'app-publication-types.json'), types.options);
+}
+
+function formatLink(link) {
+  const linkName = link.replace(/http[s]\:\/\//, '').replace(/\/(?![^()]*\))/g, '/<wbr>');
+  const linkUrl = link.replaceAll(' ', '%20');
+  return `[${linkName}](${linkUrl})`;
 }
 
 index('publications/**/data.yaml', 'publications.json');
