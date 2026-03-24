@@ -1,18 +1,18 @@
-import { readFileSync } from "fs";
-import YAML from "js-yaml";
-import { join } from "path";
-import TurndownService from "turndown";
-import { formatCitation } from "../utils/csl-formatter.js";
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from "./utils.js";
+import { readFileSync } from 'fs';
+import YAML from 'js-yaml';
+import { join } from 'path';
+import TurndownService from 'turndown';
+import { formatCitation } from '../utils/csl-formatter.js';
+import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 const turndownService = new TurndownService();
 
 export function writePublicationIndex() {
-  const publications = readIndex("publications");
-  const people = readIndex("people").reduce((acc, item) => ((acc[item.slug] = item), acc), {});
-  const cslStyleXml = readFileSync("src/csl-styles/chicago-author-date.csl", "utf-8");
+  const publications = readIndex('publications');
+  const people = readIndex('people').reduce((acc, item) => ((acc[item.slug] = item), acc), {});
+  const cslStyleXml = readFileSync('src/csl-styles/chicago-author-date.csl', 'utf-8');
   // const cslStyleXml = readFileSync('src/csl-styles/nature-with-doi.csl', 'utf-8');
-  const localeXml = readFileSync("src/csl-styles/locales-en-US.xml", "utf-8");
+  const localeXml = readFileSync('src/csl-styles/locales-en-US.xml', 'utf-8');
 
   const cslData = publications.map((pub) => ({
     id: pub.slug,
@@ -20,8 +20,8 @@ export function writePublicationIndex() {
     slug: undefined,
     mediaUrl: undefined,
     DOI: pub.doi,
-    "container-title": pub.venue,
-    "chapter-number": pub.chapter,
+    'container-title': pub.venue,
+    'chapter-number': pub.chapter,
     author: pub.authors.map((person) => ({ literal: people[person]?.name ?? person })),
     editor: pub.editors.map((person) => ({ literal: people[person]?.name ?? person })),
     issued: { raw: pub.date },
@@ -29,7 +29,7 @@ export function writePublicationIndex() {
 
   const bib = formatCitation(cslData, cslStyleXml, { localeXml });
   const markdown = Object.entries(bib.entries).reduce((acc, [slug, html]) => {
-    const md = turndownService.turndown(html).replace(/^[0-9]\.\n\n/, "");
+    const md = turndownService.turndown(html).replace(/^[0-9]\.\n\n/, '');
     acc[slug] = md;
     return acc;
   }, {});
@@ -39,7 +39,7 @@ export function writePublicationIndex() {
       return `https://doi.org/${pub.doi}`;
     } else if (pub.links?.length > 0) {
       const link = pub.links[0];
-      if (!link.startsWith("http:") && !link.startsWith("https:")) {
+      if (!link.startsWith('http:') && !link.startsWith('https:')) {
         return `${BASE_URL}/publications/${pub.slug}/${link}`;
       } else {
         return link;
@@ -52,7 +52,7 @@ export function writePublicationIndex() {
   const images = publications.map((pub) => {
     if (pub.mediaUrl?.length > 0) {
       const link = pub.mediaUrl;
-      if (!link.startsWith("http:") && !link.startsWith("https:")) {
+      if (!link.startsWith('http:') && !link.startsWith('https:')) {
         return `${BASE_URL}/publications/${pub.slug}/${link}`;
       } else {
         return link;
@@ -64,7 +64,7 @@ export function writePublicationIndex() {
 
   const entries = publications.map((pub, index) => ({
     slug: pub.slug,
-    category: "publication",
+    category: 'publication',
     type: pub.type,
     people: [...(pub.authors ?? []), ...(pub.editors ?? [])],
     // projects: [],
@@ -72,34 +72,34 @@ export function writePublicationIndex() {
     link: links[index],
     title: pub.title,
     description: links[index]
-      ? markdown[pub.slug].replaceAll(links[index], formatLink(links[index])).replace(new RegExp(pub.title, "gi"), `[${pub.title}](${links[index]})`)
+      ? markdown[pub.slug].replaceAll(links[index], formatLink(links[index])).replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
       : markdown[pub.slug],
     tags: pub.tags ?? [],
     dateStart: pub.date,
     dateEnd: pub.date,
   }));
 
-  writeMinifiedJSON(join(INDEXES, "app-publications.json"), entries);
+  writeMinifiedJSON(join(INDEXES, 'app-publications.json'), entries);
   writeMinifiedJSON(
-    join(INDEXES, "app-hra-publications.json"),
-    entries.filter((entry) => entry.tags.includes("hra")),
+    join(INDEXES, 'app-hra-publications.json'),
+    entries.filter((entry) => entry.tags.includes('hra')),
   );
 }
 
 export function writePublicationTypesIndex() {
-  const config = YAML.load(readFileSync("../admin/config.yml", "utf-8"));
-  const coll = config.collections.find((c) => c.name === "publications");
-  const types = coll.fields.find((f) => f.name === "type");
-  writeMinifiedJSON(join(INDEXES, "app-publication-types.json"), types.options);
+  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
+  const coll = config.collections.find((c) => c.name === 'publications');
+  const types = coll.fields.find((f) => f.name === 'type');
+  writeMinifiedJSON(join(INDEXES, 'app-publication-types.json'), types.options);
 }
 
 function formatLink(link) {
-  const linkName = link.replace(/http[s]\:\/\//, "").replace(/\/(?![^()]*\))/g, "/<wbr>");
-  const linkUrl = link.replaceAll(" ", "%20");
+  const linkName = link.replace(/http[s]\:\/\//, '').replace(/\/(?![^()]*\))/g, '/<wbr>');
+  const linkUrl = link.replaceAll(' ', '%20');
   return `[${linkName}](${linkUrl})`;
 }
 
-index("publications/**/data.yaml", "publications.json");
+index('publications/**/data.yaml', 'publications.json');
 
 writePublicationIndex();
 writePublicationTypesIndex();
