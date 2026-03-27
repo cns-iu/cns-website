@@ -1,8 +1,7 @@
 slug: 5ofi4bekza90uyi6pbkuu
-type: presentation
+type: conference
 link: https://cfdeconnect.org/spring2026/
-title: "CFDE Spring 2026 Meeting: 3D Human Reference Body: Multiscale
-  Exploration and Visualization of Biomolecular Data in Virtual Reality"
+title: The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting
 description: "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting was held
   in Rockville, MD, on March 24-25. Andreas Bueckle was invited to give a talk
   entitled “3D Human Reference Body: Multiscale Exploration and Visualization of
@@ -17,7 +16,8 @@ description: "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting was held
 location: Rockville, MD
 mediaType: image
 mediaUrl: cdfe-3.24.2026.png
-presenters:
+presenters: []
+attendees:
   - andreas-bueckle
 dateStart: 2026-03-24
 tags:
