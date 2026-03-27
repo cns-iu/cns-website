@@ -3818,7 +3818,7 @@
       </choose>
     </group>
   </macro>
-  <citation after-collapse-delimiter="; " collapse="year" disambiguate-add-givenname="true" disambiguate-add-names="true" disambiguate-add-year-suffix="true" et-al-min="3" et-al-use-first="1">
+    <citation after-collapse-delimiter="; " collapse="year" disambiguate-add-givenname="true" disambiguate-add-names="true" disambiguate-add-year-suffix="true">
     <layout delimiter="; " prefix="(" suffix=")">
       <choose>
         <if type="classic">
@@ -3872,7 +3872,7 @@
       </choose>
     </group>
   </macro>
-  <bibliography et-al-min="7" et-al-use-first="3" hanging-indent="true">
+  <bibliography hanging-indent="true">
     <sort>
       <key macro="author-sort"/>
       <key macro="date-sort-group"/>
