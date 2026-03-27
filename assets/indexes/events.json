@@ -24544,5 +24544,22 @@
     "dateEnd": "2005-01-18",
     "tags": [],
     "link": "http://vw.indiana.edu/vda2005/"
+  },
+  {
+    "slug": "5ofi4bekza90uyi6pbkuu",
+    "type": "presentation",
+    "link": "https://cfdeconnect.org/spring2026/",
+    "title": "(CFDE) Spring 2026 Meeting: 3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
+    "description": "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting was held in Rockville, MD, on March 24-25. Andreas Bueckle was invited to give a talk entitled “3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality.” In his talk, Andreas provided updates on HRA Cell Type Populations (HRApop, https://www.nature.com/articles/s41597-026-06642-4) and their visualizations in the HRA Organ Gallery in VR (https://humanatlas.io/hra-organ-gallery). This talk also contained updates on his ongoing R03 grant on visualizing cell type populations with embedded 2D/3D visualizations in VR (https://reporter.nih.gov/search/oQWN8hJ2EkWfCtqXHyTq0A/project-details/11123677). ",
+    "location": "Rockville, MD",
+    "mediaType": "image",
+    "mediaUrl": "cdfe-3.24.2026.png",
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "dateStart": "2026-03-24T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ]
   }
 ]
