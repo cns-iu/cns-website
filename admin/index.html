@@ -7,6 +7,12 @@
     <title>Content Manager</title>
   </head>
   <body>
+    <script>
+      // Redirect to the correct admin site if coming here from another domain
+      if (window.location.hostname !== 'cns-website.netlify.app') {
+        window.location.replace('https://cns-website.netlify.app/admin/');
+      }
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/slugify"></script>
 
     <!-- Include the script that builds the page and powers Decap CMS -->
