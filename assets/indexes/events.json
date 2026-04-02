@@ -9838,7 +9838,10 @@
     "location": "Bloomington, Indiana",
     "mediaType": "image",
     "mediaUrl": "amatria-birthday.png",
-    "dateStart": "2025-04-18T00:00:00.000Z"
+    "dateStart": "2025-04-18T00:00:00.000Z",
+    "tags": [
+      "featured"
+    ]
   },
   {
     "slug": "ev-99",
