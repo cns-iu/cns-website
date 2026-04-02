@@ -26,9 +26,10 @@ export function writeEventsIndex() {
 
     const description = [
       peopleString ? `${peopleString}.` : '',
-      item.dateStart !== '1979-01-01' ? `${item.dateStart.split('-')[0].split('T')[0]}\\.` : '',
+      item.dateStart !== '1979-01-01' ? `${item.dateStart.split('T')[0]}\\.` : '',
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
-      item.description,
+      item.description ? `${item.description}.` : '',
+      item.location ? `${item.location}.` : '',
     ]
       .filter((s) => s?.trim().length > 0)
       .join(' ');
