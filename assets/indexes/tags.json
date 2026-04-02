@@ -20,6 +20,11 @@
     "description": "Human Reference Atlas"
   },
   {
+    "slug": "funding",
+    "name": "Funding",
+    "description": "Research funding"
+  },
+  {
     "slug": "featured",
     "name": "Featured",
     "description": "Featured on the homepage"
