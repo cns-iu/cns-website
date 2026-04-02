@@ -1314,7 +1314,8 @@
     "dateStart": "2025-08-08T00:00:00.000Z",
     "dateEnd": "2028-07-31T00:00:00.000Z",
     "tags": [
-      "featured"
+      "featured",
+      "funding"
     ]
   }
 ]
