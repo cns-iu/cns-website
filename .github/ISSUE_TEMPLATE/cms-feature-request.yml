@@ -21,23 +21,32 @@ body:
         - Creating new content
         - Editing existing content
         - Uploading images or files
-        - Using the preview
-        - Saving a draft
         - Publishing content
         - Other
     validations:
       required: true
 
   - type: dropdown
+    id: media_type
+    attributes:
+      label: What kind of file were you uploading? (optional)
+      options:
+        - Image (JPG, PNG)
+        - PDF or document
+        - Video
+        - Not uploading files
+
+  - type: dropdown
     id: content_type
     attributes:
       label: What type of content were you working with?
       options:
-        - News / Stories
-        - Faculty Profile
-        - Page
-        - Event
-        - Homepage content
+        - Events
+        - Funding
+        - News
+        - People
+        - Publications
+        - Visualizations
         - Other
 
   - type: textarea
@@ -73,19 +82,8 @@ body:
       description: Helps us understand if this is an editing issue or a website issue
       options:
         - In the CMS editor
-        - In the preview
         - On the live website
         - Not sure
-
-  - type: dropdown
-    id: media_type
-    attributes:
-      label: What kind of file were you uploading? (optional)
-      options:
-        - Image (JPG, PNG)
-        - PDF or document
-        - Video
-        - Not uploading files
 
   - type: dropdown
     id: frequency
