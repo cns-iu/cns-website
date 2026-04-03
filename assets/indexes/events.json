@@ -4,7 +4,10 @@
     "type": "other",
     "title": "Robot Roll Call 2017",
     "location": "Wonderlab, Bloomington, Indiana, USA",
-    "dateStart": "2017-08-05T00:00:00.000Z"
+    "dateStart": "2017-08-05T00:00:00.000Z",
+    "tags": [
+      "amatria"
+    ]
   },
   {
     "slug": "ws-97",
