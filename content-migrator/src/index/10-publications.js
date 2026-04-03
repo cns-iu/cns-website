@@ -24,7 +24,7 @@ export function writePublicationIndex() {
     'chapter-number': pub.chapter,
     author: pub.authors.map((person) => ({ literal: people[person]?.name ?? person })),
     editor: pub.editors.map((person) => ({ literal: people[person]?.name ?? person })),
-    issued: { raw: pub.date },
+    issued: { raw: formatDate(pub.date) },
   }));
 
   const bib = formatCitation(cslData, cslStyleXml, { localeXml });

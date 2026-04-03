@@ -9,8 +9,8 @@ export function writePeopleIndex() {
     }
 
     for (const role of person.roles ?? []) {
-      role.startDate = formatDate(role.startDate);
-      role.endDate = formatDate(role.endDate);
+      role.dateStart = formatDate(role.dateStart);
+      role.dateEnd = formatDate(role.dateEnd);
     }
   }
   writeMinifiedJSON(join(INDEXES, 'app-people.json'), people);
