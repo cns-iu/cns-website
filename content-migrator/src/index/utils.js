@@ -35,3 +35,11 @@ export function index(globString, path, minified = false) {
     writeJSON(join(INDEXES, path), data);
   }
 }
+
+export function formatDate(dateTimeString) {
+  if (typeof dateTimeString !== 'string' || !dateTimeString) {
+    return dateTimeString;
+  }
+
+  return dateTimeString.split('T')[0];
+}
