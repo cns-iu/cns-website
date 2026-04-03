@@ -33,5 +33,10 @@
     "slug": "expert",
     "name": "Expert",
     "description": "expert (usually just for people)"
+  },
+  {
+    "slug": "amatria",
+    "name": "Amatria",
+    "description": ""
   }
 ]
