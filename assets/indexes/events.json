@@ -10515,21 +10515,22 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-875",
-    "type": "other",
+    "type": "workshop",
+    "link": "https://www.nitrd.gov/nitrdgroups/images/c/c5/Frontiers_of_Visualization_Agenda_Participants_List.pdf",
     "title": "Frontiers of Visualization Meeting Networking and Information Technology R&D (NITRD) Program",
     "description": "",
-    "location": "",
-    "organizers": [],
+    "location": "Arlington, Virgina, USA",
     "attendees": [],
-    "publications": [],
+    "dateStart": "2014-05-02T00:00:00.000Z",
+    "dateEnd": null,
+    "tutorials": [],
+    "tags": [],
     "presentations": [
       "pres-396"
-    ],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": []
+    ]
   },
   {
     "slug": "ev-874",

@@ -1,16 +1,16 @@
-slug: ev-875
-type: other
-title: >-
-  Frontiers of Visualization Meeting Networking and Information Technology R&D
-  (NITRD) Program
-description: ''
-location: ''
 organizers: []
-attendees: []
 publications: []
+slug: ev-875
+type: workshop
+link: https://www.nitrd.gov/nitrdgroups/images/c/c5/Frontiers_of_Visualization_Agenda_Participants_List.pdf
+title: Frontiers of Visualization Meeting Networking and Information Technology
+  R&D (NITRD) Program
+description: ""
+location: Arlington, Virgina, USA
+attendees: []
+dateStart: 2014-05-02
+dateEnd: null
+tutorials: []
+tags: []
 presentations:
   - pres-396
-tutorials: []
-dateStart: null
-dateEnd: null
-tags: []
