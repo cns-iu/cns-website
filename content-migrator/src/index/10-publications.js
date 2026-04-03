@@ -3,7 +3,7 @@ import YAML from 'js-yaml';
 import { join } from 'path';
 import TurndownService from 'turndown';
 import { formatCitation } from '../utils/csl-formatter.js';
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 const turndownService = new TurndownService();
 
@@ -72,11 +72,13 @@ export function writePublicationIndex() {
     link: links[index],
     title: pub.title,
     description: links[index]
-      ? markdown[pub.slug].replaceAll(links[index], formatLink(links[index])).replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
+      ? markdown[pub.slug]
+          .replaceAll(links[index], formatLink(links[index]))
+          .replace(new RegExp(pub.title, 'gi'), `[${pub.title}](${links[index]})`)
       : markdown[pub.slug],
     tags: pub.tags ?? [],
-    dateStart: pub.date,
-    dateEnd: pub.date,
+    dateStart: formatDate(pub.date),
+    dateEnd: formatDate(pub.date),
   }));
 
   writeMinifiedJSON(join(INDEXES, 'app-publications.json'), entries);

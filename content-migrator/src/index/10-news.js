@@ -1,5 +1,5 @@
 import { join } from 'path';
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png']);
 function isImageUrl(url) {
@@ -19,7 +19,7 @@ export function writeNewsIndex() {
 
     const description = [
       item.reporter ? `${item.reporter}.` : '',
-      `${item.date.split('-')[0].split('T')[0]}\\.`,
+      `${formatDate(item.date.split('-')[0])}\\.`,
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.publisher ? `_${item.publisher}_.` : '',
       item.mediaType?.toLowerCase() !== 'image' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
@@ -37,8 +37,8 @@ export function writeNewsIndex() {
       title: item.title,
       description,
       tags: item.tags ?? [],
-      dateStart: item.date,
-      dateEnd: item.date,
+      dateStart: formatDate(item.date),
+      dateEnd: formatDate(item.date),
     };
   });
   writeMinifiedJSON(join(INDEXES, 'app-news.json'), entries);

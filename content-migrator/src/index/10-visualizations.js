@@ -1,5 +1,5 @@
 import { join } from 'path';
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 export function writeVisualizationsIndex() {
   const visualizations = readIndex('visualizations');
@@ -10,7 +10,7 @@ export function writeVisualizationsIndex() {
     }
 
     const description = [
-      item.date !== '1979-01-01' ? `${item.date.split('-')[0].split('T')[0]}.` : '',
+      item.date !== '1979-01-01' ? `${formatDate(item.date.split('-')[0])}.` : '',
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.description,
     ]
@@ -27,8 +27,8 @@ export function writeVisualizationsIndex() {
       title: item.title,
       description,
       tags: item.tags ?? [],
-      dateStart: item.date,
-      dateEnd: item.date,
+      dateStart: formatDate(item.date),
+      dateEnd: formatDate(item.date),
     };
   });
   writeMinifiedJSON(join(INDEXES, 'app-visualizations.json'), entries);

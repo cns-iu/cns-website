@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import YAML from 'js-yaml';
 import { join } from 'path';
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 export function writeFundingIndex() {
   const funding = readIndex('funding');
@@ -22,7 +22,7 @@ export function writeFundingIndex() {
       item.link ? `“[**${item.title}**](${item.link.replaceAll(' ', '%20')}).”` : `“**${item.title}**.”`,
       item.name ? `${item.name}` : '',
       `(${peopleString}${item.amount ? ', \$' + Number(item.amount).toLocaleString() : ''})`,
-      `${item.dateStart.replaceAll('-', '.').split('T')[0]} - ${item.dateEnd.replaceAll('-', '.').split('T')[0]}.`,
+      `${formatDate(item.dateStart.replaceAll('-', '.'))} - ${formatDate(item.dateEnd.replaceAll('-', '.'))}.`,
     ]
       .filter((s) => s?.trim().length > 0)
       .join(' ');
@@ -37,8 +37,8 @@ export function writeFundingIndex() {
       title: item.title,
       description,
       tags: item.tags ?? [],
-      dateStart: item.dateStart,
-      dateEnd: item.dateEnd,
+      dateStart: formatDate(item.dateStart),
+      dateEnd: formatDate(item.dateEnd),
     };
   });
   writeMinifiedJSON(join(INDEXES, 'app-funding.json'), entries);

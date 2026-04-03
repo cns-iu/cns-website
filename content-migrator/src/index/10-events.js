@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import YAML from 'js-yaml';
 import { join } from 'path';
-import { BASE_URL, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
 
 const PEOPLE_FIELDS = ['organizers', 'attendees', 'presenters', 'instructors'];
 
@@ -26,7 +26,7 @@ export function writeEventsIndex() {
 
     const description = [
       peopleString ? `${peopleString}.` : '',
-      item.dateStart !== '1979-01-01' ? `${item.dateStart.split('T')[0]}\\.` : '',
+      item.dateStart !== '1979-01-01' ? `${formatDate(item.dateStart)}\\.` : '',
       item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
       item.description ? `${item.description}.` : '',
       item.location ? `${item.location}.` : '',
@@ -44,8 +44,8 @@ export function writeEventsIndex() {
       title: item.title,
       description,
       tags: item.tags ?? [],
-      dateStart: item.dateStart,
-      dateEnd: item.dateEnd,
+      dateStart: formatDate(item.dateStart),
+      dateEnd: formatDate(item.dateEnd),
     };
   });
   writeMinifiedJSON(join(INDEXES, 'app-events.json'), entries.filter((item) => item.dateStart !== '1979-01-01'));
