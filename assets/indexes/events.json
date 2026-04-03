@@ -13072,19 +13072,19 @@
     "link": "http://livingarchitecturesystems.com/symposium-2019/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-740",
     "type": "conference",
     "title": "Living Architecture Systems Group (LASG) Symposium 2019",
     "description": "",
     "location": "Toronto, Canada",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
-    "presentations": [],
+    "dateStart": "2019-03-01T00:00:00.000Z",
+    "dateEnd": "2019-03-03T00:00:00.000Z",
     "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": []
+    "tags": [],
+    "presentations": []
   },
   {
     "slug": "ev-74",
