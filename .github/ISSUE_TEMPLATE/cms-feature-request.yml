@@ -9,7 +9,7 @@ body:
     attributes:
       label: What are you trying to do?
       description: Describe the task you are trying to complete in the CMS
-      placeholder: e.g., I’m trying to create a news article or update a faculty profile
+      placeholder: e.g., I’m trying to create a news piece or update a person profile
     validations:
       required: true
 
@@ -39,7 +39,7 @@ body:
   - type: dropdown
     id: content_type
     attributes:
-      label: What type of content were you working with?
+      label: What type of content were you working with? (optional)
       options:
         - Events
         - Funding
@@ -83,12 +83,14 @@ body:
       options:
         - In the CMS editor
         - On the live website
-        - Not sure
+        - Both
+    validations:
+      required: true
 
   - type: dropdown
     id: frequency
     attributes:
-      label: How often does this happen?
+      label: How often does this happen? (optional)
       options:
         - Every time
         - Sometimes
@@ -103,6 +105,8 @@ body:
         - Slows me down
         - Minor inconvenience
         - Nice to have improvement
+    validations:
+      required: true
 
   - type: textarea
     id: entry_link
