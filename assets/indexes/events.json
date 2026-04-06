@@ -24586,10 +24586,12 @@
   {
     "slug": "275k0re5jxjbhui8cvxm0",
     "type": "other",
+    "link": "amatria-5th-birthday-celebration-slides.pptx.pdf",
     "title": "Amatria 6th Birthday Celebration",
     "description": "(9:00am–10:00am)",
     "location": "Indiana University, Bloomington, IN",
-    "mediaType": null,
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/watch?v=ZJwCq8reHQc",
     "dateStart": "2024-04-11T00:00:00.000Z",
     "tags": [
       "amatria"
