@@ -1,5 +1,9 @@
 [
   {
+    "slug": "whole-person-physiome",
+    "name": "Whole Person Physiome"
+  },
+  {
     "slug": "network-science",
     "name": "Network Science",
     "description": "pertaining Network Science"
