@@ -1,7 +1,8 @@
 [
   {
     "slug": "whole-person-physiome",
-    "name": "Whole Person Physiome"
+    "name": "Whole Person Physiome",
+    "description": "NIH funded Whole Person Physiome Project"
   },
   {
     "slug": "network-science",
