@@ -1,5 +1,9 @@
 [
   {
+    "slug": "places-and-spaces",
+    "name": "Places & Spaces"
+  },
+  {
     "slug": "network-science",
     "name": "Network Science",
     "description": "pertaining Network Science"
