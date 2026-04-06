@@ -11419,24 +11419,6 @@
     "link": "https://www.kpmp.org/about-kpmp"
   },
   {
-    "slug": "ev-829",
-    "type": "meeting",
-    "title": "Amatria's 2nd Birthday Celebration",
-    "description": "",
-    "location": "Bloomington, Indiana (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-632"
-    ],
-    "tutorials": [],
-    "dateStart": "2020-04-13",
-    "dateEnd": "2020-04-13",
-    "tags": [],
-    "link": "https://cns.iu.edu/amatria.html"
-  },
-  {
     "slug": "ev-828",
     "type": "meeting",
     "title": "Forum on Complex Unifiable Systems (FOCUS): A Virtual National Academy of Engineering (NAE) Convocation",
