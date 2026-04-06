@@ -39,6 +39,10 @@
     "description": "expert (usually just for people)"
   },
   {
+    "slug": "exhibits",
+    "name": "Exhibits"
+  },
+  {
     "slug": "amatria",
     "name": "Amatria",
     "description": ""
