@@ -1,17 +1,16 @@
+organizers: []
+publications: []
 slug: ev-746
 type: workshop
-title: >-
-  Constructing a Common Coordinate Framework for the Human Lung at Harvard
+link: https://satijalab.org/lungccf/
+title: Constructing a Common Coordinate Framework for the Human Lung at Harvard
   Medical School
-description: ''
+description: ""
 location: Boston, MA
-organizers: []
 attendees: []
-publications: []
+dateStart: 2023-04-10
+dateEnd: null
+tutorials: []
+tags: []
 presentations:
   - pres-604
-tutorials: []
-dateStart: null
-dateEnd: null
-tags: []
-link: https://satijalab.org/lungccf/
