@@ -289,8 +289,8 @@ collections:
     sortable_fields: [name]
     fields:
       - { name: slug, default: '{{fields.name}}', widget: hidden }
-      - { name: name, label: Short Tag, widget: string, required: false, help_text: 'Short description of the tag for display on the website' }
-      - { name: description, label: Description, widget: string, required: false }
+      - { name: name, label: Short Tag, widget: string, help_text: 'Short description of the tag for display on the website' }
+      - { name: description, label: Description, widget: string }
 
 backend:
   name: github
