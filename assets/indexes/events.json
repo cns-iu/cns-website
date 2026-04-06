@@ -9864,10 +9864,12 @@
     "type": "workshop",
     "link": "https://cns-iu.github.io/workshops/2026-08-03_hra_hackathon/",
     "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
+    "mediaType": "image",
+    "mediaUrl": "wpp-thumbnail.png",
     "dateStart": "2026-08-03T00:00:00.000Z",
     "dateEnd": "2026-08-05T00:00:00.000Z",
     "tags": [
-      "hra"
+      "whole-person-physiome"
     ]
   },
   {
