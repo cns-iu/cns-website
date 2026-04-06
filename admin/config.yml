@@ -137,7 +137,7 @@ collections:
           - { label: Patent, value: "patent" }
           - { label: Audio/Video, value: "broadcast" }
           - { label: Tech report, value: "report" }
-          - { label: Unrefereed, value: "manuscript" }
+          - { label: Preprint, value: "manuscript" }
           - { label: Thesis, value: "thesis" }
       - { name: title, csl_name: title, label: Title, widget: string, required: false }
       - { name: authors, csl_name: author, label: Authors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
