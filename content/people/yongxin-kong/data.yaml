@@ -1,39 +1,43 @@
 slug: yongxin-kong
 name: Yongxin  Kong
 lastName: Kong
+image: yongxin_kong.jpg
 roles:
-  - type: member
-    title: Postdoctoral Fellow
+  - education: "B.S. - South China Normal University (2018) - Information Science\r
+
+      M.S. - Nankai University (2020) - Information Science\r
+
+      Ph.D - Sun Yat-sen University (2024) - Information Science\r\n"
+    interests: I like swimming, playing table tennis and playing badminton.
     displayOrder: 12
-    office: ''
-    phone: ''
-    fax: ''
-    email: ''
-    education: "B.S. - South China Normal University (2018) - Information Science\r\nM.S. - Nankai University (2020) - Information Science\r\nPh.D - Sun Yat-sen University (2024) - Information Science\r\n"
-    background: >-
-      I work on data mining, data analysis, and data visualization. I am also
-      exploring LLM-based methods. I am particularly interested in AI for
+    dateEnd: null
+    background: I work on data mining, data analysis, and data visualization. I am
+      also exploring LLM-based methods. I am particularly interested in AI for
       Biology- leveraging data-driven and LLM-based approaches to support
       biological understanding and discovery.
+    phone: ""
+    status: full-time
+    dateStart: 2026-02-01
+    title: Postdoctoral Fellow
+    type: member
+    office: ""
+    email: ""
+    fax: ""
+  - education: I am currently a visiting research scholar in the Luddy CNS lab. I
+      come from Information School, Sun Yat-sen University, China.
     interests: I like swimming, playing table tennis and playing badminton.
-    dateStart: '2026-02-01'
-    dateEnd: null
-  - type: member
-    title: Visiting Scholar
     displayOrder: 99
-    office: ''
-    phone: ''
-    fax: ''
-    email: yokong@iu.edu
-    education: >-
-      I am currently a visiting research scholar in the Luddy CNS lab. I come
-      from Information School, Sun Yat-sen University, China.
-    background: >-
-      I have a Bachelor's degree in Information management and information
+    dateEnd: 2023-09-28
+    background: I have a Bachelor's degree in Information management and information
       system from South China Normal University and a Master's in Information
       science from Nankai University. I focus on the science of science,
       especially in scientific papers. I am interested in citation analysis,
       bibliography coupling analysis, and keywords analysis.
-    interests: I like swimming, playing table tennis and playing badminton.
-    dateStart: '2022-10-26'
-    dateEnd: '2023-09-28'
+    phone: ""
+    status: part-time
+    dateStart: 2022-10-26
+    title: Visiting Scholar
+    type: member
+    office: ""
+    email: yokong@iu.edu
+    fax: ""
