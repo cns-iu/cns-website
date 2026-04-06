@@ -12931,24 +12931,24 @@
     "link": "http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-747",
     "type": "workshop",
+    "link": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html",
     "title": "HuBMAP HIVE Q3 Demo Day at Harvard Medical School",
     "description": "",
     "location": "Boston, MA",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-605"
-    ],
-    "tutorials": [],
-    "dateStart": null,
+    "dateStart": "2022-09-17T00:00:00.000Z",
     "dateEnd": null,
+    "tutorials": [],
     "tags": [
       "hra"
     ],
-    "link": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html"
+    "presentations": [
+      "pres-605"
+    ]
   },
   {
     "slug": "ev-746",
