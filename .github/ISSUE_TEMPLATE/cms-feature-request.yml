@@ -1,0 +1,121 @@
+name: CMS Feature Request
+description: Suggest an improvement to the content editing experience
+title: "[CMS]: "
+labels: ["content mgmt system"]
+
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+      description: Describe the task you are trying to complete in the CMS
+      placeholder: e.g., I’m trying to create a news piece or update a person profile
+    validations:
+      required: true
+
+  - type: dropdown
+    id: workflow_step
+    attributes:
+      label: Where in the process did this happen?
+      options:
+        - Creating new content
+        - Editing existing content
+        - Uploading images or files
+        - Publishing content
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: media_type
+    attributes:
+      label: What kind of file were you uploading? (optional)
+      options:
+        - Image (JPG, PNG)
+        - PDF or document
+        - Video
+        - Not uploading files
+
+  - type: dropdown
+    id: content_type
+    attributes:
+      label: What type of content were you working with? (optional)
+      options:
+        - Events
+        - Funding
+        - News
+        - People
+        - Publications
+        - Visualizations
+        - Other
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What is happening now?
+      description: Describe what you see or what went wrong
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_media
+    attributes:
+      label: Screenshot or video of what’s happening (optional)
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen instead?
+      description: Describe what you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_media
+    attributes:
+      label: Screenshot or example of what you expected (optional)
+
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where are you seeing this issue?
+      description: Helps us understand if this is an editing issue or a website issue
+      options:
+        - In the CMS editor
+        - On the live website
+        - Both
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does this happen? (optional)
+      options:
+        - Every time
+        - Sometimes
+        - Just once
+
+  - type: dropdown
+    id: impact
+    attributes:
+      label: How does this affect your work?
+      options:
+        - Blocks me from completing my task
+        - Slows me down
+        - Minor inconvenience
+        - Nice to have improvement
+    validations:
+      required: true
+
+  - type: textarea
+    id: entry_link
+    attributes:
+      label: Link to the content you were editing (optional)
+      description: Paste a CMS entry link or live page URL if available
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement (optional)
+      description: If you have an idea for how this could work better
