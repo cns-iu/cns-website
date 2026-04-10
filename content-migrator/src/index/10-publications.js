@@ -90,7 +90,7 @@ export function writePublicationIndex() {
 
 export function writePublicationTypesIndex() {
   const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
-  const coll = config.collections.find((c) => c.name === 'publications');
+  const coll = config.collections.find((c) => c.name === 'publication');
   const types = coll.fields.find((f) => f.name === 'type');
   writeMinifiedJSON(join(INDEXES, 'app-publication-types.json'), types.options);
 }

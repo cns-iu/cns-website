@@ -110,7 +110,7 @@ collections:
               - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
               - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
 
-  - name: publications
+  - name: publication
     label: Publications
     folder: content/publications
     path: "{{slug}}/data"
@@ -194,7 +194,7 @@ collections:
       - { name: reporter, label: Reporter, widget: string, required: false }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
-  - name: visualizations
+  - name: visualization
     label: Visualizations
     folder: content/visualizations
     path: "{{slug}}/data"
@@ -225,7 +225,7 @@ collections:
       - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
-  - name: events
+  - name: event
     label: Events
     folder: content/events
     path: "{{slug}}/data"
@@ -274,7 +274,7 @@ collections:
       - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
-  - name: tags
+  - name: tag
     label: Tags
     folder: content/tags
     path: "{{slug}}/data"
@@ -291,6 +291,7 @@ collections:
       - { name: slug, default: '{{fields.name}}', widget: hidden }
       - { name: name, label: Short Tag, widget: string, help_text: 'Short description of the tag for display on the website' }
       - { name: description, label: Description, widget: string }
+      - { name: hidden, label: Hidden, widget: boolean, required: false, help_text: 'Whether the tag is hidden on the website' }
 
 backend:
   name: github

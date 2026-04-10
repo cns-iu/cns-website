@@ -53,7 +53,7 @@ export function writeEventsIndex() {
 
 export function writeEventTypesIndex() {
   const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
-  const coll = config.collections.find((c) => c.name === 'events');
+  const coll = config.collections.find((c) => c.name === 'event');
   const types = coll.fields.find((f) => f.name === 'type');
   writeMinifiedJSON(join(INDEXES, 'app-event-types.json'), types.options);
 }
