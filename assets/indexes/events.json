@@ -1,5 +1,16 @@
 [
   {
+    "slug": "ytk328fn2anhqv3mpvqfo",
+    "type": "other",
+    "title": "Robot Roll Call 2017",
+    "description": "Amatria",
+    "location": "Wonderlab, Bloomington, Indiana, USA",
+    "dateStart": "2017-08-05T00:00:00.000Z",
+    "tags": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "ws-97",
     "type": "workshop",
     "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
@@ -49,7 +60,8 @@
     "dateStart": "2025-12-13T00:00:00.000Z",
     "dateEnd": "2025-12-14T00:00:00.000Z",
     "tags": [
-      "featured"
+      "featured",
+      "24-hour-event"
     ]
   },
   {
@@ -92,20 +104,6 @@
     "dateEnd": "2025-06-24T00:00:00.000Z",
     "tags": [
       "hra"
-    ]
-  },
-  {
-    "slug": "ws-90",
-    "type": "workshop",
-    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/",
-    "title": "CNS 20th Anniversary Celebration",
-    "description": "",
-    "location": "Bloomington, Indiana, USA",
-    "mediaUrl": "cns-anniversary.png",
-    "dateStart": "2025-04-18T00:00:00.000Z",
-    "dateEnd": "2025-04-18T00:00:00.000Z",
-    "tags": [
-      "featured"
     ]
   },
   {
@@ -2701,19 +2699,21 @@
   },
   {
     "slug": "pres-632",
-    "type": "presentation",
+    "type": "other",
+    "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf",
     "title": "Amatria's 2nd Birthday Celebration",
     "description": "",
     "location": "Bloomington, Indiana (Virtual Event)",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/watch?v=w3wIoIAkjL0",
     "presenters": [
       "katy-borner",
       "philip-beesley",
       "gabriel-lubell"
     ],
-    "dateStart": "2020-04-13",
-    "dateEnd": "2020-04-13",
-    "event": "ev-829",
-    "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf"
+    "dateStart": "2020-04-13T00:00:00.000Z",
+    "dateEnd": "2020-04-13T00:00:00.000Z",
+    "event": "ev-829"
   },
   {
     "slug": "pres-631",
@@ -9831,6 +9831,48 @@
     "link": "https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.pdf"
   },
   {
+    "slug": "np1af0umizu0zrrjj6v44",
+    "type": "other",
+    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/",
+    "title": "CNS 20th Anniversary Celebration",
+    "location": "Bloomington, Indiana, USA",
+    "mediaType": "image",
+    "mediaUrl": "cns-anniversary.png",
+    "dateStart": "2025-04-18T00:00:00.000Z",
+    "dateEnd": "2025-04-18T00:00:00.000Z",
+    "tags": [
+      "featured"
+    ]
+  },
+  {
+    "slug": "lourtd5f31xocxs11g5qh",
+    "type": "other",
+    "link": "https://cns.iu.edu/amatria#8th-birthday-party",
+    "title": "Amatria's 8th Birthday Party",
+    "location": "Bloomington, Indiana, USA",
+    "mediaType": "image",
+    "mediaUrl": "amatria-7th-2025.png",
+    "dateStart": "2026-04-17T00:00:00.000Z",
+    "dateEnd": "2026-04-17T00:00:00.000Z",
+    "tags": [
+      "amatria",
+      "featured"
+    ]
+  },
+  {
+    "slug": "kf03bd6kp1p9aaf12j6sh",
+    "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2026-08-03_hra_hackathon/",
+    "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
+    "mediaType": "image",
+    "mediaUrl": "wpp-thumbnail.png",
+    "dateStart": "2026-08-03T00:00:00.000Z",
+    "dateEnd": "2026-08-05T00:00:00.000Z",
+    "tags": [
+      "whole-person-physiome"
+    ]
+  },
+  {
     "slug": "ev-99",
     "type": "conference",
     "title": "International Conference on Complex Systems (ICCS2006)",
@@ -10479,21 +10521,22 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-875",
-    "type": "other",
+    "type": "workshop",
+    "link": "https://www.nitrd.gov/nitrdgroups/images/c/c5/Frontiers_of_Visualization_Agenda_Participants_List.pdf",
     "title": "Frontiers of Visualization Meeting Networking and Information Technology R&D (NITRD) Program",
     "description": "",
-    "location": "",
-    "organizers": [],
+    "location": "Arlington, Virgina, USA",
     "attendees": [],
-    "publications": [],
+    "dateStart": "2014-05-02T00:00:00.000Z",
+    "dateEnd": null,
+    "tutorials": [],
+    "tags": [],
     "presentations": [
       "pres-396"
-    ],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": []
+    ]
   },
   {
     "slug": "ev-874",
@@ -11381,24 +11424,6 @@
     "link": "https://www.kpmp.org/about-kpmp"
   },
   {
-    "slug": "ev-829",
-    "type": "meeting",
-    "title": "Amatria's 2nd Birthday Celebration",
-    "description": "",
-    "location": "Bloomington, Indiana (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-632"
-    ],
-    "tutorials": [],
-    "dateStart": "2020-04-13",
-    "dateEnd": "2020-04-13",
-    "tags": [],
-    "link": "https://cns.iu.edu/amatria.html"
-  },
-  {
     "slug": "ev-828",
     "type": "meeting",
     "title": "Forum on Complex Unifiable Systems (FOCUS): A Virtual National Academy of Engineering (NAE) Convocation",
@@ -11849,21 +11874,6 @@
     "dateEnd": "2021-04-16",
     "tags": [],
     "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/"
-  },
-  {
-    "slug": "ev-804",
-    "type": "other",
-    "title": "spa",
-    "description": "",
-    "location": "",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": []
   },
   {
     "slug": "ev-803",
@@ -12484,22 +12494,6 @@
     "link": "https://cpdd.org/wp-content/uploads/2020/08/2020-CPDD-Comprehensive-Guide-Final.pdf"
   },
   {
-    "slug": "ev-770",
-    "type": "meeting",
-    "title": "Amatria's 2nd Birthday Celebration",
-    "description": "",
-    "location": "Virtual, Cyberinfrastructure for Network Science Center (CNS) Zoom Event",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [],
-    "tutorials": [],
-    "dateStart": "2020-04-13",
-    "dateEnd": "2020-04-13",
-    "tags": [],
-    "link": "https://cns.iu.edu/amatria.html"
-  },
-  {
     "slug": "ev-77",
     "type": "conference",
     "title": "ALISE Annual Conference 2006",
@@ -12937,42 +12931,42 @@
     "link": "http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-747",
     "type": "workshop",
+    "link": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html",
     "title": "HuBMAP HIVE Q3 Demo Day at Harvard Medical School",
     "description": "",
     "location": "Boston, MA",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-605"
-    ],
-    "tutorials": [],
-    "dateStart": null,
+    "dateStart": "2022-09-17T00:00:00.000Z",
     "dateEnd": null,
+    "tutorials": [],
     "tags": [
       "hra"
     ],
-    "link": "https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html"
+    "presentations": [
+      "pres-605"
+    ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-746",
     "type": "workshop",
+    "link": "https://satijalab.org/lungccf/",
     "title": "Constructing a Common Coordinate Framework for the Human Lung at Harvard Medical School",
     "description": "",
     "location": "Boston, MA",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2023-04-10T00:00:00.000Z",
+    "dateEnd": null,
+    "tutorials": [],
+    "tags": [],
     "presentations": [
       "pres-604"
-    ],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": [],
-    "link": "https://satijalab.org/lungccf/"
+    ]
   },
   {
     "slug": "ev-745",
@@ -13062,19 +13056,19 @@
     "link": "http://livingarchitecturesystems.com/symposium-2019/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-740",
     "type": "conference",
     "title": "Living Architecture Systems Group (LASG) Symposium 2019",
     "description": "",
     "location": "Toronto, Canada",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
-    "presentations": [],
+    "dateStart": "2019-03-01T00:00:00.000Z",
+    "dateEnd": "2019-03-03T00:00:00.000Z",
     "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": []
+    "tags": [],
+    "presentations": []
   },
   {
     "slug": "ev-74",
@@ -13139,19 +13133,20 @@
     "tags": []
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-736",
     "type": "conference",
+    "link": "https://livingarchitecturesystems.com/symposium-2019/",
     "title": "Living Architecture Systems Group (LASG) Symposium 2019",
     "description": "",
     "location": "Toronto, Canada",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
-    "presentations": [],
+    "dateStart": "2019-03-01T00:00:00.000Z",
+    "dateEnd": "2019-03-03T00:00:00.000Z",
     "tutorials": [],
-    "dateStart": "2019-03-01",
-    "dateEnd": "2019-03-03",
-    "tags": []
+    "tags": [],
+    "presentations": []
   },
   {
     "slug": "ev-735",
@@ -14692,21 +14687,6 @@
     "tutorials": [],
     "dateStart": "2017-06-20",
     "dateEnd": "2017-06-20",
-    "tags": []
-  },
-  {
-    "slug": "ev-652",
-    "type": "other",
-    "title": "Net",
-    "description": "",
-    "location": "",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
     "tags": []
   },
   {
@@ -24544,5 +24524,49 @@
     "dateEnd": "2005-01-18",
     "tags": [],
     "link": "http://vw.indiana.edu/vda2005/"
+  },
+  {
+    "slug": "5ofi4bekza90uyi6pbkuu",
+    "type": "presentation",
+    "link": "",
+    "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
+    "description": "",
+    "location": "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting",
+    "mediaType": "image",
+    "mediaUrl": "cdfe-3.24.2026.png",
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "attendees": [],
+    "dateStart": "2026-03-24T00:00:00.000Z",
+    "dateEnd": "2026-03-25T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ]
+  },
+  {
+    "slug": "2ya5l1rk5iazbw5qhweqp",
+    "type": "other",
+    "link": "https://www.makevention.org/",
+    "title": "Makevention 2017",
+    "description": "Amatria",
+    "location": "BloomingLabs, Bloomington, Indiana, USA",
+    "dateStart": "2017-08-26T00:00:00.000Z",
+    "tags": []
+  },
+  {
+    "slug": "275k0re5jxjbhui8cvxm0",
+    "type": "other",
+    "link": "amatria-6th-birthday-celebration-slides.pptx.pdf",
+    "title": "Amatria's 6th Birthday Celebration",
+    "description": "9:00am–10:00am",
+    "location": "Indiana University, Bloomington, IN",
+    "mediaType": "video",
+    "mediaUrl": "https://www.youtube.com/watch?v=ZJwCq8reHQc",
+    "dateStart": "2024-04-11T00:00:00.000Z",
+    "dateEnd": "",
+    "tags": [
+      "amatria"
+    ]
   }
 ]

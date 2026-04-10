@@ -1,5 +1,10 @@
 [
   {
+    "slug": "whole-person-physiome",
+    "name": "Whole Person Physiome",
+    "description": "NIH funded Whole Person Physiome Project"
+  },
+  {
     "slug": "network-science",
     "name": "Network Science",
     "description": "pertaining Network Science"
@@ -16,7 +21,7 @@
   },
   {
     "slug": "hra",
-    "name": "HRA",
+    "name": "Human Reference Atlas",
     "description": "Human Reference Atlas"
   },
   {
@@ -28,5 +33,20 @@
     "slug": "expert",
     "name": "Expert",
     "description": "expert (usually just for people)"
+  },
+  {
+    "slug": "exhibits",
+    "name": "Exhibits",
+    "description": "CNS exhibits"
+  },
+  {
+    "slug": "amatria",
+    "name": "Amatria",
+    "description": "Amatria: Sentient Architecture"
+  },
+  {
+    "slug": "24-hour-event",
+    "name": "24-Hour Event",
+    "description": "Research talks occuring over the course of 24-hours"
   }
 ]
