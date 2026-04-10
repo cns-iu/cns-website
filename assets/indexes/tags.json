@@ -27,7 +27,8 @@
   {
     "slug": "featured",
     "name": "Featured",
-    "description": "Featured on the homepage"
+    "description": "Featured on the homepage",
+    "hidden": true
   },
   {
     "slug": "expert",
