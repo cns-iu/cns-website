@@ -31,7 +31,7 @@ collections:
       - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
       - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
       - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
-      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: people
     label: People
@@ -159,7 +159,7 @@ collections:
         field: { name: media, label: Media, widget: file }
         required: false
       - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
-      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: news
     label: News
@@ -192,7 +192,7 @@ collections:
       - { name: caption, label: Caption, widget: text, required: false, help_text: 'The caption to be placed under the image.' }
       - { name: publisher, label: Publisher, widget: string, required: false }
       - { name: reporter, label: Reporter, widget: string, required: false }
-      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: visualization
     label: Visualizations
@@ -223,7 +223,7 @@ collections:
           - { label: Video, value: video }
           - { label: Document, value: document }
       - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
-      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: event
     label: Events
@@ -272,7 +272,7 @@ collections:
 
       - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
       - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
-      - { name: tags, label: Tags, widget: relation, collection: tags, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: tag
     label: Tags
