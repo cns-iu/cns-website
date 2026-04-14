@@ -1,4 +1,6 @@
 slug: pub-369
+type: article-journal
+title: Toward a More Scientific Science
 authors:
   - pierre-azoulay
   - joshua-graff-zivin
@@ -14,16 +16,14 @@ authors:
   - kevin-j-boudreau
   - eva-c-guinan
 editors: []
-type: article-journal
-title: Toward a More Scientific Science
-date: '2018-09-21'
+doi: ""
+date: 2018-09-21
 publisher: American Association for the Advancement of Science
 venue: Science
-volume: '361'
-issue: '6408'
-doi: ''
+volume: "361"
+issue: "6408"
 pages: 1194-1197
-chapter: ''
+chapter: ""
 links:
-  - https://cns.iu.edu/docs/publications/2018-Scientific-Science.pdf
+  - 2018-scientific-science.pdf
 tags: []
