@@ -244,13 +244,15 @@ collections:
         label: Type
         widget: select
         options:
-          - { label: Workshop, value: "workshop" }
+          - { label: 24-hour events, value: "24hour" }
           - { label: Conference, value: "conference" }
+          - { label: Exhibit, value: "exhibit" }
           - { label: Meeting, value: "meeting" }
-          - { label: Visit, value: "visit" }
+          - { label: Other, value: "other" }
           - { label: Presentation, value: "presentation" }
           - { label: Tutorial, value: "tutorial" }
-          - { label: Other, value: "other" }
+          - { label: Visit, value: "visit" }
+          - { label: Workshop, value: "workshop" }
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the event page.' }
       - { name: title, label: Title, widget: string, required: false }
       - { name: description, label: Description, widget: string, required: false }
