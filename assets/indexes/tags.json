@@ -7,7 +7,8 @@
   {
     "slug": "network-science",
     "name": "Network Science",
-    "description": "pertaining Network Science"
+    "description": "pertaining Network Science",
+    "hidden": true
   },
   {
     "slug": "netscitalk",
@@ -46,7 +47,7 @@
     "slug": "amatria",
     "name": "Amatria",
     "description": "Amatria: Sentient Architecture",
-    "hidden": true
+    "hidden": false
   },
   {
     "slug": "24-hour-event",
