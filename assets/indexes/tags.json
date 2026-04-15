@@ -43,11 +43,13 @@
   {
     "slug": "amatria",
     "name": "Amatria",
-    "description": "Amatria: Sentient Architecture"
+    "description": "Amatria: Sentient Architecture",
+    "hidden": true
   },
   {
     "slug": "24-hour-event",
     "name": "24-Hour Event",
-    "description": "Research talks occuring over the course of 24-hours"
+    "description": "Research talks occuring over the course of 24-hours",
+    "hidden": true
   }
 ]
