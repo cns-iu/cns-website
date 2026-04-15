@@ -38,7 +38,8 @@
   {
     "slug": "exhibits",
     "name": "Exhibits",
-    "description": "CNS exhibits"
+    "description": "CNS exhibits",
+    "hidden": true
   },
   {
     "slug": "amatria",
