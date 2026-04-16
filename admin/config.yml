@@ -126,6 +126,7 @@ collections:
     fields:
       - { name: slug, csl_name: id, default: 'EMPTY', widget: hidden }
       - name: type
+        csl_name: type
         label: Type
         widget: select
         options:
