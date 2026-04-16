@@ -10232,22 +10232,24 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-890",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/",
     "title": "Macroscope Tools for Global Challenges",
     "description": "",
     "location": "",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [
+      "exhibits"
+    ],
     "presentations": [
       "pres-735"
-    ],
-    "tutorials": [],
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/"
+    ]
   },
   {
     "slug": "ev-89",
