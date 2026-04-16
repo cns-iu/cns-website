@@ -1440,6 +1440,7 @@
   {
     "slug": "pres-735",
     "type": "presentation",
+    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf",
     "title": "Macroscope Tools for Global Challenges",
     "description": "",
     "location": "",
@@ -1454,10 +1455,12 @@
       "sarah-huggett",
       "andreas-scharnhorst"
     ],
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "event": "ev-890",
-    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf"
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ],
+    "event": "ev-890"
   },
   {
     "slug": "pres-733",
