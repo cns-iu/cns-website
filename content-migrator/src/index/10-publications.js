@@ -8,31 +8,12 @@ import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } fr
 const turndownService = new TurndownService();
 
 export function writePublicationIndex() {
+  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
   const publications = readIndex('publications');
   const people = readIndex('people').reduce((acc, item) => ((acc[item.slug] = item), acc), {});
   const cslStyleXml = readFileSync('src/csl-styles/chicago-author-date.csl', 'utf-8');
   // const cslStyleXml = readFileSync('src/csl-styles/nature-with-doi.csl', 'utf-8');
   const localeXml = readFileSync('src/csl-styles/locales-en-US.xml', 'utf-8');
-
-  const cslData = publications.map((pub) => ({
-    id: pub.slug,
-    ...pub,
-    slug: undefined,
-    mediaUrl: undefined,
-    DOI: pub.doi,
-    'container-title': pub.venue,
-    'chapter-number': pub.chapter,
-    author: pub.authors.map((person) => ({ literal: people[person]?.name ?? person })),
-    editor: pub.editors.map((person) => ({ literal: people[person]?.name ?? person })),
-    issued: { raw: formatDate(pub.date) },
-  }));
-
-  const bib = formatCitation(cslData, cslStyleXml, { localeXml });
-  const markdown = Object.entries(bib.entries).reduce((acc, [slug, html]) => {
-    const md = turndownService.turndown(html).replace(/^[0-9]\.\n\n/, '');
-    acc[slug] = md;
-    return acc;
-  }, {});
 
   const links = publications.map((pub) => {
     if (pub.doi?.length > 0) {
@@ -48,6 +29,32 @@ export function writePublicationIndex() {
       return undefined;
     }
   });
+
+  const cslFields = config.collections.find((c) => c.name === 'publication').fields.filter((f) => f.csl_name);
+  const cslData = publications.map((pub, index) => {
+    const cslEntry = {
+      author: pub.authors.map((person) => ({ literal: people[person]?.name ?? person })),
+      editor: pub.editors.map((person) => ({ literal: people[person]?.name ?? person })),
+      'available-date': { raw: formatDate(pub.date) },
+      issued: { raw: formatDate(pub.date) },
+      URL: links[index],
+    };
+
+    for (const field of cslFields) {
+      if (!(field.csl_name in cslEntry)) {
+        cslEntry[field.csl_name] = pub[field.name];
+      }
+    }
+
+    return cslEntry;
+  });
+
+  const bib = formatCitation(cslData, cslStyleXml, { localeXml });
+  const markdown = Object.entries(bib.entries).reduce((acc, [slug, html]) => {
+    const md = turndownService.turndown(html).replace(/^[0-9]\.\n\n/, '');
+    acc[slug] = md;
+    return acc;
+  }, {});
 
   const images = publications.map((pub) => {
     if (pub.mediaUrl?.length > 0) {

@@ -1093,7 +1093,7 @@
       "david-osumi-sutherland"
     ],
     "editors": [],
-    "doi": "10.1101/2024.12.13.628309",
+    "doi": "10.1038/s41597-025-06383-w",
     "date": "2026-01-09T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
@@ -1286,8 +1286,8 @@
   },
   {
     "slug": "pub-479",
-    "type": "manuscript",
-    "title": "Cell type populations for 3D anatomical structures of the Human Reference Atlas",
+    "type": "article-journal",
+    "title": "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas",
     "authors": [
       "andreas-bueckle",
       "bruce-w-herr-ii",
@@ -1302,16 +1302,16 @@
       "katy-borner"
     ],
     "editors": [],
-    "doi": "10.1101/2025.08.14.670406",
+    "doi": "10.1038/s41597-026-06642-4",
     "date": "2025-12-05T00:00:00.000Z",
-    "publisher": "",
-    "venue": "bioRxiv",
+    "publisher": "Nature",
+    "venue": "Nature Scientific Data",
     "volume": "",
     "issue": "",
     "pages": "",
     "chapter": "",
     "links": [
-      "https://www.biorxiv.org/content/10.1101/2025.08.14.670406v2"
+      "hrapop-fig2.png"
     ],
     "mediaUrl": "hrapop-fig2.png",
     "tags": [
@@ -4853,6 +4853,8 @@
   },
   {
     "slug": "pub-369",
+    "type": "article-journal",
+    "title": "Toward a More Scientific Science",
     "authors": [
       "pierre-azoulay",
       "joshua-graff-zivin",
@@ -4869,19 +4871,18 @@
       "eva-c-guinan"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Toward a More Scientific Science",
-    "date": "2018-09-21",
+    "doi": "",
+    "date": "2018-09-21T00:00:00.000Z",
     "publisher": "American Association for the Advancement of Science",
     "venue": "Science",
     "volume": "361",
     "issue": "6408",
-    "doi": "",
     "pages": "1194-1197",
     "chapter": "",
     "links": [
-      "https://cns.iu.edu/docs/publications/2018-Scientific-Science.pdf"
+      "sciencemagazine2018.pdf"
     ],
+    "mediaUrl": "",
     "tags": []
   },
   {
