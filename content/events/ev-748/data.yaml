@@ -1,16 +1,16 @@
+organizers: []
+publications: []
 slug: ev-748
 type: conference
+link: http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019
 title: European Meeting on Applied Evolutionary Economics (EMAEE)
-description: ''
+description: ""
 location: Brighton, UK
-organizers: []
 attendees: []
-publications: []
+dateStart: 2019-07-16
+dateEnd: null
+tutorials: []
+tags: []
 presentations:
   - pres-606
   - pres-607
-tutorials: []
-dateStart: null
-dateEnd: null
-tags: []
-link: http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019
