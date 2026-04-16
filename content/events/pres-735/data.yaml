@@ -1,8 +1,10 @@
 slug: pres-735
 type: presentation
+link: https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for
+  Global Challenges-Sept20.pdf
 title: Macroscope Tools for Global Challenges
-description: ''
-location: ''
+description: ""
+location: ""
 presenters:
   - katy-borner
   - yunwei-chen
@@ -13,9 +15,8 @@ presenters:
   - iana-atanassova
   - sarah-huggett
   - andreas-scharnhorst
-dateStart: '2024-09-20'
-dateEnd: '2024-09-20'
+dateStart: 2024-09-20
+dateEnd: 2024-09-20
+tags:
+  - exhibits
 event: ev-890
-link: >-
-  https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for
-  Global Challenges-Sept20.pdf
