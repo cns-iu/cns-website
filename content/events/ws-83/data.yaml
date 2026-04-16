@@ -6,4 +6,5 @@ description: ""
 location: This is a virtual event, hosted by CNS
 dateStart: 2023-12-09
 dateEnd: 2023-12-10
-tags: []
+tags:
+  - exhibits

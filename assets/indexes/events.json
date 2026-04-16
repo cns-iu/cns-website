@@ -200,7 +200,9 @@
     "location": "This is a virtual event, hosted by CNS",
     "dateStart": "2023-12-09T00:00:00.000Z",
     "dateEnd": "2023-12-10T00:00:00.000Z",
-    "tags": []
+    "tags": [
+      "exhibits"
+    ]
   },
   {
     "slug": "ws-82",
