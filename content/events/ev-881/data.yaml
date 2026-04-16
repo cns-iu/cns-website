@@ -1,14 +1,15 @@
-slug: ev-881
-type: other
-title: NIH 3D + IU + SBU Hackathon
-description: ''
-location: Rockville, MD
 organizers: []
-attendees: []
 publications: []
+slug: ev-881
+type: meeting
+title: NIH 3D + IU + SBU Hackathon
+description: ""
+location: Rockville, MD
+attendees: []
+dateStart: 2023-10-18
+dateEnd: 2023-10-19
+tutorials: []
+tags:
+  - hra
 presentations:
   - pres-726
-tutorials: []
-dateStart: '2023-10-18'
-dateEnd: '2023-10-19'
-tags: []
