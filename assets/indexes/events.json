@@ -159,13 +159,15 @@
   {
     "slug": "ws-86",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/",
     "title": "Macroscope Tools for Global Challenges",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/"
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ]
   },
   {
     "slug": "ws-85",
@@ -10229,26 +10231,6 @@
     "dateEnd": "2024-07-30",
     "tags": [
       "hra"
-    ]
-  },
-  {
-    "organizers": [],
-    "publications": [],
-    "slug": "ev-890",
-    "type": "workshop",
-    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/",
-    "title": "Macroscope Tools for Global Challenges",
-    "description": "",
-    "location": "",
-    "attendees": [],
-    "dateStart": "2024-09-20T00:00:00.000Z",
-    "dateEnd": "2024-09-20T00:00:00.000Z",
-    "tutorials": [],
-    "tags": [
-      "exhibits"
-    ],
-    "presentations": [
-      "pres-735"
     ]
   },
   {
