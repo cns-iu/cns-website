@@ -31,7 +31,9 @@
     "mediaUrl": "hra-person.png",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
-    "tags": []
+    "tags": [
+      "whole-person-physiome"
+    ]
   },
   {
     "slug": "ws-95",
