@@ -1,9 +1,10 @@
 slug: ws-74
-type: workshop
-title: 24 Hour Science Map Event
-description: ''
-location: This was a virtual event, hosted by CNS
-dateStart: '2021-12-11'
-dateEnd: '2021-12-12'
-tags: []
+type: 24hour
 link: https://cns-iu.github.io/workshops/2021-12-10_24hour_science_map/
+title: 24 Hour Science Map Event
+description: ""
+location: This was a virtual event, hosted by CNS
+dateStart: 2021-12-11
+dateEnd: 2021-12-12
+tags:
+  - 24-hour-event
