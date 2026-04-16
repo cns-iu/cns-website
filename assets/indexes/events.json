@@ -1517,6 +1517,7 @@
   {
     "slug": "pres-728",
     "type": "presentation",
+    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf",
     "title": "VCCF Cell Distance Visualizations",
     "description": "",
     "location": "Virtual",
@@ -1525,10 +1526,12 @@
       "yashvardhan-jain",
       "supriya-bidanta"
     ],
-    "dateStart": "2024-05-29",
-    "dateEnd": "2024-05-29",
-    "event": "ev-883",
-    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf"
+    "dateStart": "2024-05-29T00:00:00.000Z",
+    "dateEnd": "2024-05-29T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ],
+    "event": "ev-883"
   },
   {
     "slug": "pres-727",

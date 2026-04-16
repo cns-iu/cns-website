@@ -1,13 +1,15 @@
 slug: pres-728
 type: presentation
+link: https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf
 title: VCCF Cell Distance Visualizations
-description: ''
+description: ""
 location: Virtual
 presenters:
   - katy-borner
   - yashvardhan-jain
   - supriya-bidanta
-dateStart: '2024-05-29'
-dateEnd: '2024-05-29'
+dateStart: 2024-05-29
+dateEnd: 2024-05-29
+tags:
+  - hra
 event: ev-883
-link: https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf
