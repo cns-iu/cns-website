@@ -10305,22 +10305,24 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-886",
     "type": "conference",
+    "link": "https://ami.org/",
     "title": "Association of Medical Illustrators (AMI) 2024",
     "description": "",
     "location": "Rochester, NY",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2024-07-23T00:00:00.000Z",
+    "dateEnd": "2024-07-27T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-731"
-    ],
-    "tutorials": [],
-    "dateStart": "2024-07-23",
-    "dateEnd": "2024-07-27",
-    "tags": [],
-    "link": "https://ami.org/"
+    ]
   },
   {
     "slug": "ev-885",
