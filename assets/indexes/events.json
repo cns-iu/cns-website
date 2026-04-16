@@ -10413,21 +10413,23 @@
     "link": "https://nih-cfde.github.io/2024-march-all-hands-meeting/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-881",
-    "type": "other",
+    "type": "meeting",
     "title": "NIH 3D + IU + SBU Hackathon",
     "description": "",
     "location": "Rockville, MD",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2023-10-18T00:00:00.000Z",
+    "dateEnd": "2023-10-19T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-726"
-    ],
-    "tutorials": [],
-    "dateStart": "2023-10-18",
-    "dateEnd": "2023-10-19",
-    "tags": []
+    ]
   },
   {
     "slug": "ev-880",
