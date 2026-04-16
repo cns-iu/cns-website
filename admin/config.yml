@@ -21,8 +21,8 @@ collections:
           - { label: Research, value: "research" }
           - { label: Teaching, value: "teaching" }
           - { label: Workshop, value: "workshop" }
-      - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the funding page.' }
-      - { name: name, label: Name, widget: string }
+      - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page).' }
+      - { name: name, label: Award Number, widget: string }
       - { name: title, label: Title, widget: string }
       - { name: funder, label: Funding Agency, widget: string }
       - { name: investigators, label: Primary Investigators, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
@@ -244,13 +244,15 @@ collections:
         label: Type
         widget: select
         options:
-          - { label: Workshop, value: "workshop" }
+          - { label: 24-hour events, value: "24hour" }
           - { label: Conference, value: "conference" }
+          - { label: Exhibit, value: "exhibit" }
           - { label: Meeting, value: "meeting" }
-          - { label: Visit, value: "visit" }
+          - { label: Other, value: "other" }
           - { label: Presentation, value: "presentation" }
           - { label: Tutorial, value: "tutorial" }
-          - { label: Other, value: "other" }
+          - { label: Visit, value: "visit" }
+          - { label: Workshop, value: "workshop" }
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the event page.' }
       - { name: title, label: Title, widget: string, required: false }
       - { name: description, label: Description, widget: string, required: false }
