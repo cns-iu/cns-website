@@ -7,7 +7,8 @@
   {
     "slug": "network-science",
     "name": "Network Science",
-    "description": "pertaining Network Science"
+    "description": "pertaining Network Science",
+    "hidden": true
   },
   {
     "slug": "netscitalk",
@@ -17,7 +18,8 @@
   {
     "slug": "invites",
     "name": "Invites",
-    "description": "Invitation list used for Open House or Places & Spaces events (so far used for 2007 OH)"
+    "description": "Invitation list used for Open House or Places & Spaces events (so far used for 2007 OH)",
+    "hidden": true
   },
   {
     "slug": "hra",
@@ -38,16 +40,19 @@
   {
     "slug": "exhibits",
     "name": "Exhibits",
-    "description": "CNS exhibits"
+    "description": "CNS exhibits",
+    "hidden": true
   },
   {
     "slug": "amatria",
     "name": "Amatria",
-    "description": "Amatria: Sentient Architecture"
+    "description": "Amatria: Sentient Architecture",
+    "hidden": false
   },
   {
     "slug": "24-hour-event",
-    "name": "24-Hour Event",
-    "description": "Research talks occuring over the course of 24-hours"
+    "name": "24-hour event",
+    "description": "Research talks occuring over the course of 24-hours",
+    "hidden": true
   }
 ]
