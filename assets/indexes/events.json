@@ -11852,42 +11852,6 @@
     "link": "https://chanzuckerberg.com/science/meetings/"
   },
   {
-    "slug": "ev-806",
-    "type": "conference",
-    "title": "Spatial Biology Europe: Online",
-    "description": "",
-    "location": "Oxford, UK (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-660"
-    ],
-    "tutorials": [],
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
-    "tags": [],
-    "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/"
-  },
-  {
-    "slug": "ev-805",
-    "type": "conference",
-    "title": "Spatial Biology Europe: Online",
-    "description": "",
-    "location": "Oxford, UK (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-659"
-    ],
-    "tutorials": [],
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
-    "tags": [],
-    "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/"
-  },
-  {
     "slug": "ev-803",
     "type": "conference",
     "title": "Spatial Biology Europe: Online",
