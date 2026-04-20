@@ -25,7 +25,7 @@ collections:
       - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page).' }
       - { name: name, label: Award Number, widget: string }
-      - { name: title, label: Title, widget: string }
+      - { name: title, label: Award Title, widget: string }
       - { name: funder, label: Funding Agency, widget: string }
       - { name: investigators, label: Primary Investigators, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
       - { name: amount, label: Funding Amount, widget: number, value_type: int, min: 0 }
