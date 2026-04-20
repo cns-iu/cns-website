@@ -21,6 +21,8 @@ collections:
           - { label: Research, value: "research" }
           - { label: Teaching, value: "teaching" }
           - { label: Workshop, value: "workshop" }
+      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page).' }
       - { name: name, label: Award Number, widget: string }
       - { name: title, label: Title, widget: string }
@@ -29,8 +31,6 @@ collections:
       - { name: amount, label: Funding Amount, widget: number, value_type: int, min: 0 }
       - { name: receivedAmount, label: Funding Amount Received, widget: number, value_type: int, min: 0, required: false }
       - { name: mediaUrl, label: Media URL, widget: file, required: false, help_text: 'URL of the image, video, or document.' }
-      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: people
@@ -257,7 +257,9 @@ collections:
       - { name: link, label: Link, widget: file, required: false, help_text: 'Link to the event page.' }
       - { name: title, label: Title, widget: string, required: false }
       - { name: description, label: Description, widget: string, required: false }
-      - { name: location, label: Location, widget: string, required: false }
+      - { name: location, label: Location, widget: string, required: false, help_text: 'Use City/Town/Country format, e.g., Bloomington, Indiana, USA.'}
+      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
+      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - name: mediaType
         label: Media Type
         widget: select
@@ -273,8 +275,6 @@ collections:
       - { name: organizers, label: Organizers, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
       - { name: attendees, label: Attendees, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
 
-      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
       - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
 
   - name: tag
