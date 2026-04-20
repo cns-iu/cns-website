@@ -1173,6 +1173,20 @@
     "link": "https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt"
   },
   {
+    "slug": "seja45x6gjpwzil6zjtzn",
+    "type": "other",
+    "link": "luddy-tech-fest-2026.pdf",
+    "title": "Luddy TechFest: Visualizing Science",
+    "description": "A multimedia exhibit of data visualization featuring the Places and Spaces Exhibit",
+    "location": "Bloomington, Indiana, USA",
+    "mediaType": "image",
+    "mediaUrl": "luddytechfest2026.png",
+    "dateStart": "2026-04-11T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
