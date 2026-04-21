@@ -40,6 +40,7 @@ jobs:
           cp -r build dist
           cp -r assets/* dist/assets/
           cp -r content admin dist/
+          cp build/index.html dist/404.html
           cp site-assets/tracking-pixel.gif dist/tr
           cp site-assets/tracking-pixel.gif dist/tr-dev
       - uses: peaceiris/actions-gh-pages@v3
