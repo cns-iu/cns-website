@@ -36,6 +36,11 @@
     "roles": []
   },
   {
+    "slug": "ziv",
+    "name": "Ziv",
+    "lastName": "Yaniv"
+  },
+  {
     "slug": "ziqi-guo",
     "name": "Ziqi Guo",
     "lastName": "Guo",
