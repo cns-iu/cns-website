@@ -25,14 +25,66 @@ collections:
       - { name: name, label: Award number, widget: string }
       - { name: funder, label: Funding agency, widget: string }
       - { name: amount, label: Funding amount, widget: number, value_type: int, min: 0 }
-      - { name: dateStart, label: Start date, widget: datetime, date_format: "YYYY-MM-DD" }
-      - { name: dateEnd, label: End date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
-      - { name: thumbnail, label: Thumbnail image, widget: file }
-      - { name: link, label: Link, widget: file, required: false, hint: "Optional. Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page)" }
-      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
-      - { name: investigators, label: Primary investigators, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
-      - { name: receivedAmount, label: Funding amount received, widget: number, value_type: int, min: 0, required: false }
-      - { name: mediaUrl, label: Media URL, widget: file, required: false, hint: "URL of the image, video, or document" }
+      - &dateStart { name: dateStart, label: Start date, widget: datetime, date_format: "YYYY-MM-DD" }
+      - &dateEnd { name: dateEnd, label: End date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+      - &thumbnail { name: thumbnail, label: Thumbnail image, widget: file }
+      - &link
+        name: link
+        label: Link
+        widget: file
+        required: false
+        hint: "Optional. Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page)"
+      - &featured
+        name: featured
+        label: Featured
+        widget: boolean
+        required: false
+        hint: "Whether to feature this item on the homepage"
+      - &projects
+        name: projects
+        label: Associated projects
+        widget: relation
+        collection: project
+        multiple: true
+        default: []
+        search_fields: [name]
+        value_field: slug
+        display_fields: [name]
+        required: false
+      - &tags
+        name: tags
+        label: Tags
+        widget: relation
+        collection: tag
+        multiple: true
+        default: []
+        search_fields: [name]
+        value_field: slug
+        display_fields: [name]
+        required: false
+      - &people
+        name: investigators
+        label: Primary investigators
+        widget: relation
+        collection: people
+        multiple: true
+        default: []
+        search_fields: [name, lastName]
+        value_field: slug
+        display_fields: [name]
+        required: false
+      - name: receivedAmount
+        label: Funding amount received
+        widget: number
+        value_type: int
+        min: 0
+        required: false
+      - &mediaUrl
+        name: mediaUrl
+        label: Media URL
+        widget: file
+        required: false
+        hint: "URL of the image, video, or document"
 
   - name: people
     label: People
@@ -87,8 +139,8 @@ collections:
               - { name: background, label: Background, widget: markdown, required: false }
               - { name: interests, label: Interests, widget: markdown, required: false }
               
-              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+              - *dateStart
+              - *dateEnd
 
           - label: "CNS Student"
             name: "student"
@@ -98,9 +150,8 @@ collections:
               - { name: topic, label: "Research Topic" }
               - { name: degree, label: "Degree", widget: select, options: ["Ph.D.", "Masters"], required: true }
               - { name: department, label: Department }
-
-              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+              - *dateStart
+              - *dateEnd
 
           - label: "Collaborator"
             name: "collaborator"
@@ -108,9 +159,8 @@ collections:
             summary: "{{fields.project}}"
             fields:
               - { name: project, label: "Project" }
-
-              - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-              - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+              - *dateStart
+              - *dateEnd
 
   - name: publication
     label: Publications
@@ -142,10 +192,16 @@ collections:
           - { label: Tech report, value: "report" }
           - { label: Preprint, value: "manuscript" }
           - { label: Thesis, value: "thesis" }
-      - { name: thumbnail, label: Thumbnail image, widget: file }
+      - *thumbnail
       - { name: title, csl_name: title, label: Title, widget: string, required: false }
-      - { name: authors, csl_name: author, label: Authors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
-      - { name: editors, csl_name: editor, label: Editors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - <<: *people
+        name: authors
+        csl_name: author
+        label: Authors
+      - <<: *people
+        name: editors
+        csl_name: editor
+        label: Editors
       - { name: doi, csl_name: DOI, label: DOI, widget: string, required: false }
       - { name: pmid, csl_name: PMID, label: PMID, widget: string, required: false }
       - { name: date, csl_name: issued, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
@@ -162,8 +218,10 @@ collections:
         summary: '{{fields.media}}'
         field: { name: media, label: Media, widget: file }
         required: false
-      - { name: mediaUrl, label: Media URL, widget: file, required: false, hint: "URL of the image, video, or document" }
-      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - *mediaUrl
+      - *featured
+      - *projects
+      - *tags
 
   - name: news
     label: News
@@ -181,12 +239,16 @@ collections:
     fields:
       - { name: slug, default: 'EMPTY', widget: hidden }
       - { name: title, label: Title, widget: string, required: true }
-      - { name: link, label: Link, widget: file, required: false, hint: "Add a file or link to the news page" }
-      - { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
-      - { name: thumbnail, label: Thumbnail image, widget: file }
-      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - <<: *link
+        hint: "Add a file or link to the news page"
+      - &date { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
+      - *thumbnail
+      - *featured
+      - *projects
+      - *tags
       - { name: description, label: Long description, widget: markdown, required: false }
-      - name: mediaType
+      - &mediaType
+        name: mediaType
         label: Media Type
         widget: select
         required: false
@@ -194,7 +256,7 @@ collections:
           - { label: Image, value: image }
           - { label: Video, value: video }
           - { label: Document, value: document }
-      - { name: mediaUrl, label: Media URL, widget: file, required: false, hint: "URL of the image, video, or document" }
+      - *mediaUrl
       - { name: caption, label: Caption, widget: text, required: false, hint: "The caption to be placed under the image" }
       - { name: publisher, label: Publisher, widget: string, required: false }
       - { name: reporter, label: Reporter, widget: string, required: false }
@@ -214,22 +276,20 @@ collections:
     sortable_fields: [date, title, publisher]
     fields:
       - { name: slug, default: 'EMPTY', widget: hidden }
-      - { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
-      - { name: thumbnail, label: Thumbnail image, widget: file }
       - { name: title, label: Visualization title, widget: string, required: true }
-      - { name: link, label: Link, widget: file, required: false, hint: "Link to the visualization page." }
-      - { name: authors, label: Authors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - *date
+      - *thumbnail
+      - <<: *link
+        hint: "Add a file or link to the visualization page"
+      - <<: *people
+        name: authors
+        label: Authors
       - { name: description, label: Long description, widget: markdown, required: false }
-      - name: mediaType
-        label: Media Type
-        widget: select
-        required: false
-        options:
-          - { label: Image, value: image }
-          - { label: Video, value: video }
-          - { label: Document, value: document }
-      - { name: mediaUrl, label: Media URL, widget: file, required: false, hint: "URL of the image, video, or document." }
-      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
+      - *mediaType
+      - *mediaUrl
+      - *featured
+      - *projects
+      - *tags
 
   - name: event
     label: Events
@@ -260,28 +320,54 @@ collections:
           - { label: Visit, value: "visit" }
           - { label: Workshop, value: "workshop" }
       - { name: title, label: Event title, widget: string, required: true }
-      - { name: link, label: Primary link, widget: file, required: false, hint: "The primary link embeds in the Event title" }
-      - { name: thumbnail, label: Thumbnail image, widget: file }
-      - { name: dateStart, label: Start Date, widget: datetime, date_format: "YYYY-MM-DD" }
-      - { name: dateEnd, label: End Date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
+      - <<: *link
+        hint: "The primary link embeds in the Event title"
+      - *thumbnail
+      - *dateStart
+      - *dateEnd
       - { name: venue, label: "Venue", widget: string, required: false, hint: "Use the venue's street address" }
-      - { name: location, label: "Location", widget: string, required: false, hint: "If the event is in-person, use City/Town/Country format, e.g., 'Bloomington, Indiana', USA. If the event is remote/virtual, use 'Remote event'." }
-      - { name: tags, label: Tags, widget: relation, collection: tag, multiple: true, search_fields: [name], value_field: slug, display_fields: [name], required: false }
-      - { name: description, label: Short description, widget: string, required: false }
-      - name: mediaType
-        label: Media Type
-        widget: select
+      - name: location
+        label: "Location"
+        widget: string
         required: false
-        options:
-          - { label: Image, value: image }
-          - { label: Video, value: video }
-          - { label: Document, value: document }
-      - { name: mediaUrl, label: Media URL, widget: file, required: false, hint: "URL of the image, video, or document" }
+        hint: "If the event is in-person, use City/Town/Country format, e.g., 'Bloomington, Indiana', USA. If the event is remote/virtual, use 'Remote event'."
+      - *featured
+      - *projects
+      - *tags
+      - { name: description, label: Short description, widget: string, required: false }
+      - *mediaType
+      - *mediaUrl
 
-      - { name: presenters, label: Presenters, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
-      - { name: instructors, label: Instructors, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
-      - { name: organizers, label: Organizers, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
-      - { name: attendees, label: Attendees, widget: relation, collection: people, multiple: true, search_fields: [name, lastName], value_field: slug, display_fields: [name], required: false }
+      - <<: *people
+        name: presenters
+        label: Presenters
+      - <<: *people
+        name: instructors
+        label: Instructors
+      - <<: *people
+        name: organizers
+        label: Organizers
+      - <<: *people
+        name: attendees
+        label: Attendees
+
+  - name: project
+    label: Projects
+    folder: content/projects
+    path: "{{slug}}/data"
+    format: "yaml"
+    extension: "yaml"
+    create: true
+    identifier_field: slug
+    preview_path: projects/{{fields.slug}}/data.yaml
+    media_folder: ''
+    public_folder: ''
+    summary: '{{name}}'
+    sortable_fields: [name]
+    fields:
+      - { name: slug, default: '{{fields.name}}', widget: hidden }
+      - { name: name, label: Project name, widget: string }
+      - { name: description, label: Description, widget: string, hint: "Short description of the project for display on the website" }
 
   - name: tag
     label: Tags
@@ -298,8 +384,8 @@ collections:
     sortable_fields: [name]
     fields:
       - { name: slug, default: '{{fields.name}}', widget: hidden }
-      - { name: name, label: Short Tag, widget: string, hint: "Short description of the tag for display on the website" }
-      - { name: description, label: Description, widget: string }
+      - { name: name, label: Short Tag, widget: string }
+      - { name: description, label: Description, widget: string, hint: "Short description of the tag for display on the website" }
       - { name: hidden, label: Hidden, widget: boolean, required: false, hint: "Whether the tag is hidden on the website" }
 
 backend:
