@@ -4683,6 +4683,11 @@
     "roles": []
   },
   {
+    "slug": "rose",
+    "name": "Rose",
+    "lastName": "Dever"
+  },
+  {
     "slug": "rosalind-reid",
     "name": "Rosalind Reid",
     "lastName": "Reid",
