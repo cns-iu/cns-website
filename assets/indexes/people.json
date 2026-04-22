@@ -24,15 +24,16 @@
     "roles": []
   },
   {
+    "slug": "ziv-yaniv",
+    "name": "Ziv Yaniv",
+    "lastName": "Yaniv",
+    "roles": []
+  },
+  {
     "slug": "ziv-bar-joseph",
     "name": "Ziv Bar-Joseph",
     "lastName": "Bar-Joseph",
     "roles": []
-  },
-  {
-    "slug": "ziv",
-    "name": "Ziv Yaniv",
-    "lastName": "Yaniv"
   },
   {
     "slug": "ziqi-guo",
