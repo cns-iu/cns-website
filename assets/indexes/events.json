@@ -1934,18 +1934,19 @@
     "slug": "pres-684",
     "type": "presentation",
     "title": "SPOKE Visualizations: Envisioning Spoke & User Studies",
-    "description": "",
+    "link": "2022-04-22-spoke-vis-spoke-bric-updates.pdf",
+    "thumbnail": "stock-network.png",
+    "dateStart": "2022-04-22T00:00:00.000Z",
+    "dateEnd": "2022-04-22T00:00:00.000Z",
     "location": "Alexandria, VA (Virtual Event)",
+    "description": "",
     "presenters": [
       "bruce-w-herr-ii",
       "katy-borner",
       "andreas-bueckle",
-      "libby-maier"
+      "elizabeth-maier"
     ],
-    "dateStart": "2022-04-22",
-    "dateEnd": "2022-04-22",
-    "event": "ev-849",
-    "link": "https://cns.iu.edu/docs/presentations/2022-04-22 SPOKE-VIS + SPOKE-BRIC.pdf"
+    "event": "ev-849"
   },
   {
     "slug": "pres-683",
