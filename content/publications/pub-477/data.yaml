@@ -1,5 +1,6 @@
 slug: pub-477
 type: book
+thumbnail: atlas-macroscopes.png
 title: " Atlas of Macroscopes: Interactive Data Visualizations"
 authors:
   - katy-borner
@@ -17,5 +18,6 @@ chapter: ""
 links:
   - https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/
 mediaUrl: atlas-macroscopes.png
+featured: true
 tags:
   - featured
