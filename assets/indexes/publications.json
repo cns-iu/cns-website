@@ -4057,6 +4057,9 @@
   },
   {
     "slug": "pub-398",
+    "type": "article-journal",
+    "thumbnail": "hra-flagship-paper.png",
+    "title": "Anatomical structures, cell types and biomarkers of the Human Reference Atlas",
     "authors": [
       "katy-borner",
       "sarah-a-teichmann",
@@ -4096,18 +4099,21 @@
       "griffin-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Anatomical structures, cell types and biomarkers of the Human Reference Atlas",
-    "date": "2021-11-08",
+    "doi": "10.1038/s41556-021-00788-6",
+    "date": "2021-11-08T00:00:00.000Z",
     "publisher": "Springer Nature",
     "venue": "Nature Cell Biology",
     "volume": "23",
     "issue": "",
-    "doi": "10.1038/s41556-021-00788-6",
     "pages": "1117-1128.",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2021-Borner-ASCT+B_of_the_HRA.pdf"
+    ],
+    "mediaUrl": "hra-flagship-paper.png",
+    "featured": true,
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
