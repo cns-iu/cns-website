@@ -3360,6 +3360,8 @@
   },
   {
     "slug": "pub-421",
+    "type": "article-journal",
+    "title": "The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality",
     "authors": [
       "andreas-bueckle",
       "catherine-qing",
@@ -3369,18 +3371,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality",
-    "date": "2023-04-27",
+    "doi": "10.3389/fbinf.2023.1162723",
+    "date": "2023-04-27T00:00:00.000Z",
     "publisher": "",
     "venue": "Frontiers in Bioinformatics",
     "volume": "3",
     "issue": "",
-    "doi": "10.3389/fbinf.2023.1162723",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Bueckle_HRA-Organ-Gallery.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3388,6 +3391,8 @@
   },
   {
     "slug": "pub-420",
+    "type": "article-journal",
+    "title": "Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature",
     "authors": [
       "avinash-boppana",
       "sujin-lee",
@@ -3400,18 +3405,19 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature",
-    "date": "2023-07-19",
+    "doi": "10.1038/s41597-023-02018-0",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Scientific Data",
     "volume": "10",
     "issue": "",
-    "doi": "10.1038/s41597-023-02018-0",
     "pages": "452 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Boppana_ASCT+Bs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
