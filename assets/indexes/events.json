@@ -10218,24 +10218,28 @@
     "tags": []
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-895",
     "type": "conference",
-    "title": "\"HRA Discussion at Mount Sinai: Pulmonary, Critical Care and  Sleep Medicine Grand Rounds \"",
-    "description": "",
-    "location": "1468 Madison Ave, 5th floor,         \tAnnenberg Building Pulmonary Suite 5-20, New York, New York, USA",
-    "organizers": [],
-    "attendees": [
-      "katy-borner"
+    "title": "HRA Discussion at Mount Sinai: Pulmonary, Critical Care and Sleep Medicine Grand Rounds",
+    "dateStart": "2025-03-14T00:00:00.000Z",
+    "dateEnd": "2025-03-14T00:00:00.000Z",
+    "venue": "1468 Madison Ave, 5th floor, Annenberg Building Pulmonary Suite 5-20",
+    "tutorials": [],
+    "location": "New York, New York, USA",
+    "projects": [
+      "human-reference-atlas"
     ],
-    "publications": [],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-740"
     ],
-    "tutorials": [],
-    "dateStart": "2025-03-14",
-    "dateEnd": "2025-03-14",
-    "tags": [
-      "hra"
+    "description": "",
+    "attendees": [
+      "katy-borner"
     ]
   },
   {
