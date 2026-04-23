@@ -1,11 +1,14 @@
 slug: ws-96
 type: 24hour
 title: 24 Hour Human Physiology Event
-description: ""
-location: This is a virtual event, hosted by CNS
-mediaType: image
-mediaUrl: human-physiology-wpp.png
+thumbnail: wpp-thumbnail-blue.png
 dateStart: 2026-12-12
 dateEnd: 2026-12-13
+location: Remote event
+projects:
+  - whole-person-physiome
 tags:
   - whole-person-physiome
+description: ""
+mediaType: image
+mediaUrl: wpp-thumbnail-blue.png
