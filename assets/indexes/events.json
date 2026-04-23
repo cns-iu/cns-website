@@ -10293,23 +10293,26 @@
     "attendees": []
   },
   {
-    "slug": "ev-892",
-    "type": "meeting",
-    "title": "SenNet Fall Meeting",
-    "description": "",
-    "location": "La Jolla, CA",
     "organizers": [],
-    "attendees": [],
     "publications": [],
+    "slug": "ev-892",
+    "title": "SenNet Fall Meeting",
+    "dateStart": "2024-09-09T00:00:00.000Z",
+    "dateEnd": "2024-09-11T00:00:00.000Z",
+    "tutorials": [],
+    "type": "meeting",
+    "location": "La Jolla, California, USA",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-737"
     ],
-    "tutorials": [],
-    "dateStart": "2024-09-09",
-    "dateEnd": "2024-09-11",
-    "tags": [
-      "hra"
-    ]
+    "description": "",
+    "attendees": []
   },
   {
     "slug": "ev-891",

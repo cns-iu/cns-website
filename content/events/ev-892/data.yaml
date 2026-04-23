@@ -1,15 +1,17 @@
-slug: ev-892
-type: meeting
-title: SenNet Fall Meeting
-description: ''
-location: La Jolla, CA
 organizers: []
-attendees: []
 publications: []
-presentations:
-  - pres-737
+slug: ev-892
+title: SenNet Fall Meeting
+dateStart: 2024-09-09
+dateEnd: 2024-09-11
 tutorials: []
-dateStart: '2024-09-09'
-dateEnd: '2024-09-11'
+type: meeting
+location: La Jolla, California, USA
+projects:
+  - human-reference-atlas
 tags:
   - hra
+presentations:
+  - pres-737
+description: ""
+attendees: []
