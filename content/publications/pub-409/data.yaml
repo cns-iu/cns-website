@@ -1,22 +1,23 @@
 slug: pub-409
+type: article-journal
+title: 3D virtual reality vs. 2D desktop registration user interface comparison
 authors:
   - andreas-bueckle
   - kilian-buehling
   - patrick-c-shih
   - katy-borner
 editors: []
-type: article-journal
-title: 3D virtual reality vs. 2D desktop registration user interface comparison
-date: '2021-10-27'
-publisher: ''
-venue: PLOS One
-volume: '16'
-issue: '10'
 doi: 10.1371/journal.pone.0258103
-pages: ''
-chapter: ''
+date: 2021-10-27
+publisher: ""
+venue: PLOS One
+volume: "16"
+issue: "10"
+pages: ""
+chapter: ""
 links:
-  - >-
-    https://cns.iu.edu/docs/publications/2021-Bueckle-3D_VR_vs_2D_Desktop_RUI.pdf
+  - https://cns.iu.edu/docs/publications/2021-Bueckle-3D_VR_vs_2D_Desktop_RUI.pdf
+projects:
+  - human-reference-atlas
 tags:
   - hra

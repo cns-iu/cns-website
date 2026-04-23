@@ -2837,6 +2837,8 @@
   },
   {
     "slug": "pub-435",
+    "type": "article-journal",
+    "title": "Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment epithelium-derived factor are promising non-invasive biomarkers of kidney fibrosis",
     "authors": [
       "insa-m-schmidt",
       "mia-r-colona",
@@ -2873,18 +2875,19 @@
       "yashvardhan-jain"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment epithelium-derived factor are promising non-invasive biomarkers of kidney fibrosis",
-    "date": "2021-08-19",
+    "doi": "10.1016/j.kint.2021.04.037",
+    "date": "2021-08-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Kidney International",
     "volume": "100",
     "issue": "3",
-    "doi": "10.1016/j.kint.2021.04.037",
     "pages": "",
     "chapter": "672-683",
     "links": [
       "https://www.sciencedirect.com/science/article/abs/pii/S0085253821005056"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3804,6 +3807,8 @@
   },
   {
     "slug": "pub-409",
+    "type": "article-journal",
+    "title": "3D virtual reality vs. 2D desktop registration user interface comparison",
     "authors": [
       "andreas-bueckle",
       "kilian-buehling",
@@ -3811,18 +3816,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "3D virtual reality vs. 2D desktop registration user interface comparison",
-    "date": "2021-10-27",
+    "doi": "10.1371/journal.pone.0258103",
+    "date": "2021-10-27T00:00:00.000Z",
     "publisher": "",
     "venue": "PLOS One",
     "volume": "16",
     "issue": "10",
-    "doi": "10.1371/journal.pone.0258103",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2021-Bueckle-3D_VR_vs_2D_Desktop_RUI.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
