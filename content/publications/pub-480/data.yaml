@@ -1,5 +1,6 @@
 slug: pub-480
 type: article-journal
+thumbnail: fig7-10.1038-s41597-025-06383-w.png
 title: A general strategy for generating expert-guided, simplified views of ontologies
 authors:
   - anita-r-caron
@@ -28,6 +29,8 @@ pages: ""
 chapter: ""
 links:
   - https://www.biorxiv.org/content/10.1101/2024.12.13.628309v2
-mediaUrl: fig7-s41597-025-06383-w.png
+mediaUrl: fig7-10.1038-s41597-025-06383-w.png
+projects:
+  - human-reference-atlas
 tags:
   - hra
