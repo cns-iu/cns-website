@@ -1147,16 +1147,20 @@
   },
   {
     "slug": "pub-192",
-    "link": "https://news.iu.edu/luddy/live/news/47227-borner-co-principal-investigator-on-project-that",
     "title": "Börner co-principal investigator on project that wins prestigious NIH U24 Award",
-    "description": "",
+    "link": "https://news.iu.edu/luddy/live/news/47227-borner-co-principal-investigator-on-project-that",
     "date": "2025-09-17T00:00:00.000Z",
+    "thumbnail": "hra-brain-illustration.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [],
+    "description": "",
     "mediaType": "image",
     "mediaUrl": "hra-brain-illustration.png",
     "caption": "",
     "publisher": "IU News",
-    "reporter": "Pete DiPrimio",
-    "tags": []
+    "reporter": "Pete DiPrimio"
   },
   {
     "slug": "pub-191",
@@ -1164,6 +1168,9 @@
     "link": "https://news.iu.edu/luddy/live/news/47255-borner-part-of-team-to-reach-nih-data-sharing",
     "date": "2025-09-19T00:00:00.000Z",
     "thumbnail": "atlas-humans.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [],
     "description": "",
     "mediaType": "image",
