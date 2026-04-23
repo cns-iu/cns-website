@@ -10263,21 +10263,21 @@
     "tags": []
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-893",
     "type": "other",
     "title": "Network Science Society Colloquium",
-    "description": "",
-    "location": "Virtual Event",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
+    "dateStart": "2024-10-30T00:00:00.000Z",
+    "dateEnd": "2024-10-30T00:00:00.000Z",
+    "tutorials": [],
+    "location": "Remote event",
+    "tags": [],
     "presentations": [
       "pres-738"
     ],
-    "tutorials": [],
-    "dateStart": "2024-10-30",
-    "dateEnd": "2024-10-30",
-    "tags": []
+    "description": "",
+    "attendees": []
   },
   {
     "slug": "ev-892",
