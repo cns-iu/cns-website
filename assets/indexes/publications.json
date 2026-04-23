@@ -2226,6 +2226,8 @@
   },
   {
     "slug": "pub-451",
+    "type": "article-journal",
+    "title": "A user-friendly tool for cloud-based whole slide image segmentation with examples from renal histopathology",
     "authors": [
       "brendon-lutnick",
       "david-manthey",
@@ -2252,18 +2254,19 @@
       "kidney-precision-medicine-project"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "A user-friendly tool for cloud-based whole slide image segmentation with examples from renal histopathology",
-    "date": "2022-08-19",
+    "doi": "",
+    "date": "2022-08-19T00:00:00.000Z",
     "publisher": "",
     "venue": "",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s43856-022-00138-z"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3756,6 +3759,8 @@
   },
   {
     "slug": "pub-410",
+    "type": "article-journal",
+    "title": "Segmentation of human functional tissue units in support of a Human Reference Atlas",
     "authors": [
       "yashvardhan-jain",
       "leah-l-godwin",
@@ -3774,18 +3779,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Segmentation of human functional tissue units in support of a Human Reference Atlas",
-    "date": "2023-07-19",
+    "doi": "10.1038/s42003-023-04848-5",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "6",
     "issue": "",
-    "doi": "10.1038/s42003-023-04848-5",
     "pages": "717 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Segmentation-of-human-FTUs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
