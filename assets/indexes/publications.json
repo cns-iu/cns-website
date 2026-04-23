@@ -2867,6 +2867,7 @@
   {
     "slug": "pub-434",
     "type": "article-journal",
+    "thumbnail": "marker-fig1.png",
     "title": "Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage",
     "authors": [
       "katy-borner",
@@ -2894,7 +2895,7 @@
     "doi": "10.1038/s41592-024-02563-5",
     "date": "2025-03-13T00:00:00.000Z",
     "publisher": "",
-    "venue": "Nature Methods.",
+    "venue": "Nature Methods",
     "volume": "",
     "issue": "",
     "pages": "",
@@ -2903,6 +2904,9 @@
       "https://www.nature.com/articles/s41592-024-02563-5"
     ],
     "mediaUrl": "marker-fig1.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
