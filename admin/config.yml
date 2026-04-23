@@ -27,7 +27,7 @@ collections:
       - { name: amount, label: Funding amount, widget: number, value_type: int, min: 0 }
       - &dateStart { name: dateStart, label: Start date, widget: datetime, date_format: "YYYY-MM-DD" }
       - &dateEnd { name: dateEnd, label: End date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
-      - &thumbnail { name: thumbnail, label: Thumbnail image, widget: file }
+      - &thumbnail { name: thumbnail, label: Thumbnail image, widget: file, required: false }
       - &link
         name: link
         label: Link
