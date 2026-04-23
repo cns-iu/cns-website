@@ -1,10 +1,12 @@
 slug: ws-83
 type: 24hour
-link: https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/
 title: "24 Hour Macroscopes: Interactive Data Visualizations Event"
-description: ""
-location: This is a virtual event, hosted by CNS
+link: https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/
 dateStart: 2023-12-09
 dateEnd: 2023-12-10
+location: This is a virtual event, hosted by CNS
+projects:
+  - macroscopes
 tags:
   - exhibits
+description: ""

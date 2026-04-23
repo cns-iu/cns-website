@@ -236,15 +236,18 @@
   {
     "slug": "ws-83",
     "type": "24hour",
-    "link": "https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/",
     "title": "24 Hour Macroscopes: Interactive Data Visualizations Event",
-    "description": "",
-    "location": "This is a virtual event, hosted by CNS",
+    "link": "https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/",
     "dateStart": "2023-12-09T00:00:00.000Z",
     "dateEnd": "2023-12-10T00:00:00.000Z",
+    "location": "This is a virtual event, hosted by CNS",
+    "projects": [
+      "macroscopes"
+    ],
     "tags": [
       "exhibits"
-    ]
+    ],
+    "description": ""
   },
   {
     "slug": "ws-82",
@@ -1597,38 +1600,45 @@
   {
     "slug": "pres-728",
     "type": "presentation",
-    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf",
     "title": "VCCF Cell Distance Visualizations",
-    "description": "",
-    "location": "Virtual",
+    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf",
+    "thumbnail": "cde-gallery-lung-codex-urmc.png",
+    "dateStart": "2024-05-29T00:00:00.000Z",
+    "dateEnd": "2024-05-29T00:00:00.000Z",
+    "location": "Remote event",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "presenters": [
       "katy-borner",
       "yashvardhan-jain",
       "supriya-bidanta"
     ],
-    "dateStart": "2024-05-29T00:00:00.000Z",
-    "dateEnd": "2024-05-29T00:00:00.000Z",
-    "tags": [
-      "hra"
-    ],
-    "event": "ev-883"
+    "event": "ev-883",
+    "description": ""
   },
   {
     "slug": "pres-727",
     "type": "presentation",
     "title": "Human Reference Atlas: Construction and Usage",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/Katy's Presentation CFDE All-Hands Mar 2024 Session7_Borner.pptx.pdf",
+    "dateStart": "2024-03-19T00:00:00.000Z",
+    "dateEnd": "2024-03-19T00:00:00.000Z",
     "location": "",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "presenters": [
       "katy-borner"
     ],
-    "dateStart": "2024-03-19",
-    "dateEnd": "2024-03-19",
     "event": "ev-882",
-    "link": "https://cns.iu.edu/docs/presentations/Katy's Presentation CFDE All-Hands Mar 2024 Session7_Borner.pptx.pdf",
-    "tags": [
-      "hra"
-    ]
+    "description": ""
   },
   {
     "slug": "pres-726",
