@@ -1,25 +1,25 @@
 slug: pub-397
+type: manuscript
+title: Comparing Completion Time, Accuracy, and Satisfaction in Virtual Reality
+  vs. Desktop Implementation of the Common Coordinate Framework Registration
+  User Interface (CCF RUI)
 authors:
   - andreas-bueckle
   - kilian-buehling
   - patrick-c-shih
   - katy-borner
 editors: []
-type: manuscript
-title: >-
-  Comparing Completion Time, Accuracy, and Satisfaction in Virtual Reality vs.
-  Desktop Implementation of the Common Coordinate Framework Registration User
-  Interface (CCF RUI)
-date: '2021-02-24'
-publisher: ''
+doi: ""
+date: 2021-02-24
+publisher: ""
 venue: arXiv:2102.12030v1 [cs.HC]
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
-  - >-
-    https://cns.iu.edu/docs/publications/2021-Bueckle-Comparing-Completion-Time.pdf
+  - https://cns.iu.edu/docs/publications/2021-Bueckle-Comparing-Completion-Time.pdf
+projects:
+  - human-reference-atlas
 tags:
   - hra
