@@ -1913,6 +1913,7 @@
   {
     "slug": "pub-462",
     "type": "article-journal",
+    "thumbnail": "fig1-s41467-024-54591-6.png",
     "title": "Functional tissue units in the Human Reference Atlas",
     "authors": [
       "supriya-bidanta",
@@ -1938,6 +1939,9 @@
       "https://www.nature.com/articles/s41467-024-54591-6"
     ],
     "mediaUrl": "fig1-s41467-024-54591-6.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
