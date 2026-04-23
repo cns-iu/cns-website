@@ -1,15 +1,15 @@
+organizers: []
+publications: []
 slug: ev-865
 type: meeting
-title: 'AAA Regional Meeting: Anatomy Across Scales: From Molecules to Organisms'
-description: ''
-location: Iowa City, IA
-organizers: []
-attendees: []
-publications: []
+title: "AAA Regional Meeting: Anatomy Across Scales: From Molecules to Organisms"
+link: https://www.anatomy.org/AAA/AAA/Meetings-Events/Regional-Meeting-2022.aspx
+dateStart: 2022-10-07
+dateEnd: 2022-10-08
+tutorials: []
+location: Iowa City, Iowa, USA
+tags: []
 presentations:
   - pres-707
-tutorials: []
-dateStart: '2022-10-07'
-dateEnd: '2022-10-08'
-tags: []
-link: https://www.anatomy.org/AAA/AAA/Meetings-Events/Regional-Meeting-2022.aspx
+description: ""
+attendees: []
