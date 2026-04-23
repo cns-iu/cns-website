@@ -176,14 +176,17 @@
     "slug": "ws-87",
     "type": "workshop",
     "title": "Human Reference Atlas (HRA): Powers of Ten Workshop",
-    "description": "",
+    "link": "https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/",
+    "dateStart": "2024-10-24T00:00:00.000Z",
+    "dateEnd": "2024-10-25T00:00:00.000Z",
     "location": "Rockville, Maryland, USA",
-    "dateStart": "2024-10-24",
-    "dateEnd": "2024-10-25",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ],
-    "link": "https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/"
+    "description": ""
   },
   {
     "slug": "ws-86",
@@ -10256,6 +10259,9 @@
     "venue": "Indiana University's Museum of Archaeology and Anthropology, 416 N Indiana Ave",
     "tutorials": [],
     "location": "Bloomington, Indiana, 47408, USA",
+    "projects": [
+      "humanexus"
+    ],
     "tags": [],
     "presentations": [
       "pres-739"
