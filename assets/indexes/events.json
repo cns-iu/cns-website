@@ -71,6 +71,9 @@
     "dateEnd": "2025-12-14T00:00:00.000Z",
     "location": "Remote event",
     "featured": true,
+    "projects": [
+      "envisioning-intelligences"
+    ],
     "tags": [
       "featured",
       "24-hour-event"
@@ -82,15 +85,16 @@
   {
     "slug": "ws-93",
     "type": "workshop",
-    "link": "https://cns-iu.github.io/data-vis-xr-panel-2025/",
     "title": "IEEE VIS 2025: Challenges and Opportunities for Theory-Grounded Data Visualization in Extended Reality",
-    "description": "",
-    "location": "Vienna, Austria",
-    "mediaType": "image",
-    "mediaUrl": "ieee2025.png",
+    "link": "https://cns-iu.github.io/data-vis-xr-panel-2025/",
+    "thumbnail": "ieee2025.png",
     "dateStart": "2025-11-05T00:00:00.000Z",
     "dateEnd": "2025-11-05T00:00:00.000Z",
-    "tags": []
+    "location": "Vienna, Austria",
+    "tags": [],
+    "description": "",
+    "mediaType": "image",
+    "mediaUrl": "ieee2025.png"
   },
   {
     "slug": "ws-92",
