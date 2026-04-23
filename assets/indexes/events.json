@@ -99,16 +99,21 @@
   {
     "slug": "ws-92",
     "type": "workshop",
-    "link": "https://cns-iu.github.io/workshops/2025-08-25_hra_hackathon/",
     "title": "HuBMAP Human Reference Atlas Hackathon",
-    "description": "",
-    "location": "Bloomington, Indiana, USA",
-    "mediaUrl": "hra-hackathon-aug2025.png",
+    "link": "https://cns-iu.github.io/workshops/2025-08-25_hra_hackathon/",
+    "thumbnail": "hra-hackathon-aug2025.png",
     "dateStart": "2025-08-25T00:00:00.000Z",
     "dateEnd": "2025-08-26T00:00:00.000Z",
+    "location": "Bloomington, Indiana, USA",
+    "featured": false,
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
-    ]
+    ],
+    "description": "",
+    "mediaUrl": "hra-hackathon-aug2025.png"
   },
   {
     "slug": "ws-91",
