@@ -1,5 +1,6 @@
 slug: pub-481
 type: manuscript
+thumbnail: fig1-2025.09.11.675730.png
 title: AI-Supported Extraction of Functional Tissue Unit Properties for Human
   Reference Atlas Construction
 authors:
@@ -17,5 +18,7 @@ chapter: ""
 links:
   - https://www.biorxiv.org/content/10.1101/2025.09.11.675730v1
 mediaUrl: fig1-2025.09.11.675730.png
+projects:
+  - human-reference-atlas
 tags:
   - hra
