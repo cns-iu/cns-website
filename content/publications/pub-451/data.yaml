@@ -1,4 +1,7 @@
 slug: pub-451
+type: article-journal
+title: A user-friendly tool for cloud-based whole slide image segmentation with
+  examples from renal histopathology
 authors:
   - brendon-lutnick
   - david-manthey
@@ -24,19 +27,17 @@ authors:
   - pinaki-sarder
   - kidney-precision-medicine-project
 editors: []
-type: article-journal
-title: >-
-  A user-friendly tool for cloud-based whole slide image segmentation with
-  examples from renal histopathology
-date: '2022-08-19'
-publisher: ''
-venue: ''
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
+doi: ""
+date: 2022-08-19
+publisher: ""
+venue: ""
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://www.nature.com/articles/s43856-022-00138-z
+projects:
+  - human-reference-atlas
 tags:
   - hra
