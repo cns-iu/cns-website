@@ -1293,6 +1293,7 @@
   {
     "slug": "pub-479",
     "type": "article-journal",
+    "thumbnail": "hrapop-fig2.png",
     "title": "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas",
     "authors": [
       "andreas-bueckle",
@@ -1316,10 +1317,12 @@
     "issue": "",
     "pages": "",
     "chapter": "",
-    "links": [
-      "hrapop-fig2.png"
-    ],
+    "links": [],
     "mediaUrl": "hrapop-fig2.png",
+    "featured": true,
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra",
       "featured"
