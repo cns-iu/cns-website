@@ -1,13 +1,15 @@
 slug: ws-94
 type: 24hour
-link: https://cns-iu.github.io/workshops/2025-24h/
 title: 24 Hour Envisioning Intelligences Event
-description: ""
-location: This is a Virtual Event, Hosted by CNS
-mediaType: image
-mediaUrl: scimapsintelligences24hourevent.png
+link: https://cns-iu.github.io/workshops/2025-24h/
+thumbnail: scimapsintelligences24hourevent.png
 dateStart: 2025-12-13
 dateEnd: 2025-12-14
+location: Remote event
+featured: true
 tags:
   - featured
   - 24-hour-event
+description: ""
+mediaType: image
+mediaUrl: scimapsintelligences24hourevent.png
