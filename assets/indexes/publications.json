@@ -3449,6 +3449,8 @@
   },
   {
     "slug": "pub-419",
+    "type": "article-journal",
+    "title": "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms",
     "authors": [
       "yashvardhan-jain",
       "leah-l-godwin",
@@ -3460,18 +3462,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms",
-    "date": "2023-08-03",
+    "doi": "10.1038/s41467-023-40291-0",
+    "date": "2023-08-03T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications",
     "volume": "14",
     "issue": "",
-    "doi": "10.1038/s41467-023-40291-0",
     "pages": "4656 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Segmenting-FTUs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3624,6 +3627,8 @@
   },
   {
     "slug": "pub-414",
+    "type": "article-journal",
+    "title": "3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging",
     "authors": [
       "soumya-ghose",
       "yingnan-ju",
@@ -3644,18 +3649,19 @@
       "fiona-ginty"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging",
-    "date": "2023-07-19",
+    "doi": "10.1038/s42003-023-04991-z",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "6",
     "issue": "",
-    "doi": "10.1038/s42003-023-04991-z",
     "pages": "718 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Ghose_3D-reconstruction-of-skin.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"

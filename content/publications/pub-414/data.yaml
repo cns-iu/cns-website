@@ -1,4 +1,7 @@
 slug: pub-414
+type: article-journal
+title: 3D reconstruction of skin and spatial mapping of immune cell density,
+  vascular distance and effects of sun exposure and aging
 authors:
   - soumya-ghose
   - yingnan-ju
@@ -18,20 +21,17 @@ authors:
   - katy-borner
   - fiona-ginty
 editors: []
-type: article-journal
-title: >-
-  3D reconstruction of skin and spatial mapping of immune cell density, vascular
-  distance and effects of sun exposure and aging
-date: '2023-07-19'
-publisher: ''
-venue: Nature Communications Biology
-volume: '6'
-issue: ''
 doi: 10.1038/s42003-023-04991-z
+date: 2023-07-19
+publisher: ""
+venue: Nature Communications Biology
+volume: "6"
+issue: ""
 pages: 718 (2023).
-chapter: ''
+chapter: ""
 links:
-  - >-
-    https://cns.iu.edu/docs/publications/2023-Ghose_3D-reconstruction-of-skin.pdf
+  - https://cns.iu.edu/docs/publications/2023-Ghose_3D-reconstruction-of-skin.pdf
+projects:
+  - human-reference-atlas
 tags:
   - hra
