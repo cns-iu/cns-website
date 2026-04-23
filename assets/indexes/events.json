@@ -13,28 +13,33 @@
   {
     "slug": "ws-97",
     "type": "workshop",
-    "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
     "title": "NetSci 2026 Network Geometry, Theory and Applications",
-    "description": "",
-    "location": "Boston, MA, USA",
-    "mediaUrl": "netsciboston2026.png",
+    "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
+    "thumbnail": "netsciboston2026.png",
     "dateStart": "2026-06-01T00:00:00.000Z",
     "dateEnd": "2026-06-01T00:00:00.000Z",
-    "tags": []
+    "location": "Boston, MA, USA",
+    "tags": [],
+    "description": "",
+    "mediaUrl": "netsciboston2026.png"
   },
   {
     "slug": "ws-96",
     "type": "24hour",
     "title": "24 Hour Human Physiology Event",
-    "description": "",
-    "location": "This is a virtual event, hosted by CNS",
-    "mediaType": "image",
-    "mediaUrl": "human-physiology-wpp.png",
+    "thumbnail": "wpp-thumbnail-blue.png",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
+    "location": "Remote event",
+    "projects": [
+      "whole-person-physiome"
+    ],
     "tags": [
       "whole-person-physiome"
-    ]
+    ],
+    "description": "",
+    "mediaType": "image",
+    "mediaUrl": "wpp-thumbnail-blue.png"
   },
   {
     "slug": "ws-95",
@@ -9908,16 +9913,22 @@
   {
     "slug": "kf03bd6kp1p9aaf12j6sh",
     "type": "workshop",
-    "link": "https://cns-iu.github.io/workshops/2026-08-03_hra_hackathon/",
     "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
-    "mediaType": "image",
-    "mediaUrl": "hra-wpp.png",
+    "link": "https://cns-iu.github.io/workshops/2026-08-03_hra_hackathon/",
+    "thumbnail": "hra-wpp.png",
     "dateStart": "2026-08-03T00:00:00.000Z",
     "dateEnd": "2026-08-05T00:00:00.000Z",
+    "featured": true,
+    "projects": [
+      "human-reference-atlas",
+      "whole-person-physiome"
+    ],
     "tags": [
       "whole-person-physiome",
       "hra"
-    ]
+    ],
+    "mediaType": "image",
+    "mediaUrl": "hra-wpp.png"
   },
   {
     "slug": "ev-99",
