@@ -24,14 +24,17 @@
   },
   {
     "slug": "ws-96",
-    "type": "workshop",
+    "type": "24hour",
     "title": "24 Hour Human Physiology Event",
     "description": "",
-    "location": "This is a Virtual Event, Hosted by CNS",
-    "mediaUrl": "hra-person.png",
+    "location": "This is a virtual event, hosted by CNS",
+    "mediaType": "image",
+    "mediaUrl": "human-physiology-wpp.png",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
-    "tags": []
+    "tags": [
+      "whole-person-physiome"
+    ]
   },
   {
     "slug": "ws-95",
@@ -50,7 +53,7 @@
   },
   {
     "slug": "ws-94",
-    "type": "workshop",
+    "type": "24hour",
     "link": "https://cns-iu.github.io/workshops/2025-24h/",
     "title": "24 Hour Envisioning Intelligences Event",
     "description": "",
@@ -130,14 +133,16 @@
   },
   {
     "slug": "ws-88",
-    "type": "workshop",
+    "type": "24hour",
+    "link": "https://humanatlas.io/events/2024-24h/",
     "title": "24 Hour Multiscale Human Event",
     "description": "",
     "location": "This is a virtual event, hosted by CNS",
-    "dateStart": "2024-12-14",
-    "dateEnd": "2024-12-15",
-    "tags": [],
-    "link": "https://humanatlas.io/events/2024-24h/"
+    "dateStart": "2024-12-14T00:00:00.000Z",
+    "dateEnd": "2024-12-15T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ]
   },
   {
     "slug": "ws-87",
@@ -155,13 +160,15 @@
   {
     "slug": "ws-86",
     "type": "workshop",
+    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/",
     "title": "Macroscope Tools for Global Challenges",
     "description": "",
     "location": "Bloomington, Indiana, USA",
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/"
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ]
   },
   {
     "slug": "ws-85",
@@ -189,14 +196,16 @@
   },
   {
     "slug": "ws-83",
-    "type": "workshop",
+    "type": "24hour",
+    "link": "https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/",
     "title": "24 Hour Macroscopes: Interactive Data Visualizations Event",
     "description": "",
     "location": "This is a virtual event, hosted by CNS",
-    "dateStart": "2023-12-09",
-    "dateEnd": "2023-12-10",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/"
+    "dateStart": "2023-12-09T00:00:00.000Z",
+    "dateEnd": "2023-12-10T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ]
   },
   {
     "slug": "ws-82",
@@ -244,16 +253,16 @@
   },
   {
     "slug": "ws-79",
-    "type": "workshop",
+    "type": "24hour",
+    "link": "https://humanatlas.io/events/2022-24h/",
     "title": "24 Hour Human Reference Atlas Event",
     "description": "",
     "location": "This is a virtual event, hosted by CNS",
-    "dateStart": "2022-12-10",
-    "dateEnd": "2022-12-11",
+    "dateStart": "2022-12-10T00:00:00.000Z",
+    "dateEnd": "2022-12-11T00:00:00.000Z",
     "tags": [
       "hra"
-    ],
-    "link": "https://humanatlas.io/events/2022-24h/"
+    ]
   },
   {
     "slug": "ws-78",
@@ -301,14 +310,16 @@
   },
   {
     "slug": "ws-74",
-    "type": "workshop",
+    "type": "24hour",
+    "link": "https://cns-iu.github.io/workshops/2021-12-10_24hour_science_map/",
     "title": "24 Hour Science Map Event",
     "description": "",
     "location": "This was a virtual event, hosted by CNS",
-    "dateStart": "2021-12-11",
-    "dateEnd": "2021-12-12",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2021-12-10_24hour_science_map/"
+    "dateStart": "2021-12-11T00:00:00.000Z",
+    "dateEnd": "2021-12-12T00:00:00.000Z",
+    "tags": [
+      "24-hour-event"
+    ]
   },
   {
     "slug": "ws-73",
@@ -1163,6 +1174,20 @@
     "link": "https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt"
   },
   {
+    "slug": "seja45x6gjpwzil6zjtzn",
+    "type": "other",
+    "link": "luddy-tech-fest-2026.pdf",
+    "title": "Luddy TechFest: Visualizing Science",
+    "description": "A multimedia exhibit of data visualization featuring the Places and Spaces Exhibit",
+    "location": "Bloomington, Indiana, USA",
+    "mediaType": "image",
+    "mediaUrl": "luddytechfest2026.png",
+    "dateStart": "2026-04-11T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
@@ -1432,6 +1457,7 @@
   {
     "slug": "pres-735",
     "type": "presentation",
+    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf",
     "title": "Macroscope Tools for Global Challenges",
     "description": "",
     "location": "",
@@ -1446,10 +1472,12 @@
       "sarah-huggett",
       "andreas-scharnhorst"
     ],
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "event": "ev-890",
-    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf"
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
+    "tags": [
+      "exhibits"
+    ],
+    "event": "ev-890"
   },
   {
     "slug": "pres-733",
@@ -1513,6 +1541,7 @@
   {
     "slug": "pres-728",
     "type": "presentation",
+    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf",
     "title": "VCCF Cell Distance Visualizations",
     "description": "",
     "location": "Virtual",
@@ -1521,10 +1550,12 @@
       "yashvardhan-jain",
       "supriya-bidanta"
     ],
-    "dateStart": "2024-05-29",
-    "dateEnd": "2024-05-29",
-    "event": "ev-883",
-    "link": "https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf"
+    "dateStart": "2024-05-29T00:00:00.000Z",
+    "dateEnd": "2024-05-29T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ],
+    "event": "ev-883"
   },
   {
     "slug": "pres-727",
@@ -1903,18 +1934,19 @@
     "slug": "pres-684",
     "type": "presentation",
     "title": "SPOKE Visualizations: Envisioning Spoke & User Studies",
-    "description": "",
+    "link": "2022-04-22-spoke-vis-spoke-bric-updates.pdf",
+    "thumbnail": "stock-network.png",
+    "dateStart": "2022-04-22T00:00:00.000Z",
+    "dateEnd": "2022-04-22T00:00:00.000Z",
     "location": "Alexandria, VA (Virtual Event)",
+    "description": "",
     "presenters": [
       "bruce-w-herr-ii",
       "katy-borner",
       "andreas-bueckle",
-      "libby-maier"
+      "elizabeth-maier"
     ],
-    "dateStart": "2022-04-22",
-    "dateEnd": "2022-04-22",
-    "event": "ev-849",
-    "link": "https://cns.iu.edu/docs/presentations/2022-04-22 SPOKE-VIS + SPOKE-BRIC.pdf"
+    "event": "ev-849"
   },
   {
     "slug": "pres-683",
@@ -9831,6 +9863,20 @@
     "link": "https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.pdf"
   },
   {
+    "slug": "oefo7c9sis21usrvv8ppr",
+    "type": "other",
+    "link": "luddy-tech-fest-2026.pdf",
+    "title": "Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration",
+    "description": "",
+    "location": "Bloomington, Indiana, USA",
+    "mediaType": "image",
+    "mediaUrl": "luddytechfest2026.png",
+    "dateStart": "2026-04-11T00:00:00.000Z",
+    "tags": [
+      "hra"
+    ]
+  },
+  {
     "slug": "np1af0umizu0zrrjj6v44",
     "type": "other",
     "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/",
@@ -9865,11 +9911,12 @@
     "link": "https://cns-iu.github.io/workshops/2026-08-03_hra_hackathon/",
     "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
     "mediaType": "image",
-    "mediaUrl": "wpp-thumbnail.png",
+    "mediaUrl": "hra-wpp.png",
     "dateStart": "2026-08-03T00:00:00.000Z",
     "dateEnd": "2026-08-05T00:00:00.000Z",
     "tags": [
-      "whole-person-physiome"
+      "whole-person-physiome",
+      "hra"
     ]
   },
   {
@@ -10217,24 +10264,6 @@
     ]
   },
   {
-    "slug": "ev-890",
-    "type": "workshop",
-    "title": "Macroscope Tools for Global Challenges",
-    "description": "",
-    "location": "",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-735"
-    ],
-    "tutorials": [],
-    "dateStart": "2024-09-20",
-    "dateEnd": "2024-09-20",
-    "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/"
-  },
-  {
     "slug": "ev-89",
     "type": "conference",
     "title": "GEL 2006",
@@ -10306,22 +10335,24 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-886",
     "type": "conference",
+    "link": "https://ami.org/",
     "title": "Association of Medical Illustrators (AMI) 2024",
     "description": "",
     "location": "Rochester, NY",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2024-07-23T00:00:00.000Z",
+    "dateEnd": "2024-07-27T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-731"
-    ],
-    "tutorials": [],
-    "dateStart": "2024-07-23",
-    "dateEnd": "2024-07-27",
-    "tags": [],
-    "link": "https://ami.org/"
+    ]
   },
   {
     "slug": "ev-885",
@@ -10398,21 +10429,23 @@
     "link": "https://nih-cfde.github.io/2024-march-all-hands-meeting/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-881",
-    "type": "other",
+    "type": "meeting",
     "title": "NIH 3D + IU + SBU Hackathon",
     "description": "",
     "location": "Rockville, MD",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2023-10-18T00:00:00.000Z",
+    "dateEnd": "2023-10-19T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-726"
-    ],
-    "tutorials": [],
-    "dateStart": "2023-10-18",
-    "dateEnd": "2023-10-19",
-    "tags": []
+    ]
   },
   {
     "slug": "ev-880",
@@ -10449,22 +10482,22 @@
     "link": "http://www.viscenter.uncc.edu/symposium06.htm"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-879",
-    "type": "other",
+    "type": "exhibit",
+    "link": "https://collections.iu.edu/news/places-spaces-mapping-science.html",
     "title": "Places & Spaces: Mapping Science 20th Iteration Debut",
     "description": "",
     "location": "University Collections at McCalla, 525 East 9th Street, Bloomington, Indiana, 47408",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2024-06-06T00:00:00.000Z",
+    "dateEnd": "2024-07-06T00:00:00.000Z",
+    "tutorials": [],
+    "tags": [],
     "presentations": [
       "pres-724"
-    ],
-    "tutorials": [],
-    "dateStart": "2024-06-06",
-    "dateEnd": "2024-07-06",
-    "tags": [],
-    "link": "https://collections.iu.edu/news/places-spaces-mapping-science.html"
+    ]
   },
   {
     "slug": "ev-878",
@@ -11152,21 +11185,6 @@
     "tags": []
   },
   {
-    "slug": "ev-843",
-    "type": "meeting",
-    "title": "Akoya Biosciences Webinar",
-    "description": "",
-    "location": "",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [],
-    "tutorials": [],
-    "dateStart": "2022-05-25",
-    "dateEnd": "2022-05-25",
-    "tags": []
-  },
-  {
     "slug": "ev-842",
     "type": "meeting",
     "title": "Cellular Senescence Network (SenNet) Consortium Organization and Data Coordination Center (CODCC) Weekly Meeting",
@@ -11838,42 +11856,6 @@
     "dateEnd": "2021-04-08",
     "tags": [],
     "link": "https://chanzuckerberg.com/science/meetings/"
-  },
-  {
-    "slug": "ev-806",
-    "type": "conference",
-    "title": "Spatial Biology Europe: Online",
-    "description": "",
-    "location": "Oxford, UK (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-660"
-    ],
-    "tutorials": [],
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
-    "tags": [],
-    "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/"
-  },
-  {
-    "slug": "ev-805",
-    "type": "conference",
-    "title": "Spatial Biology Europe: Online",
-    "description": "",
-    "location": "Oxford, UK (Virtual Event)",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
-    "presentations": [
-      "pres-659"
-    ],
-    "tutorials": [],
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
-    "tags": [],
-    "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/"
   },
   {
     "slug": "ev-803",
@@ -12912,23 +12894,23 @@
     "link": "https://www.grc.org/computer-aided-drug-design-conference/2019/"
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-748",
     "type": "conference",
+    "link": "http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019",
     "title": "European Meeting on Applied Evolutionary Economics (EMAEE)",
     "description": "",
     "location": "Brighton, UK",
-    "organizers": [],
     "attendees": [],
-    "publications": [],
+    "dateStart": "2019-07-16T00:00:00.000Z",
+    "dateEnd": null,
+    "tutorials": [],
+    "tags": [],
     "presentations": [
       "pres-606",
       "pres-607"
-    ],
-    "tutorials": [],
-    "dateStart": null,
-    "dateEnd": null,
-    "tags": [],
-    "link": "http://www.sussex.ac.uk/spru/newsandevents/events/emaee2019"
+    ]
   },
   {
     "organizers": [],

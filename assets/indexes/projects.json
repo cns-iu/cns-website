@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "whole-person-physiome",
+    "name": "Whole Person Physiome",
+    "description": "Whole Person Physiome funded by the NIH Whole Person Initiative"
+  },
+  {
+    "slug": "maps",
+    "name": "Maps",
+    "description": "Places & Spaces exhibit: Maps showcasing the contexts and relationships of science."
+  },
+  {
+    "slug": "macroscopes",
+    "name": "Macroscopes",
+    "description": "Places & Spaces exhibit showcasing interactive data visualizations"
+  },
+  {
+    "slug": "human-reference-atlas",
+    "name": "Human Reference Atlas",
+    "description": "Mapping organs, cells, and biomarkers of the healthy human body"
+  },
+  {
+    "slug": "envisioning-intelligences",
+    "name": "Envisioning Intelligences",
+    "description": "An exhibit focusing on intelligences across lifeforms"
+  },
+  {
+    "slug": "amatria",
+    "name": "Amatria",
+    "description": "Amatria: Sentient Architecture"
+  }
+]

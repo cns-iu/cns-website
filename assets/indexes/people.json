@@ -316,7 +316,7 @@
   },
   {
     "slug": "yongxin-kong",
-    "name": "Yongxin  Kong",
+    "name": "Yongxin Kong",
     "lastName": "Kong",
     "image": "yongxin_kong.jpg",
     "roles": [
@@ -2181,6 +2181,12 @@
     "slug": "tahsin-reza",
     "name": "Tahsin Reza",
     "lastName": "Reza",
+    "roles": []
+  },
+  {
+    "slug": "taha-mohseni-ahooyi",
+    "name": "Taha Mohseni Ahooyi",
+    "lastName": "Ahooyi",
     "roles": []
   },
   {
@@ -8685,6 +8691,12 @@
     ]
   },
   {
+    "slug": "mano-r-maurya",
+    "name": "Mano R. Maurya",
+    "lastName": "Maurya",
+    "roles": []
+  },
+  {
     "slug": "manashree-rao",
     "name": "Manashree Rao",
     "lastName": "Rao",
@@ -10399,6 +10411,12 @@
     "roles": []
   },
   {
+    "slug": "julie-a-jurgens",
+    "name": "Julie A. Jurgens",
+    "lastName": "Jurgens",
+    "roles": []
+  },
+  {
     "slug": "julianne-s-bobay",
     "name": "Julianne S. Bobay",
     "lastName": "Bobay",
@@ -11448,6 +11466,12 @@
     "slug": "jeff-hodgin",
     "name": "Jeff Hodgin",
     "lastName": "Hodgin",
+    "roles": []
+  },
+  {
+    "slug": "jeet-vora",
+    "name": "Jeet Vora",
+    "lastName": "Vora",
     "roles": []
   },
   {

@@ -1045,6 +1045,7 @@
   {
     "slug": "pub-485",
     "type": "article-journal",
+    "thumbnail": "pub1.26.2026.png",
     "title": "Preparing the next generation of Complex Networks and Systems scientists: Evaluation results for the Complex Networks and Systems NSF research training program at Indiana University",
     "authors": [
       "michael-ginda",
@@ -1067,6 +1068,7 @@
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 "
     ],
     "mediaUrl": "pub1.26.2026.png",
+    "featured": true,
     "tags": [
       "featured"
     ]
@@ -1074,6 +1076,7 @@
   {
     "slug": "pub-484",
     "type": "article-journal",
+    "thumbnail": "fig1-s41597-025-06383-w.png",
     "title": "A general strategy for generating expert-guided, simplified views of ontologies",
     "authors": [
       "anita-r-caron",
@@ -1105,6 +1108,9 @@
       "https://www.nature.com/articles/s41597-025-06383-w"
     ],
     "mediaUrl": "fig1-s41597-025-06383-w.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1112,7 +1118,8 @@
   {
     "slug": "pub-483",
     "type": "paper-conference",
-    "title": "Ontology-supported Integration of Gene Expression Data from Heterogeneous Subjects  in KPMP and HuBMAP Resources for Systematic Kidney Disease Analysis",
+    "thumbnail": "ontologies2025.png",
+    "title": "Ontology-supported Integration of Gene Expression Data from Heterogeneous Subjects in KPMP and HuBMAP Resources for Systematic Kidney Disease Analysis",
     "authors": [
       "ruopeng-wu",
       "yichao-chen",
@@ -1149,6 +1156,7 @@
   {
     "slug": "pub-482",
     "type": "manuscript",
+    "thumbnail": "fig1-cde.png",
     "title": "Exploring endothelial cell environments across organs in spatially resolved omics data",
     "authors": [
       "yashvardhan-jain",
@@ -1194,6 +1202,9 @@
       "https://www.biorxiv.org/content/10.1101/2025.09.23.678129v1"
     ],
     "mediaUrl": "fig1-cde.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1201,6 +1212,7 @@
   {
     "slug": "pub-481",
     "type": "manuscript",
+    "thumbnail": "fig1-2025.09.11.675730.png",
     "title": "AI-Supported Extraction of Functional Tissue Unit Properties for Human Reference Atlas Construction",
     "authors": [
       "yongxin-kong",
@@ -1219,44 +1231,9 @@
       "https://www.biorxiv.org/content/10.1101/2025.09.11.675730v1"
     ],
     "mediaUrl": "fig1-2025.09.11.675730.png",
-    "tags": [
-      "hra"
-    ]
-  },
-  {
-    "slug": "pub-480",
-    "type": "article-journal",
-    "title": "A general strategy for generating expert-guided, simplified views of ontologies",
-    "authors": [
-      "anita-r-caron",
-      "aleix-puig-barbe",
-      "ellen-m-quardokus",
-      "james-p-balhoff",
-      "jasmine-belfiore",
-      "nana-jane-chipampe",
-      "josef-hardi",
-      "bruce-w-herr-ii",
-      "huseyin-kir",
-      "paola-roncaglia",
-      "mark-a-musen",
-      "helen-parkinson",
-      "james-a-mclaughlin",
-      "katy-borner",
-      "david-osumi-sutherland"
+    "projects": [
+      "human-reference-atlas"
     ],
-    "editors": [],
-    "doi": "10.1101/2024.12.13.628309",
-    "date": "2025-08-29T00:00:00.000Z",
-    "publisher": "",
-    "venue": "manuscript",
-    "volume": "",
-    "issue": "",
-    "pages": "",
-    "chapter": "",
-    "links": [
-      "https://www.biorxiv.org/content/10.1101/2024.12.13.628309v2"
-    ],
-    "mediaUrl": "fig7-s41597-025-06383-w.png",
     "tags": [
       "hra"
     ]
@@ -1287,6 +1264,7 @@
   {
     "slug": "pub-479",
     "type": "article-journal",
+    "thumbnail": "hrapop-fig2.png",
     "title": "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas",
     "authors": [
       "andreas-bueckle",
@@ -1310,10 +1288,12 @@
     "issue": "",
     "pages": "",
     "chapter": "",
-    "links": [
-      "hrapop-fig2.png"
-    ],
+    "links": [],
     "mediaUrl": "hrapop-fig2.png",
+    "featured": true,
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra",
       "featured"
@@ -1322,6 +1302,7 @@
   {
     "slug": "pub-478",
     "type": "article-journal",
+    "thumbnail": "fig1-s41592-025-02879-w.png",
     "title": "CellSAM: A Foundation Model for Cell Segmentation",
     "authors": [
       "markus-marks",
@@ -1362,6 +1343,7 @@
   {
     "slug": "pub-477",
     "type": "book",
+    "thumbnail": "atlas-macroscopes.png",
     "title": " Atlas of Macroscopes: Interactive Data Visualizations",
     "authors": [
       "katy-borner",
@@ -1380,7 +1362,8 @@
     "links": [
       "https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/"
     ],
-    "mediaUrl": "atlas-macroscopes-book.png",
+    "mediaUrl": "atlas-macroscopes.png",
+    "featured": true,
     "tags": [
       "featured"
     ]
@@ -1602,6 +1585,7 @@
   {
     "slug": "pub-469",
     "type": "article-journal",
+    "thumbnail": "fig1s41597-025-04589-6.png",
     "title": "Ensuring Adherence to Standards in Experiment-Related Metadata Entered Via Spreadsheets",
     "authors": [
       "martin-j-oconnor",
@@ -1626,6 +1610,9 @@
       "https://www.nature.com/articles/s41597-025-04589-6"
     ],
     "mediaUrl": "fig1s41597-025-04589-6.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1723,22 +1710,25 @@
   },
   {
     "slug": "pub-467",
+    "type": "article-journal",
+    "title": "Building a Human Reference Atlas",
     "authors": [
       "andreas-bueckle"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Building a Human Reference Atlas",
-    "date": "2023-12-21",
+    "doi": "10.1093/geroni/igad104.1556",
+    "date": "2023-12-21T00:00:00.000Z",
     "publisher": "",
     "venue": "Innovation in Aging 7(Supplement_1): 473 ",
     "volume": "",
     "issue": "",
-    "doi": "10.1093/geroni/igad104.1556",
     "pages": "",
     "chapter": "",
     "links": [
       "https://academic.oup.com/innovateage/article/7/Supplement_1/473/7488074"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -1747,6 +1737,7 @@
   {
     "slug": "pub-466",
     "type": "manuscript",
+    "thumbnail": "fig1-2025.04.10.648034.png",
     "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
     "authors": [
       "joyce-hu",
@@ -1775,6 +1766,9 @@
       "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1"
     ],
     "mediaUrl": "fig1-2025.04.10.648034.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1803,6 +1797,7 @@
   {
     "slug": "pub-464",
     "type": "article-journal",
+    "thumbnail": "fig1journal.pbio.3003070.png",
     "title": "The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques",
     "authors": [
       "andrea-j-radtke",
@@ -1880,6 +1875,7 @@
       "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003070&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author"
     ],
     "mediaUrl": "fig1journal.pbio.3003070.png",
+    "projects": [],
     "tags": []
   },
   {
@@ -1920,6 +1916,7 @@
   {
     "slug": "pub-462",
     "type": "article-journal",
+    "thumbnail": "fig1-s41467-024-54591-6.png",
     "title": "Functional tissue units in the Human Reference Atlas",
     "authors": [
       "supriya-bidanta",
@@ -1945,6 +1942,9 @@
       "https://www.nature.com/articles/s41467-024-54591-6"
     ],
     "mediaUrl": "fig1-s41467-024-54591-6.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1987,6 +1987,7 @@
   {
     "slug": "pub-460",
     "type": "article-journal",
+    "thumbnail": "fig1ocaf012.png",
     "title": "myAURA: a personalized health library for epilepsy management via knowledge graph sparsification and visualization ",
     "authors": [
       "rion-brattig-correia",
@@ -2045,6 +2046,7 @@
   {
     "slug": "pub-459",
     "type": "article-journal",
+    "thumbnail": "hrakg2025.png",
     "title": "Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph",
     "authors": [
       "andreas-bueckle",
@@ -2067,6 +2069,9 @@
       "https://www.nature.com/articles/s41597-025-05183-6"
     ],
     "mediaUrl": "hrakg2025.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -2221,6 +2226,8 @@
   },
   {
     "slug": "pub-451",
+    "type": "article-journal",
+    "title": "A user-friendly tool for cloud-based whole slide image segmentation with examples from renal histopathology",
     "authors": [
       "brendon-lutnick",
       "david-manthey",
@@ -2247,18 +2254,19 @@
       "kidney-precision-medicine-project"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "A user-friendly tool for cloud-based whole slide image segmentation with examples from renal histopathology",
-    "date": "2022-08-19",
+    "doi": "",
+    "date": "2022-08-19T00:00:00.000Z",
     "publisher": "",
     "venue": "",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s43856-022-00138-z"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2413,6 +2421,8 @@
   },
   {
     "slug": "pub-446",
+    "type": "article-journal",
+    "title": "Molecular Signatures of Glomerular Neovascularization in a Patient with Diabetic Kidney Disease",
     "authors": [
       "michael-j-ferkowicz",
       "daria-barwinska",
@@ -2427,18 +2437,19 @@
       "kidney-precision-medicine-project"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Molecular Signatures of Glomerular Neovascularization in a Patient with Diabetic Kidney Disease",
-    "date": "2024-02-01",
+    "doi": "",
+    "date": "2024-02-01T00:00:00.000Z",
     "publisher": "",
     "venue": "Clinical Journal of the American Society of Nephrology",
     "volume": "19 (2)",
     "issue": "",
-    "doi": "",
     "pages": "266-275",
     "chapter": "",
     "links": [
       "https://journals.lww.com/cjasn/abstract/2024/02000/molecular_signatures_of_glomerular.21.aspx"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2446,6 +2457,8 @@
   },
   {
     "slug": "pub-445",
+    "type": "article-journal",
+    "title": "Precision Medicine in Nephrology: An Integrative Framework of Multidimensional Data in the Kidney Precision Medicine Project",
     "authors": [
       "tarek-m-el-achkar",
       "michael-t-eadon",
@@ -2454,18 +2467,19 @@
       "kidney-precision-medicine-project"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Precision Medicine in Nephrology: An Integrative Framework of Multidimensional Data in the Kidney Precision Medicine Project",
-    "date": "2024-03-01",
+    "doi": "10.1053/j.ajkd.2023.08.015",
+    "date": "2024-03-01T00:00:00.000Z",
     "publisher": "",
     "venue": "American Journal of Kidney Diseases",
     "volume": "",
     "issue": "",
-    "doi": "10.1053/j.ajkd.2023.08.015",
     "pages": "402-410,",
     "chapter": "",
     "links": [
       "https://www.sciencedirect.com/science/article/abs/pii/S0272638623008545?via%3Dihub"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2677,6 +2691,9 @@
   },
   {
     "slug": "pub-439",
+    "type": "article-journal",
+    "thumbnail": "41580_2024_738_fig1.png",
+    "title": "SenNet recommendations for detecting senescent cells in different tissues",
     "authors": [
       "vidyani-suryadevara",
       "adam-d-hudgins",
@@ -2697,18 +2714,20 @@
       "ellen-m-quardokus"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "SenNet recommendations for detecting senescent cells in different tissues",
-    "date": "2024-06-03",
+    "doi": "10.1038/s41580-024-00738-8",
+    "date": "2024-06-03T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Reviews Molecular Cell Biology",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41580-024-00738-8",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s41580-024-00738-8"
+    ],
+    "mediaUrl": "41580_2024_738_fig1.png",
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2793,24 +2812,27 @@
   },
   {
     "slug": "pub-436",
+    "type": "article-journal",
+    "title": "Scholarly publications and data set evidence for the Human Reference Atlas",
     "authors": [
       "yongxin-kong",
       "vicky-amar-daiya",
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Scholarly publications and data set evidence for the Human Reference Atlas",
-    "date": "2024-03-01",
+    "doi": "10.1162/qss_a_00299",
+    "date": "2024-03-01T00:00:00.000Z",
     "publisher": "",
     "venue": "Quantitative Science Studies",
     "volume": "5 (1)",
     "issue": "",
-    "doi": "10.1162/qss_a_00299",
     "pages": "246–260.",
     "chapter": "",
     "links": [
       "https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00299/119838/Scholarly-publications-and-data-set-evidence-for"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2818,6 +2840,8 @@
   },
   {
     "slug": "pub-435",
+    "type": "article-journal",
+    "title": "Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment epithelium-derived factor are promising non-invasive biomarkers of kidney fibrosis",
     "authors": [
       "insa-m-schmidt",
       "mia-r-colona",
@@ -2854,18 +2878,19 @@
       "yashvardhan-jain"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment epithelium-derived factor are promising non-invasive biomarkers of kidney fibrosis",
-    "date": "2021-08-19",
+    "doi": "10.1016/j.kint.2021.04.037",
+    "date": "2021-08-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Kidney International",
     "volume": "100",
     "issue": "3",
-    "doi": "10.1016/j.kint.2021.04.037",
     "pages": "",
     "chapter": "672-683",
     "links": [
       "https://www.sciencedirect.com/science/article/abs/pii/S0085253821005056"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -2874,6 +2899,7 @@
   {
     "slug": "pub-434",
     "type": "article-journal",
+    "thumbnail": "marker-fig1.png",
     "title": "Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas Construction and Usage",
     "authors": [
       "katy-borner",
@@ -2901,7 +2927,7 @@
     "doi": "10.1038/s41592-024-02563-5",
     "date": "2025-03-13T00:00:00.000Z",
     "publisher": "",
-    "venue": "Nature Methods.",
+    "venue": "Nature Methods",
     "volume": "",
     "issue": "",
     "pages": "",
@@ -2910,6 +2936,9 @@
       "https://www.nature.com/articles/s41592-024-02563-5"
     ],
     "mediaUrl": "marker-fig1.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -3039,6 +3068,8 @@
   },
   {
     "slug": "pub-429",
+    "type": "article-journal",
+    "title": "Mapping the lymphatic system across body scales and expertise domains: A report from the 2021 National Heart, Lung, and Blood Institute workshop at the Boston Lymphatic Symposium",
     "authors": [
       "dhruv-singhal",
       "katy-borner",
@@ -3059,18 +3090,19 @@
       "zorina-s-galis"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Mapping the lymphatic system across body scales and expertise domains: A report from the 2021 National Heart, Lung, and Blood Institute workshop at the Boston Lymphatic Symposium",
-    "date": "2023-02-06",
+    "doi": "10.3389/fphys.2023.1099403",
+    "date": "2023-02-06T00:00:00.000Z",
     "publisher": "",
     "venue": "Frontiers in Physiology",
     "volume": "14 - 2023",
     "issue": "",
-    "doi": "10.3389/fphys.2023.1099403",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.frontiersin.org/articles/10.3389/fphys.2023.1099403/full"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3103,24 +3135,29 @@
   },
   {
     "slug": "pub-427",
+    "type": "paper-conference",
+    "thumbnail": "2023-kong_scholarly-publications.png",
+    "title": "Scholarly publications and dataset evidence for the human reference atlas",
     "authors": [
       "yongxin-kong",
       "vicky-amar-daiya",
       "katy-borner"
     ],
     "editors": [],
-    "type": "paper-conference",
-    "title": "Scholarly publications and dataset evidence for the human reference atlas",
-    "date": "2023-07-03",
+    "doi": "",
+    "date": "2023-07-03T00:00:00.000Z",
     "publisher": "",
     "venue": "19th International Conference on Scientometrics and Informetrics (ISSI 2023), Bloomington, IN",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
-      "https://cns.iu.edu/docs/publications/2023-Kong_Scholarly-publications (ISSI).pdf"
+      "2023-kong_scholarly-publications-issi.pdf"
+    ],
+    "mediaUrl": "2023-kong_scholarly-publications.png",
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3128,6 +3165,8 @@
   },
   {
     "slug": "pub-426",
+    "type": "article-journal",
+    "title": "Organ Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging",
     "authors": [
       "ellen-m-quardokus",
       "diane-c-saunders",
@@ -3169,18 +3208,19 @@
       "andrea-j-radtke"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Organ Mapping Antibody Panels: a community resource for standardized multiplexed tissue imaging",
-    "date": "2023-07-19",
+    "doi": "10.1038/s41592-023-01846-7",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Methods",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41592-023-01846-7",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Quardokus_OMAPs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3188,6 +3228,8 @@
   },
   {
     "slug": "pub-425",
+    "type": "article-journal",
+    "title": "Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)",
     "authors": [
       "sanjay-jain",
       "liming-pei",
@@ -3218,18 +3260,19 @@
       "michael-p-snyder"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)",
-    "date": "2023-07-19",
+    "doi": "10.1038/s41556-023-01194-w",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Cell Biology",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41556-023-01194-w",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Advances-and-prospects.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3237,6 +3280,8 @@
   },
   {
     "slug": "pub-424",
+    "type": "article-journal",
+    "title": "Specimen, biological structure, and spatial ontologies in support of a Human Reference Atlas",
     "authors": [
       "bruce-w-herr-ii",
       "josef-hardi",
@@ -3250,18 +3295,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Specimen, biological structure, and spatial ontologies in support of a Human Reference Atlas",
-    "date": "2023-03-27",
+    "doi": "10.1038/s41597-023-01993-8",
+    "date": "2023-03-27T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Scientific Data",
     "volume": "10",
     "issue": "",
-    "doi": "10.1038/s41597-023-01993-8",
     "pages": "171 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Herr-Specimen_biological_structure.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3323,6 +3369,8 @@
   },
   {
     "slug": "pub-421",
+    "type": "article-journal",
+    "title": "The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality",
     "authors": [
       "andreas-bueckle",
       "catherine-qing",
@@ -3332,18 +3380,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "The HRA Organ Gallery affords immersive superpowers for building and exploring the Human Reference Atlas with virtual reality",
-    "date": "2023-04-27",
+    "doi": "10.3389/fbinf.2023.1162723",
+    "date": "2023-04-27T00:00:00.000Z",
     "publisher": "",
     "venue": "Frontiers in Bioinformatics",
     "volume": "3",
     "issue": "",
-    "doi": "10.3389/fbinf.2023.1162723",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Bueckle_HRA-Organ-Gallery.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3351,6 +3400,8 @@
   },
   {
     "slug": "pub-420",
+    "type": "article-journal",
+    "title": "Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature",
     "authors": [
       "avinash-boppana",
       "sujin-lee",
@@ -3363,18 +3414,19 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature",
-    "date": "2023-07-19",
+    "doi": "10.1038/s41597-023-02018-0",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Scientific Data",
     "volume": "10",
     "issue": "",
-    "doi": "10.1038/s41597-023-02018-0",
     "pages": "452 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Boppana_ASCT+Bs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3412,6 +3464,8 @@
   },
   {
     "slug": "pub-419",
+    "type": "article-journal",
+    "title": "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms",
     "authors": [
       "yashvardhan-jain",
       "leah-l-godwin",
@@ -3423,18 +3477,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Segmenting functional tissue units across human organs using community-driven development of generalizable machine learning algorithms",
-    "date": "2023-08-03",
+    "doi": "10.1038/s41467-023-40291-0",
+    "date": "2023-08-03T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications",
     "volume": "14",
     "issue": "",
-    "doi": "10.1038/s41467-023-40291-0",
     "pages": "4656 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Segmenting-FTUs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3442,6 +3497,8 @@
   },
   {
     "slug": "pub-417",
+    "type": "article-journal",
+    "title": "Real-Time Spatial Registration for 3D Human Atlas",
     "authors": [
       "lu-chen",
       "dejun-teng",
@@ -3453,18 +3510,19 @@
       "fusheng-wang"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Real-Time Spatial Registration for 3D Human Atlas",
-    "date": "2022-11-03",
+    "doi": "10.1145/3557917.3567618",
+    "date": "2022-11-03T00:00:00.000Z",
     "publisher": "Association for Computing Machinery",
     "venue": "BigSpatial '22: Proceedings of the 10th ACM SIGSPATIAL International Workshop on Analytics for Big Geospatial Data",
     "volume": "",
     "issue": "",
-    "doi": "10.1145/3557917.3567618",
     "pages": "27-35.",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Chen_Real-Time-Spatial-Registration.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3472,6 +3530,8 @@
   },
   {
     "slug": "pub-416",
+    "type": "article-journal",
+    "title": "NIH SenNet Consortium to map senescent cells throughout the human lifespan to understand physiological health",
     "authors": [
       "patty-j-lee",
       "christopher-c-benz",
@@ -3522,18 +3582,19 @@
       "laura-j-niedernhofer"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "NIH SenNet Consortium to map senescent cells throughout the human lifespan to understand physiological health",
-    "date": "2022-12-20",
+    "doi": "10.1038/s43587-022-00326-5",
+    "date": "2022-12-20T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Aging",
     "volume": "2",
     "issue": "",
-    "doi": "10.1038/s43587-022-00326-5",
     "pages": "1090-1100 (2022).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-SenNet_NIH-SenNet-Consortium-to-map-senescent-cells.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3581,6 +3642,8 @@
   },
   {
     "slug": "pub-414",
+    "type": "article-journal",
+    "title": "3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging",
     "authors": [
       "soumya-ghose",
       "yingnan-ju",
@@ -3601,18 +3664,19 @@
       "fiona-ginty"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "3D reconstruction of skin and spatial mapping of immune cell density, vascular distance and effects of sun exposure and aging",
-    "date": "2023-07-19",
+    "doi": "10.1038/s42003-023-04991-z",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "6",
     "issue": "",
-    "doi": "10.1038/s42003-023-04991-z",
     "pages": "718 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Ghose_3D-reconstruction-of-skin.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3620,6 +3684,8 @@
   },
   {
     "slug": "pub-413",
+    "type": "article-journal",
+    "title": "Tissue registration and exploration user interfaces in support of a human reference atlas",
     "authors": [
       "katy-borner",
       "andreas-bueckle",
@@ -3638,18 +3704,19 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Tissue registration and exploration user interfaces in support of a human reference atlas",
-    "date": "2022-12-13",
+    "doi": "10.1101/2021.12.30.474265",
+    "date": "2022-12-13T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "5",
     "issue": "",
-    "doi": "10.1101/2021.12.30.474265",
     "pages": "1369 (2022).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Borner_Tissue-Registration-and-EUIs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3657,6 +3724,8 @@
   },
   {
     "slug": "pub-412",
+    "type": "article-journal",
+    "title": "Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework",
     "authors": [
       "andreas-bueckle",
       "kilian-buehling",
@@ -3664,18 +3733,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Optimizing Performance and Satisfaction in Matching and Movement Tasks in Virtual Reality with Interventions Using the Data Visualization Literacy Framework",
-    "date": "2022-01-21",
+    "doi": "10.3389/frvir.2021.727344",
+    "date": "2022-01-21T00:00:00.000Z",
     "publisher": "",
     "venue": "Frontiers in Virtual Reality",
     "volume": "2 - 2021",
     "issue": "",
-    "doi": "10.3389/frvir.2021.727344",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Bueckle_Optimizing-Performance-and-Satisfaction.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3710,6 +3780,8 @@
   },
   {
     "slug": "pub-410",
+    "type": "article-journal",
+    "title": "Segmentation of human functional tissue units in support of a Human Reference Atlas",
     "authors": [
       "yashvardhan-jain",
       "leah-l-godwin",
@@ -3728,18 +3800,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Segmentation of human functional tissue units in support of a Human Reference Atlas",
-    "date": "2023-07-19",
+    "doi": "10.1038/s42003-023-04848-5",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "6",
     "issue": "",
-    "doi": "10.1038/s42003-023-04848-5",
     "pages": "717 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Segmentation-of-human-FTUs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3770,6 +3843,8 @@
   },
   {
     "slug": "pub-409",
+    "type": "article-journal",
+    "title": "3D virtual reality vs. 2D desktop registration user interface comparison",
     "authors": [
       "andreas-bueckle",
       "kilian-buehling",
@@ -3777,18 +3852,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "3D virtual reality vs. 2D desktop registration user interface comparison",
-    "date": "2021-10-27",
+    "doi": "10.1371/journal.pone.0258103",
+    "date": "2021-10-27T00:00:00.000Z",
     "publisher": "",
     "venue": "PLOS One",
     "volume": "16",
     "issue": "10",
-    "doi": "10.1371/journal.pone.0258103",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2021-Bueckle-3D_VR_vs_2D_Desktop_RUI.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3962,22 +4038,25 @@
   },
   {
     "slug": "pub-401",
+    "type": "article-journal",
+    "title": "Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework",
     "authors": [
       "andreas-bueckle"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework",
-    "date": "2021-07-30",
+    "doi": "10.13140/RG.2.2.33214.00328",
+    "date": "2021-07-30T00:00:00.000Z",
     "publisher": "",
     "venue": "Thesis, Doctor of Philosophy: Katy Börner, Patrick Shih, John Walsh, Rob Montoya. Indiana University, Bloomington, IN.",
     "volume": "",
     "issue": "",
-    "doi": "10.13140/RG.2.2.33214.00328",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/07-16-2021_bueckle_dissertation.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -4029,6 +4108,9 @@
   },
   {
     "slug": "pub-398",
+    "type": "article-journal",
+    "thumbnail": "hra-flagship-paper.png",
+    "title": "Anatomical structures, cell types and biomarkers of the Human Reference Atlas",
     "authors": [
       "katy-borner",
       "sarah-a-teichmann",
@@ -4068,18 +4150,21 @@
       "griffin-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Anatomical structures, cell types and biomarkers of the Human Reference Atlas",
-    "date": "2021-11-08",
+    "doi": "10.1038/s41556-021-00788-6",
+    "date": "2021-11-08T00:00:00.000Z",
     "publisher": "Springer Nature",
     "venue": "Nature Cell Biology",
     "volume": "23",
     "issue": "",
-    "doi": "10.1038/s41556-021-00788-6",
     "pages": "1117-1128.",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2021-Borner-ASCT+B_of_the_HRA.pdf"
+    ],
+    "mediaUrl": "hra-flagship-paper.png",
+    "featured": true,
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -4087,6 +4172,8 @@
   },
   {
     "slug": "pub-397",
+    "type": "manuscript",
+    "title": "Comparing Completion Time, Accuracy, and Satisfaction in Virtual Reality vs. Desktop Implementation of the Common Coordinate Framework Registration User Interface (CCF RUI)",
     "authors": [
       "andreas-bueckle",
       "kilian-buehling",
@@ -4094,18 +4181,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "manuscript",
-    "title": "Comparing Completion Time, Accuracy, and Satisfaction in Virtual Reality vs. Desktop Implementation of the Common Coordinate Framework Registration User Interface (CCF RUI)",
-    "date": "2021-02-24",
+    "doi": "",
+    "date": "2021-02-24T00:00:00.000Z",
     "publisher": "",
     "venue": "arXiv:2102.12030v1 [cs.HC]",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2021-Bueckle-Comparing-Completion-Time.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -4160,6 +4248,8 @@
   },
   {
     "slug": "pub-393",
+    "type": "manuscript",
+    "title": "Construction and Usage of a Human Body Common Coordinate Framework Comprising Clinical, Semantic, and Spatial Ontologies",
     "authors": [
       "katy-borner",
       "ellen-m-quardokus",
@@ -4179,18 +4269,19 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "manuscript",
-    "title": "Construction and Usage of a Human Body Common Coordinate Framework Comprising Clinical, Semantic, and Spatial Ontologies",
-    "date": "2020-07-28",
+    "doi": "",
+    "date": "2020-07-28T00:00:00.000Z",
     "publisher": "",
     "venue": "arXiv:2007.14474v1 [q-bio.QM]",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2020-Borner-Human-Body-CCF.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -4250,6 +4341,8 @@
   },
   {
     "slug": "pub-390",
+    "type": "article-journal",
+    "title": "Viv: multiscale visualization of high-resolution multiplexed bioimaging data on the web",
     "authors": [
       "trevor-manz",
       "ilan-gold",
@@ -4262,18 +4355,19 @@
       "nils-gehlenborg"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Viv: multiscale visualization of high-resolution multiplexed bioimaging data on the web",
-    "date": "2022-05-11",
+    "doi": "10.1038/s41592-022-01482-7",
+    "date": "2022-05-11T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Methods",
     "volume": "19",
     "issue": "",
-    "doi": "10.1038/s41592-022-01482-7",
     "pages": "515-516 (2022).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Manz_Viv-multiscale-visualization.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra",
@@ -4343,24 +4437,27 @@
   },
   {
     "slug": "pub-387",
+    "type": "article-journal",
+    "title": "Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body",
     "authors": [
       "griffin-m-weber",
       "yingnan-ju",
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Considerations for Using the Vasculature as a Coordinate System to Map All the Cells in the Human Body",
-    "date": "2020-03-13",
+    "doi": "10.3389/fcvm.2020.00029",
+    "date": "2020-03-13T00:00:00.000Z",
     "publisher": "",
     "venue": "Frontiers in Cardiovascular Medicine",
     "volume": "7 - 2020",
     "issue": "29",
-    "doi": "10.3389/fcvm.2020.00029",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2020-Weber-Considerations.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -10671,5 +10768,34 @@
       "https://cns.iu.edu/docs/publications/2003-heines-panel.pdf"
     ],
     "tags": []
+  },
+  {
+    "slug": "ghi4yk7yrla43oyeqprp1",
+    "type": "manuscript",
+    "thumbnail": "the-common-fund-data-ecosystem.png",
+    "title": "The Common Fund Data Ecosystem (CFDE)",
+    "authors": [
+      "julie-a-jurgens",
+      "andreas-bueckle",
+      "jeet-vora",
+      "mano-r-maurya",
+      "taha-mohseni-ahooyi",
+      "katy-borner"
+    ],
+    "editors": [],
+    "doi": "10.64898/2026.04.10.717672",
+    "date": "2026-04-16T00:00:00.000Z",
+    "venue": "bioRxiv",
+    "links": [
+      "https://doi.org/10.64898/2026.04.10.717672"
+    ],
+    "mediaUrl": "the-common-fund-data-ecosystem.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra",
+      "cfde-consortium"
+    ]
   }
 ]
