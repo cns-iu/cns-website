@@ -1,12 +1,14 @@
 slug: 275k0re5jxjbhui8cvxm0
 type: other
-link: amatria-6th-birthday-celebration-slides.pptx.pdf
 title: Amatria's 6th Birthday Celebration
-description: 9:00am–10:00am
-location: Indiana University, Bloomington, IN
-mediaType: video
-mediaUrl: https://www.youtube.com/watch?v=ZJwCq8reHQc
+link: amatria-6th-birthday-celebration-slides.pptx.pdf
 dateStart: 2024-04-11
 dateEnd: ""
+location: Indiana University, Bloomington, IN
+projects:
+  - amatria
 tags:
   - amatria
+description: 9:00am–10:00am
+mediaType: video
+mediaUrl: https://www.youtube.com/watch?v=ZJwCq8reHQc
