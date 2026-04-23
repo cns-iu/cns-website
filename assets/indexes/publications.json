@@ -1370,6 +1370,8 @@
   },
   {
     "slug": "pub-476",
+    "type": "paper-conference",
+    "title": "Chinese Human Reference Atlas Mirror: Setup, Localization, and Usage",
     "authors": [
       "bruce-w-herr-ii",
       "lei-liu",
@@ -1381,18 +1383,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "paper-conference",
-    "title": "Chinese Human Reference Atlas Mirror: Setup, Localization, and Usage",
-    "date": "2025-06-11",
+    "doi": "",
+    "date": "2025-06-11T00:00:00.000Z",
     "publisher": "",
     "venue": "Human Cell Atlas General Meeting, Singapore",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/25GM-HRA-Mirror-Poster.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
