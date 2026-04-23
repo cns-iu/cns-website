@@ -2670,6 +2670,9 @@
   },
   {
     "slug": "pub-439",
+    "type": "article-journal",
+    "thumbnail": "41580_2024_738_fig1.png",
+    "title": "SenNet recommendations for detecting senescent cells in different tissues",
     "authors": [
       "vidyani-suryadevara",
       "adam-d-hudgins",
@@ -2690,18 +2693,20 @@
       "ellen-m-quardokus"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "SenNet recommendations for detecting senescent cells in different tissues",
-    "date": "2024-06-03",
+    "doi": "10.1038/s41580-024-00738-8",
+    "date": "2024-06-03T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Reviews Molecular Cell Biology",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41580-024-00738-8",
     "pages": "",
     "chapter": "",
     "links": [
       "https://www.nature.com/articles/s41580-024-00738-8"
+    ],
+    "mediaUrl": "41580_2024_738_fig1.png",
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
