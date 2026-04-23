@@ -159,15 +159,18 @@
   {
     "slug": "ws-88",
     "type": "24hour",
-    "link": "https://humanatlas.io/events/2024-24h/",
     "title": "24 Hour Multiscale Human Event",
-    "description": "",
-    "location": "This is a virtual event, hosted by CNS",
+    "link": "https://humanatlas.io/events/2024-24h/",
+    "thumbnail": "hra-human2024.png",
     "dateStart": "2024-12-14T00:00:00.000Z",
     "dateEnd": "2024-12-15T00:00:00.000Z",
+    "location": "Remote event",
     "tags": [
       "hra"
-    ]
+    ],
+    "description": "",
+    "mediaType": "image",
+    "mediaUrl": "hra-human2024.png"
   },
   {
     "slug": "ws-87",
