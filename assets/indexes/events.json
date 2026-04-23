@@ -24532,21 +24532,25 @@
   {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
-    "link": "",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
-    "description": "",
+    "link": "",
+    "thumbnail": "cdfe-3.24.2026.png",
+    "dateStart": "2026-03-24T00:00:00.000Z",
+    "dateEnd": "2026-03-25T00:00:00.000Z",
     "location": "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
+    "description": "",
     "mediaType": "image",
     "mediaUrl": "cdfe-3.24.2026.png",
     "presenters": [
       "andreas-bueckle"
     ],
-    "attendees": [],
-    "dateStart": "2026-03-24T00:00:00.000Z",
-    "dateEnd": "2026-03-25T00:00:00.000Z",
-    "tags": [
-      "hra"
-    ]
+    "attendees": []
   },
   {
     "slug": "2ya5l1rk5iazbw5qhweqp",
