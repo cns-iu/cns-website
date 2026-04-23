@@ -10246,21 +10246,22 @@
     ]
   },
   {
+    "organizers": [],
+    "publications": [],
     "slug": "ev-894",
     "type": "other",
     "title": "Talking Together: \"Humanexus\" Film Screening and Panel Discussion",
-    "description": "",
-    "location": "Indiana University's Museum of Archaeology and Anthropology, 416 N Indiana Ave, Bloomington, Indiana, 47408",
-    "organizers": [],
-    "attendees": [],
-    "publications": [],
+    "dateStart": "2024-10-30T00:00:00.000Z",
+    "dateEnd": "2024-10-30T00:00:00.000Z",
+    "venue": "Indiana University's Museum of Archaeology and Anthropology, 416 N Indiana Ave",
+    "tutorials": [],
+    "location": "Bloomington, Indiana, 47408, USA",
+    "tags": [],
     "presentations": [
       "pres-739"
     ],
-    "tutorials": [],
-    "dateStart": "2024-10-30",
-    "dateEnd": "2024-10-30",
-    "tags": []
+    "description": "",
+    "attendees": []
   },
   {
     "organizers": [],
