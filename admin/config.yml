@@ -311,6 +311,7 @@ collections:
         widget: select
         options:
           - { label: 24-hour events, value: "24hour" }
+          - { label: Celebration, value: "celebration" }
           - { label: Conference, value: "conference" }
           - { label: Exhibit, value: "exhibit" }
           - { label: Meeting, value: "meeting" }
@@ -319,21 +320,25 @@ collections:
           - { label: Tutorial, value: "tutorial" }
           - { label: Visit, value: "visit" }
           - { label: Workshop, value: "workshop" }
-      - { name: title, label: Event title, widget: string, required: true }
+      - { name: title, label: Event type title, widget: string, required: true, hint: "The title of the event type, i.e., the title of the event, presentation, workshop, etc." }
       - <<: *link
-        hint: "The primary link embeds in the Event title"
-      - *thumbnail
+        hint: "This link embeds in the Event title"
       - *dateStart
       - *dateEnd
-      - { name: venue, label: "Venue", widget: string, required: false, hint: "Use the venue's street address" }
+      - *thumbnail
+      - *featured
+      - *projects
+      - *tags
+      - { name: venue, label: "Venue name", widget: string, required: false, hint: "The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is remote, use 'Remote event'" }
+      - { name: street, label: "Street", widget: string, required: false, hint: "The street address from Google Maps and add a room number if applicable, e.g., '700 N Woodlawn Ave'" }
+      - { name: city, label: "City", widget: string, required: false, hint: "The city name, e.g., 'Bloomington'" }
+      - { name: state, label: "State", widget: string, required: false, hint: "The country's state, e.g., 'Indiana'" }
+      - { name: country, label: "Country", widget: string, required: false, hint: "The country, e.g., 'USA', 'Germany', or 'Canada'" }
       - name: location
         label: "Location"
         widget: string
         required: false
-        hint: "If the event is in-person, use City/Town/Country format, e.g., 'Bloomington, Indiana', USA. If the event is remote/virtual, use 'Remote event'."
-      - *featured
-      - *projects
-      - *tags
+        hint: "Old input for location: Do not use"
       - { name: description, label: Short description, widget: string, required: false }
       - *mediaType
       - *mediaUrl
