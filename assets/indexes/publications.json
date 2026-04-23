@@ -3654,6 +3654,8 @@
   },
   {
     "slug": "pub-413",
+    "type": "article-journal",
+    "title": "Tissue registration and exploration user interfaces in support of a human reference atlas",
     "authors": [
       "katy-borner",
       "andreas-bueckle",
@@ -3672,18 +3674,19 @@
       "griffin-m-weber"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Tissue registration and exploration user interfaces in support of a human reference atlas",
-    "date": "2022-12-13",
+    "doi": "10.1101/2021.12.30.474265",
+    "date": "2022-12-13T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Communications Biology",
     "volume": "5",
     "issue": "",
-    "doi": "10.1101/2021.12.30.474265",
     "pages": "1369 (2022).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Borner_Tissue-Registration-and-EUIs.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -4002,22 +4005,25 @@
   },
   {
     "slug": "pub-401",
+    "type": "article-journal",
+    "title": "Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework",
     "authors": [
       "andreas-bueckle"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework",
-    "date": "2021-07-30",
+    "doi": "10.13140/RG.2.2.33214.00328",
+    "date": "2021-07-30T00:00:00.000Z",
     "publisher": "",
     "venue": "Thesis, Doctor of Philosophy: Katy Börner, Patrick Shih, John Walsh, Rob Montoya. Indiana University, Bloomington, IN.",
     "volume": "",
     "issue": "",
-    "doi": "10.13140/RG.2.2.33214.00328",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/07-16-2021_bueckle_dissertation.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
