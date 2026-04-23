@@ -1,4 +1,7 @@
 slug: pub-445
+type: article-journal
+title: "Precision Medicine in Nephrology: An Integrative Framework of
+  Multidimensional Data in the Kidney Precision Medicine Project"
 authors:
   - tarek-m-el-achkar
   - michael-t-eadon
@@ -6,20 +9,17 @@ authors:
   - jonathan-himmelfarb
   - kidney-precision-medicine-project
 editors: []
-type: article-journal
-title: >-
-  Precision Medicine in Nephrology: An Integrative Framework of Multidimensional
-  Data in the Kidney Precision Medicine Project
-date: '2024-03-01'
-publisher: ''
-venue: American Journal of Kidney Diseases
-volume: ''
-issue: ''
 doi: 10.1053/j.ajkd.2023.08.015
+date: 2024-03-01
+publisher: ""
+venue: American Journal of Kidney Diseases
+volume: ""
+issue: ""
 pages: 402-410,
-chapter: ''
+chapter: ""
 links:
-  - >-
-    https://www.sciencedirect.com/science/article/abs/pii/S0272638623008545?via%3Dihub
+  - https://www.sciencedirect.com/science/article/abs/pii/S0272638623008545?via%3Dihub
+projects:
+  - human-reference-atlas
 tags:
   - hra

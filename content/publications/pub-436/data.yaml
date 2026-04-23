@@ -1,21 +1,22 @@
 slug: pub-436
+type: article-journal
+title: Scholarly publications and data set evidence for the Human Reference Atlas
 authors:
   - yongxin-kong
   - vicky-amar-daiya
   - katy-borner
 editors: []
-type: article-journal
-title: Scholarly publications and data set evidence for the Human Reference Atlas
-date: '2024-03-01'
-publisher: ''
+doi: 10.1162/qss_a_00299
+date: 2024-03-01
+publisher: ""
 venue: Quantitative Science Studies
 volume: 5 (1)
-issue: ''
-doi: 10.1162/qss_a_00299
+issue: ""
 pages: 246–260.
-chapter: ''
+chapter: ""
 links:
-  - >-
-    https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00299/119838/Scholarly-publications-and-data-set-evidence-for
+  - https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00299/119838/Scholarly-publications-and-data-set-evidence-for
+projects:
+  - human-reference-atlas
 tags:
   - hra
