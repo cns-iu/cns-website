@@ -1,4 +1,6 @@
 slug: pub-440
+type: manuscript
+title: "The IBEX Knowledge-Base: Achieving more together with open science"
 authors:
   - andrea-j-radtke
   - ifeanyichukwu-anidi
@@ -32,17 +34,17 @@ authors:
   - ian-lamborn
   - yuri-lin
 editors: []
-type: manuscript
-title: 'The IBEX Knowledge-Base: Achieving more together with open science'
-date: '2024-07-26'
-publisher: ''
-venue: Arxiv- Quantitative Biology
-volume: ''
-issue: ''
 doi: 10.48550/arXiv.2407.19059
-pages: ''
-chapter: ''
+date: 2024-07-26
+publisher: ""
+venue: Arxiv- Quantitative Biology
+volume: ""
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://arxiv.org/abs/2407.19059
+projects:
+  - human-reference-atlas
 tags:
   - hra
