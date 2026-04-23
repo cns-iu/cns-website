@@ -1310,6 +1310,9 @@
     "thumbnail": "human-physiology-wpp.png",
     "link": "https://reporter.nih.gov/project-details/11224772",
     "featured": true,
+    "projects": [
+      "whole-person-physiome"
+    ],
     "tags": [
       "featured",
       "whole-person-physiome"
