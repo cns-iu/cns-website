@@ -1,13 +1,14 @@
 slug: pub-182
-link: >-
-  https://hubmapconsortium.org/human-reference-atlas-charts-human-body-at-single-cell-level/
 title: Anatomical structures, cell types and biomarkers of the Human Reference Atlas
-description: ''
-date: '2021-11-08'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://hubmapconsortium.org/human-reference-atlas-charts-human-body-at-single-cell-level/
-caption: ''
-publisher: ''
-reporter: HuBMAP Consortium
+link: https://hubmapconsortium.org/human-reference-atlas-charts-human-body-at-single-cell-level/
+date: 2021-11-08
+thumbnail: hra-flagship-paper.png
+projects:
+  - human-reference-atlas
 tags: []
+description: ""
+mediaType: null
+mediaUrl: ""
+caption: ""
+publisher: ""
+reporter: HuBMAP Consortium
