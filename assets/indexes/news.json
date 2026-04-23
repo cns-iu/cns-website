@@ -1224,16 +1224,20 @@
   },
   {
     "slug": "pub-188",
-    "link": "https://news.iu.edu/luddy/live/news/45384-amatria-birthday-brings-hope-growth",
     "title": "Amatria Birthday brings hope, growth",
-    "description": "",
+    "link": "https://news.iu.edu/luddy/live/news/45384-amatria-birthday-brings-hope-growth",
     "date": "2025-04-28T00:00:00.000Z",
+    "thumbnail": "amatria-bday.png",
+    "projects": [
+      "amatria"
+    ],
+    "tags": [],
+    "description": "",
     "mediaType": "image",
     "mediaUrl": "amatria-bday.png",
     "caption": "",
     "publisher": "IU News",
-    "reporter": "Pete DiPrimio",
-    "tags": []
+    "reporter": "Pete DiPrimio"
   },
   {
     "slug": "pub-187",

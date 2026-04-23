@@ -1,11 +1,14 @@
 slug: pub-188
-link: https://news.iu.edu/luddy/live/news/45384-amatria-birthday-brings-hope-growth
 title: Amatria Birthday brings hope, growth
-description: ""
+link: https://news.iu.edu/luddy/live/news/45384-amatria-birthday-brings-hope-growth
 date: 2025-04-28
+thumbnail: amatria-bday.png
+projects:
+  - amatria
+tags: []
+description: ""
 mediaType: image
 mediaUrl: amatria-bday.png
 caption: ""
 publisher: IU News
 reporter: Pete DiPrimio
-tags: []
