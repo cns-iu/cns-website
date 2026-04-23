@@ -191,15 +191,18 @@
   {
     "slug": "ws-86",
     "type": "workshop",
+    "title": "Macroscope Tools for Global Challenges Workshop",
     "link": "https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/",
-    "title": "Macroscope Tools for Global Challenges",
-    "description": "",
-    "location": "Bloomington, Indiana, USA",
     "dateStart": "2024-09-20T00:00:00.000Z",
     "dateEnd": "2024-09-20T00:00:00.000Z",
+    "location": "Bloomington, Indiana, USA",
+    "projects": [
+      "macroscopes"
+    ],
     "tags": [
       "exhibits"
-    ]
+    ],
+    "description": ""
   },
   {
     "slug": "ws-85",
@@ -1496,10 +1499,17 @@
   {
     "slug": "pres-735",
     "type": "presentation",
-    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf",
     "title": "Macroscope Tools for Global Challenges",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/20th Iteration Macroscope Tools for Global Challenges-Sept20.pdf",
+    "dateStart": "2024-09-20T00:00:00.000Z",
+    "dateEnd": "2024-09-20T00:00:00.000Z",
     "location": "",
+    "projects": [
+      "macroscopes"
+    ],
+    "tags": [
+      "exhibits"
+    ],
     "presenters": [
       "katy-borner",
       "yunwei-chen",
@@ -1511,12 +1521,8 @@
       "sarah-huggett",
       "andreas-scharnhorst"
     ],
-    "dateStart": "2024-09-20T00:00:00.000Z",
-    "dateEnd": "2024-09-20T00:00:00.000Z",
-    "tags": [
-      "exhibits"
-    ],
-    "event": "ev-890"
+    "event": "ev-890",
+    "description": ""
   },
   {
     "slug": "pres-733",

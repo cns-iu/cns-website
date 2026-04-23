@@ -1,10 +1,12 @@
 slug: ws-86
 type: workshop
+title: Macroscope Tools for Global Challenges Workshop
 link: https://cns-iu.github.io/workshops/2024-09-20-macroscope-tools-for-global-challenges/
-title: Macroscope Tools for Global Challenges
-description: ""
-location: Bloomington, Indiana, USA
 dateStart: 2024-09-20
 dateEnd: 2024-09-20
+location: Bloomington, Indiana, USA
+projects:
+  - macroscopes
 tags:
   - exhibits
+description: ""
