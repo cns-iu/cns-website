@@ -4302,6 +4302,8 @@
   },
   {
     "slug": "pub-390",
+    "type": "article-journal",
+    "title": "Viv: multiscale visualization of high-resolution multiplexed bioimaging data on the web",
     "authors": [
       "trevor-manz",
       "ilan-gold",
@@ -4314,18 +4316,19 @@
       "nils-gehlenborg"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Viv: multiscale visualization of high-resolution multiplexed bioimaging data on the web",
-    "date": "2022-05-11",
+    "doi": "10.1038/s41592-022-01482-7",
+    "date": "2022-05-11T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Methods",
     "volume": "19",
     "issue": "",
-    "doi": "10.1038/s41592-022-01482-7",
     "pages": "515-516 (2022).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2022-Manz_Viv-multiscale-visualization.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra",
