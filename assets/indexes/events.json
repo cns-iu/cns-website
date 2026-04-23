@@ -10315,23 +10315,26 @@
     "attendees": []
   },
   {
-    "slug": "ev-891",
-    "type": "other",
-    "title": "SenNet Science Talk",
-    "description": "",
-    "location": "",
     "organizers": [],
-    "attendees": [],
     "publications": [],
+    "slug": "ev-891",
+    "title": "SenNet Science Talk",
+    "dateStart": "2024-07-30T00:00:00.000Z",
+    "dateEnd": "2024-07-30T00:00:00.000Z",
+    "tutorials": [],
+    "type": "other",
+    "location": "",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-736"
     ],
-    "tutorials": [],
-    "dateStart": "2024-07-30",
-    "dateEnd": "2024-07-30",
-    "tags": [
-      "hra"
-    ]
+    "description": "",
+    "attendees": []
   },
   {
     "slug": "ev-89",
@@ -10386,23 +10389,26 @@
     "link": "https://netsci2024.com/en"
   },
   {
-    "slug": "ev-887",
-    "type": "other",
-    "title": "CFDE Knowledge Center HRA v2.1",
-    "description": "",
-    "location": "Virtual",
     "organizers": [],
-    "attendees": [],
     "publications": [],
+    "slug": "ev-887",
+    "title": "CFDE Knowledge Center HRA v2.1",
+    "dateStart": "2024-07-26T00:00:00.000Z",
+    "dateEnd": "2024-07-26T00:00:00.000Z",
+    "tutorials": [],
+    "type": "other",
+    "location": "Remote event",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "presentations": [
       "pres-732"
     ],
-    "tutorials": [],
-    "dateStart": "2024-07-26",
-    "dateEnd": "2024-07-26",
-    "tags": [
-      "hra"
-    ]
+    "description": "",
+    "attendees": []
   },
   {
     "organizers": [],

@@ -1,15 +1,17 @@
-slug: ev-891
-type: other
-title: SenNet Science Talk
-description: ''
-location: ''
 organizers: []
-attendees: []
 publications: []
-presentations:
-  - pres-736
+slug: ev-891
+title: SenNet Science Talk
+dateStart: 2024-07-30
+dateEnd: 2024-07-30
 tutorials: []
-dateStart: '2024-07-30'
-dateEnd: '2024-07-30'
+type: other
+location: ""
+projects:
+  - human-reference-atlas
 tags:
   - hra
+presentations:
+  - pres-736
+description: ""
+attendees: []
