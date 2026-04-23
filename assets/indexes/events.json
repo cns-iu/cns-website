@@ -10565,18 +10565,26 @@
     "publications": [],
     "slug": "ev-879",
     "type": "exhibit",
-    "link": "https://collections.iu.edu/news/places-spaces-mapping-science.html",
     "title": "Places & Spaces: Mapping Science 20th Iteration Debut",
-    "description": "",
-    "location": "University Collections at McCalla, 525 East 9th Street, Bloomington, Indiana, 47408",
-    "attendees": [],
+    "link": "https://collections.iu.edu/news/places-spaces-mapping-science.html",
+    "thumbnail": "maps1.png",
     "dateStart": "2024-06-06T00:00:00.000Z",
     "dateEnd": "2024-07-06T00:00:00.000Z",
+    "venue": "University Collections at McCalla, 525 East 9th Street",
+    "location": "Bloomington, Indiana, 47408, USA",
+    "projects": [
+      "macroscopes",
+      "maps"
+    ],
+    "mediaUrl": "maps1.png",
     "tutorials": [],
     "tags": [],
     "presentations": [
       "pres-724"
-    ]
+    ],
+    "description": "",
+    "mediaType": "image",
+    "attendees": []
   },
   {
     "slug": "ev-878",
