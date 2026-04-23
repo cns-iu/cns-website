@@ -3225,6 +3225,8 @@
   },
   {
     "slug": "pub-425",
+    "type": "article-journal",
+    "title": "Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)",
     "authors": [
       "sanjay-jain",
       "liming-pei",
@@ -3255,18 +3257,19 @@
       "michael-p-snyder"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)",
-    "date": "2023-07-19",
+    "doi": "10.1038/s41556-023-01194-w",
+    "date": "2023-07-19T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Cell Biology",
     "volume": "",
     "issue": "",
-    "doi": "10.1038/s41556-023-01194-w",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Jain_Advances-and-prospects.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
@@ -3274,6 +3277,8 @@
   },
   {
     "slug": "pub-424",
+    "type": "article-journal",
+    "title": "Specimen, biological structure, and spatial ontologies in support of a Human Reference Atlas",
     "authors": [
       "bruce-w-herr-ii",
       "josef-hardi",
@@ -3287,18 +3292,19 @@
       "katy-borner"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Specimen, biological structure, and spatial ontologies in support of a Human Reference Atlas",
-    "date": "2023-03-27",
+    "doi": "10.1038/s41597-023-01993-8",
+    "date": "2023-03-27T00:00:00.000Z",
     "publisher": "",
     "venue": "Nature Scientific Data",
     "volume": "10",
     "issue": "",
-    "doi": "10.1038/s41597-023-01993-8",
     "pages": "171 (2023).",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Herr-Specimen_biological_structure.pdf"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
