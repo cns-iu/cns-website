@@ -9898,17 +9898,21 @@
   {
     "slug": "lourtd5f31xocxs11g5qh",
     "type": "other",
-    "link": "https://cns.iu.edu/amatria#8th-birthday-party",
     "title": "Amatria's 8th Birthday Party",
-    "location": "Bloomington, Indiana, USA",
-    "mediaType": "image",
-    "mediaUrl": "amatria-7th-2025.png",
+    "link": "https://cns.iu.edu/amatria#8th-birthday-party",
+    "thumbnail": "amatria-7th-2025.png",
     "dateStart": "2026-04-17T00:00:00.000Z",
     "dateEnd": "2026-04-17T00:00:00.000Z",
+    "location": "Bloomington, Indiana, USA",
+    "projects": [
+      "amatria"
+    ],
     "tags": [
       "amatria",
       "featured"
-    ]
+    ],
+    "mediaType": "image",
+    "mediaUrl": "amatria-7th-2025.png"
   },
   {
     "slug": "kf03bd6kp1p9aaf12j6sh",
@@ -10118,14 +10122,15 @@
     "slug": "ev-899",
     "type": "conference",
     "title": "Aegean Conferences: 16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
-    "description": "",
-    "location": "",
-    "mediaUrl": "event5.6.2026.png",
+    "link": "event5.6.2026.png",
     "dateStart": "2026-05-07T00:00:00.000Z",
     "dateEnd": "2026-05-12T00:00:00.000Z",
-    "tutorials": [],
+    "location": "",
     "tags": [],
+    "mediaUrl": "event5.6.2026.png",
+    "tutorials": [],
     "presentations": [],
+    "description": "",
     "attendees": []
   },
   {
