@@ -1585,6 +1585,7 @@
   {
     "slug": "pub-469",
     "type": "article-journal",
+    "thumbnail": "fig1s41597-025-04589-6.png",
     "title": "Ensuring Adherence to Standards in Experiment-Related Metadata Entered Via Spreadsheets",
     "authors": [
       "martin-j-oconnor",
@@ -1609,6 +1610,9 @@
       "https://www.nature.com/articles/s41597-025-04589-6"
     ],
     "mediaUrl": "fig1s41597-025-04589-6.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
