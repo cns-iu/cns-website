@@ -1730,6 +1730,7 @@
   {
     "slug": "pub-466",
     "type": "manuscript",
+    "thumbnail": "fig1-2025.04.10.648034.png",
     "title": "Benchmarking single cell transcriptome matching methods for incremental growth of reference atlases",
     "authors": [
       "joyce-hu",
@@ -1758,6 +1759,9 @@
       "https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1"
     ],
     "mediaUrl": "fig1-2025.04.10.648034.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
