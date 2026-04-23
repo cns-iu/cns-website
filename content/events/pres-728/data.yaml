@@ -1,15 +1,18 @@
 slug: pres-728
 type: presentation
-link: https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf
 title: VCCF Cell Distance Visualizations
-description: ""
-location: Virtual
+link: https://cns.iu.edu/docs/presentations/VCCF Vis @ SenNet.pptx.pdf
+thumbnail: cde-gallery-lung-codex-urmc.png
+dateStart: 2024-05-29
+dateEnd: 2024-05-29
+location: Remote event
+projects:
+  - human-reference-atlas
+tags:
+  - hra
 presenters:
   - katy-borner
   - yashvardhan-jain
   - supriya-bidanta
-dateStart: 2024-05-29
-dateEnd: 2024-05-29
-tags:
-  - hra
 event: ev-883
+description: ""
