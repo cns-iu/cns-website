@@ -1,4 +1,7 @@
 slug: pub-421
+type: article-journal
+title: The HRA Organ Gallery affords immersive superpowers for building and
+  exploring the Human Reference Atlas with virtual reality
 authors:
   - andreas-bueckle
   - catherine-qing
@@ -7,19 +10,17 @@ authors:
   - naval-pandey
   - katy-borner
 editors: []
-type: article-journal
-title: >-
-  The HRA Organ Gallery affords immersive superpowers for building and exploring
-  the Human Reference Atlas with virtual reality
-date: '2023-04-27'
-publisher: ''
-venue: Frontiers in Bioinformatics
-volume: '3'
-issue: ''
 doi: 10.3389/fbinf.2023.1162723
-pages: ''
-chapter: ''
+date: 2023-04-27
+publisher: ""
+venue: Frontiers in Bioinformatics
+volume: "3"
+issue: ""
+pages: ""
+chapter: ""
 links:
   - https://cns.iu.edu/docs/publications/2023-Bueckle_HRA-Organ-Gallery.pdf
+projects:
+  - human-reference-atlas
 tags:
   - hra
