@@ -3114,24 +3114,29 @@
   },
   {
     "slug": "pub-427",
+    "type": "paper-conference",
+    "thumbnail": "2023-kong_scholarly-publications.png",
+    "title": "Scholarly publications and dataset evidence for the human reference atlas",
     "authors": [
       "yongxin-kong",
       "vicky-amar-daiya",
       "katy-borner"
     ],
     "editors": [],
-    "type": "paper-conference",
-    "title": "Scholarly publications and dataset evidence for the human reference atlas",
-    "date": "2023-07-03",
+    "doi": "",
+    "date": "2023-07-03T00:00:00.000Z",
     "publisher": "",
     "venue": "19th International Conference on Scientometrics and Informetrics (ISSI 2023), Bloomington, IN",
     "volume": "",
     "issue": "",
-    "doi": "",
     "pages": "",
     "chapter": "",
     "links": [
       "https://cns.iu.edu/docs/publications/2023-Kong_Scholarly-publications (ISSI).pdf"
+    ],
+    "mediaUrl": "2023-kong_scholarly-publications.png",
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
