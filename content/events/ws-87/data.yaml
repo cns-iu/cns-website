@@ -1,10 +1,12 @@
 slug: ws-87
 type: workshop
-title: 'Human Reference Atlas (HRA): Powers of Ten Workshop'
-description: ''
+title: "Human Reference Atlas (HRA): Powers of Ten Workshop"
+link: https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/
+dateStart: 2024-10-24
+dateEnd: 2024-10-25
 location: Rockville, Maryland, USA
-dateStart: '2024-10-24'
-dateEnd: '2024-10-25'
+projects:
+  - human-reference-atlas
 tags:
   - hra
-link: https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/
+description: ""
