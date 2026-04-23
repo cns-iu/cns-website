@@ -1076,6 +1076,7 @@
   {
     "slug": "pub-484",
     "type": "article-journal",
+    "thumbnail": "fig1-s41597-025-06383-w.png",
     "title": "A general strategy for generating expert-guided, simplified views of ontologies",
     "authors": [
       "anita-r-caron",
@@ -1107,6 +1108,9 @@
       "https://www.nature.com/articles/s41597-025-06383-w"
     ],
     "mediaUrl": "fig1-s41597-025-06383-w.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ]
@@ -1324,6 +1328,7 @@
   {
     "slug": "pub-478",
     "type": "article-journal",
+    "thumbnail": "fig1-s41592-025-02879-w.png",
     "title": "CellSAM: A Foundation Model for Cell Segmentation",
     "authors": [
       "markus-marks",
