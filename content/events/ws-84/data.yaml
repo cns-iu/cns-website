@@ -1,9 +1,13 @@
 slug: ws-84
-type: workshop
-title: 'Places & Spaces: Mapping Science exhibit, Celebrating 20 years'
-description: ''
-location: University Collections at McCalla, Bloomington, Indiana, USA
-dateStart: '2024-06-06'
-dateEnd: '2024-06-06'
-tags: []
+type: exhibit
+title: "Places & Spaces: Mapping Science exhibit, Celebrating 20 years"
 link: https://cns-iu.github.io/workshops/2024-6-6_20-years-Places-Spaces/
+dateStart: 2024-06-06
+dateEnd: 2024-06-06
+venue: University Collections at McCalla
+location: Bloomington, Indiana, USA
+projects:
+  - macroscopes
+  - maps
+tags: []
+description: ""
