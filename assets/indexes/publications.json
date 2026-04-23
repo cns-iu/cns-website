@@ -2418,6 +2418,8 @@
   },
   {
     "slug": "pub-446",
+    "type": "article-journal",
+    "title": "Molecular Signatures of Glomerular Neovascularization in a Patient with Diabetic Kidney Disease",
     "authors": [
       "michael-j-ferkowicz",
       "daria-barwinska",
@@ -2432,18 +2434,19 @@
       "kidney-precision-medicine-project"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Molecular Signatures of Glomerular Neovascularization in a Patient with Diabetic Kidney Disease",
-    "date": "2024-02-01",
+    "doi": "",
+    "date": "2024-02-01T00:00:00.000Z",
     "publisher": "",
     "venue": "Clinical Journal of the American Society of Nephrology",
     "volume": "19 (2)",
     "issue": "",
-    "doi": "",
     "pages": "266-275",
     "chapter": "",
     "links": [
       "https://journals.lww.com/cjasn/abstract/2024/02000/molecular_signatures_of_glomerular.21.aspx"
+    ],
+    "projects": [
+      "human-reference-atlas"
     ],
     "tags": [
       "hra"
