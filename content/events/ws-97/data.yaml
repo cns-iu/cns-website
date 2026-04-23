@@ -1,10 +1,11 @@
 slug: ws-97
 type: workshop
-link: https://mappingcomplexity.net/mainpage/netsci2026/
 title: NetSci 2026 Network Geometry, Theory and Applications
-description: ""
-location: Boston, MA, USA
-mediaUrl: netsciboston2026.png
+link: https://mappingcomplexity.net/mainpage/netsci2026/
+thumbnail: netsciboston2026.png
 dateStart: 2026-06-01
 dateEnd: 2026-06-01
+location: Boston, MA, USA
 tags: []
+description: ""
+mediaUrl: netsciboston2026.png
