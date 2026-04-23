@@ -1045,6 +1045,7 @@
   {
     "slug": "pub-485",
     "type": "article-journal",
+    "thumbnail": "pub1.26.2026.png",
     "title": "Preparing the next generation of Complex Networks and Systems scientists: Evaluation results for the Complex Networks and Systems NSF research training program at Indiana University",
     "authors": [
       "michael-ginda",
@@ -1067,6 +1068,7 @@
       "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334779 "
     ],
     "mediaUrl": "pub1.26.2026.png",
+    "featured": true,
     "tags": [
       "featured"
     ]
