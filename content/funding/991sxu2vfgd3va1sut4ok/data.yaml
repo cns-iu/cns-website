@@ -1,15 +1,17 @@
 slug: 991sxu2vfgd3va1sut4ok
 type: research
-link: https://reporter.nih.gov/project-details/11224772
-name: NIH 1U24AT013504-01
 title: Whole Person Reference Physiome Research and Coordination Center
+name: NIH 1U24AT013504-01
 funder: National Institutes of Health
-investigators:
-  - katy-borner
 amount: 6476031
-mediaUrl: wpp-thumbnail.png
 dateStart: 2025-08-08
 dateEnd: 2028-07-31
+thumbnail: human-physiology-wpp.png
+link: https://reporter.nih.gov/project-details/11224772
+featured: true
 tags:
   - featured
   - whole-person-physiome
+investigators:
+  - katy-borner
+mediaUrl: wpp-thumbnail.png
