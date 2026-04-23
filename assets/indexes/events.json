@@ -118,17 +118,21 @@
   {
     "slug": "ws-91",
     "type": "workshop",
-    "link": "https://cns-iu.github.io/workshops/2025-06-23_hra_workshop",
     "title": "HuBMAP Human Reference Atlas Workshop",
-    "description": "",
-    "location": "Bloomington, Indiana, USA",
-    "mediaType": "image",
-    "mediaUrl": "workshop-june2025.png",
+    "link": "https://cns-iu.github.io/workshops/2025-06-23_hra_workshop",
+    "thumbnail": "workshop-june2025.png",
     "dateStart": "2025-06-23T00:00:00.000Z",
     "dateEnd": "2025-06-24T00:00:00.000Z",
+    "location": "Bloomington, Indiana, USA",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
-    ]
+    ],
+    "description": "",
+    "mediaType": "image",
+    "mediaUrl": "workshop-june2025.png"
   },
   {
     "slug": "ws-9",
