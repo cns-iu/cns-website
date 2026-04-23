@@ -10414,21 +10414,24 @@
     "organizers": [],
     "publications": [],
     "slug": "ev-886",
-    "type": "conference",
-    "link": "https://ami.org/",
     "title": "Association of Medical Illustrators (AMI) 2024",
-    "description": "",
-    "location": "Rochester, NY",
-    "attendees": [],
     "dateStart": "2024-07-23T00:00:00.000Z",
     "dateEnd": "2024-07-27T00:00:00.000Z",
     "tutorials": [],
+    "type": "conference",
+    "link": "https://ami.org/",
+    "location": "Rochester, New York, USA",
+    "projects": [
+      "human-reference-atlas"
+    ],
     "tags": [
       "hra"
     ],
     "presentations": [
       "pres-731"
-    ]
+    ],
+    "description": "",
+    "attendees": []
   },
   {
     "slug": "ev-885",
