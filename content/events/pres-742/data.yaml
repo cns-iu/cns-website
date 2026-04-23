@@ -1,13 +1,14 @@
 slug: pres-742
 type: presentation
-title: >-
-  Science Macroscopes: Interactive Data Visualizations for Exploring Networks in
-  Global Society
-description: ''
+title: "Science Macroscopes: Interactive Data Visualizations for Exploring
+  Networks in Global Society"
+link: https://cns.iu.edu/docs/presentations/NetSci2025_LightningTalk.pdf
+dateStart: 2025-06-02
+dateEnd: 2025-06-02
 location: Maastricht, Netherlands
+projects:
+  - macroscopes
+description: ""
 presenters:
   - katy-borner
-dateStart: '2025-06-02'
-dateEnd: '2025-06-02'
 event: ev-898
-link: https://cns.iu.edu/docs/presentations/NetSci2025_LightningTalk.pdf
