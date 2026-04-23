@@ -1181,16 +1181,20 @@
   },
   {
     "slug": "pub-190",
-    "link": "https://mitpress.mit.edu/new-books-for-september-2025-on-liberalism-somebody-should-do-something-what-is-intelligence-and-more/",
     "title": "New books for September 2025: On Liberalism, Somebody Should Do Something, What Is Intelligence?, and more",
-    "description": "",
+    "link": "https://mitpress.mit.edu/new-books-for-september-2025-on-liberalism-somebody-should-do-something-what-is-intelligence-and-more/",
     "date": "2025-09-01T00:00:00.000Z",
+    "thumbnail": "atlas-macroscopes.png",
+    "projects": [
+      "macroscopes"
+    ],
+    "tags": [],
+    "description": "",
     "mediaType": "image",
     "mediaUrl": "atlas-macroscopes.png",
     "caption": "",
     "publisher": "",
-    "reporter": "The MIT Press",
-    "tags": []
+    "reporter": "The MIT Press"
   },
   {
     "slug": "pub-19",
@@ -1259,16 +1263,20 @@
   },
   {
     "slug": "pub-185",
-    "link": "https://news.iu.edu/luddy/live/news/46697-luddys-bueckle-wins-two-grants-co-authors-paper",
     "title": "Luddy’s Bueckle wins two grants, co-authors paper",
-    "description": "",
+    "link": "https://news.iu.edu/luddy/live/news/46697-luddys-bueckle-wins-two-grants-co-authors-paper",
     "date": "2025-08-13T00:00:00.000Z",
+    "thumbnail": "cdfe-3.24.2026.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [],
+    "description": "",
     "mediaType": "image",
-    "mediaUrl": "hra-cell-illustration.png",
+    "mediaUrl": "cdfe-3.24.2026.png",
     "caption": "",
     "publisher": "IU News",
-    "reporter": "Pete DiPrimio",
-    "tags": []
+    "reporter": "Pete DiPrimio"
   },
   {
     "slug": "pub-184",
