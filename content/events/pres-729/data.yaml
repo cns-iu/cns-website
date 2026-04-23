@@ -1,14 +1,18 @@
 slug: pres-729
 type: presentation
 title: Human Reference Atlas User Stories 1 and 2
-description: ''
-location: Virtual
-presenters:
-  - andreas-bueckle
-dateStart: '2024-06-05'
-dateEnd: '2024-06-05'
-event: ev-884
-link: >-
-  https://cns.iu.edu/docs/presentations/2024.06.05_SenNet_CODCC_HRAUS#1-2_Demo.pdf
+link: https://cns.iu.edu/docs/presentations/2024.06.05_SenNet_CODCC_HRAUS#1-2_Demo.pdf
+thumbnail: hra-human2024.png
+dateStart: 2024-06-05
+dateEnd: 2024-06-05
+location: Remote event
+projects:
+  - human-reference-atlas
 tags:
   - hra
+description: ""
+mediaType: image
+mediaUrl: hra-human2024.png
+presenters:
+  - andreas-bueckle
+event: ev-884
