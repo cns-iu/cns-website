@@ -5,12 +5,11 @@ link: https://cns.iu.edu/amatria#8th-birthday-party
 dateStart: 2026-04-17
 dateEnd: 2026-04-17
 thumbnail: amatria-7th-2025.png
-featured: true
+featured: false
 projects:
   - amatria
 tags:
   - amatria
-  - featured
 location: Bloomington, Indiana, USA
 mediaType: image
 mediaUrl: amatria-7th-2025.png
