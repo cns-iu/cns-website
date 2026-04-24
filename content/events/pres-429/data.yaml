@@ -1,11 +1,13 @@
 slug: pres-429
 type: presentation
 title: Places & Spaces Exhibit Opening
-description: ''
-location: Chicago, IL
+link: https://cns.iu.edu/docs/presentations/2015-borner-opening-nwu.pdf
+dateStart: 2015-05-14
+dateEnd: 2015-05-14
+thumbnail: places-and-spaces.png
+location: Chicago, Illinois, USA
+description: ""
+mediaUrl: places-and-spaces.png
 presenters:
   - katy-borner
-dateStart: '2015-05-14'
-dateEnd: '2015-05-14'
 event: ev-561
-link: https://cns.iu.edu/docs/presentations/2015-borner-opening-nwu.pdf
