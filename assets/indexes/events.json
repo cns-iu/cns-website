@@ -244,14 +244,16 @@
     "link": "https://cns-iu.github.io/workshops/2023-12-9_24hour_science_map/",
     "dateStart": "2023-12-09T00:00:00.000Z",
     "dateEnd": "2023-12-10T00:00:00.000Z",
-    "location": "Remote event",
+    "thumbnail": "macroscopes10.26.2025.png",
     "projects": [
       "macroscopes"
     ],
     "tags": [
       "exhibits"
     ],
-    "description": ""
+    "location": "Remote event",
+    "description": "",
+    "mediaUrl": "macroscopes10.26.2025.png"
   },
   {
     "slug": "ws-82",
