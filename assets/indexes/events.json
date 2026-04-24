@@ -1804,18 +1804,23 @@
     "slug": "pres-712",
     "type": "presentation",
     "title": "Why + How We Construct the Human Reference Atlas",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/23-SenNet-HRA-Talk.pdf",
+    "dateStart": "2023-02-22T00:00:00.000Z",
+    "dateEnd": "2023-02-22T00:00:00.000Z",
+    "thumbnail": "hra-human2024.png",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "tags": [
+      "hra"
+    ],
     "location": "Pittsburgh, PA (Virtual Event)",
+    "description": "",
+    "mediaUrl": "hra-human2024.png",
     "presenters": [
       "katy-borner"
     ],
-    "dateStart": "2023-02-22",
-    "dateEnd": "2023-02-22",
-    "event": "ev-870",
-    "link": "https://cns.iu.edu/docs/presentations/23-SenNet-HRA-Talk.pdf",
-    "tags": [
-      "hra"
-    ]
+    "event": "ev-870"
   },
   {
     "slug": "pres-711",
