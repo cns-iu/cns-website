@@ -1,13 +1,15 @@
 slug: pres-723
 type: presentation
-title: 'Keynote: The Human Reference Atlas '
-description: ''
+title: "Keynote: The Human Reference Atlas "
+link: https://cns.iu.edu/docs/presentations/AUA2024-human-ref-atlas-herr.pdf
+dateStart: 2024-05-05
+dateEnd: 2024-05-05
+projects:
+  - human-reference-atlas
+tags:
+  - hra
 location: San Antonio, TX
 presenters:
   - bruce-w-herr-ii
-dateStart: '2024-05-05'
-dateEnd: '2024-05-05'
 event: ev-878
-link: https://cns.iu.edu/docs/presentations/AUA2024-human-ref-atlas-herr.pdf
-tags:
-  - hra
+description: ""
