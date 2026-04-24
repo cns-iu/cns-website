@@ -1,11 +1,19 @@
 slug: pres-426
 type: presentation
 title: Art Exhibition “Places & Spaces – Mapping Science”
-description: ''
+link: https://cns.iu.edu/docs/presentations/2015-borner-bonn-opening.pdf
+dateStart: 2015-05-11
+dateEnd: 2015-05-11
+thumbnail: places-and-spaces.png
+projects:
+  - macroscopes
+  - maps
+tags:
+  - exhibits
 location: Bonn, Germany
+description: ""
+mediaType: image
+mediaUrl: places-and-spaces.png
 presenters:
   - katy-borner
-dateStart: '2015-05-11'
-dateEnd: '2015-05-11'
 event: ev-559
-link: https://cns.iu.edu/docs/presentations/2015-borner-bonn-opening.pdf
