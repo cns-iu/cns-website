@@ -318,14 +318,20 @@
   },
   {
     "slug": "ws-78",
-    "type": "workshop",
+    "type": "exhibit",
     "title": "Places & Spaces at the University of Michigan's Clark Library",
-    "description": "",
-    "location": "Ann Arbor, Michigan, USA",
-    "dateStart": "2022-08-29",
-    "dateEnd": "2022-11-25",
+    "link": "https://cns-iu.github.io/workshops/2022-08-29-michigan-university-places-spaces/",
+    "dateStart": "2022-08-29T00:00:00.000Z",
+    "dateEnd": "2022-11-25T00:00:00.000Z",
+    "thumbnail": "places-and-spaces.png",
+    "projects": [
+      "macroscopes",
+      "maps"
+    ],
     "tags": [],
-    "link": "https://cns-iu.github.io/workshops/2022-08-29-michigan-university-places-spaces/"
+    "location": "Ann Arbor, Michigan, USA",
+    "description": "",
+    "mediaUrl": "places-and-spaces.png"
   },
   {
     "slug": "ws-77",
