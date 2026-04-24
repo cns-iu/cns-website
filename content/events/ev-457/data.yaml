@@ -1,21 +1,27 @@
-slug: ev-457
-type: visit
-title: University of North Texas Places and Spaces Exhibit Opening
-description: ''
-location: >-
-  Texas Center for Digital Knowledge TxCDK,, College of Information Room B-201,
-  Discovery Park 3940 N. Elm St., Denton, TX, 76203-5017
 organizers: []
-attendees: []
 publications: []
+slug: ev-457
+type: exhibit
+title: University of North Texas Places and Spaces Exhibit Opening
+link: https://scimaps.org/venues
+dateStart: 2011-09-29
+dateEnd: 2011-10-01
+thumbnail: places-and-spaces.png
+tags:
+  - exhibits
+location: Texas Center for Digital Knowledge TxCDK, College of Information Room
+  B-201, Discovery Park 3940 N. Elm St., Denton, TX, 76203-5017
+mediaUrl: places-and-spaces.png
+tutorials: []
 presentations:
   - pres-305
   - pres-306
   - pres-307
   - pres-308
   - pres-309
-tutorials: []
-dateStart: '2011-09-29'
-dateEnd: '2011-10-01'
-tags: []
-link: http://www.scimaps.org/exhibitions/unt/
+projects:
+  - macroscopes
+  - maps
+description: ""
+mediaType: image
+attendees: []
