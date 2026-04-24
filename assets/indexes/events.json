@@ -5995,15 +5995,25 @@
     "slug": "pres-396",
     "type": "presentation",
     "title": "The Information Visualization MOOC Plug-and-Play Macroscopes Mapping Science Exhibit",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/2014-borner-nitrd.pdf",
+    "dateStart": "2014-05-02T00:00:00.000Z",
+    "dateEnd": "2014-05-02T00:00:00.000Z",
+    "thumbnail": "places-and-spaces.png",
+    "projects": [
+      "macroscopes",
+      "maps"
+    ],
+    "tags": [
+      "exhibits"
+    ],
     "location": "",
+    "description": "",
+    "mediaType": "image",
+    "mediaUrl": "places-and-spaces.png",
     "presenters": [
       "katy-borner"
     ],
-    "dateStart": "2014-05-02",
-    "dateEnd": "2014-05-02",
-    "event": "ev-875",
-    "link": "https://cns.iu.edu/docs/presentations/2014-borner-nitrd.pdf"
+    "event": "ev-875"
   },
   {
     "slug": "pres-395",
