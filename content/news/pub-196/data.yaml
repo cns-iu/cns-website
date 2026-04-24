@@ -3,10 +3,12 @@ title: BioRevolution Podcast
 link: https://youtu.be/ShxV6a5v2L8
 date: 2026-01-20
 thumbnail: biorevolutionpodcast1.19.2026.png
+featured: true
 projects:
   - human-reference-atlas
 tags:
   - hra
+  - featured
 description: "In this episode of the BioRevolution podcast, Katy Börner joins
   Andreas Horchler and Louise von Stechow as a guest. Katy is Professor of
   Engineering and Information Science at Indiana University, leads the
