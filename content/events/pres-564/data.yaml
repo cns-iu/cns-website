@@ -1,11 +1,15 @@
 slug: pres-564
 type: presentation
-title: 'Amatria: Sentient Architecture (R)evolution'
-description: ''
+title: "Amatria: Sentient Architecture (R)evolution"
+link: https://cns.iu.edu/docs/presentations/2018-(R)evolution)-Borner.pdf
+dateStart: 2018-09-08
+dateEnd: 2018-09-08
+projects:
+  - amatria
+tags:
+  - amatria
 location: Indiana University Bloomington, Bloomington, Indiana
 presenters:
   - katy-borner
-dateStart: '2018-09-08'
-dateEnd: '2018-09-08'
 event: ev-711
-link: https://cns.iu.edu/docs/presentations/2018-(R)evolution)-Borner.pdf
+description: ""

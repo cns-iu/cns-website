@@ -2811,11 +2811,19 @@
   },
   {
     "slug": "pres-632",
-    "type": "other",
-    "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf",
+    "type": "celebration",
     "title": "Amatria's 2nd Birthday Celebration",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf",
+    "dateStart": "2020-04-13T00:00:00.000Z",
+    "dateEnd": "2020-04-13T00:00:00.000Z",
+    "projects": [
+      "amatria"
+    ],
+    "tags": [
+      "amatria"
+    ],
     "location": "Bloomington, Indiana (Virtual Event)",
+    "description": "",
     "mediaType": "video",
     "mediaUrl": "https://www.youtube.com/watch?v=w3wIoIAkjL0",
     "presenters": [
@@ -2823,8 +2831,6 @@
       "philip-beesley",
       "gabriel-lubell"
     ],
-    "dateStart": "2020-04-13T00:00:00.000Z",
-    "dateEnd": "2020-04-13T00:00:00.000Z",
     "event": "ev-829"
   },
   {
@@ -3582,15 +3588,21 @@
     "slug": "pres-564",
     "type": "presentation",
     "title": "Amatria: Sentient Architecture (R)evolution",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/2018-(R)evolution)-Borner.pdf",
+    "dateStart": "2018-09-08T00:00:00.000Z",
+    "dateEnd": "2018-09-08T00:00:00.000Z",
+    "projects": [
+      "amatria"
+    ],
+    "tags": [
+      "amatria"
+    ],
     "location": "Indiana University Bloomington, Bloomington, Indiana",
     "presenters": [
       "katy-borner"
     ],
-    "dateStart": "2018-09-08",
-    "dateEnd": "2018-09-08",
     "event": "ev-711",
-    "link": "https://cns.iu.edu/docs/presentations/2018-(R)evolution)-Borner.pdf"
+    "description": ""
   },
   {
     "slug": "pres-563",
