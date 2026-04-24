@@ -1,20 +1,19 @@
 slug: pub-402
+type: article-journal
+title: Multi-Level Graph Representation for Big Data Arising in Science Mapping
+  (Dagstuhl Seminar 21152)
 authors:
-  - katy-ed-borner
+  - katy-borner
   - stephen-kobourov-ed
 editors: []
-type: article-journal
-title: >-
-  Multi-Level Graph Representation for Big Data Arising in Science Mapping
-  (Dagstuhl Seminar 21152)
-date: '2021-09-07'
+doi: 10.4230/DagRep.11.3.1
+date: 2021-09-07
 publisher: Dagstuhl Publishing
 venue: Dagstuhl Reports
-volume: '11'
-issue: '3'
-doi: 10.4230/DagRep.11.3.1
+volume: "11"
+issue: "3"
 pages: 1-15.
-chapter: ''
+chapter: ""
 links:
   - https://cns.iu.edu/docs/publications/2021-borner-dagstuhl.pdf
 tags: []

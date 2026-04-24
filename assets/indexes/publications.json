@@ -4037,19 +4037,19 @@
   },
   {
     "slug": "pub-402",
+    "type": "article-journal",
+    "title": "Multi-Level Graph Representation for Big Data Arising in Science Mapping (Dagstuhl Seminar 21152)",
     "authors": [
-      "katy-ed-borner",
+      "katy-borner",
       "stephen-kobourov-ed"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Multi-Level Graph Representation for Big Data Arising in Science Mapping (Dagstuhl Seminar 21152)",
-    "date": "2021-09-07",
+    "doi": "10.4230/DagRep.11.3.1",
+    "date": "2021-09-07T00:00:00.000Z",
     "publisher": "Dagstuhl Publishing",
     "venue": "Dagstuhl Reports",
     "volume": "11",
     "issue": "3",
-    "doi": "10.4230/DagRep.11.3.1",
     "pages": "1-15.",
     "chapter": "",
     "links": [
