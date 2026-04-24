@@ -8294,15 +8294,18 @@
     "slug": "pres-240",
     "type": "presentation",
     "title": "Maps at an Exhibition",
-    "description": "",
+    "link": "https://cns.iu.edu/docs/presentations/2010-borner-p+s-florida.pdf",
+    "dateStart": "2010-03-18T00:00:00.000Z",
+    "dateEnd": "2010-03-18T00:00:00.000Z",
+    "projects": [
+      "maps"
+    ],
     "location": "University of Florida, PO Box 117011, Marston Science Library, UF, Gainesville, US, 32611-7011",
+    "description": "",
     "presenters": [
       "katy-borner"
     ],
-    "dateStart": "2010-03-18",
-    "dateEnd": "2010-03-18",
-    "event": "ev-401",
-    "link": "https://cns.iu.edu/docs/presentations/2010-borner-p+s-florida.pdf"
+    "event": "ev-401"
   },
   {
     "slug": "pres-24",
