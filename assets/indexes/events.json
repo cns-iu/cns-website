@@ -24791,6 +24791,25 @@
     "attendees": []
   },
   {
+    "slug": "4rwkcvm0jy6go4sjrap6y",
+    "type": "presentation",
+    "title": "“Mapping ion-exchange processes across functional tissue units using spatial multi-omics and Human Reference Atlas visualizations\"",
+    "dateStart": "2026-03-10T00:00:00.000Z",
+    "dateEnd": "2026-03-13T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "venue": "AI and Biology, EMBO/EMBL Symposium",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "mediaType": "image",
+    "presenters": [
+      "supriya-bidanta"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "2ya5l1rk5iazbw5qhweqp",
     "type": "other",
     "link": "https://www.makevention.org/",
