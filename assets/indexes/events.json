@@ -10106,7 +10106,9 @@
     "tags": [],
     "mediaType": "image",
     "mediaUrl": "interactive-data-visualizations-of-science-and-technology-evolution.png",
-    "presenters": [],
+    "presenters": [
+      "katy-borner"
+    ],
     "instructors": [],
     "organizers": [],
     "attendees": []
