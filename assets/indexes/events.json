@@ -24752,6 +24752,22 @@
     "link": "http://vw.indiana.edu/vda2005/"
   },
   {
+    "slug": "amaubkc1zrykmeqxlwuc3",
+    "type": "presentation",
+    "title": "“News from IU: 5-Star Linked Open Data for Cell Type Populations and Digital Objects from the Human Reference Atlas via the HRA Knowledge Graph\"",
+    "dateStart": "2026-03-25T00:00:00.000Z",
+    "dateEnd": "2026-03-25T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "presenters": [
+      "bruce-w-herr-ii",
+      "andreas-bueckle"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
