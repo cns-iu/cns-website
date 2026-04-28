@@ -379,7 +379,7 @@ collections:
         label: Event type
         widget: select
         options:
-          - { label: 24-hour events, value: '24hour' }
+          - { label: 24-hour event, value: '24hour' }
           - { label: Celebration, value: 'celebration' }
           - { label: Conference, value: 'conference' }
           - { label: Exhibit, value: 'exhibit' }
@@ -452,6 +452,12 @@ collections:
       - <<: *people
         name: attendees
         label: Attendees
+      - name: location
+        label: "Location"
+        widget: string
+        required: false
+        hint: "Old input for location: Do not use"
+      - { name: description, label: Short description, widget: string, required: false }
 
       - *featured
       - *projects
@@ -475,31 +481,6 @@ collections:
       - { name: name, label: Project name, widget: string }
       - <<: *description
         hint: Short description of the project for display on the website
-
-  # TODO remove tag collection
-  # - name: tag
-  #   label: Tags
-  #   folder: content/tags
-  #   path: '{{slug}}/data'
-  #   format: 'yaml'
-  #   extension: 'yaml'
-  #   create: true
-  #   identifier_field: slug
-  #   preview_path: tags/{{fields.slug}}/data.yaml
-  #   media_folder: ''
-  #   public_folder: ''
-  #   summary: '{{name}}'
-  #   sortable_fields: [name]
-  #   fields:
-  #     - *slugNamed
-  #     - { name: name, label: Short Tag, widget: string }
-  #     - <<: *description
-  #       hint: 'Short description of the tag for display on the website'
-  #     - name: hidden
-  #       label: Hidden
-  #       widget: boolean
-  #       required: false
-  #       hint: 'Whether the tag is hidden on the website'
 
 backend:
   name: github

@@ -1,4 +1,7 @@
 slug: pub-468
+type: article-journal
+title: Symposia Report of The Annual Biological Sciences Section Meeting of the
+  Gerontological Society of America 2023, Tampa, Florida
 authors:
   - rogina-blanka
   - rozalyn-anderson
@@ -72,18 +75,15 @@ authors:
   - nicholas-schork
   - noa-rappaport
 editors: []
-type: article-journal
-title: >-
-  Symposia Report of The Annual Biological Sciences Section Meeting of the
-  Gerontological Society of America 2023, Tampa, Florida
-date: '2025-02-11'
+doi: 10.1093/gerona/glaf026
+pmid: PMC12046124
+date: 2025-02-11
 publisher: The Journals of Gerontology
-venue: 'The Journals of Gerontology: Series A'
+venue: "The Journals of Gerontology: Series A"
 volume: Volume 80
 issue: Issue 5
-doi: 10.1093/gerona/glaf026
-pages: ''
-chapter: ''
+pages: ""
+chapter: ""
 links:
   - https://academic.oup.com/biomedgerontology/article/80/5/glaf026/8008765
 tags: []
