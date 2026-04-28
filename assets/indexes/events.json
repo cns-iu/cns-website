@@ -24794,6 +24794,22 @@
     "link": "http://vw.indiana.edu/vda2005/"
   },
   {
+    "slug": "amoezmwszre7k1wa0wcvq",
+    "type": "presentation",
+    "title": "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease",
+    "link": "https://sennetconsortium.org/",
+    "dateStart": "2026-02-20T00:00:00.000Z",
+    "dateEnd": "2026-02-20T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "amaubkc1zrykmeqxlwuc3",
     "type": "presentation",
     "title": "News from IU: 5-Star Linked Open Data for Cell Type Populations and Digital Objects from the Human Reference Atlas via the HRA Knowledge Graph",
