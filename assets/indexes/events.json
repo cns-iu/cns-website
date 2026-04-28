@@ -24844,6 +24844,7 @@
     "title": "Mapping ion-exchange processes across functional tissue units using spatial multi-omics and Human Reference Atlas visualizations",
     "dateStart": "2026-03-10T00:00:00.000Z",
     "dateEnd": "2026-03-13T00:00:00.000Z",
+    "thumbnail": "supriya-ai-and-biology.pptx.png",
     "projects": [
       "human-reference-atlas"
     ],
@@ -24853,13 +24854,13 @@
     "venue": "AI and Biology, EMBO/EMBL Symposium",
     "city": "Heidelberg",
     "country": "Germany",
+    "mediaType": null,
     "presenters": [
       "supriya-bidanta"
     ],
     "instructors": [],
     "organizers": [],
-    "attendees": [],
-    "mediaType": null
+    "attendees": []
   },
   {
     "slug": "2ya5l1rk5iazbw5qhweqp",
