@@ -10075,6 +10075,25 @@
     "mediaUrl": "amatria-7th-2025.png"
   },
   {
+    "slug": "l0yop7bh8sr4eb6dd5xpk",
+    "type": "presentation",
+    "title": "“Visualizing Multiscale Complex Systems”",
+    "link": "luddy-research-symposium.pdf",
+    "dateStart": "2026-02-20T00:00:00.000Z",
+    "dateEnd": "2026-02-20T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "venue": "Luddy School of Informatics, Computing, and Engineering",
+    "city": "Bloomington",
+    "state": "IN",
+    "presenters": [
+      "katy-borner"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "kf03bd6kp1p9aaf12j6sh",
     "type": "workshop",
     "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
