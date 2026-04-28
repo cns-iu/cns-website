@@ -1605,6 +1605,7 @@
     ],
     "editors": [],
     "doi": "10.1038/s41597-025-04589-6",
+    "pmid": "PMC11828951",
     "date": "2025-02-14T00:00:00.000Z",
     "publisher": "",
     "venue": "Scientific Data",
@@ -1625,6 +1626,8 @@
   },
   {
     "slug": "pub-468",
+    "type": "article-journal",
+    "title": "Symposia Report of The Annual Biological Sciences Section Meeting of the Gerontological Society of America 2023, Tampa, Florida",
     "authors": [
       "rogina-blanka",
       "rozalyn-anderson",
@@ -1699,14 +1702,13 @@
       "noa-rappaport"
     ],
     "editors": [],
-    "type": "article-journal",
-    "title": "Symposia Report of The Annual Biological Sciences Section Meeting of the Gerontological Society of America 2023, Tampa, Florida",
-    "date": "2025-02-11",
+    "doi": "10.1093/gerona/glaf026",
+    "pmid": "PMC12046124",
+    "date": "2025-02-11T00:00:00.000Z",
     "publisher": "The Journals of Gerontology",
     "venue": "The Journals of Gerontology: Series A",
     "volume": "Volume 80",
     "issue": "Issue 5",
-    "doi": "10.1093/gerona/glaf026",
     "pages": "",
     "chapter": "",
     "links": [
@@ -1761,6 +1763,7 @@
       "andreas-bueckle"
     ],
     "doi": "10.1101/2025.04.10.648034",
+    "pmid": "PMC12190912",
     "date": "2025-04-16T00:00:00.000Z",
     "publisher": "",
     "venue": "bioRxiv",
@@ -2067,6 +2070,7 @@
     ],
     "editors": [],
     "doi": "10.1038/s41597-025-05183-6",
+    "pmid": "PMC12218032",
     "date": "2025-07-01T00:00:00.000Z",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
