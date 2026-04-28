@@ -5,8 +5,10 @@ title: "News from IU: 5-Star Linked Open Data for Cell Type Populations and
 link: https://sennetconsortium.org/
 dateStart: 2026-03-25
 dateEnd: 2026-03-25
-projects: []
-tags: []
+projects:
+  - human-reference-atlas
+tags:
+  - hra
 presenters:
   - bruce-w-herr-ii
   - andreas-bueckle
