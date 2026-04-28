@@ -24816,6 +24816,22 @@
     "mediaUrl": ""
   },
   {
+    "slug": "8snan10yw3k2wm60wqrot",
+    "type": "presentation",
+    "title": "SenNet RUI Registration Demo",
+    "dateStart": "2026-02-20T00:00:00.000Z",
+    "dateEnd": "2026-02-20T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "venue": "SenNet Data Coordination Working",
+    "presenters": [
+      "danial-qaurooni"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
