@@ -24793,18 +24793,19 @@
     "slug": "amaubkc1zrykmeqxlwuc3",
     "type": "presentation",
     "title": "News from IU: 5-Star Linked Open Data for Cell Type Populations and Digital Objects from the Human Reference Atlas via the HRA Knowledge Graph",
+    "link": "https://sennetconsortium.org/",
     "dateStart": "2026-03-25T00:00:00.000Z",
     "dateEnd": "2026-03-25T00:00:00.000Z",
     "projects": [],
     "tags": [],
-    "mediaUrl": "https://sennetconsortium.org/",
     "presenters": [
       "bruce-w-herr-ii",
       "andreas-bueckle"
     ],
     "instructors": [],
     "organizers": [],
-    "attendees": []
+    "attendees": [],
+    "mediaUrl": ""
   },
   {
     "slug": "5ofi4bekza90uyi6pbkuu",
