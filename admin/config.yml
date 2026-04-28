@@ -329,20 +329,12 @@ collections:
       - *featured
       - *projects
       - *tags
-      - { name: venue, label: "Venue name", widget: string, required: false, hint: "The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is remote, use 'Remote event'" }
+      - { name: venue, label: "Venue name", widget: string, required: false, hint: "The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is online, use 'Virtual event'" }
       - { name: street, label: "Street", widget: string, required: false, hint: "The street address from Google Maps and add a room number if applicable, e.g., '700 N Woodlawn Ave'" }
       - { name: city, label: "City", widget: string, required: false, hint: "The city name, e.g., 'Bloomington'" }
       - { name: state, label: "State", widget: string, required: false, hint: "The country's state, e.g., 'Indiana'" }
       - { name: country, label: "Country", widget: string, required: false, hint: "The country, e.g., 'USA', 'Germany', or 'Canada'" }
-      - name: location
-        label: "Location"
-        widget: string
-        required: false
-        hint: "Old input for location: Do not use"
-      - { name: description, label: Short description, widget: string, required: false }
-      - *mediaType
-      - *mediaUrl
-
+      - { name: postcode, label: "ZIP code or postal code", widget: string, required: false, hint: "The city's ZIP code or international postal code, e.g., '47405'" }
       - <<: *people
         name: presenters
         label: Presenters
@@ -355,6 +347,14 @@ collections:
       - <<: *people
         name: attendees
         label: Attendees
+      - name: location
+        label: "Location"
+        widget: string
+        required: false
+        hint: "Old input for location: Do not use"
+      - { name: description, label: Short description, widget: string, required: false }
+      - *mediaType
+      - *mediaUrl
 
   - name: project
     label: Projects
