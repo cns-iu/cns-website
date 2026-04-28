@@ -10156,6 +10156,25 @@
     "attendees": []
   },
   {
+    "slug": "fah6nln7l30nk1dapbjsw",
+    "type": "presentation",
+    "title": "Constructing and Exploring Data Visualizations of Complex Systems",
+    "link": "https://asuevents.asu.edu/event/making-sense-complexity-katy-borner-constructing-and-exploring-data-visualizations-complex",
+    "dateStart": "2026-02-04T00:00:00.000Z",
+    "dateEnd": "2026-02-04T00:00:00.000Z",
+    "projects": [],
+    "tags": [],
+    "venue": "Arizona State University",
+    "city": "Tempe",
+    "state": "AZ",
+    "presenters": [
+      "katy-borner"
+    ],
+    "instructors": [],
+    "organizers": [],
+    "attendees": []
+  },
+  {
     "slug": "ev-99",
     "type": "conference",
     "title": "International Conference on Complex Systems (ICCS2006)",
