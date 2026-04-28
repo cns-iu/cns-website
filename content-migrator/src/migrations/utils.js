@@ -2,7 +2,6 @@ import { readFile, writeFile } from 'fs/promises';
 import { dump as dumpYaml, load as loadYaml } from 'js-yaml';
 
 export const CONTENT = '../content';
-export const DEFAULT_DATE = '1979-01-01';
 
 export function isEmpty(object) {
   return Object.keys(object).length === 0;

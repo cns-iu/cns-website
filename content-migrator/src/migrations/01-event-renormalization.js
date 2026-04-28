@@ -1,5 +1,5 @@
 import { globIterate } from 'glob';
-import { CONTENT, copyFields, DEFAULT_DATE, isEmpty, readYaml, writeYaml } from './utils.js';
+import { CONTENT, copyFields, isEmpty, readYaml, writeYaml } from './utils.js';
 
 const DEFAULT_FIELD_VALUE_GENERATORS = {
   slug: () => {
@@ -12,7 +12,7 @@ const DEFAULT_FIELD_VALUE_GENERATORS = {
     throw new Error('Missing required field: title');
   },
   link: () => null,
-  dateStart: () => DEFAULT_DATE,
+  dateStart: () => null,
   dateEnd: () => null,
   thumbnail: () => null,
   location: () => null,
@@ -42,10 +42,6 @@ const TAG_TO_PROJECT = {
   amatria: 'amatria',
   'whole-person-physiome': 'whole-person-physiome',
 };
-
-function renormalizeDate(content, field, defaultValue = DEFAULT_DATE) {
-  return content[field] || defaultValue;
-}
 
 function renormalizeLocation(content) {
   const result = {};
@@ -90,8 +86,8 @@ async function renormalize(path) {
 
   copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
 
-  result.dateStart = renormalizeDate(content, 'dateStart');
-  result.dateEnd = renormalizeDate(content, 'dateEnd', result.dateStart);
+  result.dateStart = content.dateStart || null;
+  result.dateEnd = content.dateEnd || null;
   result.location = renormalizeLocation(content);
   result.projects = renormalizeProjects(content);
   result.media = renormalizeMedia(content);
