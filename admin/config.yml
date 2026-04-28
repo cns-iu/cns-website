@@ -452,12 +452,6 @@ collections:
       - <<: *people
         name: attendees
         label: Attendees
-      - name: location
-        label: "Location"
-        widget: string
-        required: false
-        hint: "Old input for location: Do not use"
-      - { name: description, label: Short description, widget: string, required: false }
 
       - *featured
       - *projects
