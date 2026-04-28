@@ -9,7 +9,8 @@ tags: []
 venue: Arizona State University
 city: Tempe
 state: AZ
-presenters: []
+presenters:
+  - katy-borner
 instructors: []
 organizers: []
 attendees: []
