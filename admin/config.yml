@@ -529,5 +529,4 @@ show_preview_links: true
 # Set local_backend to true when testing locally
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
-# local_backend: false
-local_backend: true
+local_backend: false
