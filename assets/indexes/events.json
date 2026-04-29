@@ -7134,7 +7134,7 @@
   {
     "slug": "pres-319",
     "type": "presentation",
-    "title": "Places & Spaces: Mapping Science",
+    "title": "Places & Spaces: Mapping Science at Northeastern University",
     "link": "https://cns.iu.edu/docs/presentations/2012-borner-neu-exhibit.pdf",
     "dateStart": "2012-02-02T00:00:00.000Z",
     "dateEnd": "2012-02-02T00:00:00.000Z",
@@ -7143,13 +7143,15 @@
       "macroscopes",
       "maps"
     ],
+    "street": "Northeastern University",
     "city": "Boston",
     "state": "Massachusetts",
     "country": "USA",
+    "postcode": "02115",
     "presenters": [
       "katy-borner"
     ],
-    "location": "Northeastern University, Boston, MA, 02115",
+    "location": "",
     "event": "ev-467",
     "description": ""
   },
