@@ -30,7 +30,6 @@ x-shared-field-definitions:
       label: Media
       widget: list
       summary: '{{fields.type}} - {{fields.url}}'
-      default: []
       required: false
       fields:
         - name: type
@@ -78,7 +77,6 @@ x-shared-field-definitions:
       widget: relation
       collection: project
       multiple: true
-      default: []
       search_fields: [name]
       value_field: slug
       display_fields: [name]
@@ -89,7 +87,6 @@ x-shared-field-definitions:
       widget: relation
       collection: people
       multiple: true
-      default: []
       search_fields: [name, lastName]
       value_field: slug
       display_fields: [name]
@@ -97,7 +94,7 @@ x-shared-field-definitions:
   slugs:
     slugAuto: &slugAuto
       name: slug
-      default: 'EMPTY'
+      default: EMPTY
       widget: hidden
     slugNamed: &slugNamed
       name: slug
@@ -122,7 +119,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: funding/{{fields.slug}}/data.yaml
+    preview_path: 'funding/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
@@ -168,7 +165,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: people/{{fields.slug}}/data.yaml
+    preview_path: 'people/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{name}}'
@@ -185,7 +182,7 @@ collections:
         label_singular: Role
         widget: list
         hint: Add all roles this person has had. Leave End Date blank if still active.
-        default: []
+        required: false
         types:
           - label: CNS Member
             name: member
@@ -247,7 +244,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: publications/{{fields.slug}}/data.yaml
+    preview_path: 'publications/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
@@ -311,7 +308,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: news/{{fields.slug}}/data.yaml
+    preview_path: 'news/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
@@ -339,7 +336,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: visualizations/{{fields.slug}}/data.yaml
+    preview_path: 'visualizations/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
@@ -368,7 +365,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: events/{{fields.slug}}/data.yaml
+    preview_path: 'events/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
@@ -465,7 +462,7 @@ collections:
     extension: yaml
     create: true
     identifier_field: slug
-    preview_path: projects/{{fields.slug}}/data.yaml
+    preview_path: 'projects/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{name}}'
@@ -504,4 +501,5 @@ show_preview_links: true
 # Set local_backend to true when testing locally
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
+# local_backend: true
 local_backend: false
