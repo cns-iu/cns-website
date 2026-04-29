@@ -4,6 +4,7 @@ import {
   copyFields,
   deleteEmptyFields,
   isEmptyObject,
+  normalizeOptionalString,
   nullGen,
   readYaml,
   renormalizeProjects,
@@ -81,7 +82,7 @@ async function renormalize(path) {
     const result = {};
 
     // Treat the empty string for link as a missing value
-    content.link = content.link || undefined;
+    content.link = normalizeOptionalString(content.link);
 
     copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
 

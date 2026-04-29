@@ -11,8 +11,6 @@ import {
   writeYaml,
 } from './utils.js';
 
-const MEDIA_BASE_URL = 'https://cns.iu.edu/docs/news/';
-
 const DEFAULT_FIELD_VALUE_GENERATORS = {
   slug: () => {
     throw new Error('Missing required field: slug');
@@ -21,11 +19,10 @@ const DEFAULT_FIELD_VALUE_GENERATORS = {
   date: reqFieldGen,
   link: reqFieldGen,
   thumbnail: undefGen,
+  authors: undefGen,
+  description: undefGen,
   featured: undefGen,
   projects: undefGen,
-  description: undefGen,
-  publisher: undefGen,
-  reporter: undefGen,
   media: undefGen,
 };
 
@@ -39,18 +36,9 @@ function renormalizeMediaType(mediaType) {
   return mediaType ?? 'other';
 }
 
-function fixMediaUrl(url) {
-  // Fix media URLs that were incorrectly prefixed with the MEDIA_BASE_URL twice
-  if (url && url.startsWith(MEDIA_BASE_URL + MEDIA_BASE_URL)) {
-    return url.slice(MEDIA_BASE_URL.length);
-  }
-
-  return url;
-}
-
 function renormalizeMedia(content) {
   const mediaType = renormalizeMediaType(content.mediaType);
-  const mediaUrl = fixMediaUrl(normalizeOptionalString(content.mediaUrl));
+  const mediaUrl = normalizeOptionalString(content.mediaUrl);
   const description = normalizeOptionalString(content.caption);
   const media = [...(content.media ?? [])];
 
@@ -73,8 +61,6 @@ async function renormalize(path) {
     // Treat empty strings as missing values for optional strings and required link.
     content.link = normalizeOptionalString(content.link);
     content.description = normalizeOptionalString(content.description);
-    content.publisher = normalizeOptionalString(content.publisher);
-    content.reporter = normalizeOptionalString(content.reporter);
 
     copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
 
@@ -82,7 +68,7 @@ async function renormalize(path) {
     result.projects = renormalizeProjects(content);
     result.media = renormalizeMedia(content);
 
-    deleteEmptyFields(result, ['projects', 'media']);
+    deleteEmptyFields(result, ['authors', 'projects', 'media']);
 
     await writeYaml(path, result);
   } catch (error) {
@@ -92,7 +78,7 @@ async function renormalize(path) {
 
 async function migrate() {
   const promises = [];
-  for await (const path of globIterate(`${CONTENT}/news/*/data.yaml`)) {
+  for await (const path of globIterate(`${CONTENT}/visualizations/*/data.yaml`)) {
     promises.push(renormalize(path));
   }
 

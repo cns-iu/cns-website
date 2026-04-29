@@ -53,6 +53,10 @@ export function renormalizeProjects(content) {
   return projects.length > 0 ? projects : undefined;
 }
 
+export function normalizeOptionalString(value) {
+  return typeof value === 'string' && value.trim() === '' ? undefined : value;
+}
+
 export async function readYaml(path) {
   return loadYaml(await readFile(path, 'utf8'));
 }
