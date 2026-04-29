@@ -1,5 +1,15 @@
 import { globIterate } from 'glob';
-import { CONTENT, copyFields, isEmptyObject, nullGen, readYaml, reqFieldGen, undefGen, writeYaml } from './utils.js';
+import {
+  CONTENT,
+  copyFields,
+  deleteEmptyFields,
+  nullGen,
+  readYaml,
+  renormalizeProjects,
+  reqFieldGen,
+  undefGen,
+  writeYaml,
+} from './utils.js';
 
 const DEFAULT_FIELD_VALUE_GENERATORS = {
   slug: () => {
@@ -21,37 +31,6 @@ const DEFAULT_FIELD_VALUE_GENERATORS = {
 };
 
 const FIELDS = Object.keys(DEFAULT_FIELD_VALUE_GENERATORS);
-
-const TAG_TO_PROJECT = {
-  hra: 'human-reference-atlas',
-  amatria: 'amatria',
-  'whole-person-physiome': 'whole-person-physiome',
-};
-
-function renormalizeProjects(content) {
-  // Map tags to projects if not already listed
-  const projects = [...(content.projects ?? [])];
-  for (const tag of content.tags ?? []) {
-    if (tag in TAG_TO_PROJECT && !projects.includes(TAG_TO_PROJECT[tag])) {
-      projects.push(TAG_TO_PROJECT[tag]);
-    }
-  }
-
-  return projects.length > 0 ? projects : undefined;
-}
-
-function deleteEmptyFields(object, fields) {
-  for (const field of fields) {
-    const value = object[field];
-    if (typeof value !== 'object' || value === null) {
-      continue;
-    }
-
-    if ((Array.isArray(value) && value.length === 0) || (!Array.isArray(value) && isEmptyObject(value))) {
-      delete object[field];
-    }
-  }
-}
 
 async function renormalize(path) {
   try {
