@@ -57,6 +57,12 @@ export function normalizeOptionalString(value) {
   return typeof value === 'string' && value.trim() === '' ? undefined : value;
 }
 
+export function normalizeStringFields(content, fields) {
+  for (const field of fields) {
+    content[field] = normalizeOptionalString(content[field]);
+  }
+}
+
 export async function readYaml(path) {
   return loadYaml(await readFile(path, 'utf8'));
 }

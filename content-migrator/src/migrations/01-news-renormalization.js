@@ -4,6 +4,7 @@ import {
   copyFields,
   deleteEmptyFields,
   normalizeOptionalString,
+  normalizeStringFields,
   readYaml,
   renormalizeProjects,
   reqFieldGen,
@@ -70,12 +71,7 @@ async function renormalize(path) {
     const content = await readYaml(path);
     const result = {};
 
-    // Treat empty strings as missing values for optional strings and required link.
-    content.link = normalizeOptionalString(content.link);
-    content.description = normalizeOptionalString(content.description);
-    content.publisher = normalizeOptionalString(content.publisher);
-    content.reporter = normalizeOptionalString(content.reporter);
-
+    normalizeStringFields(content, ['link', 'description', 'publisher', 'reporter']);
     copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
 
     result.featured ??= content.tags?.includes('featured') || undefined;
