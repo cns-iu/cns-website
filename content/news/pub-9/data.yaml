@@ -1,6 +1,7 @@
 slug: pub-9
-link: https://cns.iu.edu/docs/news/katy_issi.html
 title: Katy Börner participates in the 14th ISSI Conference
+date: '2013-07-01'
+link: https://cns.iu.edu/docs/news/katy_issi.html
 description: >-
   Katy Börner will present two papers, organize a workshop, and teach the Sci2
   Tool at the International Society of Scientometrics and Informetrics (ISSI) in
@@ -20,12 +21,10 @@ description: >-
     
   More information about the conference can be found at:
   [www.issi2013.org](http://www.issi2013.org/)
-date: '2013-07-01'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/katy_issi.html
-caption: >-
-  Katy Börner, Victor H. Yngve Professor of Information Science, Department of
-  Information and Library Science, Indiana University
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/katy_issi.html
+    description: >-
+      Katy Börner, Victor H. Yngve Professor of Information Science, Department
+      of Information and Library Science, Indiana University

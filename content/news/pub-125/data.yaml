@@ -1,6 +1,7 @@
 slug: pub-125
-link: https://cns.iu.edu/docs/news/20140601_AdobeAirstream.html
 title: Currents 2014 New Media Festival Preview
+date: '2014-06-01'
+link: https://cns.iu.edu/docs/news/20140601_AdobeAirstream.html
 description: >-
   [Currents: Santa Fe New Media Festival
   2014](http://currentsnewmedia.org/festivals/currents-2014/), celebrating its
@@ -60,15 +61,13 @@ description: >-
   pixels present on screens or other projection surfaces purporting to alter
   flat to shaped — remembering that illusion in these new times is surely a
   condition that we can’t live without.
-date: '2014-06-01'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140601_AdobeAirstream.html
-caption: >-
-  The following is an article from AdobeAirstream. Read the original article
-  [here](http://adobeairstream.com/art/currents-2014-new-media-festival-preview/),
-  or download a PDF of the article
-  [here](/docs/news/20140601_AdobeAirstream.pdf).
 publisher: AdobeAirstream
 reporter: Ellen Berkovitch
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20140601_AdobeAirstream.html
+    description: >-
+      The following is an article from AdobeAirstream. Read the original article
+      [here](http://adobeairstream.com/art/currents-2014-new-media-festival-preview/),
+      or download a PDF of the article
+      [here](/docs/news/20140601_AdobeAirstream.pdf).

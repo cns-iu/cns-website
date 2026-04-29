@@ -1,6 +1,7 @@
 slug: pub-42
-link: https://cns.iu.edu/docs/news/20080213_ISGTW.html
 title: Image of the Week-A Map of All Things Science
+date: '2008-02-13'
+link: https://cns.iu.edu/docs/news/20080213_ISGTW.html
 description: >-
   [Katy Börner](http://ella.slis.indiana.edu/~katy/) knows what
   [Wikipedia](http://en.wikipedia.org/) looks like in English, all 2.1 million
@@ -35,14 +36,12 @@ description: >-
   Spaces](http://scimaps.org) exhibition. [An interactive version of the full
   Wikipedia visualization](http://scimaps.org/web/maps/wikipedia/) is also
   available.
-date: '2008-02-13'
-mediaType: document
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080213_ISGTW.html
-caption: >-
-  The following is an article from International Science Grid This Week. Read
-  the original article on the web
-  [here](http://www.isgtw.org/visualization/isgtw-image-week-map-all-things-science),
-  or download a PDf of the article [here](/docs/news/20080213_ISGTW.pdf).
 publisher: International Science Grid This Week
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20080213_ISGTW.html
+    description: >-
+      The following is an article from International Science Grid This Week.
+      Read the original article on the web
+      [here](http://www.isgtw.org/visualization/isgtw-image-week-map-all-things-science),
+      or download a PDf of the article [here](/docs/news/20080213_ISGTW.pdf).

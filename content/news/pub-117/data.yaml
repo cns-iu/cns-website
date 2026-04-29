@@ -1,6 +1,7 @@
 slug: pub-117
-link: https://cns.iu.edu/docs/news/20140304_Humanexus_CNSNews.html
 title: Humanexus wins four more awards at three film festivals
+date: '2014-03-04'
+link: https://cns.iu.edu/docs/news/20140304_Humanexus_CNSNews.html
 description: >-
   _Humanexus_ has done it again.  
     
@@ -38,13 +39,10 @@ description: >-
   trailer](http://youtu.be/K2A5XYvpPUk). You can also learn more about the
   production by visiting the [film’s official
   website](http://yfshen.info/humanexus/).
-date: '2014-03-04'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140304_Humanexus_CNSNews.html
-caption: >-
-  From left to right: _Humanexus_ creators Norbert Herber, Ying-Fang Shen, and
-  Katy Börner
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20140304_Humanexus_CNSNews.html
+    description: >-
+      From left to right: _Humanexus_ creators Norbert Herber, Ying-Fang Shen,
+      and Katy Börner

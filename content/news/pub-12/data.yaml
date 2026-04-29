@@ -1,8 +1,9 @@
 slug: pub-12
-link: https://cns.iu.edu/docs/news/20120720_JournalOfDocumentation.html
 title: >-
   The mapping of science and the information sciences (website accessed
   7/20/2012)
+date: '2012-07-20'
+link: https://cns.iu.edu/docs/news/20120720_JournalOfDocumentation.html
 description: >-
   It is just over 50 years since Derek de Solla Price produced his best known
   work: “Little Science, Big Science” (de Solla Price, 1965). It was on the
@@ -72,16 +73,14 @@ description: >-
 
   Tufte, E.R. (1997), Visual Explanations: Images and Quantities, Evidence and
   Narrative, Graphics Press, Cheshire, CT
-date: '2012-07-20'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20120720_JournalOfDocumentation.html
-caption: >-
-  The following is an article from the Journal of Documentation. Read the
-  original article
-  [here](http://www.emeraldinsight.com/journals.htm?articleid=1955878&show=html),
-  or download a PDF of the article
-  [here](/docs/news/20120720_JournalOfDocumentation.pdf).
 publisher: Journal of Documentation
 reporter: David Bawden
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20120720_JournalOfDocumentation.html
+    description: >-
+      The following is an article from the Journal of Documentation. Read the
+      original article
+      [here](http://www.emeraldinsight.com/journals.htm?articleid=1955878&show=html),
+      or download a PDF of the article
+      [here](/docs/news/20120720_JournalOfDocumentation.pdf).

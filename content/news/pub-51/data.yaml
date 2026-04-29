@@ -1,20 +1,18 @@
 slug: pub-51
-link: https://cns.iu.edu/docs/news/20070320_MetaFilter.html
 title: Data Landscapes
+date: '2007-03-20'
+link: https://cns.iu.edu/docs/news/20070320_MetaFilter.html
 description: >-
   [Map of Science](http://mapofscience.com/). Science is the most interconnected
   of all human activities and [requires a series of maps to chart its changing
   landscape](http://news.bbc.co.uk/2/hi/science/nature/3608385.stm). Scientific
   method: [relationships among scientific
   paradigms](http://www.seedmagazine.com/news/2007/03/scientific_method_relationship.php).
-date: '2007-03-20'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070320_MetaFilter.html
-caption: >-
-  The following is a post from MetaFilter. Read the original post on the web
-  [here](http://www.metafilter.com/59604/data-landscapes), or download a PDF
-  [here](/docs/news/20070320_MetaFilter.pdf).
 publisher: MetaFilter Community Weblog
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070320_MetaFilter.html
+    description: >-
+      The following is a post from MetaFilter. Read the original post on the web
+      [here](http://www.metafilter.com/59604/data-landscapes), or download a PDF
+      [here](/docs/news/20070320_MetaFilter.pdf).

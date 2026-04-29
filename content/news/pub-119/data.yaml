@@ -1,6 +1,7 @@
 slug: pub-119
-link: https://cns.iu.edu/docs/news/20140331_Wonderlab.html
 title: Explore Community and Life Mapping at WonderLab on First Friday Evening
+date: '2014-03-31'
+link: https://cns.iu.edu/docs/news/20140331_Wonderlab.html
 description: >-
   Bloomington, Indiana – Enjoy half-price museum admission during **First Friday
   Evening** as you explore the art and science of mapping your world with
@@ -30,13 +31,11 @@ description: >-
   exhibitions by Indiana University Fine Arts faculty (computer-aided design and
   3-D printing), Ryan Logan (mixed media), Ivy Tech Fine Arts students (various
   media), and Ivy Tech Associate of Fine Arts Degree students (various media).
-date: '2014-03-31'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140331_Wonderlab.html
-caption: >-
-  The following is a press release from Wonderlab in Bloomington, Indiana. You
-  may download a PDF of the article [here](/docs/news/20140331_Wonderlab.pdf).
 publisher: Wonderlab
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20140331_Wonderlab.html
+    description: >-
+      The following is a press release from Wonderlab in Bloomington, Indiana.
+      You may download a PDF of the article
+      [here](/docs/news/20140331_Wonderlab.pdf).

@@ -1,6 +1,7 @@
 slug: pub-27
-link: https://cns.iu.edu/docs/news/20100623_JossVisSymp.html
 title: BibSonomy Anatomy (website accessed 6/28/10)
+date: '2010-06-23'
+link: https://cns.iu.edu/docs/news/20100623_JossVisSymp.html
 description: >-
   **Self-Commentary**  
 
@@ -65,15 +66,14 @@ description: >-
   structure revealed in the central tendency of journal groups, or is this a
   function of niche differentiation among journals that cater to a similar
   audience?
-date: '2010-06-23'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20100623_JossVisSymp.html
-caption: >-
-  The following is an article from the Joss Visualization Symposium. Read the
-  original article on the web
-  [here](http://www.cmu.edu/joss/content/issues/2010jossviz/7_Borner_Ma.htm), or
-  download a PDF of the article [here](/docs/news/20100623_JossVisSymp.pdf).
 publisher: Joss Visualization Symposium
 reporter: Katy Börner and Nianli Ma
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20100623_JossVisSymp.html
+    description: >-
+      The following is an article from the Joss Visualization Symposium. Read
+      the original article on the web
+      [here](http://www.cmu.edu/joss/content/issues/2010jossviz/7_Borner_Ma.htm),
+      or download a PDF of the article
+      [here](/docs/news/20100623_JossVisSymp.pdf).

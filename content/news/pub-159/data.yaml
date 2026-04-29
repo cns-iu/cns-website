@@ -1,6 +1,7 @@
 slug: pub-159
-link: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
 title: IU Bloomington Art Sculpture Learns From Its Interactions With People
+date: '2018-04-20'
+link: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
 description: >-
   [Read original
   article](https://www.wfyi.org/news/articles/iu-bloomington-art-sculpture-learns-from-its-interactions-with-people).
@@ -81,13 +82,11 @@ description: >-
   Katy Börner, an information science and engineering professor at IU, says the
   massive piece senses people as they walk past and even greets and interacts
   with them. (Lindsey Wright/WFIU-WTIU News)
-date: '2018-04-20'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
-caption: >-
-  It took about 200 volunteers including students from several different IU
-  schools to put the massive piece together (Lindsey Wright/WTIU-WFIU News).
 publisher: wfyi
 reporter: Lindsey Wright
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
+    description: >-
+      It took about 200 volunteers including students from several different IU
+      schools to put the massive piece together (Lindsey Wright/WTIU-WFIU News).

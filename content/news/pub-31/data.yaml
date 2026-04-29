@@ -1,6 +1,7 @@
 slug: pub-31
-link: https://cns.iu.edu/docs/news/20091026_FederalComputerWeek.html
 title: NIH Funds a Facebook for Scientists (website accessed 4/9/10)
+date: '2009-10-26'
+link: https://cns.iu.edu/docs/news/20091026_FederalComputerWeek.html
 description: >-
   ### _Project involves $12.2 million and seven universities_
 
@@ -33,15 +34,13 @@ description: >-
     
   A "Facebook for government" site known as GovLoop, was recently sold after
   enrolling nearly 20,000 members.
-date: '2009-10-26'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20091026_FederalComputerWeek.html
-caption: >-
-  The following is an article from Federal Computer Week. Read the original
-  article on the web
-  [here](http://fcw.com/Articles/2009/10/26/NIH-grant-creates-Facebook-for-Scientists.aspx),
-  or download a PDF of the article [here](20091026_FederalComputerWeek.pdf).
 publisher: Federal Computer Week
 reporter: Alice Lipowicz
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20091026_FederalComputerWeek.html
+    description: >-
+      The following is an article from Federal Computer Week. Read the original
+      article on the web
+      [here](http://fcw.com/Articles/2009/10/26/NIH-grant-creates-Facebook-for-Scientists.aspx),
+      or download a PDF of the article [here](20091026_FederalComputerWeek.pdf).

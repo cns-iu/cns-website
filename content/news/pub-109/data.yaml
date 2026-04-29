@@ -1,6 +1,7 @@
 slug: pub-109
-link: https://cns.iu.edu/docs/news/ncstate.html
 title: Places & Spaces Featured at Trailblazing Hunt Library
+date: '2013-11-04'
+link: https://cns.iu.edu/docs/news/ncstate.html
 description: >-
   From October 14th through the 27th, the _Places & Spaces: Mapping Science_
   exhibit was featured on the iPearl Immersion Theater located in North Carolina
@@ -62,10 +63,8 @@ description: >-
 
   North Carolina State University’s Hunt Library:
   [lib.ncsu.edu/huntlibrary](http://www.lib.ncsu.edu/huntlibrary)
-date: '2013-11-04'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/ncstate.html
-caption: Students interact with the _Places & Spaces_ digital display
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/ncstate.html
+    description: Students interact with the _Places & Spaces_ digital display

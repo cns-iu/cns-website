@@ -1,6 +1,7 @@
 slug: pub-7
-link: https://cns.iu.edu/docs/news/012513_InsideIndianaBusiness.html
 title: Professor Gives World Economic Forum Presentation (website accessed 1/25/2013)
+date: '2013-01-25'
+link: https://cns.iu.edu/docs/news/012513_InsideIndianaBusiness.html
 description: >-
   BLOOMINGTON, Ind. - Indiana University's Katy Börner began offering what is
   currently the university's only massive open online course this week, and just
@@ -71,15 +72,13 @@ description: >-
   pressing issues facing the world, including health and the environment. This
   year the annual meeting can be followed through a variety of social media
   tools, including Twitter, Facebook, live and video webcasts and blogs.
-date: '2013-01-25'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/012513_InsideIndianaBusiness.html
-caption: >-
-  The following is an insideindianabusiness.com article from January 25, 2013.
-  [Click here](http://www.insideindianabusiness.com/newsitem.asp?id=57601) to
-  read the original Inside Indiana Business article, or download the PDF
-  [here](/docs/news/20130125_InsideIndianaBusiness.pdf).
 publisher: Inside INdiana Business
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/012513_InsideIndianaBusiness.html
+    description: >-
+      The following is an insideindianabusiness.com article from January 25,
+      2013. [Click
+      here](http://www.insideindianabusiness.com/newsitem.asp?id=57601) to read
+      the original Inside Indiana Business article, or download the PDF
+      [here](/docs/news/20130125_InsideIndianaBusiness.pdf).

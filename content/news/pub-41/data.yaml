@@ -1,6 +1,7 @@
 slug: pub-41
-link: https://cns.iu.edu/docs/news/20080630_Erasmus.html
 title: 'News: Places & Spaces: Mapping Science (website accessed 9/17/08)'
+date: '2008-06-30'
+link: https://cns.iu.edu/docs/news/20080630_Erasmus.html
 description: >-
   Are you interested in seeing science from above? Curious to see the impact
   that a single person or invention can have? Keen to find pockets of
@@ -22,15 +23,12 @@ description: >-
   the University Library also participates, and program leader of the [Virtual
   Knowledge Studio](http://www.virtualknowledgestudio.nl/) for the Humanities
   and Social Sciences in Amsterdam.
-date: '2008-06-30'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080630_Erasmus.html
-caption: >-
-  The following is an article from Erasmus University Libraries. Read the
-  original article on the web
-  [here](http://www.eur.nl/ub/english/news/details/article/5731/), or download a
-  PDF of the article [here](/docs/news/20080630_Erasmus.pdf).
 publisher: Erasmus University Libraries
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20080630_Erasmus.html
+    description: >-
+      The following is an article from Erasmus University Libraries. Read the
+      original article on the web
+      [here](http://www.eur.nl/ub/english/news/details/article/5731/), or
+      download a PDF of the article [here](/docs/news/20080630_Erasmus.pdf).

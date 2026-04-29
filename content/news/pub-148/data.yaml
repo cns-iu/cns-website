@@ -1,6 +1,7 @@
 slug: pub-148
-link: https://cns.iu.edu/docs/news/20160424_knowescape.html
 title: STSM – Visualization of LOD Laundromat Data – report by Suzanne Tolmeijer
+date: '2016-04-24'
+link: https://cns.iu.edu/docs/news/20160424_knowescape.html
 description: >-
   The Knowledge Representation research group at the VU University in Amsterdam,
   chaired by Frank van Harmelen, has a project about the semantic web, more
@@ -55,15 +56,13 @@ description: >-
   Laundromat were established, which can further accommodate the process of
   visualization. Continued collaboration between IU and VU can help overcome the
   difficulties to get great visualizations as a result.
-date: '2016-04-24'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20160424_knowescape.html
-caption: >-
-  STSM Report: Visualization of LOD Laundromat Data by Suzanne Tolmeijer, VU A
-  report on STSM-TD1210 at Indiana University, Bloomington, IN. View the
-  original story at
-  [knowescape.org](http://knowescape.org/stsm-visualization-lod-laundromat-data-report-suzanne-tolmeijer/).
 publisher: KnowEscape
 reporter: Suzanne Tolmeijer
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20160424_knowescape.html
+    description: >-
+      STSM Report: Visualization of LOD Laundromat Data by Suzanne Tolmeijer, VU
+      A report on STSM-TD1210 at Indiana University, Bloomington, IN. View the
+      original story at
+      [knowescape.org](http://knowescape.org/stsm-visualization-lod-laundromat-data-report-suzanne-tolmeijer/).

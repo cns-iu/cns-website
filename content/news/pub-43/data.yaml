@@ -1,6 +1,7 @@
 slug: pub-43
-link: https://cns.iu.edu/docs/news/20080104_OakRidger.html
 title: Places and Spaces shows the power of maps
+date: '2008-01-04'
+link: https://cns.iu.edu/docs/news/20080104_OakRidger.html
 description: >-
   Is science, or information in general, confusing or overwhelming for you?  
     
@@ -48,15 +49,13 @@ description: >-
   “Science involves many dynamics,” Borner said.  
     
   Leean Tupper can be contacted at (865) 220-5501.
-date: '2008-01-04'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080104_OakRidger.html
-caption: >-
-  The following is an article from OakRidger.com. Read the original article on
-  the web
-  [here](http://ivl.cns.iu.edu/km/news-external/2008-borner-exhibit-oakridger.pdf),
-  or download a PDF of the article [here](/docs/news/20080104_OakRidger.pdf).
 publisher: The Oak Ridger
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20080104_OakRidger.html
+    description: >-
+      The following is an article from OakRidger.com. Read the original article
+      on the web
+      [here](http://ivl.cns.iu.edu/km/news-external/2008-borner-exhibit-oakridger.pdf),
+      or download a PDF of the article
+      [here](/docs/news/20080104_OakRidger.pdf).

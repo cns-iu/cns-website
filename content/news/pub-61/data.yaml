@@ -1,6 +1,7 @@
 slug: pub-61
-link: https://cns.iu.edu/docs/news/20070124_Nature.html
 title: 'Science in Culture: Chart Toppers'
+date: '2007-01-24'
+link: https://cns.iu.edu/docs/news/20070124_Nature.html
 description: >-
   It was often said that geography was about maps, and history about chaps. But
   there are virtually no sets of data — about chaps or anything else — that
@@ -73,14 +74,13 @@ description: >-
   Hadrian's disastrous losses on his return trip across the Alps from his
   northern expedition. It was designed to demonstrate the enduring human cost of
   war.
-date: '2007-01-24'
-mediaType: document
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070124_Nature.html
-caption: >-
-  The following is an article from [nature.com](http://nature.com). Read the
-  original article on the web
-  [here](http://www.nature.com/nature/journal/v445/n7126/full/445368a.html), or
-  download a PDF of the article [here](/docs/news/20070124_Nature.pdf).
 publisher: Nature Journal
 reporter: Martin Kemp
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070124_Nature.html
+    description: >-
+      The following is an article from [nature.com](http://nature.com). Read the
+      original article on the web
+      [here](http://www.nature.com/nature/journal/v445/n7126/full/445368a.html),
+      or download a PDF of the article [here](/docs/news/20070124_Nature.pdf).

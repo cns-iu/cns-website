@@ -1,6 +1,7 @@
 slug: pub-16
-link: https://cns.iu.edu/docs/news/20111208_Visualizing.html
 title: 'Open Call: Science Maps for Kids (website accessed 12/08/2011)'
+date: '2011-12-08'
+link: https://cns.iu.edu/docs/news/20111208_Visualizing.html
 description: >-
   The _Places & Spaces: Mapping Science_ exhibit, at our academic partner
   Indiana University, has launched its 8th iteration with an open call for
@@ -12,14 +13,13 @@ description: >-
   science and interest them in mapping and visualization as a medium. For
   consideration, submit your maps by January 10th, 2012. All the details can be
   found at: [http://scimaps.org/call](http://scimaps.org/call).
-date: '2011-12-08'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20111208_Visualizing.html
-caption: >-
-  The following is an article from visualizing.org. Read the original article
-  [here](http://www.visualizing.org/stories/open-call-science-maps-kids), or
-  download a PDF of the article [here](/docs/news/20111208_Visualizing.pdf)
 publisher: Visualizing.org
 reporter: Edward Lee
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20111208_Visualizing.html
+    description: >-
+      The following is an article from visualizing.org. Read the original
+      article
+      [here](http://www.visualizing.org/stories/open-call-science-maps-kids), or
+      download a PDF of the article [here](/docs/news/20111208_Visualizing.pdf)

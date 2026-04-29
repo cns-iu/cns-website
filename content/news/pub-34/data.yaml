@@ -1,14 +1,12 @@
 slug: pub-34
-link: https://cns.iu.edu/docs/news/20081201_SeedMagazine.html
 title: 'Informatics: Building a Macroscope'
-description: ''
 date: '2008-12-01'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20081201_SeedMagazine.html
-caption: >-
-  Download a PDF of the original article
-  [here](/docs/news/20081201_SeedMagazine.pdf).
+link: https://cns.iu.edu/docs/news/20081201_SeedMagazine.html
 publisher: Seed Magazine
 reporter: TJ Kelleher
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20081201_SeedMagazine.html
+    description: >-
+      Download a PDF of the original article
+      [here](/docs/news/20081201_SeedMagazine.pdf).

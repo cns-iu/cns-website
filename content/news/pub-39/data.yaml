@@ -1,16 +1,13 @@
 slug: pub-39
-link: https://cns.iu.edu/docs/news/20080828_ErasmusMagazine.html
 title: >-
   Tentoonstelling Places and Spaces: Wetenschap in Kaart Gebracht (website
   accessed 9/17/08)
-description: ''
 date: '2008-08-28'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080828_ErasmusMagazine.html
-caption: >-
-  Download a PDF of the original article
-  [here](/docs/news/20080828_ErasmusMagazine.pdf).
+link: https://cns.iu.edu/docs/news/20080828_ErasmusMagazine.html
 publisher: Erasmus Magazine
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20080828_ErasmusMagazine.html
+    description: >-
+      Download a PDF of the original article
+      [here](/docs/news/20080828_ErasmusMagazine.pdf).

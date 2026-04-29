@@ -1,8 +1,9 @@
 slug: pub-15
-link: https://cns.iu.edu/docs/news/20120314_ResearchTrends.html
 title: >-
   The Power of Scientific Mapping and Visualization: an interview with Prof.
   Katy Börner (website accessed 03/14/2012)
+date: '2012-03-14'
+link: https://cns.iu.edu/docs/news/20120314_ResearchTrends.html
 description: >-
   Katy Börner has more professional titles than most, with many appointments
   across Indiana University in Bloomington. She is the Victor H. Yngve Professor
@@ -170,15 +171,14 @@ description: >-
   Elsevier’s Scopus or Thomson Reuter’s Web of Science databases. Instead of
   getting a report from a contractor they now have an easy-to-use tool to answer
   their very own questions.
-date: '2012-03-14'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20120314_ResearchTrends.html
-caption: >-
-  The following is an article from Research Trends. Read the original article
-  [here](http://www.researchtrends.com/issue26-january-2012/the-power-of-scientific-mapping-and-visualization-an-interview-with-prof-katy-borner),
-  or download a PDF of the article
-  [here](/docs/news/20120314_ResearchTrends_Issue26.pdf).
 publisher: Research Trends
 reporter: Gali Halevi
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20120314_ResearchTrends.html
+    description: >-
+      The following is an article from Research Trends. Read the original
+      article
+      [here](http://www.researchtrends.com/issue26-january-2012/the-power-of-scientific-mapping-and-visualization-an-interview-with-prof-katy-borner),
+      or download a PDF of the article
+      [here](/docs/news/20120314_ResearchTrends_Issue26.pdf).

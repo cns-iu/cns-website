@@ -1,6 +1,7 @@
 slug: pub-8
-link: https://cns.iu.edu/docs/news/ivmooc_drupal_06202013.html
 title: 'IVMOOC, Drupal, Google, and Course Builder: Creative Combinations'
+date: '2013-06-20'
+link: https://cns.iu.edu/docs/news/ivmooc_drupal_06202013.html
 description: >-
   SLIS faculty member Dr. Katy Bӧrner, Scott Weingart and Ted Polley taught one
   of Indiana University’s first-ever MOOCs during the spring semester 2013. All
@@ -72,15 +73,12 @@ description: >-
   *   Views
 
   *   Vote Up/Down
-date: '2013-06-20'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/ivmooc_drupal_06202013.html
-caption: >-
-  The following is an article from ILS News at Indiana University. [Click
-  here](http://ils.indiana.edu/news/story.php?story_id=2527) to read the
-  original article on the web, or download a PDF
-  [here](/docs/news/20130620_ILSNews.pdf).
 publisher: ILS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/ivmooc_drupal_06202013.html
+    description: >-
+      The following is an article from ILS News at Indiana University. [Click
+      here](http://ils.indiana.edu/news/story.php?story_id=2527) to read the
+      original article on the web, or download a PDF
+      [here](/docs/news/20130620_ILSNews.pdf).

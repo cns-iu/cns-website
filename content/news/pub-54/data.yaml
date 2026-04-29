@@ -1,14 +1,11 @@
 slug: pub-54
-link: https://cns.iu.edu/docs/news/20070319_ComplexityDigest.html
 title: Relationships Among Scientific Paradigms
-description: ''
 date: '2007-03-19'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070319_ComplexityDigest.html
-caption: >-
-  The following is from Complexity Digest. Read the original post on the web
-  [here](http://comdig.unam.mx/index.php?id_issue=2007.12#27003).
+link: https://cns.iu.edu/docs/news/20070319_ComplexityDigest.html
 publisher: Complexity Digest
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070319_ComplexityDigest.html
+    description: >-
+      The following is from Complexity Digest. Read the original post on the web
+      [here](http://comdig.unam.mx/index.php?id_issue=2007.12#27003).

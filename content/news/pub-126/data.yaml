@@ -1,6 +1,7 @@
 slug: pub-126
-link: https://cns.iu.edu/docs/news/20140501_UofMiami.html
 title: 'UM to host ‘Places & Spaces: Mapping Science’ visualization exhibit'
+date: '2014-05-01'
+link: https://cns.iu.edu/docs/news/20140501_UofMiami.html
 description: >-
   Starting on September 4th, the University of Miami will host [Places & Spaces:
   Mapping Science](http://scimaps.org/), an exhibit of 100 visualizations
@@ -18,15 +19,13 @@ description: >-
   events will be held all over campus, including at the [Cox Science
   Building](http://www.as.miami.edu/biology/) and the [Lowe Art
   Museum](http://www6.miami.edu/lowe/).
-date: '2014-05-01'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140501_UofMiami.html
-caption: >-
-  The following is an excerpt from
-  [visualization.miami.edu](http://visualization.miami.edu). Read the original
-  article [here](http://visualization.miami.edu/?p=35), or download a PDF of the
-  article [here](/docs/news/20140501_UofMiami.pdf).
 publisher: University of Miami
 reporter: Alberto Cairo
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20140501_UofMiami.html
+    description: >-
+      The following is an excerpt from
+      [visualization.miami.edu](http://visualization.miami.edu). Read the
+      original article [here](http://visualization.miami.edu/?p=35), or download
+      a PDF of the article [here](/docs/news/20140501_UofMiami.pdf).

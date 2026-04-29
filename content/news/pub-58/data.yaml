@@ -1,6 +1,7 @@
 slug: pub-58
-link: https://cns.iu.edu/docs/news/20070901_AssocForPsychSciObserver.html
 title: Psychology is a Hub Science
+date: '2007-09-01'
+link: https://cns.iu.edu/docs/news/20070901_AssocForPsychSciObserver.html
 description: >-
   In an issue of the magazine _Scientific American,_ the editors observed that
   “whenever we run articles on social topics, some readers protest that we
@@ -138,16 +139,14 @@ description: >-
   U.S. Department of Labor (2006). _100 years of U.S. consumer spending_.
   Washington, D.C. (Also available at
   [http://www.bls.gov/opub/uscs/](http://www.bls.gov/opub/uscs/))
-date: '2007-09-01'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070901_AssocForPsychSciObserver.html
-caption: >-
-  The following is an article from the Association for Psychological Science
-  Observer. Read the original article on the web
-  [here](http://www.psychologicalscience.org/index.php/publications/observer/2007/september-07/psychology-is-a-hub-science.html),
-  or download a PDF of the article
-  [here](/docs/news/20070901_AssocForPsychSciObserver.pdf).
 publisher: Association for Psychological Science Observer
 reporter: John T. Cacioppo
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070901_AssocForPsychSciObserver.html
+    description: >-
+      The following is an article from the Association for Psychological Science
+      Observer. Read the original article on the web
+      [here](http://www.psychologicalscience.org/index.php/publications/observer/2007/september-07/psychology-is-a-hub-science.html),
+      or download a PDF of the article
+      [here](/docs/news/20070901_AssocForPsychSciObserver.pdf).

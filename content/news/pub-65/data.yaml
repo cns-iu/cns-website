@@ -1,6 +1,7 @@
 slug: pub-65
-link: https://cns.iu.edu/docs/news/20070519_NewScientist.html
 title: Power Struggle
+date: '2007-05-19'
+link: https://cns.iu.edu/docs/news/20070519_NewScientist.html
 description: >-
   How do you keep track of the bubbling mass of information that is Wikipedia?
   This chaotic-looking mosaic is one attempt to show which topics are contained
@@ -31,15 +32,13 @@ description: >-
   The mosaic has been commended in a competition for images that visualise
   network dynamics, coinciding with this week's International Workshop and
   Conference on Network Science in Bloomington.
-date: '2007-05-19'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070519_NewScientist.html
-caption: >-
-  The following is an article from New Scientist. Read the original article on
-  the web
-  [here](http://www.newscientist.com/article/mg19426041.600-power-struggle.html),
-  or download a PDF of the article [here](/docs/news/20070519_NewScientist.pdf).
 publisher: New Scientist
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070519_NewScientist.html
+    description: >-
+      The following is an article from New Scientist. Read the original article
+      on the web
+      [here](http://www.newscientist.com/article/mg19426041.600-power-struggle.html),
+      or download a PDF of the article
+      [here](/docs/news/20070519_NewScientist.pdf).

@@ -1,6 +1,7 @@
 slug: pub-13
-link: https://cns.iu.edu/docs/news/20120605_InformationToday.html
 title: Visualizing Networks of Scientific Research (website accessed 06/05/2012)
+date: '2012-06-05'
+link: https://cns.iu.edu/docs/news/20120605_InformationToday.html
 description: >-
   An institution’s ability to demonstrate the value of its mission, and its
   success in achieving that mission, has always been important. It becomes
@@ -193,15 +194,14 @@ description: >-
   when combined with targeted peer review, helps the institution demonstrate the
   value of its publication output and, by extension, the research that it
   conducts.
-date: '2012-06-05'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20120605_InformationToday.html
-caption: >-
-  The following is an article from Information Today. Read the original article
-  [here](http://www.infotoday.com/online/may12/Belter-Visualizing-Networks-of-Scientific-Research.shtml),
-  or download a PDF of the article
-  [here](/docs/news/20120605_InformationToday.pdf).
 publisher: Information Today
 reporter: Chris Belter
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20120605_InformationToday.html
+    description: >-
+      The following is an article from Information Today. Read the original
+      article
+      [here](http://www.infotoday.com/online/may12/Belter-Visualizing-Networks-of-Scientific-Research.shtml),
+      or download a PDF of the article
+      [here](/docs/news/20120605_InformationToday.pdf).

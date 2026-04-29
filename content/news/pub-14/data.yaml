@@ -1,14 +1,12 @@
 slug: pub-14
-link: https://cns.iu.edu/docs/news/20120605_E-DataAndResearch.html
 title: Visiting professor Katy Börner licht toe Facebook voor onderzoekers
-description: ''
 date: '2012-06-05'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20120605_E-DataAndResearch.html
-caption: >-
-  The preceding is an article from E-Data & Research. Download a PDF of the
-  original article [here](/docs/news/20120605_E-DataAndResearch.pdf).
+link: https://cns.iu.edu/docs/news/20120605_E-DataAndResearch.html
 publisher: E-Data & Research
 reporter: Heidi Berkhout
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20120605_E-DataAndResearch.html
+    description: >-
+      The preceding is an article from E-Data & Research. Download a PDF of the
+      original article [here](/docs/news/20120605_E-DataAndResearch.pdf).

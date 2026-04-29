@@ -1,8 +1,9 @@
 slug: pub-133
-link: https://cns.iu.edu/docs/news/20141030_IUNewsroom.html
 title: >-
   IU adds data science master's degree to keep pace with growing big data job
   demands
+date: '2014-10-30'
+link: https://cns.iu.edu/docs/news/20141030_IUNewsroom.html
 description: >-
   BLOOMINGTON, Ind. -- The Indiana University School of Informatics and
   Computing has announced a new master’s degree in the rapidly expanding field
@@ -82,14 +83,13 @@ description: >-
   Bloomington](http://www.informatics.indiana.edu/)  
 
   [IU School of Informatics and Computing, IUPUI](http://soic.iupui.edu/)
-date: '2014-10-30'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20141030_IUNewsroom.html
-caption: >-
-  The following is an article from the IU Newsroom. Read the original article
-  [here](http://news.iu.edu/releases/iu/2014/10/data-science-masters-degree.shtml),
-  or download a PDF of the article [here](/docs/news/20141030_IUNewsroom.pdf).
 publisher: SoIC News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20141030_IUNewsroom.html
+    description: >-
+      The following is an article from the IU Newsroom. Read the original
+      article
+      [here](http://news.iu.edu/releases/iu/2014/10/data-science-masters-degree.shtml),
+      or download a PDF of the article
+      [here](/docs/news/20141030_IUNewsroom.pdf).

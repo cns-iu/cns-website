@@ -1,6 +1,7 @@
 slug: pub-134
-link: https://cns.iu.edu/docs/news/20141112_SoICNews.html
 title: A Practical Guide to Making Sense of Big Data
+date: '2014-11-12'
+link: https://cns.iu.edu/docs/news/20141112_SoICNews.html
 description: >-
   [Dr. Katy Börner](http://ella.slis.indiana.edu/~katy/), Victor H. Yngve
   Professor of Information Science, is actively involved in helping to interpret
@@ -45,15 +46,13 @@ description: >-
       *   The exhibit is currently at the University of Miami, in Coral Gables, FL where it is on exhibit through December 11, 2014.
       *   The exhibit next travels to Duke University in Durham, NC, where it is scheduled to open in mid-January and will remain on display until mid-April of 2015.
       *   After that the exhibit will travel to the Galter Health Sciences Library at Northwestern University in Chicago, IL. The exhibit will be at Northwestern May 1-September 30, 2015.
-date: '2014-11-12'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20141112_SoICNews.html
-caption: >-
-  The following is an article from [SoIC
-  News](http://www.soic.indiana.edu/news/index.html). Read the original article
-  [here](http://www.soic.indiana.edu/news/story.html?story=Practical-Guide-Making-Sense-Big-Data),
-  or download a PDF of the article [here](/docs/news/20141112_SoICNews.pdf).
 publisher: SoIC News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20141112_SoICNews.html
+    description: >-
+      The following is an article from [SoIC
+      News](http://www.soic.indiana.edu/news/index.html). Read the original
+      article
+      [here](http://www.soic.indiana.edu/news/story.html?story=Practical-Guide-Making-Sense-Big-Data),
+      or download a PDF of the article [here](/docs/news/20141112_SoICNews.pdf).

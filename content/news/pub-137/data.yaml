@@ -1,6 +1,7 @@
 slug: pub-137
-link: https://cns.iu.edu/docs/news/20150130_SoICNews.html
 title: KOFAC International Conference on Science and Creativity - Seoul
+date: '2015-01-30'
+link: https://cns.iu.edu/docs/news/20150130_SoICNews.html
 description: >-
   [Dr. Katy Börner](http://www.ils.indiana.edu/people/profile.html?profile_id=2)
   gave a keynote talk at the [KOFAC International Conference on Science and
@@ -22,13 +23,10 @@ description: >-
 
   *   [Article
   Three](http://www.sciencetimes.co.kr/?news=1%ec%9d%b8-%ec%b0%bd%ec%a1%b0%ec%9e%90-%eb%88%84%ea%b5%ac%eb%82%98-%ed%99%98%ec%98%81-%ed%86%a0%ec%bf%84-%ed%8c%b9%ec%b9%b4%ed%8e%98)
-date: '2015-01-30'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20150130_SoICNews.html
-caption: >-
-  Katy Börner was one of ten speakers featured at the 2014 KOFAC International
-  Conference on Science and Creativity in Seoul
 publisher: SoIC News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20150130_SoICNews.html
+    description: >-
+      Katy Börner was one of ten speakers featured at the 2014 KOFAC
+      International Conference on Science and Creativity in Seoul
