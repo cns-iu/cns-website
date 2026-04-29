@@ -7,11 +7,11 @@ link: supriya-ai-and-biology.pptx.png
 dateStart: 2026-03-10T00:00:00.000Z
 dateEnd: 2026-03-13T00:00:00.000Z
 thumbnail: ''
-presenters:
-  - supriya-bidanta
-projects:
-  - human-reference-atlas
 location:
   venue: AI and Biology, EMBO/EMBL Symposium
   city: Heidelberg
   country: Germany
+presenters:
+  - supriya-bidanta
+projects:
+  - human-reference-atlas

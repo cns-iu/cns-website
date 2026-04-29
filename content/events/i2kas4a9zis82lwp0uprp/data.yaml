@@ -4,11 +4,11 @@ title: The Human Reference Organ Gallery in Virtual Reality
 link: https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26101
 dateStart: 2026-03-01T00:00:00.000Z
 dateEnd: 2026-03-06T00:00:00.000Z
-presenters:
-  - andreas-bueckle
-projects:
-  - human-reference-atlas
 location:
   venue: Schloss Dagstuhl
   city: Saarland
   country: Germany
+presenters:
+  - andreas-bueckle
+projects:
+  - human-reference-atlas

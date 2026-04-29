@@ -5,9 +5,9 @@ link: >-
   https://asuevents.asu.edu/event/making-sense-complexity-katy-borner-constructing-and-exploring-data-visualizations-complex
 dateStart: 2026-02-04T00:00:00.000Z
 dateEnd: 2026-02-04T00:00:00.000Z
-presenters:
-  - katy-borner
 location:
   venue: Arizona State University
   city: Tempe
   state: AZ
+presenters:
+  - katy-borner
