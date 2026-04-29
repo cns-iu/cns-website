@@ -1,15 +1,10 @@
 slug: ev-247
 type: meeting
 title: Meeting at OSTI
-description: null
-location: >-
-  Office of Scientific and Technical Information, 1 Science.gov Way, Oak Ridge,
-  TN, 37830
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-01-03'
 dateEnd: '2008-01-03'
-tags: []
+location:
+  raw: >-
+    Office of Scientific and Technical Information, 1 Science.gov Way, Oak
+    Ridge, TN, 37830

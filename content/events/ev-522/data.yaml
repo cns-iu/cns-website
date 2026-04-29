@@ -1,15 +1,10 @@
 slug: ev-522
 type: other
 title: Blooomington Science Café
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-389
-tutorials: []
+link: http://www.sciencecafebloomington.org/
 dateStart: '2013-12-03'
 dateEnd: '2013-12-03'
-tags: []
-link: http://www.sciencecafebloomington.org/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-389

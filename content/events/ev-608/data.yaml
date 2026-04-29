@@ -1,15 +1,10 @@
 slug: ev-608
 type: meeting
 title: National Bureau of Economic Research
-description: ''
-location: Cambridge, MA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-475
-tutorials: []
+link: http://www.nber.org/
 dateStart: '2016-09-08'
 dateEnd: '2016-09-08'
-tags: []
-link: http://www.nber.org/
+location:
+  raw: Cambridge, MA
+presentations:
+  - pres-475

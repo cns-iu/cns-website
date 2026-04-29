@@ -1,9 +1,8 @@
 slug: ws-61
 type: workshop
 title: 'Make-A-Vis: Come Build a Data Visualization from the Ground Up'
-description: ''
-location: Toronto, ON, Canada
+link: https://cns-iu.github.io/workshops/2019-09-20_astc-workshop/
 dateStart: '2019-09-20'
 dateEnd: '2019-09-20'
-tags: []
-link: https://cns-iu.github.io/workshops/2019-09-20_astc-workshop/
+location:
+  raw: Toronto, ON, Canada

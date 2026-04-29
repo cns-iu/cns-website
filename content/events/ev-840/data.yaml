@@ -1,16 +1,11 @@
 slug: ev-840
 type: meeting
 title: Data Visualization Lisboa
-description: ''
-location: Lisbon, Portugal (Virtual Event)
-organizers: []
-attendees: []
-publications: []
+link: https://www.meetup.com/data-visualization-lisboa/
+dateStart: '2022-06-15'
+dateEnd: '2022-06-15'
+location:
+  raw: Lisbon, Portugal (Virtual Event)
 presentations:
   - pres-675
   - pres-682
-tutorials: []
-dateStart: '2022-06-15'
-dateEnd: '2022-06-15'
-tags: []
-link: https://www.meetup.com/data-visualization-lisboa/

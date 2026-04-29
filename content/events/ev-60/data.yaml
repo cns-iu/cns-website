@@ -1,14 +1,8 @@
 slug: ev-60
 type: conference
 title: Symposium on Knowledge Domain Visualizations; IV 2004
-description: null
-location: London, UK
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.graphicslink.demon.co.uk/IV04/
 dateStart: '2004-07-14'
 dateEnd: '2004-07-16'
-tags: []
-link: http://www.graphicslink.demon.co.uk/IV04/
+location:
+  raw: London, UK

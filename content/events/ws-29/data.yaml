@@ -3,9 +3,8 @@ type: workshop
 title: >-
   Linking International Databases to Build Strategic Academic Partnerships in
   Science Workshop
-description: ''
-location: Washington DC
+link: http://web.archive.org/web/20260108192405/https://cns.iu.edu/140514.html
 dateStart: '2014-05-14'
 dateEnd: '2014-05-15'
-tags: []
-link: http://web.archive.org/web/20260108192405/https://cns.iu.edu/140514.html
+location:
+  raw: Washington DC

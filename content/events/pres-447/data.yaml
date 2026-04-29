@@ -1,11 +1,11 @@
 slug: pres-447
 type: presentation
 title: Commerce Data Dashboard
-description: ''
-location: 1320 E 10th St., Wells 021, Bloomington, Indiana, 47405
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2016-borner-cdac-dashboard.pdf
 dateStart: '2016-01-14'
 dateEnd: '2016-01-14'
+location:
+  raw: 1320 E 10th St., Wells 021, Bloomington, Indiana, 47405
+presenters:
+  - katy-borner
 event: ev-576
-link: https://cns.iu.edu/docs/presentations/2016-borner-cdac-dashboard.pdf

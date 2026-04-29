@@ -1,14 +1,8 @@
 slug: ev-283
 type: conference
 title: The Oxford eResearch Conference 2008
-description: null
-location: Oxford, UK
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.oii.ox.ac.uk/microsites/eresearch08/
 dateStart: '2008-09-11'
 dateEnd: '2008-09-13'
-tags: []
-link: http://www.oii.ox.ac.uk/microsites/eresearch08/
+location:
+  raw: Oxford, UK

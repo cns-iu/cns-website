@@ -1,14 +1,14 @@
 slug: pres-238
 type: presentation
 title: Plug-and-Play Macroscopes Tutorial
-description: ''
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
+link: https://cns.iu.edu/docs/presentations/2010-borner-macroscope-tutorial.pdf
+dateStart: '2010-03-29'
+dateEnd: '2010-03-29'
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
 presenters:
   - katy-borner
   - angela-zoss
-dateStart: '2010-03-29'
-dateEnd: '2010-03-29'
 event: ev-403
-link: https://cns.iu.edu/docs/presentations/2010-borner-macroscope-tutorial.pdf

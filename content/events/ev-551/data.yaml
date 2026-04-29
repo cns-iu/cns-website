@@ -1,15 +1,10 @@
 slug: ev-551
 type: other
 title: Network Science Talks
-description: ''
-location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-417
-tutorials: []
+link: http://cns.iu.edu/netscitalks.html
 dateStart: '2014-12-08'
 dateEnd: '2014-12-08'
-tags: []
-link: http://cns.iu.edu/netscitalks.html
+location:
+  raw: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
+presentations:
+  - pres-417

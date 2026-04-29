@@ -1,9 +1,8 @@
 slug: ws-49
 type: workshop
 title: Addictions Grand Challenge (AGC)
-description: ''
-location: Bloomington, Indiana, USA
+link: http://web.archive.org/web/20260108193624/https://cns.iu.edu/180226.html
 dateStart: '2018-02-26'
 dateEnd: '2018-02-26'
-tags: []
-link: http://web.archive.org/web/20260108193624/https://cns.iu.edu/180226.html
+location:
+  raw: Bloomington, Indiana, USA

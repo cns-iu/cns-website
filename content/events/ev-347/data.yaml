@@ -3,14 +3,8 @@ type: other
 title: >-
   Deadline for the 2009 International Science & Engineering Visualization
   Challenge
-description: null
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.nsf.gov/news/special_reports/scivis/challenge.jsp
 dateStart: '2009-09-15'
 dateEnd: '2009-09-15'
-tags: []
-link: http://www.nsf.gov/news/special_reports/scivis/challenge.jsp
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230

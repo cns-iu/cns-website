@@ -1,12 +1,12 @@
 slug: pres-581
 type: presentation
 title: Data Visualization Literacy and Make-A-Vis User Interface
-description: ''
-location: Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2018-borner-herr-aisl.pdf
+dateStart: '2018-11-14'
+dateEnd: '2018-11-14'
+location:
+  raw: Bloomington, Indiana
 presenters:
   - bruce-w-herr-ii
   - katy-borner
-dateStart: '2018-11-14'
-dateEnd: '2018-11-14'
 event: ev-730
-link: https://cns.iu.edu/docs/presentations/2018-borner-herr-aisl.pdf

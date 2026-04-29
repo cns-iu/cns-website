@@ -1,15 +1,10 @@
 slug: ev-874
 type: conference
 title: Anatomy Connected 2023
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-717
-tutorials: []
+link: https://anatomy2023.eventscribe.net/index.asp
 dateStart: '2023-03-25'
 dateEnd: '2023-03-27'
-tags: []
-link: https://anatomy2023.eventscribe.net/index.asp
+location:
+  raw: Washington, DC
+presentations:
+  - pres-717

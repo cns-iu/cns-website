@@ -1,16 +1,10 @@
 slug: ev-223
 type: workshop
 title: GIS Day
-description: null
-location: >-
-  Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
-  Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.indiana.edu/%7Egis/gisday/
 dateStart: '2007-11-14'
 dateEnd: '2007-11-14'
-tags: []
-link: http://www.indiana.edu/%7Egis/gisday/
+location:
+  raw: >-
+    Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
+    Indiana, 47405

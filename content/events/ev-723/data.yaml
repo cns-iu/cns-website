@@ -1,13 +1,8 @@
 slug: ev-723
 type: other
 title: Rebuilding a Kidney Scientific Meeting
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2018-12-14'
 dateEnd: null
-tags: []
+location:
+  raw: Washington, DC

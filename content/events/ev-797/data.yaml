@@ -3,15 +3,10 @@ type: conference
 title: >-
   18th International Conference of the International Society for Scientometrics
   and Infometrics (ISSI)
-description: ''
-location: Leuven, Belgium (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-662
-tutorials: []
+link: https://issi2021.org/
 dateStart: '2021-07-12'
 dateEnd: '2021-07-15'
-tags: []
-link: https://issi2021.org/
+location:
+  raw: Leuven, Belgium (Virtual Event)
+presentations:
+  - pres-662

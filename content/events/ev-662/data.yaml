@@ -4,15 +4,10 @@ title: >-
   Meeting with Carol Rogers, Deputy Director and CIO of the Indiana Business
   Research Center, Mark Lawrance, Senior Vice President, Foundation and
   Operations, Darshan Shah, Chief Data Officer
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-514
-tutorials: []
+link: iub.edu
 dateStart: '2017-08-17'
 dateEnd: '2017-08-17'
-tags: []
-link: iub.edu
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-514

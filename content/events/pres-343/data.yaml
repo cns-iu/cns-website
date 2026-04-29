@@ -1,12 +1,12 @@
 slug: pres-343
 type: presentation
 title: 'VIVO Visualizations: Design and Usage'
-description: ''
-location: 100 Chopin Plaza, Miami, FL, 33131
+link: https://cns.iu.edu/docs/presentations/2012-kong-borner-vivo-tutorial.pdf
+dateStart: '2012-08-22'
+dateEnd: '2012-08-22'
+location:
+  raw: 100 Chopin Plaza, Miami, FL, 33131
 presenters:
   - katy-borner
   - chin-hua-kong
-dateStart: '2012-08-22'
-dateEnd: '2012-08-22'
 event: ev-490
-link: https://cns.iu.edu/docs/presentations/2012-kong-borner-vivo-tutorial.pdf

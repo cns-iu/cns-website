@@ -1,11 +1,11 @@
 slug: pres-245
 type: presentation
 title: Plug-and-Play Macroscopes
-description: ''
-location: Leiden, The Netherlands
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2010-borner-ecsp3.pdf
 dateStart: '2010-05-28'
 dateEnd: '2010-05-28'
+location:
+  raw: Leiden, The Netherlands
+presenters:
+  - katy-borner
 event: ev-414
-link: https://cns.iu.edu/docs/presentations/2010-borner-ecsp3.pdf

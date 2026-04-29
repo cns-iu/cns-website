@@ -1,13 +1,13 @@
 slug: pres-106
 type: presentation
 title: Analyzing Research Fields within Physics Using Network Science
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - soma-sanyal
+link: https://cns.iu.edu/docs/presentations/2007-sanyal-anaresfd.pdf
 dateStart: '2007-04-02'
 dateEnd: '2007-04-02'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - soma-sanyal
 event: ev-151
-link: https://cns.iu.edu/docs/presentations/2007-sanyal-anaresfd.pdf

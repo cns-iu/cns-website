@@ -1,14 +1,10 @@
 slug: ev-382
 type: conference
 title: 'Information Visualization, 2000: Symposium on Digital Libraries'
-description: ''
-location: London South Bank University, London, UK, SE1 6LN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-233
-tutorials: []
+link: null
 dateStart: '2000-07-19'
 dateEnd: '2000-07-21'
-tags: []
+location:
+  raw: London South Bank University, London, UK, SE1 6LN
+presentations:
+  - pres-233

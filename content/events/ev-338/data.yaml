@@ -1,14 +1,8 @@
 slug: ev-338
 type: meeting
 title: Visualization and Monitoring of Network Traffic
-description: null
-location: Leibniz-Zentrum f&uuml;r Informatik, Wadern, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=09211
 dateStart: '2009-05-17'
 dateEnd: '2009-05-20'
-tags: []
-link: http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=09211
+location:
+  raw: Leibniz-Zentrum f&uuml;r Informatik, Wadern, Germany

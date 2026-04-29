@@ -1,15 +1,10 @@
 slug: ev-292
 type: conference
 title: '28th CNLS Annual Conference: Challenges in Information Science and Technology'
-description: null
-location: Santa Fe, NM
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-177
-tutorials: []
+link: http://cnls.lanl.gov/annual28/index.html
 dateStart: '2008-05-12'
 dateEnd: '2008-05-16'
-tags: []
-link: http://cnls.lanl.gov/annual28/index.html
+location:
+  raw: Santa Fe, NM
+presentations:
+  - pres-177

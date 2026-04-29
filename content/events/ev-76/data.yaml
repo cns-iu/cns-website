@@ -1,17 +1,12 @@
 slug: ev-76
 type: meeting
 title: SLIS Doctoral Student Research Forum 2004
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-102
-tutorials: []
+link: 2004-hook-supcourt-unknown.pdf
 dateStart: '2004-09-18'
 dateEnd: '2004-09-18'
-tags: []
-link: 2004-hook-supcourt-unknown.pdf
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-102

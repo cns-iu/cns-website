@@ -1,14 +1,14 @@
 slug: pres-352
 type: presentation
 title: Network Visualization using Gephi
-description: ''
-location: >-
-  Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
-  Bloomington, Indiana, 47405
+link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial2.pdf
+dateStart: '2012-10-01'
+dateEnd: '2012-10-01'
+location:
+  raw: >-
+    Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
+    Bloomington, Indiana, 47405
 presenters:
   - katy-borner
   - david-e-polley
-dateStart: '2012-10-01'
-dateEnd: '2012-10-01'
 event: ev-491
-link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial2.pdf

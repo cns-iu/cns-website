@@ -1,14 +1,14 @@
 slug: pres-192
 type: presentation
 title: The Scholarly Database
-description: ''
-location: >-
-  Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
-  Bloomington, Indiana, 47405
+link: https://cns.iu.edu/docs/presentations/2008-ma-sdb.pdf
+dateStart: '2008-11-05'
+dateEnd: '2008-11-05'
+location:
+  raw: >-
+    Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
+    Bloomington, Indiana, 47405
 presenters:
   - russell-jackson-duhon
   - nianli-ma
-dateStart: '2008-11-05'
-dateEnd: '2008-11-05'
 event: ev-314
-link: https://cns.iu.edu/docs/presentations/2008-ma-sdb.pdf

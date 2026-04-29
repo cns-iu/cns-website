@@ -1,13 +1,13 @@
 slug: pres-225
 type: presentation
 title: Open Data and Open Code for S&T Assessment
-description: ''
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2009-borner-I501.pdf
 dateStart: '2009-11-11'
 dateEnd: '2009-11-11'
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presenters:
+  - katy-borner
 event: ev-373
-link: https://cns.iu.edu/docs/presentations/2009-borner-I501.pdf

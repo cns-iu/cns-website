@@ -1,14 +1,8 @@
 slug: ev-276
 type: conference
 title: 10th International Conference on Science and Technology Indicators
-description: null
-location: University of Vienna, Vienna, Austria
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.sti2008.at/
 dateStart: '2008-09-16'
 dateEnd: '2008-09-20'
-tags: []
-link: http://www.sti2008.at/
+location:
+  raw: University of Vienna, Vienna, Austria

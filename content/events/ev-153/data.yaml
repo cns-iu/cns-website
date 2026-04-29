@@ -1,16 +1,12 @@
 slug: ev-153
 type: meeting
 title: Information Visualization Lab Meeting 2003
-description: null
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-46
-tutorials: []
+link: null
 dateStart: '2003-01-01'
 dateEnd: '2003-01-01'
-tags: []
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
+presentations:
+  - pres-46

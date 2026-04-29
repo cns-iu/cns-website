@@ -1,15 +1,10 @@
 slug: ev-800
 type: meeting
 title: Common Fund Data Ecosystem (CFDE) Anatomy Working Group
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-657
-tutorials: []
+link: https://www.nih-cfde.org/engagement_page/events-and-helpdesks/
 dateStart: '2021-04-20'
 dateEnd: '2021-04-20'
-tags: []
-link: https://www.nih-cfde.org/engagement_page/events-and-helpdesks/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-657

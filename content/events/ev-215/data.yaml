@@ -1,13 +1,8 @@
 slug: ev-215
 type: meeting
 title: Meeting of the Alan T. Waterman Award Committee
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2007-02-23'
 dateEnd: '2007-02-23'
-tags: []
+location:
+  raw: Washington, DC

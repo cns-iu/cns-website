@@ -1,17 +1,12 @@
 slug: ev-373
 type: visit
 title: Guest Lecture, I501 Informatics (Johan Bollen)
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-225
-tutorials: []
+link: http://informatics.indiana.edu/jbollen/I501F09/Home.html
 dateStart: '2009-11-11'
 dateEnd: '2009-11-11'
-tags: []
-link: http://informatics.indiana.edu/jbollen/I501F09/Home.html
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-225

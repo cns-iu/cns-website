@@ -1,15 +1,10 @@
 slug: ev-55
 type: conference
 title: First Annual Bioinformatics Conference
-description: null
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-24
-tutorials: []
+link: http://ella.slis.indiana.edu/~katy/events/index.html
 dateStart: '2004-05-27'
 dateEnd: '2004-05-27'
-tags: []
-link: http://ella.slis.indiana.edu/~katy/events/index.html
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-24

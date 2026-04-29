@@ -1,17 +1,13 @@
 slug: ev-597
 type: conference
 title: i2b2 AUG/SHRINE Annual Conference
-description: ''
-location: Boston, MA
-organizers: []
+link: https://www.i2b2.org/
+dateStart: '2016-06-21'
+dateEnd: '2016-06-21'
+location:
+  raw: Boston, MA
 attendees:
   - griffin-weber
   - daniel-odonnell
-publications: []
 presentations:
   - pres-466
-tutorials: []
-dateStart: '2016-06-21'
-dateEnd: '2016-06-21'
-tags: []
-link: https://www.i2b2.org/

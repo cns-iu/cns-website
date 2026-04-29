@@ -1,15 +1,10 @@
 slug: ev-483
 type: conference
 title: NetSci2012
-description: ''
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-336
-tutorials: []
+link: http://netsci2012.net/
 dateStart: '2012-06-18'
 dateEnd: '2012-06-22'
-tags: []
-link: http://netsci2012.net/
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-336

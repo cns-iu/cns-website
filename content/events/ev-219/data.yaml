@@ -1,14 +1,8 @@
 slug: ev-219
 type: workshop
 title: Designing Cyberinfrastructure for Collaboration and Innovation
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://cyberinfrastructure.us/
 dateStart: '2007-01-29'
 dateEnd: '2007-01-30'
-tags: []
-link: http://cyberinfrastructure.us/
+location:
+  raw: Washington, DC

@@ -1,11 +1,11 @@
 slug: pres-353
 type: presentation
 title: A Semantic Map of the last.fm Music Folksonomy
-description: ''
-location: Columbus, OH
-presenters:
-  - andre-skupin
+link: https://cns.iu.edu/docs/presentations/2012-skupin-last-fm-giscience.ppt
 dateStart: '2012-09-19'
 dateEnd: '2012-09-19'
+location:
+  raw: Columbus, OH
+presenters:
+  - andre-skupin
 event: ev-495
-link: https://cns.iu.edu/docs/presentations/2012-skupin-last-fm-giscience.ppt

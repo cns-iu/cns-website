@@ -1,12 +1,12 @@
 slug: pres-280
 type: presentation
 title: Analysis and Visualization of Science
-description: ''
-location: Seattle, WA
-presenters:
-  - angela-zoss
-dateStart: '2011-02-08'
-dateEnd: '2011-02-08'
-event: ev-436
 link: >-
   https://cns.iu.edu/docs/presentations/2011-zoss-AnalyzingMappingScience-iConference.pdf
+dateStart: '2011-02-08'
+dateEnd: '2011-02-08'
+location:
+  raw: Seattle, WA
+presenters:
+  - angela-zoss
+event: ev-436

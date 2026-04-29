@@ -1,14 +1,10 @@
 slug: ev-229
 type: visit
 title: Information Visualization Lab Talk
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-58
-tutorials: []
+link: null
 dateStart: '2006-03-22'
 dateEnd: '2006-03-22'
-tags: []
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-58

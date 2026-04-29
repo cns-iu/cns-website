@@ -1,14 +1,8 @@
 slug: ev-94
 type: workshop
 title: IM2.x Workshop Series to Improve Visual Communication of Science
-description: null
-location: Research Triangle Park, NC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.sigmaxi.org/programs/public/im2xabout.shtml
 dateStart: '2006-06-02'
 dateEnd: '2006-06-02'
-tags: []
-link: http://www.sigmaxi.org/programs/public/im2xabout.shtml
+location:
+  raw: Research Triangle Park, NC

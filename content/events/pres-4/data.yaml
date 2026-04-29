@@ -3,12 +3,12 @@ type: presentation
 title: >-
   Speaker Session on Mapping Humanity's Knowledge and Expertise in the Digital
   Domain
-description: ''
-location: Denver, CO
+link: http://vw.indiana.edu/aag05/
+dateStart: '2005-04-06'
+dateEnd: '2005-04-06'
+location:
+  raw: Denver, CO
 presenters:
   - katy-borner
   - andre-skupin
-dateStart: '2005-04-06'
-dateEnd: '2005-04-06'
 event: ev-6
-link: http://vw.indiana.edu/aag05/

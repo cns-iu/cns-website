@@ -1,15 +1,10 @@
 slug: ev-548
 type: visit
 title: Supercomputing Conference
-description: ''
-location: New Orleans, LA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-414
-tutorials: []
+link: http://sc14.supercomputing.org/
 dateStart: '2014-11-16'
 dateEnd: '2014-11-16'
-tags: []
-link: http://sc14.supercomputing.org/
+location:
+  raw: New Orleans, LA
+presentations:
+  - pres-414

@@ -3,15 +3,10 @@ type: conference
 title: >-
   2005 Annual Meeting of the American Society for Information Science and
   Technology
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-59
-tutorials: []
+link: http://www.asis.org/Conferences/AM05/index.html
 dateStart: '2005-10-28'
 dateEnd: '2005-11-02'
-tags: []
-link: http://www.asis.org/Conferences/AM05/index.html
+location:
+  raw: Chicago, IL
+presentations:
+  - pres-59

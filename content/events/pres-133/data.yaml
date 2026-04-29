@@ -1,11 +1,11 @@
 slug: pres-133
 type: presentation
 title: The Scholarly Database and Its Utility
-description: ''
-location: Tokyo, Japan
-presenters:
-  - gavin-larowe
+link: http://ella.slis.indiana.edu/%7Ekaty/events/07-nii-sdb.pdf
 dateStart: '2007-02-06'
 dateEnd: '2007-02-06'
+location:
+  raw: Tokyo, Japan
+presenters:
+  - gavin-larowe
 event: ev-139
-link: http://ella.slis.indiana.edu/%7Ekaty/events/07-nii-sdb.pdf

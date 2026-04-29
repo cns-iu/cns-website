@@ -1,17 +1,12 @@
 slug: ev-352
 type: workshop
 title: 'NSF SciSIP Grantees Workshop: Toward a Community of Practice'
-description: null
-location: >-
-  American Association for the Advancement of Science, 1200 New York Avenue NW,
-  Washington DC, 20005
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-204
-tutorials: []
+link: http://www.aaas.org/spp/SciSIP/
 dateStart: '2009-03-24'
 dateEnd: '2009-03-25'
-tags: []
-link: http://www.aaas.org/spp/SciSIP/
+location:
+  raw: >-
+    American Association for the Advancement of Science, 1200 New York Avenue
+    NW, Washington DC, 20005
+presentations:
+  - pres-204

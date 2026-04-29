@@ -1,17 +1,12 @@
 slug: ev-831
 type: meeting
 title: Common Fund Data Ecosystem (CFDE) October Cross-Pollination Event
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
+link: https://www.nih-cfde.org/
+dateStart: '2022-10-04'
+dateEnd: '2022-10-04'
+location:
+  raw: Bethesda, MD (Virtual Event)
 presentations:
   - pres-663
   - pres-664
   - pres-666
-tutorials: []
-dateStart: '2022-10-04'
-dateEnd: '2022-10-04'
-tags: []
-link: https://www.nih-cfde.org/

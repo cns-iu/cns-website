@@ -1,15 +1,10 @@
 slug: ev-414
 type: conference
 title: Third European Conference on Scientific Publishing in Biomedicine and Medicine
-description: null
-location: Leiden, The Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-245
-tutorials: []
+link: http://www.lumc.nl/con/2009/?setlanguage=English&setcountry=en
 dateStart: '2010-05-27'
 dateEnd: '2010-05-29'
-tags: []
-link: http://www.lumc.nl/con/2009/?setlanguage=English&setcountry=en
+location:
+  raw: Leiden, The Netherlands
+presentations:
+  - pres-245

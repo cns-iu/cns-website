@@ -1,14 +1,8 @@
 slug: ev-27
 type: conference
 title: IEEE Symposium on Information Visualization
-description: null
-location: Minneapolis, MN
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.infovis.org/infovis/2005/
 dateStart: '2005-10-23'
 dateEnd: '2005-10-25'
-tags: []
-link: http://www.infovis.org/infovis/2005/
+location:
+  raw: Minneapolis, MN

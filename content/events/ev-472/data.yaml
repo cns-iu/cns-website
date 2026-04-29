@@ -1,18 +1,13 @@
 slug: ev-472
 type: workshop
 title: Organisation for Economic Co-operation and Development (OECD)
-description: null
-location: >-
-  Organisation for Economic Co-operation and Development (OECD), 2 rue André
-  Pascal, Paris, France, 75116
-organizers: []
-attendees: []
-publications: []
+link: http://www.oecd.org
+dateStart: '2012-04-13'
+dateEnd: '2012-04-13'
+location:
+  raw: >-
+    Organisation for Economic Co-operation and Development (OECD), 2 rue André
+    Pascal, Paris, France, 75116
 presentations:
   - pres-324
   - pres-325
-tutorials: []
-dateStart: '2012-04-13'
-dateEnd: '2012-04-13'
-tags: []
-link: http://www.oecd.org

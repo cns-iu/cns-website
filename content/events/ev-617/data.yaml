@@ -1,14 +1,8 @@
 slug: ev-617
 type: meeting
 title: University of Texas Arlington
-description: ''
-location: University of Texas, Arlington
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.uta.edu/uta/
 dateStart: '2016-10-31'
 dateEnd: '2016-10-31'
-tags: []
-link: http://www.uta.edu/uta/
+location:
+  raw: University of Texas, Arlington

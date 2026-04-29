@@ -3,13 +3,8 @@ type: workshop
 title: >-
   China Workshop: Designing Cyberinfrastructure to Enable US-China Collaboration
   in Tobacco Research
-description: null
-location: Beijing, China
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-03-01'
 dateEnd: '2008-03-03'
-tags: []
+location:
+  raw: Beijing, China

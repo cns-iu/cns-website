@@ -1,17 +1,12 @@
 slug: ev-374
 type: visit
 title: Guest Lecture, S701, School of Library and Information Science (Jacobs)
-description: null
-location: >-
-  School of Library and Information Science, Wells Library 011, Indiana
-  University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-226
-tutorials: []
+link: http://www.slis.indiana.edu/syllabi/fall_2008/S701.html
 dateStart: '2009-11-13'
 dateEnd: '2009-11-13'
-tags: []
-link: http://www.slis.indiana.edu/syllabi/fall_2008/S701.html
+location:
+  raw: >-
+    School of Library and Information Science, Wells Library 011, Indiana
+    University at Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-226

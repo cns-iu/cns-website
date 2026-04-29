@@ -1,15 +1,15 @@
 slug: pres-188
 type: presentation
 title: IVCSF Software Demo
-description: ''
-location: >-
-  Department of Computer Science, Indiana University at Bloomington, Lindley
-  Hall, Bloomington, Indiana, 47405
+link: http://ella.slis.indiana.edu/%7Ekaty/events/05-jett/index.html
+dateStart: '2005-11-12'
+dateEnd: '2005-11-12'
+location:
+  raw: >-
+    Department of Computer Science, Indiana University at Bloomington, Lindley
+    Hall, Bloomington, Indiana, 47405
 presenters:
   - shashikant-penumarthy
   - bruce-w-herr-ii
   - katy-borner
-dateStart: '2005-11-12'
-dateEnd: '2005-11-12'
 event: ev-29
-link: http://ella.slis.indiana.edu/%7Ekaty/events/05-jett/index.html

@@ -3,15 +3,10 @@ type: conference
 title: >-
   Conference on Visualization and Data Analysis 2005, part of IS&T /SPIE's 17th
   Annual Symposium on Electronic Imaging 2005
-description: null
-location: San Jose, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-40
-tutorials: []
+link: http://vw.indiana.edu/vda2005/
 dateStart: '2005-01-17'
 dateEnd: '2005-01-18'
-tags: []
-link: http://vw.indiana.edu/vda2005/
+location:
+  raw: San Jose, CA
+presentations:
+  - pres-40

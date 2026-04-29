@@ -1,13 +1,13 @@
 slug: pres-264
 type: presentation
 title: 'VIVO Data Analysis and Visualization: How to Program, Extend and Utilize'
-description: ''
-location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
+link: https://cns.iu.edu/docs/presentations/2010-vivo-programming-workshop.pdf
+dateStart: '2010-08-12'
+dateEnd: '2010-08-12'
+location:
+  raw: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
 presenters:
   - katy-borner
   - micah-linnemeier
   - chintan-tank
-dateStart: '2010-08-12'
-dateEnd: '2010-08-12'
 event: ev-420
-link: https://cns.iu.edu/docs/presentations/2010-vivo-programming-workshop.pdf

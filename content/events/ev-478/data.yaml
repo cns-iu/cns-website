@@ -1,15 +1,10 @@
 slug: ev-478
 type: meeting
 title: Médialab Sciences
-description: ''
-location: Paris, France
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-326
-tutorials: []
+link: http://www.medialab.sciences-po.fr/
 dateStart: '2012-04-11'
 dateEnd: '2012-04-11'
-tags: []
-link: http://www.medialab.sciences-po.fr/
+location:
+  raw: Paris, France
+presentations:
+  - pres-326

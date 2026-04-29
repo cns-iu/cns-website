@@ -3,13 +3,13 @@ type: presentation
 title: >-
   The United States Supreme Court: Visualizations and Metrics (60 Years of Data)
   (Poster)
-description: ''
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2004-hook-ussupco-poster.ppt
 dateStart: '2004-09-10'
 dateEnd: '2004-09-10'
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presenters:
+  - peter-a-hook
 event: ev-112
-link: https://cns.iu.edu/docs/presentations/2004-hook-ussupco-poster.ppt

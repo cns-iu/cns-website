@@ -1,16 +1,11 @@
 slug: ev-441
 type: conference
 title: I3th ISSI Conference 2011
-description: ''
-location: Durban, South Africa
-organizers: []
-attendees: []
-publications: []
+link: http://www.issi2011.uzulu.ac.za/
+dateStart: '2011-07-04'
+dateEnd: '2011-07-07'
+location:
+  raw: Durban, South Africa
 presentations:
   - pres-284
   - pres-293
-tutorials: []
-dateStart: '2011-07-04'
-dateEnd: '2011-07-07'
-tags: []
-link: http://www.issi2011.uzulu.ac.za/

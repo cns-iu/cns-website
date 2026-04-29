@@ -1,16 +1,11 @@
 slug: ev-438
 type: conference
 title: Second Annual International Science of Team Science Conference
-description: ''
-location: 633 North St. Clair, Wyndham Hotel, Chicago, IL, 60611
-organizers: []
-attendees: []
-publications: []
+link: http://scienceofteamscience.northwestern.edu/scits-2011-conference
+dateStart: '2011-04-11'
+dateEnd: '2011-04-14'
+location:
+  raw: 633 North St. Clair, Wyndham Hotel, Chicago, IL, 60611
 presentations:
   - pres-282
   - pres-285
-tutorials: []
-dateStart: '2011-04-11'
-dateEnd: '2011-04-14'
-tags: []
-link: http://scienceofteamscience.northwestern.edu/scits-2011-conference

@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Open Data, Open Source NRN Systems for Global Science Decision-Making: Let’s
   Compete!
-description: ''
-location: Austin, TX
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2014-borner-vivo.pdf
 dateStart: '2014-08-08'
 dateEnd: '2014-08-08'
+location:
+  raw: Austin, TX
+presenters:
+  - katy-borner
 event: ev-538
-link: https://cns.iu.edu/docs/presentations/2014-borner-vivo.pdf

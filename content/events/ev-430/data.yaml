@@ -1,17 +1,12 @@
 slug: ev-430
 type: other
 title: the School of Informatics and Computing Colloquium Series
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-274
-tutorials: []
+link: http://www.soic.indiana.edu/discover/news-events/events/2011/colloquia.shtml
 dateStart: '2011-01-28'
 dateEnd: '2011-01-28'
-tags: []
-link: http://www.soic.indiana.edu/discover/news-events/events/2011/colloquia.shtml
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-274

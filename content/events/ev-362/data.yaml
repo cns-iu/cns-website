@@ -1,15 +1,10 @@
 slug: ev-362
 type: conference
 title: 'Information Kinetics: Egoviz'
-description: null
-location: San Sebastian, Spain
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-214
-tutorials: []
+link: http://www.arteleku.net/programa/information-kinetics-egoviz
 dateStart: '2009-08-10'
 dateEnd: '2009-08-22'
-tags: []
-link: http://www.arteleku.net/programa/information-kinetics-egoviz
+location:
+  raw: San Sebastian, Spain
+presentations:
+  - pres-214

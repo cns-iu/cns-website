@@ -1,15 +1,10 @@
 slug: ev-238
 type: meeting
 title: Meeting with Scopus
-description: null
-location: >-
-  Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands, 1019
-  AT
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-01-18'
 dateEnd: '2008-01-18'
-tags: []
+location:
+  raw: >-
+    Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands,
+    1019 AT

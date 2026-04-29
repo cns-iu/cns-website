@@ -1,13 +1,13 @@
 slug: pres-657
 type: presentation
 title: HUBMAP Anatomy Knowledge Requirements
-description: ''
-location: Bethesda, MD (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/21-HuBMAP-AnatomyWG-Borner.pdf
 dateStart: '2021-04-20'
 dateEnd: '2021-04-20'
+location:
+  raw: Bethesda, MD (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-800
-link: https://cns.iu.edu/docs/presentations/21-HuBMAP-AnatomyWG-Borner.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

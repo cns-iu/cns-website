@@ -1,19 +1,14 @@
 slug: ev-487
 type: workshop
 title: Portfolio Analysis Symposium
-description: ''
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-organizers: []
-attendees: []
-publications: []
+link: >-
+  http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html
+dateStart: '2012-07-23'
+dateEnd: '2012-07-24'
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
 presentations:
   - pres-340
   - pres-341
-tutorials: []
-dateStart: '2012-07-23'
-dateEnd: '2012-07-24'
-tags: []
-link: >-
-  http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html

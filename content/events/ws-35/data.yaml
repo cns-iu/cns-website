@@ -3,9 +3,8 @@ type: workshop
 title: >-
   Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that Render
   Data into Insights
-description: ''
-location: Montreal, Canada
+link: http://web.archive.org/web/20260108192724/https://cns.iu.edu/151017.html
 dateStart: '2015-10-17'
 dateEnd: '2015-10-17'
-tags: []
-link: http://web.archive.org/web/20260108192724/https://cns.iu.edu/151017.html
+location:
+  raw: Montreal, Canada

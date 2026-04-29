@@ -1,15 +1,10 @@
 slug: ev-851
 type: workshop
 title: The Future of Learning & Work Workshop at Futurium
-description: ''
-location: Berlin, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-686
-tutorials: []
+link: https://cns-iu.github.io/workshops/2022-03-14-futurium/
 dateStart: '2022-03-14'
 dateEnd: '2022-03-15'
-tags: []
-link: https://cns-iu.github.io/workshops/2022-03-14-futurium/
+location:
+  raw: Berlin, Germany
+presentations:
+  - pres-686

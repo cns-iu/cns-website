@@ -1,16 +1,12 @@
 slug: ev-51
 type: other
 title: CS Colloquium
-description: null
-location: >-
-  Department of Computer Science, Indiana University at Bloomington, Lindley
-  Hall, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-21
-tutorials: []
+link: null
 dateStart: '2004-04-28'
 dateEnd: '2004-04-28'
-tags: []
+location:
+  raw: >-
+    Department of Computer Science, Indiana University at Bloomington, Lindley
+    Hall, Bloomington, Indiana, 47405
+presentations:
+  - pres-21

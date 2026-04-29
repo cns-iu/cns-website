@@ -1,15 +1,10 @@
 slug: ev-853
 type: meeting
 title: Cold Spring Harbor Laboratory (CSHL) Single Cell Analyses Meeting
-description: ''
-location: Cold Spring Harbor, NY (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-688
-tutorials: []
+link: https://meetings.cshl.edu/meetings.aspx?meet=SINGLE&year=21
 dateStart: '2021-11-10'
 dateEnd: '2021-11-13'
-tags: []
-link: https://meetings.cshl.edu/meetings.aspx?meet=SINGLE&year=21
+location:
+  raw: Cold Spring Harbor, NY (Virtual Event)
+presentations:
+  - pres-688

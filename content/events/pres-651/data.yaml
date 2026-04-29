@@ -1,10 +1,9 @@
 slug: pres-651
 type: presentation
 title: The Common Coordinate Framework Registration User Interface (CCF RUI)
-description: ''
-location: Oxford, UK (Virtual Event)
-presenters: []
+link: https://cns.iu.edu/docs/presentations/21-SpatialBiology-CCF-RUI-Bueckle.pdf
 dateStart: '2021-04-15'
 dateEnd: '2021-04-15'
+location:
+  raw: Oxford, UK (Virtual Event)
 event: ev-803
-link: https://cns.iu.edu/docs/presentations/21-SpatialBiology-CCF-RUI-Bueckle.pdf

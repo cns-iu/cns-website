@@ -1,16 +1,11 @@
 slug: ev-53
 type: conference
 title: Understanding Complex Systems 2005
-description: null
-location: Champaign, IL
-organizers: []
-attendees: []
-publications: []
+link: http://www.howhy.com/ucs2005/
+dateStart: '2005-05-16'
+dateEnd: '2005-05-19'
+location:
+  raw: Champaign, IL
 presentations:
   - pres-6
   - pres-22
-tutorials: []
-dateStart: '2005-05-16'
-dateEnd: '2005-05-19'
-tags: []
-link: http://www.howhy.com/ucs2005/

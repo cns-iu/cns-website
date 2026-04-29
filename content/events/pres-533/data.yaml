@@ -1,10 +1,9 @@
 slug: pres-533
 type: presentation
 title: 'Lifting the Veil: Visualizing Sentient Architecture'
-description: ''
-location: Vancouver, Canada
-presenters: []
+link: https://cns.iu.edu/docs/presentations/2017-bueckle-FTC.pdf
 dateStart: '2017-11-30'
 dateEnd: '2017-11-30'
+location:
+  raw: Vancouver, Canada
 event: ev-679
-link: https://cns.iu.edu/docs/presentations/2017-bueckle-FTC.pdf

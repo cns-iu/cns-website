@@ -1,13 +1,13 @@
 slug: pres-88
 type: presentation
 title: IVCSF Plugin Integration Intensive Session
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - bruce-w-herr-ii
+link: http://iv.slis.indiana.edu/sw/
 dateStart: '2005-12-13'
 dateEnd: '2005-12-13'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - bruce-w-herr-ii
 event: ev-33
-link: http://iv.slis.indiana.edu/sw/

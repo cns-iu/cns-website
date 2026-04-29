@@ -1,15 +1,10 @@
 slug: ev-803
 type: conference
 title: 'Spatial Biology Europe: Online'
-description: ''
-location: Oxford, UK (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-651
-tutorials: []
+link: https://www.oxfordglobal.co.uk/spatial-biology-online/
 dateStart: '2021-04-14'
 dateEnd: '2021-04-16'
-tags: []
-link: https://www.oxfordglobal.co.uk/spatial-biology-online/
+location:
+  raw: Oxford, UK (Virtual Event)
+presentations:
+  - pres-651

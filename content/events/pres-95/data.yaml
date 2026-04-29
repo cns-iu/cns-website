@@ -1,11 +1,11 @@
 slug: pres-95
 type: presentation
 title: 'Mapping Science: Opportunities and Challenges'
-description: ''
-location: Boston, MA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2005-borner-mapsci.ppt
 dateStart: '2006-09-21'
 dateEnd: '2006-09-21'
+location:
+  raw: Boston, MA
+presenters:
+  - katy-borner
 event: ev-130
-link: https://cns.iu.edu/docs/presentations/2005-borner-mapsci.ppt

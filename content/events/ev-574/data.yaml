@@ -1,15 +1,10 @@
 slug: ev-574
 type: workshop
 title: International Symposium on User-­Centered Social Media
-description: ''
-location: Essen, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-445
-tutorials: []
+link: https://eggnog.is.inf.uni-due.de
 dateStart: '2015-12-21'
 dateEnd: '2015-12-21'
-tags: []
-link: https://eggnog.is.inf.uni-due.de
+location:
+  raw: Essen, Germany
+presentations:
+  - pres-445

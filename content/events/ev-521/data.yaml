@@ -1,15 +1,10 @@
 slug: ev-521
 type: conference
 title: EDUCAUSE 2013 Annual Conference
-description: ''
-location: Anaheim, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-388
-tutorials: []
+link: http://www.educause.edu/annual-conference
 dateStart: '2013-10-15'
 dateEnd: '2013-10-18'
-tags: []
-link: http://www.educause.edu/annual-conference
+location:
+  raw: Anaheim, CA
+presentations:
+  - pres-388

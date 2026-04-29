@@ -1,15 +1,10 @@
 slug: ev-166
 type: workshop
 title: Complex Systems Summer School
-description: null
-location: Beijing, China
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-127
-tutorials: []
+link: http://www.santafe.edu/events/workshops/index.php/CSSS_2007_Beijing
 dateStart: '2007-07-18'
 dateEnd: '2007-07-18'
-tags: []
-link: http://www.santafe.edu/events/workshops/index.php/CSSS_2007_Beijing
+location:
+  raw: Beijing, China
+presentations:
+  - pres-127

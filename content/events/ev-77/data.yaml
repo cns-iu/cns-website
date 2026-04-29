@@ -1,15 +1,10 @@
 slug: ev-77
 type: conference
 title: ALISE Annual Conference 2006
-description: null
-location: San Antonio, TX
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-54
-tutorials: []
+link: http://www.alise.org/conferences/2006_Conference/
 dateStart: '2006-01-16'
 dateEnd: '2006-01-19'
-tags: []
-link: http://www.alise.org/conferences/2006_Conference/
+location:
+  raw: San Antonio, TX
+presentations:
+  - pres-54

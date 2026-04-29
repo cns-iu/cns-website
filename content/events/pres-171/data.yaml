@@ -1,11 +1,11 @@
 slug: pres-171
 type: presentation
 title: Discrete Network Dynamics Analysis Using Network Workbench
-description: ''
-location: Montreal, Quebec, Canada
-presenters:
-  - timothy-kelley
+link: https://cns.iu.edu/docs/presentations/2008-kelley-mcgill-nwb-presentation.pdf
 dateStart: '2008-05-20'
 dateEnd: '2008-05-20'
+location:
+  raw: Montreal, Quebec, Canada
+presenters:
+  - timothy-kelley
 event: ev-267
-link: https://cns.iu.edu/docs/presentations/2008-kelley-mcgill-nwb-presentation.pdf

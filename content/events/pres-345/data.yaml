@@ -1,13 +1,13 @@
 slug: pres-345
 type: presentation
 title: Plug-and-play visualization with the Science of Science Tool
-description: ''
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-presenters:
-  - david-e-polley
+link: https://cns.iu.edu/docs/presentations/2012-polley-statewideIT-sci2.pdf
 dateStart: '2012-09-25'
 dateEnd: '2012-09-25'
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+presenters:
+  - david-e-polley
 event: ev-492
-link: https://cns.iu.edu/docs/presentations/2012-polley-statewideIT-sci2.pdf

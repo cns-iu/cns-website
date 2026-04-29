@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Visual Analytics: Mining, Mapping, and Accelerating Local and Global Science
   and Technology
-description: ''
-location: Washington, DC
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2016-borner-aaas.pdf
 dateStart: '2016-02-13'
 dateEnd: '2016-02-13'
+location:
+  raw: Washington, DC
+presenters:
+  - katy-borner
 event: ev-582
-link: https://cns.iu.edu/docs/presentations/2016-borner-aaas.pdf

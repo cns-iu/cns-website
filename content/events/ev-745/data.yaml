@@ -1,14 +1,10 @@
 slug: ev-745
 type: workshop
 title: HuBMAP CCF WS at Harvard Medical School
-description: ''
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2019-06-27'
 dateEnd: null
-tags:
-  - hra
+location:
+  raw: Boston, MA
+projects:
+  - human-reference-atlas

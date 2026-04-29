@@ -1,14 +1,8 @@
 slug: ev-52
 type: conference
 title: XXIV International Sunbelt Social Network Conference
-description: null
-location: Portoroz, Slovenia
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://vlado.fmf.uni-lj.si/info/sunbelt24/
 dateStart: '2004-05-12'
 dateEnd: '2004-05-16'
-tags: []
-link: http://vlado.fmf.uni-lj.si/info/sunbelt24/
+location:
+  raw: Portoroz, Slovenia

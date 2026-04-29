@@ -1,15 +1,10 @@
 slug: ev-821
 type: conference
 title: UCSD Institute for Genomic Medicine Symposium on Spatial Omics, Poster Session
-description: ''
-location: La Jolla, CA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-645
-tutorials: []
+link: https://igmsymposium.weebly.com/posters.html
 dateStart: '2020-10-26'
 dateEnd: '2020-10-26'
-tags: []
-link: https://igmsymposium.weebly.com/posters.html
+location:
+  raw: La Jolla, CA (Virtual Event)
+presentations:
+  - pres-645

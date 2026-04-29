@@ -1,15 +1,12 @@
 slug: ev-23
 type: other
 title: InfoVis Lab Open House
-description: null
-location: Lilly Library, Indiana University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-53
-tutorials: []
+link: http://ella.slis.indiana.edu/%7ekaty/gallery/05-openhouse/
 dateStart: '2005-10-03'
 dateEnd: '2005-10-03'
-tags: []
-link: http://ella.slis.indiana.edu/%7ekaty/gallery/05-openhouse/
+location:
+  raw: >-
+    Lilly Library, Indiana University at Bloomington, Bloomington, Indiana,
+    47405
+presentations:
+  - pres-53

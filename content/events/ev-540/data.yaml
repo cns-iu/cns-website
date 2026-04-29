@@ -1,17 +1,12 @@
 slug: ev-540
 type: meeting
 title: Computer Science Colloquium
-description: ''
-location: >-
-  Department of Computer Science, Indiana University at Bloomington, Lindley
-  Hall, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-407
-tutorials: []
+link: http://cs-colloq.soic.indiana.edu/
 dateStart: '2014-09-05'
 dateEnd: '2014-09-05'
-tags: []
-link: http://cs-colloq.soic.indiana.edu/
+location:
+  raw: >-
+    Department of Computer Science, Indiana University at Bloomington, Lindley
+    Hall, Bloomington, Indiana, 47405
+presentations:
+  - pres-407

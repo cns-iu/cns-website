@@ -3,15 +3,10 @@ type: workshop
 title: >-
   The Third International Workshop on Network Theory: "Web Science meets Network
   Science"
-description: null
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-277
-tutorials: []
+link: http://sonic.northwestern.edu/events/webnetsciworkshop/
 dateStart: '2011-03-04'
 dateEnd: '2011-03-05'
-tags: []
-link: http://sonic.northwestern.edu/events/webnetsciworkshop/
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-277

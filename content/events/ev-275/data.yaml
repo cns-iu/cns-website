@@ -3,14 +3,8 @@ type: other
 title: >-
   Fifth International Conference on the Theory and Application of Diagrams
   (Diagrams 2008)
-description: null
-location: Brighton, UK
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.cmis.brighton.ac.uk/diagrams2008/
 dateStart: '2008-09-19'
 dateEnd: '2008-09-21'
-tags: []
-link: http://www.cmis.brighton.ac.uk/diagrams2008/
+location:
+  raw: Brighton, UK

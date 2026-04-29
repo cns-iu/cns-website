@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Economics of Science and Engineering Workshop The National Bureau of Economic
   Research (NBER)
-description: ''
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-478
-tutorials: []
+link: http://www.nber.org/
 dateStart: '2016-10-06'
 dateEnd: '2016-10-06'
-tags: []
-link: http://www.nber.org/
+location:
+  raw: Boston, MA
+presentations:
+  - pres-478

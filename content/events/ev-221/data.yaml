@@ -1,15 +1,8 @@
 slug: ev-221
 type: conference
 title: NetSci 2008
-description: null
-location: Norwich BioSciences Conference Centre, Norwich Research Park, Norwich, UK
-organizers: []
-attendees: []
-publications:
-  - pub-199
-presentations: []
-tutorials: []
+link: http://www.ifr.ac.uk/netsci08/
 dateStart: '2008-06-23'
 dateEnd: '2008-06-27'
-tags: []
-link: http://www.ifr.ac.uk/netsci08/
+location:
+  raw: Norwich BioSciences Conference Centre, Norwich Research Park, Norwich, UK

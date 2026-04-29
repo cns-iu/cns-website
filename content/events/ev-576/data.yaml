@@ -1,15 +1,10 @@
 slug: ev-576
 type: meeting
 title: Commerce Data Advisory Council (CDAC) January 2016 Meeting
-description: ''
-location: 1320 E 10th St., Wells 021, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-447
-tutorials: []
+link: http://www.esa.gov/content/upcoming-past-meetings
 dateStart: '2016-01-14'
 dateEnd: '2016-01-14'
-tags: []
-link: http://www.esa.gov/content/upcoming-past-meetings
+location:
+  raw: 1320 E 10th St., Wells 021, Bloomington, Indiana, 47405
+presentations:
+  - pres-447

@@ -1,16 +1,11 @@
 slug: ev-451
 type: conference
 title: Second Annual VIVO Conference
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
+link: http://vivoweb.org/conference2011
+dateStart: '2011-08-24'
+dateEnd: '2011-08-26'
+location:
+  raw: Washington, DC
 presentations:
   - pres-297
   - pres-298
-tutorials: []
-dateStart: '2011-08-24'
-dateEnd: '2011-08-26'
-tags: []
-link: http://vivoweb.org/conference2011

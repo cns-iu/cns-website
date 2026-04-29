@@ -1,16 +1,12 @@
 slug: ev-151
 type: other
 title: Spring 2007 Talk Series on Networks and Complex Systems
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-106
-tutorials: []
+link: null
 dateStart: '2007-02-05'
 dateEnd: '2007-05-07'
-tags: []
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-106

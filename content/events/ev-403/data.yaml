@@ -3,17 +3,12 @@ type: conference
 title: >-
   2010 International Conference on Social Computing, Behavioral Modeling and
   Prediction
-description: null
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-238
-tutorials: []
+link: http://sbp.asu.edu/sbp2010/program.html
 dateStart: '2010-03-29'
 dateEnd: '2010-03-31'
-tags: []
-link: http://sbp.asu.edu/sbp2010/program.html
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
+presentations:
+  - pres-238

@@ -3,15 +3,10 @@ type: conference
 title: >-
   The Age of Networks: Social, Cultural and Technological Connections: Center
   for Advanced Study
-description: null
-location: Urbana, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-55
-tutorials: []
+link: http://www.cas.uiuc.edu/networks.html
 dateStart: '2006-03-10'
 dateEnd: '2006-03-10'
-tags: []
-link: http://www.cas.uiuc.edu/networks.html
+location:
+  raw: Urbana, IL
+presentations:
+  - pres-55

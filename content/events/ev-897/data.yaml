@@ -1,15 +1,10 @@
-organizers: []
-publications: []
 slug: ev-897
 type: conference
 title: iConference 2025
 link: https://www.ischools.org/event-details/iconference-2025-onsite-portion
-dateStart: 2025-03-18
-dateEnd: 2025-03-22
-tutorials: []
-location: Bloomington, Indiana, USA
-tags: []
+dateStart: 2025-03-18T00:00:00.000Z
+dateEnd: 2025-03-22T00:00:00.000Z
+location:
+  raw: Bloomington, Indiana, USA
 presentations:
   - pres-741
-description: ""
-attendees: []

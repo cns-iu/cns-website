@@ -1,15 +1,8 @@
 slug: ev-639
 type: conference
 title: OECD BLUE SKY III
-description: ''
-location: Ghent, Belgium
-organizers: []
-attendees: []
-publications:
-  - pub-345
-presentations: []
-tutorials: []
+link: http://www.blueskyiii.org/
 dateStart: '2017-09-19'
 dateEnd: '2017-09-21'
-tags: []
-link: http://www.blueskyiii.org/
+location:
+  raw: Ghent, Belgium

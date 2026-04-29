@@ -3,15 +3,10 @@ type: workshop
 title: >-
   NSF Workshop on "Methodological Issues in the Evaluation of NSF's
   Interdisciplinary Research Programs"
-description: ''
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-409
-tutorials: []
+link: http://www.nsf.gov
 dateStart: '2014-10-03'
 dateEnd: '2014-10-03'
-tags: []
-link: http://www.nsf.gov
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+presentations:
+  - pres-409

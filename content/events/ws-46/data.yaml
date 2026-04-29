@@ -1,9 +1,8 @@
 slug: ws-46
 type: workshop
 title: Modeling and Visualizing Science and Technology Developments
-description: ''
-location: Irvine, California, USA
+link: http://web.archive.org/web/20260108193501/https://cns.iu.edu/171204.html
 dateStart: '2017-12-04'
 dateEnd: '2017-12-05'
-tags: []
-link: http://web.archive.org/web/20260108193501/https://cns.iu.edu/171204.html
+location:
+  raw: Irvine, California, USA

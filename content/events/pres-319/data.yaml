@@ -1,11 +1,11 @@
 slug: pres-319
 type: presentation
 title: 'Places & Spaces: Mapping Science'
-description: ''
-location: Northeastern University, Boston, MA, 02115
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2012-borner-neu-exhibit.pdf
 dateStart: '2012-02-02'
 dateEnd: '2012-02-02'
+location:
+  raw: Northeastern University, Boston, MA, 02115
+presenters:
+  - katy-borner
 event: ev-467
-link: https://cns.iu.edu/docs/presentations/2012-borner-neu-exhibit.pdf

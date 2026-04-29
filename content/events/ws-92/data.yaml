@@ -2,14 +2,11 @@ slug: ws-92
 type: workshop
 title: HuBMAP Human Reference Atlas Hackathon
 link: https://cns-iu.github.io/workshops/2025-08-25_hra_hackathon/
+dateStart: 2025-08-25T00:00:00.000Z
+dateEnd: 2025-08-26T00:00:00.000Z
 thumbnail: hra-hackathon-aug2025.png
-dateStart: 2025-08-25
-dateEnd: 2025-08-26
-location: Bloomington, Indiana, USA
+location:
+  raw: Bloomington, Indiana, USA
 featured: false
 projects:
   - human-reference-atlas
-tags:
-  - hra
-description: ""
-mediaUrl: hra-hackathon-aug2025.png

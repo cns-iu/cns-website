@@ -1,15 +1,10 @@
 slug: ev-180
 type: workshop
 title: Semantic Technologies in Astronomy Workshop
-description: null
-location: Pasadena, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-156
-tutorials: []
+link: http://www.cacr.caltech.edu/semast/agenda.html
 dateStart: '2008-02-18'
 dateEnd: '2008-02-21'
-tags: []
-link: http://www.cacr.caltech.edu/semast/agenda.html
+location:
+  raw: Pasadena, CA
+presentations:
+  - pres-156

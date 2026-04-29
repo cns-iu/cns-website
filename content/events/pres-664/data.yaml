@@ -3,14 +3,14 @@ type: presentation
 title: >-
   HuBMAP-SPARC anatomical interoperation of resources Collaboration (for the
   CFDE)
-description: ''
-location: Bethesda, MD (Virtual Event)
+link: https://cns.iu.edu/docs/presentations/2022-Boline_Herr_HuBMAP-SPARC.pdf
+dateStart: '2022-10-04'
+dateEnd: '2022-10-04'
+location:
+  raw: Bethesda, MD (Virtual Event)
 presenters:
   - bruce-w-herr-ii
   - jyl-boline
-dateStart: '2022-10-04'
-dateEnd: '2022-10-04'
 event: ev-831
-link: https://cns.iu.edu/docs/presentations/2022-Boline_Herr_HuBMAP-SPARC.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

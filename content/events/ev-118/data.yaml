@@ -1,14 +1,10 @@
 slug: ev-118
 type: workshop
 title: Modeling Science Workshop
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-129
-tutorials: []
+link: null
 dateStart: '2006-05-21'
 dateEnd: '2006-05-21'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-129

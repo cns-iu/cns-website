@@ -1,13 +1,8 @@
 slug: ev-202
 type: other
 title: Alan T. Waterman Award Ceremony
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2007-05-14'
 dateEnd: '2007-05-14'
-tags: []
+location:
+  raw: Washington, DC

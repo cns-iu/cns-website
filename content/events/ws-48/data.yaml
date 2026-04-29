@@ -1,9 +1,8 @@
 slug: ws-48
 type: workshop
 title: Fashion Technology Symposium
-description: ''
-location: Bloomington, Indiana, USA
+link: http://fashiontech.cns.iu.edu/
 dateStart: '2018-03-02'
 dateEnd: '2018-03-03'
-tags: []
-link: http://fashiontech.cns.iu.edu/
+location:
+  raw: Bloomington, Indiana, USA

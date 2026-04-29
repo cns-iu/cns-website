@@ -1,17 +1,12 @@
 slug: ev-442
 type: conference
 title: Institute for Advanced Topics in the Digital Humanities
-description: ''
-location: Charlotte, NC
-organizers: []
-attendees: []
-publications: []
+link: http://complexity.uncc.edu/nehinstitute
+dateStart: '2011-06-01'
+dateEnd: '2011-06-17'
+location:
+  raw: Charlotte, NC
 presentations:
   - pres-286
   - pres-287
   - pres-299
-tutorials: []
-dateStart: '2011-06-01'
-dateEnd: '2011-06-17'
-tags: []
-link: http://complexity.uncc.edu/nehinstitute

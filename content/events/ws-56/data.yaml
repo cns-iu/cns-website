@@ -3,9 +3,8 @@ type: workshop
 title: >-
   Addictions Grand Challenge Project on Opioid Crisis and the Workforce :
   Advisory Group Meeting
-description: ''
-location: Bloomington, Indiana, US
+link: https://cns-iu.github.io/workshops/2019-08-16_addictions-grand-challenge/
 dateStart: '2019-08-16'
 dateEnd: '2019-08-16'
-tags: []
-link: https://cns-iu.github.io/workshops/2019-08-16_addictions-grand-challenge/
+location:
+  raw: Bloomington, Indiana, US

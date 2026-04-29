@@ -1,12 +1,12 @@
 slug: pres-631
 type: presentation
 title: 'Make-A-Vis: Learning Sciences Research'
-description: ''
-location: Toronto, Canada
+link: https://cns.iu.edu/docs/presentations/19-ASTC-CNS-Peppler.pdf
+dateStart: '2019-09-20'
+dateEnd: '2019-09-20'
+location:
+  raw: Toronto, Canada
 presenters:
   - kylie-peppler
   - anna-keune
-dateStart: '2019-09-20'
-dateEnd: '2019-09-20'
 event: ev-769
-link: https://cns.iu.edu/docs/presentations/19-ASTC-CNS-Peppler.pdf

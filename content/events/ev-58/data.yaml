@@ -1,15 +1,10 @@
 slug: ev-58
 type: conference
 title: Third Annual Summer Interdisciplinary Conference
-description: null
-location: Cavalese, Italy
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-27
-tutorials: []
+link: http://www.cogs.indiana.edu/asic/2004/index.html
 dateStart: '2004-06-27'
 dateEnd: '2004-07-02'
-tags: []
-link: http://www.cogs.indiana.edu/asic/2004/index.html
+location:
+  raw: Cavalese, Italy
+presentations:
+  - pres-27

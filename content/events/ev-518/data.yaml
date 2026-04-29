@@ -1,15 +1,10 @@
 slug: ev-518
 type: conference
 title: SciELO 15 Years Conference
-description: ''
-location: S&#227;o Paulo, Brazil
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-385
-tutorials: []
+link: http://www.scielo15.org/en/about/
 dateStart: '2013-10-22'
 dateEnd: '2013-10-25'
-tags: []
-link: http://www.scielo15.org/en/about/
+location:
+  raw: S&#227;o Paulo, Brazil
+presentations:
+  - pres-385

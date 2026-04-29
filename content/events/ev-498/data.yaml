@@ -1,16 +1,11 @@
 slug: ev-498
 type: workshop
 title: International Symposium on Science of Science and Innovation Policy
-description: ''
-location: Tokyo, Japan
-organizers: []
-attendees: []
-publications: []
+link: http://www.t.u-tokyo.ac.jp/etpage/topics/2012/2012112603.html
+dateStart: '2012-12-13'
+dateEnd: '2012-12-13'
+location:
+  raw: Tokyo, Japan
 presentations:
   - pres-358
   - pres-359
-tutorials: []
-dateStart: '2012-12-13'
-dateEnd: '2012-12-13'
-tags: []
-link: http://www.t.u-tokyo.ac.jp/etpage/topics/2012/2012112603.html

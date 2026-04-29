@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Network Workbench - Using Service-Oriented Architecture and Component-Based
   Development to Build a Toolkit for Network Scientists
-description: ''
-location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
-presenters:
-  - weixia-bonnie-huang
+link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-netsci.pdf
 dateStart: '2007-05-23'
 dateEnd: '2007-05-23'
+location:
+  raw: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
+presenters:
+  - weixia-bonnie-huang
 event: ev-144
-link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-netsci.pdf

@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Building Effective Visualization Tools for Everyday Business: Web
   Visualization Framework
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - olga-scrivner
+link: https://cns.iu.edu/docs/presentations/2017-scrivner-megaputer.pdf
 dateStart: '2017-10-18'
 dateEnd: '2017-10-18'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - olga-scrivner
 event: ev-672
-link: https://cns.iu.edu/docs/presentations/2017-scrivner-megaputer.pdf

@@ -1,13 +1,8 @@
 slug: ev-134
 type: workshop
 title: Workshop on Science (Weather) Forecasts
-description: null
-location: New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2006-10-25'
 dateEnd: '2006-10-25'
-tags: []
+location:
+  raw: New York, NY

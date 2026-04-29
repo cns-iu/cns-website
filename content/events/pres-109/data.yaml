@@ -1,11 +1,11 @@
 slug: pres-109
 type: presentation
 title: The Small-World Structure of Sub-Fields in Physics
-description: ''
-location: Urbana, IL
-presenters:
-  - soma-sanyal
+link: http://www.howhy.com/ucs2007/abstracts/sanyal.html
 dateStart: '2007-05-16'
 dateEnd: '2007-05-16'
+location:
+  raw: Urbana, IL
+presenters:
+  - soma-sanyal
 event: ev-155
-link: http://www.howhy.com/ucs2007/abstracts/sanyal.html

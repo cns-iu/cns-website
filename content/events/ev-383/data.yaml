@@ -1,15 +1,10 @@
 slug: ev-383
 type: conference
 title: ACM Digital Libraries 2000
-description: null
-location: San Antonio, TX
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-235
-tutorials: []
+link: http://www.jcdl.info/archived-conf-sites/dl00/
 dateStart: '2000-06-02'
 dateEnd: '2000-06-07'
-tags: []
-link: http://www.jcdl.info/archived-conf-sites/dl00/
+location:
+  raw: San Antonio, TX
+presentations:
+  - pres-235

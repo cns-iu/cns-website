@@ -1,12 +1,12 @@
 slug: pres-582
 type: presentation
 title: 'A Sentient Wing: How to Build an Amatria Moth'
-description: ''
-location: Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2018-amatria-moth-manual.pdf
+dateStart: '2018-10-27'
+dateEnd: '2018-10-27'
+location:
+  raw: Bloomington, Indiana
 presenters:
   - katy-borner
   - mike-hu
-dateStart: '2018-10-27'
-dateEnd: '2018-10-27'
 event: ev-731
-link: https://cns.iu.edu/docs/presentations/2018-amatria-moth-manual.pdf

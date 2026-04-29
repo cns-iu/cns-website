@@ -1,14 +1,8 @@
 slug: ev-287
 type: meeting
 title: NRC Mapping Science Committee Meeting
-description: null
-location: National Academy of Sciences, 2100 C St, NW, Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://dels.nas.edu/besr/msc.shtml
 dateStart: '2008-09-03'
 dateEnd: '2008-09-04'
-tags: []
-link: http://dels.nas.edu/besr/msc.shtml
+location:
+  raw: National Academy of Sciences, 2100 C St, NW, Washington, DC

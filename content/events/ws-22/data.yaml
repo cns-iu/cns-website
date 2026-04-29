@@ -1,9 +1,8 @@
 slug: ws-22
 type: workshop
 title: Informal Meeting on Mapping Science
-description: ''
-location: Philadelphia, PA
+link: http://web.archive.org/web/20260108190423/https://cns.iu.edu/051201.html
 dateStart: '2005-12-01'
 dateEnd: '2005-12-02'
-tags: []
-link: http://web.archive.org/web/20260108190423/https://cns.iu.edu/051201.html
+location:
+  raw: Philadelphia, PA

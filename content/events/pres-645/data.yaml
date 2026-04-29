@@ -3,11 +3,11 @@ type: presentation
 title: >-
   The Human Body Atlas: High-Resolution, Functional Mapping of Voxel, Vector,
   and Meta Datasets
-description: ''
-location: La Jolla, CA (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2020-IGM-Poster-Borner.pdf
 dateStart: '2020-10-26'
 dateEnd: '2020-10-26'
+location:
+  raw: La Jolla, CA (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-821
-link: https://cns.iu.edu/docs/presentations/2020-IGM-Poster-Borner.pdf

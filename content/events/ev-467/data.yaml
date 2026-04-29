@@ -1,15 +1,10 @@
 slug: ev-467
 type: meeting
 title: Boston-Cambridge Colloquium series on Complexity and Social Networks
-description: ''
-location: Northeastern University, Boston, MA, 02115
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-319
-tutorials: []
+link: http://www.hks.harvard.edu/netgov/html/colloquia_complexity.htm
 dateStart: '2012-02-02'
 dateEnd: '2012-02-02'
-tags: []
-link: http://www.hks.harvard.edu/netgov/html/colloquia_complexity.htm
+location:
+  raw: Northeastern University, Boston, MA, 02115
+presentations:
+  - pres-319

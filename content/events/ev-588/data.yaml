@@ -3,16 +3,11 @@ type: workshop
 title: >-
   Workshop II: Culture Analytics and User Experience Design Part of the Long
   Program on “Culture Analytics”
-description: ''
-location: 460 Portola Plaza, Los Angeles, CA, 90095-7121
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-458
-tutorials: []
-dateStart: '2016-04-11'
-dateEnd: '2016-04-15'
-tags: []
 link: >-
   http://www.ipam.ucla.edu/programs/workshops/workshop-ii-culture-analytics-and-user-experience-design/
+dateStart: '2016-04-11'
+dateEnd: '2016-04-15'
+location:
+  raw: 460 Portola Plaza, Los Angeles, CA, 90095-7121
+presentations:
+  - pres-458

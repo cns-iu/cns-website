@@ -1,11 +1,11 @@
 slug: pres-96
 type: presentation
 title: Mapping the Structure and Evolution of Science Locally and Globally
-description: ''
-location: Cold Spring Harbor, NY
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2006-borner-mapping.pdf
 dateStart: '2006-10-24'
 dateEnd: '2006-10-24'
+location:
+  raw: Cold Spring Harbor, NY
+presenters:
+  - katy-borner
 event: ev-133
-link: https://cns.iu.edu/docs/presentations/2006-borner-mapping.pdf

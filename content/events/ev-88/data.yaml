@@ -1,14 +1,8 @@
 slug: ev-88
 type: conference
 title: Symposium on the Future of Visualization
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.viscenter.uncc.edu/symposium06.htm
 dateStart: '2006-05-01'
 dateEnd: '2006-05-02'
-tags: []
-link: http://www.viscenter.uncc.edu/symposium06.htm
+location:
+  raw: Chicago, IL

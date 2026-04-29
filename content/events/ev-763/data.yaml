@@ -1,15 +1,10 @@
 slug: ev-763
 type: meeting
 title: HuBMAP Annual Meeting (Virtual Event)
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://hubmapconsortium.org/all-hands-2020/
 dateStart: '2020-05-19'
 dateEnd: '2020-05-20'
-tags:
-  - hra
-link: https://hubmapconsortium.org/all-hands-2020/
+location:
+  raw: Washington, DC
+projects:
+  - human-reference-atlas

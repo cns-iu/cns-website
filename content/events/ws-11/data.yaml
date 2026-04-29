@@ -1,9 +1,8 @@
 slug: ws-11
 type: workshop
 title: NIH Workshop on Identifiers and Disambiguation in Scholarly Work
-description: ''
-location: Gainesville, FL
+link: http://web.archive.org/web/20260108191605/https://cns.iu.edu/100318.html
 dateStart: '2010-03-18'
 dateEnd: '2010-03-19'
-tags: []
-link: http://web.archive.org/web/20260108191605/https://cns.iu.edu/100318.html
+location:
+  raw: Gainesville, FL

@@ -4,8 +4,13 @@ title: >-
   Females are a clear majority in high-growth industries and associated
   educational pipelines. Gender imbalance is unsustainable in the current and
   projected economic and workforce environment.
-description: ''
-location: Indianapolis, Indiana
+link: >-
+  https://cns.iu.edu/docs/presentations/18-IU-SICE-SPEA IndyBigData 2018
+  Challenge Presentation Final.pdf
+dateStart: '2018-09-26'
+dateEnd: '2018-09-26'
+location:
+  raw: Indianapolis, Indiana
 presenters:
   - katy-borner
   - olga-scrivner
@@ -16,9 +21,4 @@ presenters:
   - livia-crim
   - david-lebhar
   - coady-wing
-dateStart: '2018-09-26'
-dateEnd: '2018-09-26'
 event: ev-734
-link: >-
-  https://cns.iu.edu/docs/presentations/18-IU-SICE-SPEA IndyBigData 2018
-  Challenge Presentation Final.pdf

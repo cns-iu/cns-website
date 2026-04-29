@@ -1,11 +1,11 @@
 slug: pres-146
 type: presentation
 title: Science from Above
-description: ''
-location: American Museum of Science and Energy, Oak Ridge, TN
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2008-borner-science-amseosti.pdf
 dateStart: '2008-01-03'
 dateEnd: '2008-01-03'
+location:
+  raw: American Museum of Science and Energy, Oak Ridge, TN
+presenters:
+  - katy-borner
 event: ev-235
-link: https://cns.iu.edu/docs/presentations/2008-borner-science-amseosti.pdf

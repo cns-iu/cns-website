@@ -1,11 +1,11 @@
 slug: pres-710
 type: presentation
 title: Mapping Science, Technology, and Innovation
-description: ''
-location: Chengdu, Sichuan, China (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/22-Chengdu-Conference.pdf
 dateStart: '2022-11-30'
 dateEnd: '2022-11-30'
+location:
+  raw: Chengdu, Sichuan, China (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-868
-link: https://cns.iu.edu/docs/presentations/22-Chengdu-Conference.pdf

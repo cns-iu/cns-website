@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Scoping out the Macroscopes: Defining and measuring success for a digital
   interactive
-description: ''
-location: Des Moines, IA
-presenters:
-  - lisel-record
+link: https://cns.iu.edu/docs/presentations/AMM-poster-2017.pdf
 dateStart: '2017-07-13'
 dateEnd: '2017-07-13'
+location:
+  raw: Des Moines, IA
+presenters:
+  - lisel-record
 event: ev-658
-link: https://cns.iu.edu/docs/presentations/AMM-poster-2017.pdf

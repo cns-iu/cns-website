@@ -1,14 +1,10 @@
 slug: ev-311
 type: conference
 title: The 9th International Conference on Information Visualisation
-description: ''
-location: London, UK
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-189
-tutorials: []
+link: null
 dateStart: '2005-07-06'
 dateEnd: '2005-07-08'
-tags: []
+location:
+  raw: London, UK
+presentations:
+  - pres-189

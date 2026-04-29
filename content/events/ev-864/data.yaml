@@ -1,16 +1,12 @@
 slug: ev-864
 type: meeting
 title: HuBMAP Sci/Tech Webinar Series
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-706
-tutorials: []
+link: https://hubmapconsortium.org/march-2021-open-sci-tech-webinar/
 dateStart: '2021-03-08'
 dateEnd: '2021-03-08'
-tags:
-  - hra
-link: https://hubmapconsortium.org/march-2021-open-sci-tech-webinar/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-706
+projects:
+  - human-reference-atlas

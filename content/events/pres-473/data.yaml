@@ -1,11 +1,11 @@
 slug: pres-473
 type: presentation
 title: Modeling Science, Technology, and Innovation
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2016-borner-research-horizons-sept8.pdf
 dateStart: '2016-09-08'
 dateEnd: '2016-09-08'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-607
-link: https://cns.iu.edu/docs/presentations/2016-borner-research-horizons-sept8.pdf

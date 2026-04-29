@@ -1,11 +1,11 @@
 slug: pres-379
 type: presentation
 title: Finding the History & Philosophy of Science
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - scott-b-weingart
+link: https://cns.iu.edu/docs/presentations/2013-weingart-hps-iu.pdf
 dateStart: '2013-09-07'
 dateEnd: '2013-09-07'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - scott-b-weingart
 event: ev-514
-link: https://cns.iu.edu/docs/presentations/2013-weingart-hps-iu.pdf

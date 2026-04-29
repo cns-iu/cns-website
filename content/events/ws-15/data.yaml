@@ -1,9 +1,8 @@
 slug: ws-15
 type: workshop
 title: NSF/JSMF Workshop on Mapping the History and Philosophy of Science
-description: ''
-location: Bloomington, Indiana
+link: https://web.archive.org/web/20260000000000*/https://cns.iu.edu/090617.html
 dateStart: '2009-06-17'
 dateEnd: '2009-06-18'
-tags: []
-link: https://web.archive.org/web/20260000000000*/https://cns.iu.edu/090617.html
+location:
+  raw: Bloomington, Indiana

@@ -1,14 +1,8 @@
 slug: ev-761
 type: meeting
 title: KPMP Virtual Meeting (webcast from Bloomington, IN)
-description: ''
-location: Washington D.C.
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://cns.iu.edu//
 dateStart: '2020-03-17'
 dateEnd: '2020-03-17'
-tags: []
-link: https://cns.iu.edu//
+location:
+  raw: Washington D.C.

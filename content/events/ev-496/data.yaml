@@ -1,15 +1,10 @@
 slug: ev-496
 type: conference
 title: NACIS 2012 Conference
-description: ''
-location: Portland, OR
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-355
-tutorials: []
+link: http://www.nacis.org/index.cfm?x=2
 dateStart: '2012-10-17'
 dateEnd: '2012-10-19'
-tags: []
-link: http://www.nacis.org/index.cfm?x=2
+location:
+  raw: Portland, OR
+presentations:
+  - pres-355

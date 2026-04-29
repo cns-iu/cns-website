@@ -1,15 +1,10 @@
 slug: ev-665
 type: conference
 title: Advancing Teaching and Learning with Technology Symposium
-description: ''
-location: IUPUI Campus Center, Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-517
-tutorials: []
+link: https://atlt.iupui.edu/
 dateStart: '2017-09-15'
 dateEnd: '2017-09-15'
-tags: []
-link: https://atlt.iupui.edu/
+location:
+  raw: IUPUI Campus Center, Indianapolis, Indiana
+presentations:
+  - pres-517

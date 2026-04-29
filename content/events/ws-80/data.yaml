@@ -1,9 +1,8 @@
 slug: ws-80
 type: workshop
 title: NIH Junior Investigators Atlas Building Meeting
-description: ''
-location: New York, New York, USA
+link: https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders
 dateStart: '2023-03-01'
 dateEnd: '2023-03-03'
-tags: []
-link: https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders
+location:
+  raw: New York, New York, USA

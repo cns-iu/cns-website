@@ -1,15 +1,10 @@
 slug: ev-759
 type: conference
 title: NetSci-X 2020, International School and Conference on Network Science
-description: ''
-location: Tokyo, Japan
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-619
-tutorials: []
+link: https://netscix2020tokyo.github.io/
 dateStart: '2020-01-20'
 dateEnd: '2020-01-23'
-tags: []
-link: https://netscix2020tokyo.github.io/
+location:
+  raw: Tokyo, Japan
+presentations:
+  - pres-619

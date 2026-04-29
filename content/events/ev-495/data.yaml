@@ -1,15 +1,10 @@
 slug: ev-495
 type: conference
 title: GIScience 2012
-description: ''
-location: Columbus, OH
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-353
-tutorials: []
+link: http://www.giscience.org/
 dateStart: '2012-09-18'
 dateEnd: '2012-09-21'
-tags: []
-link: http://www.giscience.org/
+location:
+  raw: Columbus, OH
+presentations:
+  - pres-353

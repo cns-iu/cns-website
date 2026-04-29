@@ -1,18 +1,13 @@
 slug: pres-346
 type: exhibit
-title: "Places & Spaces: Mapping Exhibit"
+title: 'Places & Spaces: Mapping Exhibit'
 link: https://cns.iu.edu/docs/presentations/2012-70exhibitmaps-scisip.pdf
-dateStart: 2012-09-21
-dateEnd: 2012-09-21
+dateStart: 2012-09-21T00:00:00.000Z
+dateEnd: 2012-09-21T00:00:00.000Z
 thumbnail: places-and-spaces.png
+location:
+  raw: National Academy of Sciences, 2100 C St, NW, Washington, DC
+event: ev-493
 projects:
   - macroscopes
   - maps
-tags:
-  - exhibits
-location: National Academy of Sciences, 2100 C St, NW, Washington, DC
-description: ""
-mediaType: image
-mediaUrl: places-and-spaces.png
-presenters: []
-event: ev-493

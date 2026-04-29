@@ -1,17 +1,12 @@
 slug: ev-310
 type: other
 title: Guest Lecture in Ron Day's L524
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-187
-tutorials: []
+link: http://www.slis.indiana.edu/syllabi/spring_2006/L524.html
 dateStart: '2006-03-28'
 dateEnd: '2006-03-28'
-tags: []
-link: http://www.slis.indiana.edu/syllabi/spring_2006/L524.html
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-187

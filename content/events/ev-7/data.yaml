@@ -1,14 +1,8 @@
 slug: ev-7
 type: conference
 title: MeshForum; Connecting Networks
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.meshforum.org/
 dateStart: '2005-05-01'
 dateEnd: '2005-05-04'
-tags: []
-link: http://www.meshforum.org/
+location:
+  raw: Chicago, IL

@@ -1,15 +1,10 @@
 slug: ev-621
 type: workshop
 title: 2016 IU Online Conference
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-485
-tutorials: []
+link: https://teachingonline.iu.edu/events/conference2016/
 dateStart: '2016-11-11'
 dateEnd: '2016-11-11'
-tags: []
-link: https://teachingonline.iu.edu/events/conference2016/
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-485

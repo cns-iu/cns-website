@@ -1,15 +1,10 @@
 slug: ev-833
 type: meeting
 title: Common Fund Data Ecosystem (CFDE) March Cross-Pollination Event
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-667
-tutorials: []
+link: https://www.nih-cfde.org/
 dateStart: '2022-03-01'
 dateEnd: '2022-03-01'
-tags: []
-link: https://www.nih-cfde.org/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-667

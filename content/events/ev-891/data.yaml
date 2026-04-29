@@ -1,17 +1,10 @@
-organizers: []
-publications: []
 slug: ev-891
-title: SenNet Science Talk
-dateStart: 2024-07-30
-dateEnd: 2024-07-30
-tutorials: []
 type: other
-location: ""
-projects:
-  - human-reference-atlas
-tags:
-  - hra
+title: SenNet Science Talk
+link: null
+dateStart: 2024-07-30T00:00:00.000Z
+dateEnd: 2024-07-30T00:00:00.000Z
 presentations:
   - pres-736
-description: ""
-attendees: []
+projects:
+  - human-reference-atlas

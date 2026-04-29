@@ -3,9 +3,8 @@ type: workshop
 title: >-
   Mapping Knowledge About Human Vasculature Across Body Scales, North American
   Vascular Biology Organization
-description: ''
-location: This was a virtual event, hosted by NAVBO
+link: https://cns-iu.github.io/workshops/2021-08-31_navbo/
 dateStart: '2021-08-31'
 dateEnd: '2021-08-31'
-tags: []
-link: https://cns-iu.github.io/workshops/2021-08-31_navbo/
+location:
+  raw: This was a virtual event, hosted by NAVBO

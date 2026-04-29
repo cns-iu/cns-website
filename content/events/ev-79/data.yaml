@@ -1,16 +1,12 @@
 slug: ev-79
 type: other
 title: Networks and Agent Networks (NaN) Weekly Meeting
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-64
-tutorials: []
+link: null
 dateStart: '2006-03-26'
 dateEnd: '2006-03-26'
-tags: []
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-64

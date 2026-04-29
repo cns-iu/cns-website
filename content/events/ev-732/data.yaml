@@ -1,18 +1,13 @@
 slug: ev-732
 type: conference
 title: OurCS Event at Indiana University
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
+link: http://helloresearch.sice.indiana.edu/
+dateStart: '2018-10-26'
+dateEnd: '2018-10-28'
+location:
+  raw: Bloomington, Indiana
 presentations:
   - pres-583
   - pres-584
   - pres-585
   - pres-586
-tutorials: []
-dateStart: '2018-10-26'
-dateEnd: '2018-10-28'
-tags: []
-link: http://helloresearch.sice.indiana.edu/

@@ -1,14 +1,8 @@
 slug: ev-776
 type: conference
 title: 2020 Innovation Digi Virtual Conference
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://innovationdigi.com/
 dateStart: '2020-11-05'
 dateEnd: '2020-11-05'
-tags: []
-link: https://innovationdigi.com/
+location:
+  raw: Indianapolis, Indiana

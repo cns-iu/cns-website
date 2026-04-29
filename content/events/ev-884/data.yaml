@@ -1,15 +1,12 @@
 slug: ev-884
 type: meeting
 title: SenNet CODCC talk
-description: ''
-location: Virtual
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-729
-tutorials: []
+link: null
 dateStart: '2024-06-05'
 dateEnd: '2024-06-05'
-tags:
-  - hra
+location:
+  raw: Virtual
+presentations:
+  - pres-729
+projects:
+  - human-reference-atlas

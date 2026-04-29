@@ -1,15 +1,10 @@
 slug: ev-565
 type: meeting
 title: Innovation in an Aging Society Progress Meeting
-description: ''
-location: 29 Wood St, Cambridge, MA, 02140
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-435
-tutorials: []
+link: http://cns.iu.edu/funding.html
 dateStart: '2015-07-16'
 dateEnd: '2015-07-16'
-tags: []
-link: http://cns.iu.edu/funding.html
+location:
+  raw: 29 Wood St, Cambridge, MA, 02140
+presentations:
+  - pres-435

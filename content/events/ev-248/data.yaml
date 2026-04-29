@@ -1,15 +1,10 @@
 slug: ev-248
 type: workshop
 title: 2008 Spring Digital Arts and Humanities Brown Bag
-description: null
-location: Wells Media Room E174, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-157
-tutorials: []
+link: http://www.indiana.edu/~idah/bb.shtml?n1=bb
 dateStart: '2008-01-07'
 dateEnd: '2008-05-02'
-tags: []
-link: http://www.indiana.edu/~idah/bb.shtml?n1=bb
+location:
+  raw: Wells Media Room E174, Bloomington, Indiana, 47405
+presentations:
+  - pres-157

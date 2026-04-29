@@ -1,15 +1,10 @@
 slug: ev-489
 type: conference
 title: 4th Biennial ISPST Conference
-description: ''
-location: Pittsburgh, PA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-342
-tutorials: []
+link: https://sites.google.com/site/ispst2012/
 dateStart: '2012-07-21'
 dateEnd: '2012-07-21'
-tags: []
-link: https://sites.google.com/site/ispst2012/
+location:
+  raw: Pittsburgh, PA
+presentations:
+  - pres-342

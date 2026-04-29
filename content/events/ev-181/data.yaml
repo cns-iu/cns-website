@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Evolution and Physics  Concepts, Models and Applications, Interdisciplinary
   Seminar of the Heraeus Foundation
-description: null
-location: Bad Honnef, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-148
-tutorials: []
+link: http://www.virtualknowledgestudio.nl/staff/andrea-scharnhorst/heraeus.php
 dateStart: '2008-01-20'
 dateEnd: '2008-01-24'
-tags: []
-link: http://www.virtualknowledgestudio.nl/staff/andrea-scharnhorst/heraeus.php
+location:
+  raw: Bad Honnef, Germany
+presentations:
+  - pres-148

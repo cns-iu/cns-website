@@ -3,14 +3,8 @@ type: workshop
 title: >-
   The International Workshop on Webometrics, Informetrics and Scientometrics &
   Seventh COLLNET Meeting
-description: null
-location: Nancy, France
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://collnet.inist.fr/
 dateStart: '2006-05-10'
 dateEnd: '2006-05-12'
-tags: []
-link: http://collnet.inist.fr/
+location:
+  raw: Nancy, France

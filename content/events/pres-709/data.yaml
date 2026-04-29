@@ -1,13 +1,13 @@
 slug: pres-709
 type: presentation
 title: 24/7 AI Career Cyber-coaching
-description: ''
-location: Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/22-TrustAI-Borner-Ginda-Ruschman.pdf
+dateStart: '2022-10-28'
+dateEnd: '2022-10-28'
+location:
+  raw: Bloomington, Indiana
 presenters:
   - katy-borner
   - michael-ginda
   - nancy-ruschman
-dateStart: '2022-10-28'
-dateEnd: '2022-10-28'
 event: ev-867
-link: https://cns.iu.edu/docs/presentations/22-TrustAI-Borner-Ginda-Ruschman.pdf

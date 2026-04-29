@@ -1,16 +1,10 @@
 slug: ev-210
 type: other
 title: Mapping Science Exhibit
-description: null
-location: >-
-  Monroe County Public Library, 303 E. Kirkwood Ave., Bloomington, Indiana,
-  47408
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://scimaps.org/mcpl/
 dateStart: '2007-05-01'
 dateEnd: '2007-05-30'
-tags: []
-link: http://scimaps.org/mcpl/
+location:
+  raw: >-
+    Monroe County Public Library, 303 E. Kirkwood Ave., Bloomington, Indiana,
+    47408

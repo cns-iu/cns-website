@@ -1,15 +1,10 @@
 slug: ev-852
 type: workshop
 title: UI/UX Design 24-Week Bootcamp at George Washington University
-description: ''
-location: Washington, DC (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-687
-tutorials: []
+link: https://bootcamp.cps.gwu.edu/ux-ui/
 dateStart: '2021-11-30'
 dateEnd: '2021-11-30'
-tags: []
-link: https://bootcamp.cps.gwu.edu/ux-ui/
+location:
+  raw: Washington, DC (Virtual Event)
+presentations:
+  - pres-687

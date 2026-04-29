@@ -4,15 +4,10 @@ title: >-
   Collaborative Meeting at BIREME, a Pan American Health Organization, and
   affiliate of the WHO, the Federal University of São Paulo and the Brazilian
   Ministries of Health and Education
-description: null
-location: S&#227;o Paulo, Brazil
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-210
-tutorials: []
+link: http://www.bireme.br/bvs/bireme/I/homepage.htm
 dateStart: '2009-07-20'
 dateEnd: '2009-07-20'
-tags: []
-link: http://www.bireme.br/bvs/bireme/I/homepage.htm
+location:
+  raw: S&#227;o Paulo, Brazil
+presentations:
+  - pres-210

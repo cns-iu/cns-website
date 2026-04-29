@@ -1,16 +1,12 @@
 slug: ev-47
 type: other
 title: C.S. Honors Seminar
-description: null
-location: >-
-  Department of Computer Science, Indiana University at Bloomington, Lindley
-  Hall, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-20
-tutorials: []
+link: null
 dateStart: '2004-03-08'
 dateEnd: '2000-03-08'
-tags: []
+location:
+  raw: >-
+    Department of Computer Science, Indiana University at Bloomington, Lindley
+    Hall, Bloomington, Indiana, 47405
+presentations:
+  - pres-20

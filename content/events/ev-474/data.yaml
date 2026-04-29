@@ -1,17 +1,12 @@
 slug: ev-474
 type: workshop
 title: Learning Analytics and Knowledge
-description: null
-location: >-
-  Westin Bayshore, 1601 Bayshore Drive, Vancouver, British Columbia, Canada, V6G
-  2V4
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-327
-tutorials: []
+link: http://lak12.sites.olt.ubc.ca/
 dateStart: '2012-05-01'
 dateEnd: '2012-05-01'
-tags: []
-link: http://lak12.sites.olt.ubc.ca/
+location:
+  raw: >-
+    Westin Bayshore, 1601 Bayshore Drive, Vancouver, British Columbia, Canada,
+    V6G 2V4
+presentations:
+  - pres-327

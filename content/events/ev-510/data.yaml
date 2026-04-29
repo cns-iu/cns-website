@@ -1,15 +1,10 @@
 slug: ev-510
 type: conference
 title: 14th ISSI Conference
-description: ''
-location: Vienna, Austria
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-374
-tutorials: []
+link: http://www.issi2013.org/tutorials.html
 dateStart: '2013-07-15'
 dateEnd: '2013-07-19'
-tags: []
-link: http://www.issi2013.org/tutorials.html
+location:
+  raw: Vienna, Austria
+presentations:
+  - pres-374

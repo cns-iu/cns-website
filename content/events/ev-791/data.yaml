@@ -1,14 +1,8 @@
 slug: ev-791
 type: meeting
 title: Common Fund Data Ecosystem (CFDE) April Cross-Pollination Event
-description: ''
-location: Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.nih-cfde.org/
 dateStart: '2021-04-06'
 dateEnd: '2021-04-06'
-tags: []
-link: https://www.nih-cfde.org/
+location:
+  raw: Virtual Event

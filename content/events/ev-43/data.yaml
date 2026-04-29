@@ -3,13 +3,8 @@ type: other
 title: >-
   Center of Excellence on Knowledge Management and Discovery Meeting at SUN
   Microsystems
-description: null
-location: San Francisco, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2004-01-28'
 dateEnd: '2004-01-28'
-tags: []
+location:
+  raw: San Francisco, CA

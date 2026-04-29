@@ -1,11 +1,11 @@
 slug: pres-451
 type: presentation
 title: 'Data Visualizations: Drawing Actionable Insights From Data'
-description: ''
-location: Technology Square, Georgia Institute of Technology, Atlanta, GA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2016-borner-cdc-opening.pdf
 dateStart: '2016-02-04'
 dateEnd: '2016-02-04'
+location:
+  raw: Technology Square, Georgia Institute of Technology, Atlanta, GA
+presenters:
+  - katy-borner
 event: ev-579
-link: https://cns.iu.edu/docs/presentations/2016-borner-cdc-opening.pdf

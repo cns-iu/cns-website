@@ -1,17 +1,12 @@
 slug: ev-150
 type: conference
 title: 24th Annual Human-Computer Interaction Lab Symposium & Workshop
-description: null
-location: >-
-  Department of Computer Science, University of Maryland, College Park, MD,
-  20742
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-107
-tutorials: []
+link: http://www.cs.umd.edu/hcil/soh/index.shtml
 dateStart: '2007-05-31'
 dateEnd: '2007-06-01'
-tags: []
-link: http://www.cs.umd.edu/hcil/soh/index.shtml
+location:
+  raw: >-
+    Department of Computer Science, University of Maryland, College Park, MD,
+    20742
+presentations:
+  - pres-107

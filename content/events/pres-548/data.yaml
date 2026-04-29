@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Market Gap Analysis: Discrepancies and Delay between Science and Technology
   Developments, Educational Offerings, and Job Market Needs
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/18-Research-Horizons-Borner.pdf
 dateStart: '2018-04-12'
 dateEnd: '2018-04-12'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-696
-link: https://cns.iu.edu/docs/presentations/18-Research-Horizons-Borner.pdf

@@ -1,15 +1,10 @@
 slug: ev-20
 type: other
 title: Network Workbench Kick-Off Meeting at IUB
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2005-09-15'
 dateEnd: '2005-09-17'
-tags: []
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405

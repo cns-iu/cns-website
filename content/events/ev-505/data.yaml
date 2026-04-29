@@ -1,17 +1,12 @@
 slug: ev-505
 type: workshop
 title: Shared Horizons; Data, Biomedicine, and the Digital Humanities
-description: ''
-location: >-
-  Department of Computer Science, University of Maryland, College Park, MD,
-  20742
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-369
-tutorials: []
+link: http://mith.umd.edu/
 dateStart: '2013-04-11'
 dateEnd: '2013-04-11'
-tags: []
-link: http://mith.umd.edu/
+location:
+  raw: >-
+    Department of Computer Science, University of Maryland, College Park, MD,
+    20742
+presentations:
+  - pres-369

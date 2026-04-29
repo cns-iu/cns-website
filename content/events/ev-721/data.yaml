@@ -1,15 +1,10 @@
 slug: ev-721
 type: other
 title: Learning Analytics Fellows Poster Showcase
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-573
-tutorials: []
+link: https://class.indiana.edu/
 dateStart: '2018-12-06'
 dateEnd: '2018-12-06'
-tags: []
-link: https://class.indiana.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-573

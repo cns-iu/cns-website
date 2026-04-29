@@ -1,15 +1,10 @@
 slug: ev-649
 type: other
 title: Open Science Forum
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-504
-tutorials: []
+link: http://iuni.iu.edu/news/event/13
 dateStart: '2017-04-26'
 dateEnd: '2017-04-26'
-tags: []
-link: http://iuni.iu.edu/news/event/13
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-504

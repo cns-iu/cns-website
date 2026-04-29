@@ -1,13 +1,13 @@
 slug: pres-30
 type: presentation
 title: InfoVis Lab Research in 15 Minutes
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2004-borner-infovs15-unknown.pdf
 dateStart: '2004-10-08'
 dateEnd: '2004-10-08'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - katy-borner
 event: ev-65
-link: https://cns.iu.edu/docs/presentations/2004-borner-infovs15-unknown.pdf

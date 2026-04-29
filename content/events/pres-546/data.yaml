@@ -3,10 +3,9 @@ type: presentation
 title: >-
   From Judgment to Impact:  Combining Human and Machine Perception &
   Intelligence to Invent and Implement Desirable Futures
-description: ''
-location: Santa Fe, New Mexico
-presenters: []
+link: https://cns.iu.edu/docs/presentations/2018-borner-SFI-scivis.pdf
 dateStart: '2018-04-03'
 dateEnd: '2018-04-03'
+location:
+  raw: Santa Fe, New Mexico
 event: ev-694
-link: https://cns.iu.edu/docs/presentations/2018-borner-SFI-scivis.pdf

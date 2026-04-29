@@ -1,15 +1,10 @@
 slug: ev-377
 type: other
 title: 'An Innovation Dashboard for Congress: ASTRA Seminar Series'
-description: null
-location: Rayburn House Office Building, Washington DC, 20001
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-229
-tutorials: []
+link: http://www.usinnovation.org/articles/obama-innovation_06-20-09.asp
 dateStart: '2009-12-10'
 dateEnd: '2009-12-10'
-tags: []
-link: http://www.usinnovation.org/articles/obama-innovation_06-20-09.asp
+location:
+  raw: Rayburn House Office Building, Washington DC, 20001
+presentations:
+  - pres-229

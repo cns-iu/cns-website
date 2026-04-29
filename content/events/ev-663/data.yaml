@@ -1,15 +1,10 @@
 slug: ev-663
 type: visit
 title: Opening Reception at Virginia Tech’s Newman Library
-description: ''
-location: Blacksburg, VA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-515
-tutorials: []
+link: https://vt.edu/
 dateStart: '2017-09-06'
 dateEnd: '2017-09-06'
-tags: []
-link: https://vt.edu/
+location:
+  raw: Blacksburg, VA
+presentations:
+  - pres-515

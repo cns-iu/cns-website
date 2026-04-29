@@ -1,9 +1,8 @@
 slug: ws-73
 type: workshop
 title: Boston Lymphatic Symposium’s NIH Clinical Pre-Conference
-description: ''
-location: This was a virtual event, hosted by NIH
+link: https://cns-iu.github.io/workshops/2021-11-04_boston-lymphatic-symposium/
 dateStart: '2021-11-04'
 dateEnd: '2021-11-04'
-tags: []
-link: https://cns-iu.github.io/workshops/2021-11-04_boston-lymphatic-symposium/
+location:
+  raw: This was a virtual event, hosted by NIH

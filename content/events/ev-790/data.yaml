@@ -1,14 +1,8 @@
 slug: ev-790
 type: meeting
 title: Chan Zuckerberg Initiative (CZI) Seed Networks Computational Biology Meeting
-description: ''
-location: Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://chanzuckerberg.com/science/meetings/
 dateStart: '2021-04-06'
 dateEnd: '2021-04-06'
-tags: []
-link: https://chanzuckerberg.com/science/meetings/
+location:
+  raw: Virtual Event

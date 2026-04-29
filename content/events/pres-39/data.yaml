@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Mapping Medline Papers, Genes, and Proteins Related to Melanoma Research
   (Poster)
-description: ''
-location: Chicago, IL
+link: https://cns.iu.edu/docs/presentations/2004-borner-medline-poster.pdf
+dateStart: '2004-11-15'
+dateEnd: '2004-11-15'
+location:
+  raw: Chicago, IL
 presenters:
   - kevin-w-boyack
   - ketan-k-mane
   - katy-borner
-dateStart: '2004-11-15'
-dateEnd: '2004-11-15'
 event: ev-72
-link: https://cns.iu.edu/docs/presentations/2004-borner-medline-poster.pdf

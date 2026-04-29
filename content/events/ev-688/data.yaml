@@ -1,16 +1,12 @@
 slug: ev-688
 type: conference
 title: Informing Environmental Health Decisions Through Data Integration
-description: "Integrating large quantities of data from multiple, disparate sources can create new opportunities to understand complex environmental health questions. However, combining new types and larger quantities of data to inform a specific decision presents many new challenges. For example, investigators must develop methods to reliably integrate data from designed experiments with data re-purposed from other uses, such as electronic health records, geo-spatial data sets, and crowd-based sources.\r\n\r\nThis workshop will bring together scientists, policymakers, risk assessors and regulators to explore the promise and potential pitfalls of environmental health data integration. Workshop speakers will present a general framework for data visualization and participants will work together to conceptualize future research directions that could help incorporate these analyses into environmental health decision-making."
-location: Washington, DC
-organizers: []
-attendees:
-  - katy-borner
-publications: []
-presentations:
-  - pres-540
-tutorials: []
+link: http://nas-sites.org/emergingscience/meetings/data-integration/
 dateStart: '2018-02-20'
 dateEnd: '2018-02-21'
-tags: []
-link: http://nas-sites.org/emergingscience/meetings/data-integration/
+location:
+  raw: Washington, DC
+attendees:
+  - katy-borner
+presentations:
+  - pres-540

@@ -3,15 +3,10 @@ type: conference
 title: >-
   25th International Conference on Science, Technology and Innovation Indicators
   (STI 2021)
-description: ''
-location: Aarhus, Denmark (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-701
-tutorials: []
+link: http://sti2020.org/index.php
 dateStart: '2021-09-13'
 dateEnd: '2021-09-17'
-tags: []
-link: http://sti2020.org/index.php
+location:
+  raw: Aarhus, Denmark (Virtual Event)
+presentations:
+  - pres-701

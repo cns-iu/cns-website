@@ -1,11 +1,11 @@
 slug: pres-399
 type: presentation
 title: Open Source Tools for  S&T Data Analysis and Visualization
-description: ''
-location: Paris, France
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2014-borner-opentoolstutorial-oecd.pdf
 dateStart: '2014-06-25'
 dateEnd: '2014-06-25'
+location:
+  raw: Paris, France
+presenters:
+  - katy-borner
 event: ev-533
-link: https://cns.iu.edu/docs/presentations/2014-borner-opentoolstutorial-oecd.pdf

@@ -1,15 +1,11 @@
 slug: ev-69
 type: conference
 title: Supercomputing 2004
-description: null
-location: Pittsburgh, PA
-organizers: []
-attendees: []
-publications: []
+link: null
+dateStart: '2004-10-25'
+dateEnd: '2004-10-25'
+location:
+  raw: Pittsburgh, PA
 presentations:
   - pres-35
   - pres-36
-tutorials: []
-dateStart: '2004-10-25'
-dateEnd: '2004-10-25'
-tags: []

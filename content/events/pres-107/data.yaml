@@ -1,13 +1,13 @@
 slug: pres-107
 type: presentation
 title: An Introduction to the Network Workbench and Cyberinfrastructure Shell
-description: ''
-location: >-
-  Department of Computer Science, University of Maryland, College Park, MD,
-  20742
-presenters:
-  - bruce-w-herr-ii
+link: https://cns.iu.edu/docs/presentations/2007-herr-cishell-umd.pdf
 dateStart: '2007-06-01'
 dateEnd: '2007-06-01'
+location:
+  raw: >-
+    Department of Computer Science, University of Maryland, College Park, MD,
+    20742
+presenters:
+  - bruce-w-herr-ii
 event: ev-150
-link: https://cns.iu.edu/docs/presentations/2007-herr-cishell-umd.pdf

@@ -1,14 +1,10 @@
 slug: ev-226
 type: meeting
 title: Talk at OCI, NSF
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-138
-tutorials: []
+link: null
 dateStart: '2006-12-13'
 dateEnd: '2006-12-13'
-tags: []
+location:
+  raw: Washington, DC
+presentations:
+  - pres-138

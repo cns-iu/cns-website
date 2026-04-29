@@ -1,11 +1,11 @@
 slug: pres-126
 type: presentation
 title: 'Places & Spaces: Mapping Science'
-description: ''
-location: New York, NY
-presenters:
-  - w-bradford-paley
+link: http://www.youtube.com/watch?v=bXABcOABG4E
 dateStart: '2006-11-08'
 dateEnd: '2006-11-08'
+location:
+  raw: New York, NY
+presenters:
+  - w-bradford-paley
 event: ev-78
-link: http://www.youtube.com/watch?v=bXABcOABG4E

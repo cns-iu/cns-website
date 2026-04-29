@@ -1,14 +1,8 @@
 slug: ev-124
 type: conference
 title: Creativity and Cognition Conference
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.cs.umd.edu/hcil/CC2007/
 dateStart: '2007-06-13'
 dateEnd: '2007-06-15'
-tags: []
-link: http://www.cs.umd.edu/hcil/CC2007/
+location:
+  raw: Washington, DC

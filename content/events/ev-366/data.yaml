@@ -3,15 +3,10 @@ type: workshop
 title: |-
   Structured Data, Synthetic Minds: Visualizing the Dynamics of Knowledge
   Media X Vanguard Visualization Collaboratory, 2nd Presentation
-description: ''
-location: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-219
-tutorials: []
+link: http://mediax.stanford.edu/WSI/convergence.html
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
-tags: []
-link: http://mediax.stanford.edu/WSI/convergence.html
+location:
+  raw: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
+presentations:
+  - pres-219

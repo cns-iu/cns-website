@@ -1,16 +1,11 @@
 slug: ev-579
 type: meeting
 title: Centers for Disease Control and Prevention
-description: ''
-location: Technology Square, Georgia Institute of Technology, Atlanta, GA
-organizers: []
-attendees: []
-publications: []
+link: http://www.cdc.gov
+dateStart: '2016-02-05'
+dateEnd: '2016-02-05'
+location:
+  raw: Technology Square, Georgia Institute of Technology, Atlanta, GA
 presentations:
   - pres-450
   - pres-451
-tutorials: []
-dateStart: '2016-02-05'
-dateEnd: '2016-02-05'
-tags: []
-link: http://www.cdc.gov

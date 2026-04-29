@@ -1,14 +1,8 @@
 slug: ev-285
 type: conference
 title: Invited Talk at Science in the 21st Century
-description: null
-location: Waterloo, Ontario, Canada
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.science21stcentury.org/
 dateStart: '2008-09-08'
 dateEnd: '2008-09-12'
-tags: []
-link: http://www.science21stcentury.org/
+location:
+  raw: Waterloo, Ontario, Canada

@@ -1,16 +1,11 @@
 slug: ev-260
 type: conference
 title: I-Light Presentation
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
+link: http://ilight.net/about
+dateStart: '2002-12-01'
+dateEnd: '2002-12-31'
+location:
+  raw: Indianapolis, Indiana
 presentations:
   - pres-162
   - pres-164
-tutorials: []
-dateStart: '2002-12-01'
-dateEnd: '2002-12-31'
-tags: []
-link: http://ilight.net/about

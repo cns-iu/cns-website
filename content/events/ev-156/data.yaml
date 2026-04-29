@@ -3,15 +3,10 @@ type: conference
 title: >-
   5th International Conference on Coordinated & Multiple Views in Exploratory
   Visualization
-description: null
-location: Zürich, Switzerland
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-111
-tutorials: []
+link: http://www.cvev.org/cmv2007/index.php?p=home
 dateStart: '2007-07-02'
 dateEnd: '2007-07-02'
-tags: []
-link: http://www.cvev.org/cmv2007/index.php?p=home
+location:
+  raw: Zürich, Switzerland
+presentations:
+  - pres-111

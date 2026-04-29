@@ -2,10 +2,10 @@ slug: pres-414
 type: exhibit
 title: Places & Spaces Exhibit
 link: https://cns.iu.edu/docs/presentations/2014-cns-supercomputing-slides.pdf
-dateStart: 2014-11-16
-dateEnd: 2014-11-16
-location: New Orleans, LA
-description: ""
+dateStart: 2014-11-16T00:00:00.000Z
+dateEnd: 2014-11-16T00:00:00.000Z
+location:
+  raw: New Orleans, LA
 presenters:
   - crest
 event: ev-548

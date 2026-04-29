@@ -1,11 +1,11 @@
 slug: pres-294
 type: presentation
 title: Building a Science Observatory
-description: ''
-location: Boston, MA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2011-borner-Fidelity.pdf
 dateStart: '2011-07-21'
 dateEnd: '2011-07-21'
+location:
+  raw: Boston, MA
+presenters:
+  - katy-borner
 event: ev-448
-link: https://cns.iu.edu/docs/presentations/2011-borner-Fidelity.pdf

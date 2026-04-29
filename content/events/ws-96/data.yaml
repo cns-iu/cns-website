@@ -1,14 +1,11 @@
 slug: ws-96
 type: 24hour
 title: 24 Hour Human Physiology Event
+link: null
+dateStart: 2026-12-12T00:00:00.000Z
+dateEnd: 2026-12-13T00:00:00.000Z
 thumbnail: wpp-thumbnail-blue.png
-dateStart: 2026-12-12
-dateEnd: 2026-12-13
-location: Remote event
+location:
+  raw: Remote event
 projects:
   - whole-person-physiome
-tags:
-  - whole-person-physiome
-description: ""
-mediaType: image
-mediaUrl: wpp-thumbnail-blue.png

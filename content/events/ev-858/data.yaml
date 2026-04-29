@@ -3,15 +3,10 @@ type: conference
 title: >-
   Dagstuhl Seminar on Visualization of Biological Data - From Analysis to
   Communication
-description: ''
-location: Wadern, Germany (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-698
-tutorials: []
+link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21401
 dateStart: '2021-10-03'
 dateEnd: '2021-10-08'
-tags: []
-link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21401
+location:
+  raw: Wadern, Germany (Virtual Event)
+presentations:
+  - pres-698

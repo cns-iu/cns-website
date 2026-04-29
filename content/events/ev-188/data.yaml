@@ -1,16 +1,10 @@
 slug: ev-188
 type: workshop
 title: Image and Meaning (IM2.4) Workshop
-description: null
-location: >-
-  Initiative in Innovative Computing, Harvard University, 60 Oxford St,
-  Cambridge, MA, 02138
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.imageandmeaning.org/
 dateStart: '2007-10-27'
 dateEnd: '2007-10-28'
-tags: []
-link: http://www.imageandmeaning.org/
+location:
+  raw: >-
+    Initiative in Innovative Computing, Harvard University, 60 Oxford St,
+    Cambridge, MA, 02138

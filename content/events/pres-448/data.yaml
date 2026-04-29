@@ -1,12 +1,12 @@
 slug: pres-448
 type: presentation
 title: 'IUNI Web of Science Data: An Introduction for Beginners'
-description: ''
-location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2016-borner-wos-enclave.pdf
+dateStart: '2016-01-11'
+dateEnd: '2016-01-11'
+location:
+  raw: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
 presenters:
   - katy-borner
   - robert-light
-dateStart: '2016-01-11'
-dateEnd: '2016-01-11'
 event: ev-577
-link: https://cns.iu.edu/docs/presentations/2016-borner-wos-enclave.pdf

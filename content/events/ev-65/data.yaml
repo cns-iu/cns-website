@@ -1,16 +1,12 @@
 slug: ev-65
 type: other
 title: SLIS Colloquium
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-30
-tutorials: []
+link: null
 dateStart: '2004-10-08'
 dateEnd: '2004-10-08'
-tags: []
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-30

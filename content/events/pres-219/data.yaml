@@ -2,11 +2,11 @@ slug: pres-219
 type: presentation
 title: |
   Plug-and-Play Macroscopes
-description: ''
-location: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2009-borner-mediax-macroscopes.pdf
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
+location:
+  raw: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
+presenters:
+  - katy-borner
 event: ev-366
-link: https://cns.iu.edu/docs/presentations/2009-borner-mediax-macroscopes.pdf

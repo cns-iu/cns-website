@@ -1,15 +1,10 @@
 slug: ev-508
 type: conference
 title: Fourth Annual International Science of Team Science Conference
-description: ''
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-372
-tutorials: []
+link: http://www.scienceofteamscience.org/
 dateStart: '2013-06-24'
 dateEnd: '2013-06-27'
-tags: []
-link: http://www.scienceofteamscience.org/
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-372

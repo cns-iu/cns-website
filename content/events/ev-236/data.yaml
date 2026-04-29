@@ -1,17 +1,12 @@
 slug: ev-236
 type: visit
 title: Talk at Virtual Knowledge Studio (VKS)
-description: null
-location: >-
-  Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands, 1019
-  AT
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-147
-tutorials: []
+link: http://www.virtualknowledgestudio.nl/
 dateStart: '2008-01-25'
 dateEnd: '2008-01-25'
-tags: []
-link: http://www.virtualknowledgestudio.nl/
+location:
+  raw: >-
+    Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands,
+    1019 AT
+presentations:
+  - pres-147

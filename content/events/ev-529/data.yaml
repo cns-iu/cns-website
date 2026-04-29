@@ -1,15 +1,10 @@
 slug: ev-529
 type: workshop
 title: Workshop on Simulating the Social Processes of Science
-description: ''
-location: Leiden, The Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-395
-tutorials: []
+link: http://www.lorentzcenter.nl/lc/web/2014/607/info.php3?wsid=607
 dateStart: '2014-04-07'
 dateEnd: '2014-04-11'
-tags: []
-link: http://www.lorentzcenter.nl/lc/web/2014/607/info.php3?wsid=607
+location:
+  raw: Leiden, The Netherlands
+presentations:
+  - pres-395

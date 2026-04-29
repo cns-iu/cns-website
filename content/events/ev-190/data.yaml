@@ -1,16 +1,10 @@
 slug: ev-190
 type: other
 title: Cyberinfrastructure for Network Science and InfoViz Lab Annual Open House
-description: null
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://ella.slis.indiana.edu/%7Ekaty/gallery/07-openhouse/
 dateStart: '2007-10-15'
 dateEnd: '2007-10-15'
-tags: []
-link: http://ella.slis.indiana.edu/%7Ekaty/gallery/07-openhouse/
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana

@@ -1,15 +1,10 @@
 slug: ev-454
 type: workshop
 title: From OpenSHAPA to Open Data Sharing
-description: ''
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-302
-tutorials: []
+link: http://www.openshapa.org/workshop.html
 dateStart: '2011-09-15'
 dateEnd: '2011-09-16'
-tags: []
-link: http://www.openshapa.org/workshop.html
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+presentations:
+  - pres-302

@@ -1,17 +1,12 @@
 slug: ev-424
 type: meeting
 title: Office of the Vice Provost for Research
-description: null
-location: >-
-  Office of the Vice Provost, 530 E. Kirkwood Avenue, Carmichael Center 202,
-  Bloomington, Indiana, 47408-4003
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-268
-tutorials: []
+link: http://www.research.indiana.edu/
 dateStart: '2010-10-27'
 dateEnd: '2010-10-27'
-tags: []
-link: http://www.research.indiana.edu/
+location:
+  raw: >-
+    Office of the Vice Provost, 530 E. Kirkwood Avenue, Carmichael Center 202,
+    Bloomington, Indiana, 47408-4003
+presentations:
+  - pres-268

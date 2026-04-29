@@ -1,11 +1,11 @@
 slug: pres-136
 type: presentation
 title: Mapping the Structure and Evolution of Chemistry
-description: ''
-location: Chicago, IL
-presenters:
-  - katy-borner
+link: http://ella.slis.indiana.edu/%7Ekaty/events/07-mapchem-acs.pdf
 dateStart: '2007-03-26'
 dateEnd: '2007-03-26'
+location:
+  raw: Chicago, IL
+presenters:
+  - katy-borner
 event: ev-214
-link: http://ella.slis.indiana.edu/%7Ekaty/events/07-mapchem-acs.pdf

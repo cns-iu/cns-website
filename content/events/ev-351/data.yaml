@@ -4,15 +4,10 @@ title: >-
   Communicating the Structure and Evolution of Science and the associated work
   of the Cyberinfrastructure for Network Science Center to the SEED Media
   Group/SEED.com
-description: null
-location: |-
-  NYC Seed, Six MetroTech Center 
-  Brooklyn, NY 11201, New York, NY, 11201
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-02-23'
 dateEnd: '2009-02-23'
-tags: []
+location:
+  raw: |-
+    NYC Seed, Six MetroTech Center 
+    Brooklyn, NY 11201, New York, NY, 11201

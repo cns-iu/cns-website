@@ -1,15 +1,10 @@
 slug: ev-734
 type: other
 title: Indy Big Data 2018 Visualization Challenge
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-588
-tutorials: []
+link: https://2018.indybigdata.com/visualization-challenge/
 dateStart: '2018-09-26'
 dateEnd: null
-tags: []
-link: https://2018.indybigdata.com/visualization-challenge/
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-588

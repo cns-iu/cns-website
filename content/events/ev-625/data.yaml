@@ -1,15 +1,10 @@
 slug: ev-625
 type: other
 title: Living Architecture Systems Group (LASG) Launch Event
-description: ''
-location: Toronto, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-486
-tutorials: []
+link: http://philipbeesleyarchitect.com/
 dateStart: '2016-11-18'
 dateEnd: '2016-11-18'
-tags: []
-link: http://philipbeesleyarchitect.com/
+location:
+  raw: Toronto, Canada
+presentations:
+  - pres-486

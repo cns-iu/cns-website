@@ -4,15 +4,10 @@ title: >-
   Towards Evidence-based policy making for Science, technology and Innovation.
   Center for Research and Development Strategy (CRDS), Japan Science and
   Technology Agency, Tokyo, Japan (Asako Okamura)
-description: null
-location: Tokyo, Japan
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-237
-tutorials: []
+link: http://crds.jst.go.jp/en/index.html
 dateStart: '2010-03-09'
 dateEnd: '2010-03-10'
-tags: []
-link: http://crds.jst.go.jp/en/index.html
+location:
+  raw: Tokyo, Japan
+presentations:
+  - pres-237

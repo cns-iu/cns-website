@@ -1,13 +1,13 @@
 slug: pres-230
 type: presentation
 title: The Science of Science (Sci2) Tool and Its Utility for Research
-description: ''
-location: >-
-  Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
-  Indiana, 47405
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2009-borner-ncs-sci2.pdf
 dateStart: '2009-12-07'
 dateEnd: '2009-12-07'
+location:
+  raw: >-
+    Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
+    Indiana, 47405
+presenters:
+  - katy-borner
 event: ev-378
-link: https://cns.iu.edu/docs/presentations/2009-borner-ncs-sci2.pdf

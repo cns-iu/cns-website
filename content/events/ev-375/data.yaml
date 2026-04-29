@@ -1,17 +1,12 @@
 slug: ev-375
 type: other
 title: School of Informatics Colloquium Series, IUPUI
-description: null
-location: >-
-  School of Informatics, Indiana University Purdue University Indianapolis,
-  Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-227
-tutorials: []
+link: http://informatics.iupui.edu/colloquia/archive.html
 dateStart: '2009-11-20'
 dateEnd: '2009-11-20'
-tags: []
-link: http://informatics.iupui.edu/colloquia/archive.html
+location:
+  raw: >-
+    School of Informatics, Indiana University Purdue University Indianapolis,
+    Indianapolis, Indiana
+presentations:
+  - pres-227

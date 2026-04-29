@@ -1,18 +1,12 @@
 slug: ev-239
 type: workshop
 title: Talk Series on Network and Complex Systems
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-149
-tutorials:
-  - tut-10
+link: http://vw.indiana.edu/talks-fall07/
 dateStart: '2007-12-10'
 dateEnd: '2007-12-10'
-tags: []
-link: http://vw.indiana.edu/talks-fall07/
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-149

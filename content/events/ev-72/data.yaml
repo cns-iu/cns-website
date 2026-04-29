@@ -1,15 +1,10 @@
 slug: ev-72
 type: other
 title: NSDL Annual Meeting
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-39
-tutorials: []
+link: http://nsdl.comm.nsdl.org/
 dateStart: '2004-11-15'
 dateEnd: '2004-11-17'
-tags: []
-link: http://nsdl.comm.nsdl.org/
+location:
+  raw: Chicago, IL
+presentations:
+  - pres-39

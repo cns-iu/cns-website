@@ -3,15 +3,10 @@ type: workshop
 title: >-
   NIMH Workshop on Advanced Statistical Methods and Dynamic Data Visualizations
   for Mental Health Studies
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-661
-tutorials: []
+link: https://www.didvizandstats.org/
 dateStart: '2021-06-28'
 dateEnd: '2021-06-30'
-tags: []
-link: https://www.didvizandstats.org/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-661

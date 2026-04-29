@@ -1,11 +1,11 @@
 slug: pres-442
 type: presentation
 title: Dynamic Data Visualizations
-description: ''
-location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2015-borner-dashboards.pdf
 dateStart: '2015-11-02'
 dateEnd: '2015-11-02'
+location:
+  raw: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-571
-link: https://cns.iu.edu/docs/presentations/2015-borner-dashboards.pdf

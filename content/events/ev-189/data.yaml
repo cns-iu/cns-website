@@ -1,14 +1,8 @@
 slug: ev-189
 type: workshop
 title: 2007 Microsoft eScience Workshop at RENCI
-description: null
-location: University of North Carolina, Chapel Hill, NC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.mses07.net/main.aspx
 dateStart: '2007-10-21'
 dateEnd: '2007-10-23'
-tags: []
-link: https://www.mses07.net/main.aspx
+location:
+  raw: University of North Carolina, Chapel Hill, NC

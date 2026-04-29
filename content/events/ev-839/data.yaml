@@ -1,15 +1,10 @@
 slug: ev-839
 type: conference
 title: Association of Medical Illustrators (AMI) 2022 Annual Conference
-description: ''
-location: Des Moines, IA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-674
-tutorials: []
+link: https://meetings.ami.org/2022/
 dateStart: '2022-07-20'
 dateEnd: '2022-07-23'
-tags: []
-link: https://meetings.ami.org/2022/
+location:
+  raw: Des Moines, IA
+presentations:
+  - pres-674

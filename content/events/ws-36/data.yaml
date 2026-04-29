@@ -1,9 +1,8 @@
 slug: ws-36
 type: workshop
 title: "Visual Analytics in Healthcare\r\n"
-description: ''
-location: Bloomington, Indiana
+link: http://web.archive.org/web/20260109195944/https://cns.iu.edu/151102.html
 dateStart: '2015-11-02'
 dateEnd: '2015-11-03'
-tags: []
-link: http://web.archive.org/web/20260109195944/https://cns.iu.edu/151102.html
+location:
+  raw: Bloomington, Indiana

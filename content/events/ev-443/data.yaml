@@ -1,17 +1,12 @@
 slug: ev-443
 type: meeting
 title: Research Seminar, Dirk Helbing Team
-description: ''
-location: >-
-  Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50, Z&#252;rich,
-  Switzerland, 8092
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-288
-tutorials: []
+link: http://www.soms.ethz.ch/
 dateStart: '2011-06-09'
 dateEnd: '2011-06-09'
-tags: []
-link: http://www.soms.ethz.ch/
+location:
+  raw: >-
+    Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50,
+    Z&#252;rich, Switzerland, 8092
+presentations:
+  - pres-288

@@ -1,15 +1,10 @@
 slug: ev-714
 type: other
 title: NSWC Crane Meeting
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-566
-tutorials: []
+link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Crane/
 dateStart: '2018-09-12'
 dateEnd: '2018-09-12'
-tags: []
-link: https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Crane/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-566

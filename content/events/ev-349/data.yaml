@@ -1,17 +1,11 @@
 slug: ev-349
 type: workshop
 title: NWB Colloquium Talk and Workshop
-description: null
-location: >-
-  School of Informatics, Indiana University Purdue University Indianapolis,
-  Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
-dateStart: '2009-11-20'
-dateEnd: '2009-11-20'
-tags: []
 link: >-
   http://conferences.thehillgroup.com/DPCPSI/PortfolioAnalysisSymposium/index.html
+dateStart: '2009-11-20'
+dateEnd: '2009-11-20'
+location:
+  raw: >-
+    School of Informatics, Indiana University Purdue University Indianapolis,
+    Indianapolis, Indiana

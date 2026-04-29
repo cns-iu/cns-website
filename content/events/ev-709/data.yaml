@@ -1,15 +1,10 @@
 slug: ev-709
 type: conference
 title: ISE@SICE, IUB Graduate Student Orientation
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-562
-tutorials: []
+link: https://www.sice.indiana.edu/
 dateStart: '2018-08-13'
 dateEnd: '2018-08-13'
-tags: []
-link: https://www.sice.indiana.edu/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-562

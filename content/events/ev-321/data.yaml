@@ -1,15 +1,10 @@
 slug: ev-321
 type: conference
 title: 'INSNA Sunbelt Social Networks Conference: Sunbelt XXIX'
-description: null
-location: San Diego, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-197
-tutorials: []
+link: http://www.insna.org/sunbelt/
 dateStart: '2009-03-10'
 dateEnd: '2009-03-15'
-tags: []
-link: http://www.insna.org/sunbelt/
+location:
+  raw: San Diego, CA
+presentations:
+  - pres-197
