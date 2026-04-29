@@ -1,4 +1,7 @@
 slug: pub-72
+type: paper-conference
+title: LVis - Digital Library Visualizer
+date: '2000-01-01'
 authors:
   - katy-borner
   - andrew-dillon
@@ -8,16 +11,8 @@ editors:
   - philip-c-chen
   - robert-f-erbacher
   - jonathan-c-roberts
-type: paper-conference
-title: LVis - Digital Library Visualizer
-date: '2000-01-01'
-publisher: ''
 venue: Information Visualization 2000, Symposium on Digital Libraries, London, UK
-volume: ''
-issue: ''
-doi: ''
 pages: 77-81
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2000-borner-lvis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2000-borner-lvis.pdf

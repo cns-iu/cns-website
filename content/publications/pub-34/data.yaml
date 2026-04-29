@@ -1,4 +1,7 @@
 slug: pub-34
+type: chapter
+title: Structural Similarity and Adaptation
+date: '1996-01-01'
 authors:
   - katy-borner
   - eberhard-pippig
@@ -7,18 +10,11 @@ authors:
 editors:
   - ian-smith
   - b-faltings
-type: chapter
-title: Structural Similarity and Adaptation
-date: '1996-01-01'
 publisher: 'Berlin:  Springer-Verlag'
 venue: >-
   Advances in Case-Based Reasoning. Proceedings of the Third European Workshop
   on Case-Based Reasoning (EWCBR-93)
-volume: ''
-issue: ''
-doi: ''
 pages: 58-75
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1996-borner-strucsim.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1996-borner-strucsim.pdf

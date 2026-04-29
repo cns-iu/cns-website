@@ -1,20 +1,14 @@
 slug: pub-183
-authors:
-  - ketan-k-mane
-editors: []
 type: thesis
 title: 'Envisioning Knowledge: Tightly Coupling Knowledge Analysis and Visualization'
 date: '2006-10-01'
+authors:
+  - ketan-k-mane
 publisher: Indiana University, Bloomington
 venue: >-
   Thesis, Doctor of Philosophy in Library and Information Science: Katy Börner
   (Chair), Javed Mostafa, Luis Rocha, Sun Kim. Indiana University, Bloomington,
   IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2006-mane-thesis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-mane-thesis.pdf

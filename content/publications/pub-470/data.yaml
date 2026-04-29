@@ -1,4 +1,7 @@
 slug: pub-470
+type: manuscript
+title: Visualization Literacy for General Audiences - Can We Make A Difference?
+date: '2021-03-01'
 authors:
   - alark-joshi
   - katy-borner
@@ -6,18 +9,8 @@ authors:
   - lane-harrison
   - elif-e-firat
   - bum-chul-kwon
-editors: []
-type: manuscript
-title: Visualization Literacy for General Audiences - Can We Make A Difference?
-date: '2021-03-01'
-publisher: ''
 venue: IEEE Vis
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://people.cs.nott.ac.uk/blaramee/research/panel/joshi21visualization.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://people.cs.nott.ac.uk/blaramee/research/panel/joshi21visualization.pdf

@@ -1,17 +1,11 @@
 slug: pub-256
-authors:
-  - bruce-w-herr-ii
-editors: []
 type: broadcast
 title: Using the Network Workbench
 date: '2008-01-01'
+authors:
+  - bruce-w-herr-ii
 publisher: Indiana University
 venue: Indiana University Bloomington
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2008-herr-nwb-iub.mpg
-tags: []
+media:
+  - type: website
+    url: https://cns.iu.edu/docs/publications/2008-herr-nwb-iub.mpg

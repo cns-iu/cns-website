@@ -1,4 +1,7 @@
 slug: pub-185
+type: article-journal
+title: 'Visualization Summit 2007: Ten Research Goals for 2010'
+date: '2007-09-10'
 authors:
   - remo-aslak-burkhard
   - gennady-andrienko
@@ -20,17 +23,10 @@ authors:
   - robert-phaal
   - andrew-vande-moere
   - wibke-weber
-editors: []
-type: article-journal
-title: 'Visualization Summit 2007: Ten Research Goals for 2010'
-date: '2007-09-10'
-publisher: ''
 venue: Information Visualisation
 volume: '6'
 issue: '3'
-doi: ''
 pages: 169-188
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-burkhard-vizsumm-infovis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-burkhard-vizsumm-infovis.pdf

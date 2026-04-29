@@ -1,7 +1,10 @@
 slug: pub-424
 type: article-journal
-title: Specimen, biological structure, and spatial ontologies in support of a
-  Human Reference Atlas
+title: >-
+  Specimen, biological structure, and spatial ontologies in support of a Human
+  Reference Atlas
+date: 2023-03-27T00:00:00.000Z
+doi: 10.1038/s41597-023-01993-8
 authors:
   - bruce-w-herr-ii
   - josef-hardi
@@ -13,18 +16,12 @@ authors:
   - david-osumi-sutherland
   - mark-a-musen
   - katy-borner
-editors: []
-doi: 10.1038/s41597-023-01993-8
-date: 2023-03-27
-publisher: ""
 venue: Nature Scientific Data
-volume: "10"
-issue: ""
+volume: '10'
 pages: 171 (2023).
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2023-Herr-Specimen_biological_structure.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2023-Herr-Specimen_biological_structure.pdf

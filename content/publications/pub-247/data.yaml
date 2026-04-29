@@ -1,4 +1,10 @@
 slug: pub-247
+type: article-journal
+title: >-
+  Clustering More Than Two Million Biomedical Publications: Comparing the
+  Accuracies of Nine Text-Based Similarity Approaches
+date: '2011-03-17'
+doi: 10.1371/journal.pone.0018029
 authors:
   - kevin-w-boyack
   - david-newman
@@ -10,19 +16,10 @@ authors:
   - andre-skupin
   - nianli-ma
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  Clustering More Than Two Million Biomedical Publications: Comparing the
-  Accuracies of Nine Text-Based Similarity Approaches
-date: '2011-03-17'
-publisher: ''
 venue: PLoS ONE
 volume: 6(3)
-issue: ''
-doi: 10.1371/journal.pone.0018029
 pages: e18029.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-boyack-clustering-more-plosone.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2011-boyack-clustering-more-plosone.pdf

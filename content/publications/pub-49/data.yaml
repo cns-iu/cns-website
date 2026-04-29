@@ -1,21 +1,15 @@
 slug: pub-49
+type: paper-conference
+title: Treemap, Radial Tree and 3D Tree Visualizations
+date: '2003-01-01'
 authors:
   - nihar-sheth
   - katy-borner
   - jason-baumgartner
   - ketan-k-mane
   - eric-wernert
-editors: []
-type: paper-conference
-title: Treemap, Radial Tree and 3D Tree Visualizations
-date: '2003-01-01'
-publisher: ''
 venue: Poster Compendium. IEEE Information Visualization Conference, Seattle, WA
-volume: ''
-issue: ''
-doi: ''
 pages: 128-129
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2003-sheth-treemap.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2003-sheth-treemap.pdf

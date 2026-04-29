@@ -1,6 +1,8 @@
 slug: pub-425
 type: article-journal
 title: Advances and prospects for the Human BioMolecular Atlas Program (HuBMAP)
+date: 2023-07-19T00:00:00.000Z
+doi: 10.1038/s41556-023-01194-w
 authors:
   - sanjay-jain
   - liming-pei
@@ -29,18 +31,9 @@ authors:
   - hubmap-consortium
   - katy-borner
   - michael-p-snyder
-editors: []
-doi: 10.1038/s41556-023-01194-w
-date: 2023-07-19
-publisher: ""
 venue: Nature Cell Biology
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2023-Jain_Advances-and-prospects.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2023-Jain_Advances-and-prospects.pdf

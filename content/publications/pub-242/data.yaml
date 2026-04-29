@@ -1,4 +1,9 @@
 slug: pub-242
+type: manuscript
+title: >-
+  The Science of Team Science (SciTS): A Beacon for 21st Century Scientific
+  Collaboration
+date: '2010-12-12'
 authors:
   - katy-borner
   - noshir-s-contractor
@@ -10,19 +15,8 @@ authors:
   - daniel-stokols
   - william-trochim
   - brian-uzzi
-editors: []
-type: manuscript
-title: >-
-  The Science of Team Science (SciTS): A Beacon for 21st Century Scientific
-  Collaboration
-date: '2010-12-12'
 publisher: National Science Foundation
 venue: 'SBE 2020: Future Research in the Social, Behavioral & Economic Sciences'
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-borner-et-al-sbe-scits.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-borner-et-al-sbe-scits.pdf

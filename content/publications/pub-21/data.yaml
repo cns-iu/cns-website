@@ -1,24 +1,22 @@
 slug: pub-21
+type: chapter
+title: >-
+  Analysis and Visualization of Social Diffusion Patterns in Three-Dimensional
+  Virtual Worlds
+date: '2006-01-01'
 authors:
   - shashikant-penumarthy
   - katy-borner
 editors:
   - ralph-schroeder
   - ann-sofie-axelsson
-type: chapter
-title: >-
-  Analysis and Visualization of Social Diffusion Patterns in Three-Dimensional
-  Virtual Worlds
-date: '2006-01-01'
 publisher: 'Netherlands:  Springer'
 venue: >-
   Avatars at Work and Play: Collaboration and Interaction in Shared Virtual
   Environments (Computer Supported Cooperative Work)
 volume: '34'
-issue: ''
-doi: ''
 pages: 39-61
 chapter: '3'
-links:
-  - https://cns.iu.edu/docs/publications/2006-penumarthy-socdif.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-penumarthy-socdif.pdf

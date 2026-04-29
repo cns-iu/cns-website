@@ -1,17 +1,12 @@
 slug: pub-171
-authors:
-  - michael-mcrobbie
-editors: []
 type: broadcast
 title: Advanced Cyberinfrastructure Facility
 date: '2006-11-01'
+authors:
+  - michael-mcrobbie
 publisher: University Information Technology Services
 venue: Indiana University
 volume: '1.2'
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2006-jasiakx-uits.zip
-tags: []
+media:
+  - type: website
+    url: https://cns.iu.edu/docs/publications/2006-jasiakx-uits.zip

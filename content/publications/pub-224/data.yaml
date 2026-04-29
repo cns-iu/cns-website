@@ -1,21 +1,14 @@
 slug: pub-224
+type: paper-conference
+title: Mapping the Domain of "Intelligent Perception Technology" Research
+date: '2009-09-13'
 authors:
   - hanning-guo
   - katy-borner
   - zeyuan-liu
-editors: []
-type: paper-conference
-title: Mapping the Domain of "Intelligent Perception Technology" Research
-date: '2009-09-13'
-publisher: ''
 venue: >-
   Proceedings of the Fifth International Conference on Webometrics, Informetrics
   and Scientometrics (WIS) and the Tenth COLLNET Meeting, Seoul, South Korea
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2009-guo-intelligent-perception.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2009-guo-intelligent-perception.pdf

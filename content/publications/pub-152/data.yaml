@@ -1,4 +1,9 @@
 slug: pub-152
+type: paper-conference
+title: >-
+  Towards a Task-Oriented Methodology in Knowledge Acquisition and System Design
+  in CBR
+date: '1993-01-01'
 authors:
   - dietmar-janetzko
   - katy-borner
@@ -9,17 +14,6 @@ editors:
   - s-wess
   - k-d-althoff
   - f-maurer
-type: paper-conference
-title: >-
-  Towards a Task-Oriented Methodology in Knowledge Acquisition and System Design
-  in CBR
-date: '1993-01-01'
-publisher: ''
 venue: Proceedings of the First European Workshop on Case-Based Reasoning
 volume: '2'
-issue: ''
-doi: ''
 pages: 360-365
-chapter: ''
-links: []
-tags: []

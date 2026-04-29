@@ -1,20 +1,18 @@
 slug: pub-371
+type: article-journal
+title: Forecasting Innovations in Science, Technology, and Education
+date: '2018-12-11'
+doi: 10.1073/pnas.1818750115
 authors:
   - katy-borner
   - william-rouse
   - paul-trunfio
   - h-eugene-stanley
-editors: []
-type: article-journal
-title: Forecasting Innovations in Science, Technology, and Education
-date: '2018-12-11'
-publisher: ''
 venue: PNAS
 volume: '115'
 issue: '50'
-doi: 10.1073/pnas.1818750115
 pages: 12573-12581.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2018-borner-forecasting-innovations.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2018-borner-forecasting-innovations.pdf

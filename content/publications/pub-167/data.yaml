@@ -1,19 +1,14 @@
 slug: pub-167
-authors:
-  - peter-a-hook
-editors: []
 type: paper-conference
 title: 'Domain Maps: Purposes, History, Parallels with Cartography, and Applications'
 date: '2007-01-01'
+authors:
+  - peter-a-hook
 publisher: IEEE Computer Society Conference Publishing Services
 venue: >-
   Conference Proceedings of 11th Annual Information Visualization International
   Conference, Zurich, Switzerland
-volume: ''
-issue: ''
-doi: ''
 pages: 442-446
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-hook-dommaps.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-hook-dommaps.pdf

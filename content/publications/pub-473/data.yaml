@@ -1,22 +1,16 @@
 slug: pub-473
-authors: []
-editors:
-  - robert-f-erbacher
-  - jonathan-c-roberts
-  - matti-t-grohn
-  - katy-borner
 type: paper-conference
 title: >-
   Proceedings of SPIE - The International Society for Optical Engineering:
   Introduction
 date: '2006-01-15'
-publisher: ''
+editors:
+  - robert-f-erbacher
+  - jonathan-c-roberts
+  - matti-t-grohn
+  - katy-borner
 venue: Proceedings of SPIE - The International Society for Optical Engineering
 volume: '6060'
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://www.spiedigitallibrary.org/conference-proceedings-of-SPIE/6060.toc
-tags: []
+media:
+  - type: website
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-SPIE/6060.toc

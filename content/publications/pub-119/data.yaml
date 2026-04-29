@@ -1,4 +1,7 @@
 slug: pub-119
+type: paper-conference
+title: Concept-Based, Adaptive Human-Computer Interaction
+date: '1998-01-01'
 authors:
   - katy-borner
 editors:
@@ -7,18 +10,11 @@ editors:
   - sean-o-nuallain
   - ronan-reilly
   - barry-smith
-type: paper-conference
-title: Concept-Based, Adaptive Human-Computer Interaction
-date: '1998-01-01'
 publisher: University College Dublin
 venue: >-
   Proceedings of the 9th Irish Conference on Artificial Intelligence and
   Cognitive Science, Dublin, Ireland
-volume: ''
-issue: ''
-doi: ''
 pages: 103-109
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1998-borner-hci.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1998-borner-hci.pdf

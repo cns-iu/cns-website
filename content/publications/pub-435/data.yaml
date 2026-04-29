@@ -1,8 +1,11 @@
 slug: pub-435
 type: article-journal
-title: Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment
+title: >-
+  Cadherin-11, Sparc-related modular calcium binding protein-2, and Pigment
   epithelium-derived factor are promising non-invasive biomarkers of kidney
   fibrosis
+date: 2021-08-19T00:00:00.000Z
+doi: 10.1016/j.kint.2021.04.037
 authors:
   - insa-m-schmidt
   - mia-r-colona
@@ -37,18 +40,12 @@ authors:
   - ellen-m-quardokus
   - lisel-record
   - yashvardhan-jain
-editors: []
-doi: 10.1016/j.kint.2021.04.037
-date: 2021-08-19
-publisher: ""
 venue: Kidney International
-volume: "100"
-issue: "3"
-pages: ""
+volume: '100'
+issue: '3'
 chapter: 672-683
-links:
-  - https://www.sciencedirect.com/science/article/abs/pii/S0085253821005056
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0085253821005056

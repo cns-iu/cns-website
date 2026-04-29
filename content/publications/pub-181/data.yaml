@@ -1,20 +1,18 @@
 slug: pub-181
-authors: []
-editors:
-  - katy-borner
-  - raquel-navarro-prieto
 type: periodical
 title: Special Issue on Collaborative Information Visualization Environments
 date: '2005-02-01'
+editors:
+  - katy-borner
+  - raquel-navarro-prieto
 publisher: MIT Press
 venue: >-
   PRESENCE: Teleoperators and Virtual Environments, Special Issue on
   Collaborative Information Visualization Environments
 volume: '14'
 issue: '1'
-doi: ''
 pages: iii-iv
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-chen-borner-spatial-presence2.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2005-chen-borner-spatial-presence2.pdf

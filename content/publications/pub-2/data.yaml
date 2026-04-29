@@ -1,19 +1,14 @@
 slug: pub-2
+type: paper-conference
+title: Visualizing Knowledge Domains
+date: '2002-01-01'
 authors:
   - e-rasmussen
   - h-b-atkins
   - katy-borner
-editors: []
-type: paper-conference
-title: Visualizing Knowledge Domains
-date: '2002-01-01'
 publisher: 'Information Today Inc: Medford, NJ'
 venue: Proceedings of the ASIST Annual Meeting, Philadelphia, PA
-volume: ''
-issue: ''
-doi: ''
 pages: 476-477
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-rasmussen-visknow.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-rasmussen-visknow.pdf

@@ -1,6 +1,8 @@
 slug: pub-442
 type: manuscript
 title: Enabling Global Image Data Sharing in the Life Sciences
+date: 2024-08-09T00:00:00.000Z
+doi: 10.48550/arXiv.2401.13023
 authors:
   - peter-bajcsy
   - screenivas-bhattiprolu
@@ -24,18 +26,9 @@ authors:
   - fred-prior
   - jason-swedlow
   - adam-taylor
-editors: []
-doi: 10.48550/arXiv.2401.13023
-date: 2024-08-09
 publisher: Arxiv- Quantitative Biology
-venue: ""
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://arxiv.org/abs/2401.13023
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://arxiv.org/abs/2401.13023

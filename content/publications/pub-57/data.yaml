@@ -1,4 +1,7 @@
 slug: pub-57
+type: paper-conference
+title: Collaborative Visual Interfaces to Digital Libraries
+date: '2002-01-01'
 authors:
   - katy-borner
   - ying-feng
@@ -6,16 +9,9 @@ authors:
 editors:
   - g-marchionini
   - w-hersh
-type: paper-conference
-title: Collaborative Visual Interfaces to Digital Libraries
-date: '2002-01-01'
 publisher: ACM Press
 venue: Second ACM+IEEE Joint Conference on Digital Libraries, Portland, OR
-volume: ''
-issue: ''
-doi: ''
 pages: 279-280
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-collab-vi.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-collab-vi.pdf

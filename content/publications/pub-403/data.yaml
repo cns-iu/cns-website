@@ -1,18 +1,12 @@
 slug: pub-403
-authors:
-  - katy-borner
-editors: []
 type: chapter
 title: Foreword
 date: '2021-09-12'
+authors:
+  - katy-borner
 publisher: ACRL
 venue: 'Envisioning the Framework: A Graphic Guide to Information Literacy'
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2021-Borner-Foreword-Envisioning-the-Framework.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2021-Borner-Foreword-Envisioning-the-Framework.pdf

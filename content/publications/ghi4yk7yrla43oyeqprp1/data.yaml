@@ -1,7 +1,8 @@
 slug: ghi4yk7yrla43oyeqprp1
 type: manuscript
-thumbnail: the-common-fund-data-ecosystem.png
 title: The Common Fund Data Ecosystem (CFDE)
+date: 2026-04-16T00:00:00.000Z
+doi: 10.64898/2026.04.10.717672
 authors:
   - julie-a-jurgens
   - andreas-bueckle
@@ -9,15 +10,7 @@ authors:
   - mano-r-maurya
   - taha-mohseni-ahooyi
   - katy-borner
-editors: []
-doi: 10.64898/2026.04.10.717672
-date: 2026-04-16
+thumbnail: the-common-fund-data-ecosystem.png
 venue: bioRxiv
-links:
-  - https://doi.org/10.64898/2026.04.10.717672
-mediaUrl: the-common-fund-data-ecosystem.png
 projects:
   - human-reference-atlas
-tags:
-  - hra
-  - cfde-consortium

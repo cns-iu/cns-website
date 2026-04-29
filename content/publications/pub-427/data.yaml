@@ -1,25 +1,17 @@
 slug: pub-427
 type: paper-conference
-thumbnail: 2023-kong_scholarly-publications.png
 title: Scholarly publications and dataset evidence for the human reference atlas
+date: 2023-07-03T00:00:00.000Z
 authors:
   - yongxin-kong
   - vicky-amar-daiya
   - katy-borner
-editors: []
-doi: ""
-date: 2023-07-03
-publisher: ""
-venue: 19th International Conference on Scientometrics and Informetrics (ISSI
-  2023), Bloomington, IN
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - 2023-kong_scholarly-publications-issi.pdf
-mediaUrl: 2023-kong_scholarly-publications.png
+thumbnail: 2023-kong_scholarly-publications.png
+venue: >-
+  19th International Conference on Scientometrics and Informetrics (ISSI 2023),
+  Bloomington, IN
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: 2023-kong_scholarly-publications-issi.pdf

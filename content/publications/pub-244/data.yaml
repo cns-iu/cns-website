@@ -1,18 +1,12 @@
 slug: pub-244
-authors:
-  - katy-borner
-  - angela-zoss
-editors: []
 type: manuscript
 title: Evolving and Emerging Populations and Topics
 date: '2010-10-06'
+authors:
+  - katy-borner
+  - angela-zoss
 publisher: National Science Foundation
 venue: CISE/SBE Advisory Committee on Research Portfolio Analysis
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-borner-zoss-sbe-evolvepop.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-borner-zoss-sbe-evolvepop.pdf

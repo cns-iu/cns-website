@@ -1,4 +1,7 @@
 slug: pub-36
+type: paper-conference
+title: Retrieval of Similar Layouts - About a Very Hybrid Approach in FABEL
+date: '1994-01-01'
 authors:
   - angi-voss
   - carl-helmut-coulon
@@ -13,15 +16,6 @@ authors:
 editors:
   - john-gero
   - f-sudweeks
-type: paper-conference
-title: Retrieval of Similar Layouts - About a Very Hybrid Approach in FABEL
-date: '1994-01-01'
 publisher: 'Dordrecht: Kluwer Academic Publishers'
 venue: AI in Design 1994
-volume: ''
-issue: ''
-doi: ''
 pages: 625-640
-chapter: ''
-links: []
-tags: []

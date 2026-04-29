@@ -1,19 +1,12 @@
 slug: pub-170
-authors:
-  - katy-borner
-editors: []
 type: manuscript
 title: Science of Science Policy Position Paper
 date: '2006-07-12'
-publisher: ''
+authors:
+  - katy-borner
 venue: >-
   Workshop on Science of Science Policy: Developing our Understanding of Public
   Investments in Science, Helsinki, Finland
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2006-borner-scipolicy-helsinki.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-borner-scipolicy-helsinki.pdf

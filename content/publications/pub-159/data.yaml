@@ -1,22 +1,17 @@
 slug: pub-159
+type: paper-conference
+title: 'Movies and Actors: Mapping the Internet Movie Database'
+date: '2007-01-01'
 authors:
   - bruce-w-herr-ii
   - weimao-ke
   - elisha-f-allgood
   - katy-borner
-editors: []
-type: paper-conference
-title: 'Movies and Actors: Mapping the Internet Movie Database'
-date: '2007-01-01'
 publisher: IEEE Computer Society Conference Publishing Services
 venue: >-
   Proceedings of the 11th Annual Information Visualization International
   Conference, Zurich, Switzerland
-volume: ''
-issue: ''
-doi: ''
 pages: 465-469
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-herr-movieact.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-herr-movieact.pdf

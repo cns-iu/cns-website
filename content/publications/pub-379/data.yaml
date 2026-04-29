@@ -1,17 +1,15 @@
 slug: pub-379
-authors:
-  - brad-wible
-editors: []
 type: article-journal
 title: Crossing borders along an endless frontier
 date: '2017-05-19'
+doi: 10.1126/science.356.6339.694-a
+authors:
+  - brad-wible
 publisher: American Association for the Advancement of Science
 venue: Science
 volume: '356'
 issue: '6339'
-doi: 10.1126/science.356.6339.694-a
 pages: '694.'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-Wible-CrossingBorders.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-Wible-CrossingBorders.pdf

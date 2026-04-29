@@ -1,4 +1,10 @@
 slug: pub-383
+type: article-journal
+title: >-
+  The human body at cellular resolution: the NIH Human Biomolecular Atlas
+  Program
+date: '2019-10-10'
+doi: 10.1038/s41586-019-1629-x
 authors:
   - michael-p-snyder
   - shin-lin
@@ -26,19 +32,10 @@ authors:
   - ajay-pillai
   - marishka-brown
   - zorina-s-galis
-editors: []
-type: article-journal
-title: >-
-  The human body at cellular resolution: the NIH Human Biomolecular Atlas
-  Program
-date: '2019-10-10'
 publisher: Springer Nature
 venue: Nature
 volume: '574'
-issue: ''
-doi: 10.1038/s41586-019-1629-x
 pages: 187-192.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2019-Snyder-HuBMAP.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2019-Snyder-HuBMAP.pdf

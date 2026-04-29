@@ -1,17 +1,13 @@
 slug: pub-325
-authors:
-  - katy-borner
-editors: []
 type: article-journal
 title: Data-Driven Science Policy
 date: '2016-04-09'
-publisher: ''
+authors:
+  - katy-borner
 venue: Issues in Science and Technology
 volume: '33'
 issue: '3'
-doi: ''
 pages: 26-28
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2016-borner-datadriven-sp.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2016-borner-datadriven-sp.pdf

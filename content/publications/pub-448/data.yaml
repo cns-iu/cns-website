@@ -1,4 +1,8 @@
 slug: pub-448
+type: article-journal
+title: 'Genetic findings using ADNI multimodal quantitative phenotypes: A 2014 update'
+date: '2015-07-01'
+doi: 10.1016/j.jalz.2015.06.401
 authors:
   - xiaohui-yao
   - jingwen-yan
@@ -17,17 +21,10 @@ authors:
   - michael-w-weiner
   - andrew-saykin
   - li-shen
-editors: []
-type: article-journal
-title: 'Genetic findings using ADNI multimodal quantitative phenotypes: A 2014 update'
-date: '2015-07-01'
 publisher: Alzheimer's & Dementia
-venue: ''
 volume: '11'
-issue: ''
-doi: 10.1016/j.jalz.2015.06.401
 pages: '426'
-chapter: ''
-links:
-  - https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2015.06.401
-tags: []
+media:
+  - type: website
+    url: >-
+      https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2015.06.401

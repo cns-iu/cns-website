@@ -1,4 +1,7 @@
 slug: pub-348
+type: paper-conference
+title: 'Value Analytics: A Financial Module for the Open XDMoD Project'
+date: '2017-04-20'
 authors:
   - katy-borner
   - craig-alan-stewart
@@ -9,17 +12,8 @@ authors:
   - tom-yearke
   - robert-l-deleon
   - thomas-furlani
-editors: []
-type: paper-conference
-title: 'Value Analytics: A Financial Module for the Open XDMoD Project'
-date: '2017-04-20'
-publisher: ''
 venue: PEARC17, New Orleans, LA
-volume: ''
-issue: ''
-doi: ''
 pages: '6'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-fulton-xdmodva.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-fulton-xdmodva.pdf

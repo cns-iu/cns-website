@@ -1,4 +1,7 @@
 slug: pub-42
+type: paper-conference
+title: Visualizing the VLearn3D 2002 Conference in Space and Time
+date: '2004-01-01'
 authors:
   - katy-borner
   - ryan-johnathan-jones
@@ -10,16 +13,10 @@ editors:
   - jonathan-c-roberts
   - matti-grohn
   - katy-borner
-type: paper-conference
-title: Visualizing the VLearn3D 2002 Conference in Space and Time
-date: '2004-01-01'
 publisher: SPIE-IS&T
 venue: Visualization and Data Analysis, San Jose, CA
 volume: '5295'
-issue: ''
-doi: ''
 pages: 24-32
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-borner-vlearn3d.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-borner-vlearn3d.pdf

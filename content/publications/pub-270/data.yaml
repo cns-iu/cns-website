@@ -1,17 +1,14 @@
 slug: pub-270
-authors:
-  - katy-borner
-editors: []
 type: article-journal
 title: Picturing Science
 date: '2012-07-26'
+doi: 10.1038/487430a
+authors:
+  - katy-borner
 publisher: Nature Publishing Group
 venue: Nature
 volume: '487'
 issue: 430-431
-doi: 10.1038/487430a
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2012-borner-picturingscience.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2012-borner-picturingscience.pdf

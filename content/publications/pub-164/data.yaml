@@ -1,19 +1,15 @@
 slug: pub-164
-authors:
-  - peter-a-hook
-editors: []
 type: article-journal
 title: >-
   The Aggregate Harmony Metric and a Statistical and Visual Contextualization of
   the Rehnquist Court: 50 Years of Data
 date: '2007-01-01'
-publisher: ''
+authors:
+  - peter-a-hook
 venue: Constitutional Commentary
 volume: '24'
 issue: '1'
-doi: ''
 pages: 221-264
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-hook-aggharm.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-hook-aggharm.pdf

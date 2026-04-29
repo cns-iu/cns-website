@@ -1,4 +1,9 @@
 slug: pub-225
+type: book
+title: >-
+  Data on Federal Research and Development Investments: A Pathway to
+  Modernization
+date: '2009-09-30'
 authors:
   - christopher-hill
   - william-b-bonvillian
@@ -12,21 +17,10 @@ authors:
   - martha-m-taylor
   - thomas-j-plewes
   - michael-j-siri
-editors: []
-type: book
-title: >-
-  Data on Federal Research and Development Investments: A Pathway to
-  Modernization
-date: '2009-09-30'
 publisher: The National Academies Press, Washington DC
 venue: >-
   Panel on Modernizing the Infrastructure of the National Science Foundation
   Federal Funds Survey
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - http://www.nap.edu/catalog.php?record_id=12772
-tags: []
+media:
+  - type: website
+    url: http://www.nap.edu/catalog.php?record_id=12772

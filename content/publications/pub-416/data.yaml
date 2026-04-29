@@ -1,7 +1,10 @@
 slug: pub-416
 type: article-journal
-title: NIH SenNet Consortium to map senescent cells throughout the human
-  lifespan to understand physiological health
+title: >-
+  NIH SenNet Consortium to map senescent cells throughout the human lifespan to
+  understand physiological health
+date: 2022-12-20T00:00:00.000Z
+doi: 10.1038/s43587-022-00326-5
 authors:
   - patty-j-lee
   - christopher-c-benz
@@ -50,18 +53,12 @@ authors:
   - jinhua-wang
   - a-ian-wong
   - laura-j-niedernhofer
-editors: []
-doi: 10.1038/s43587-022-00326-5
-date: 2022-12-20
-publisher: ""
 venue: Nature Aging
-volume: "2"
-issue: ""
+volume: '2'
 pages: 1090-1100 (2022).
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2022-SenNet_NIH-SenNet-Consortium-to-map-senescent-cells.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2022-SenNet_NIH-SenNet-Consortium-to-map-senescent-cells.pdf

@@ -1,7 +1,10 @@
 slug: pub-410
 type: article-journal
-title: Segmentation of human functional tissue units in support of a Human
-  Reference Atlas
+title: >-
+  Segmentation of human functional tissue units in support of a Human Reference
+  Atlas
+date: 2023-07-19T00:00:00.000Z
+doi: 10.1038/s42003-023-04848-5
 authors:
   - yashvardhan-jain
   - leah-l-godwin
@@ -18,18 +21,12 @@ authors:
   - nathan-heath-patterson
   - jeffrey-m-spraggins
   - katy-borner
-editors: []
-doi: 10.1038/s42003-023-04848-5
-date: 2023-07-19
-publisher: ""
 venue: Nature Communications Biology
-volume: "6"
-issue: ""
+volume: '6'
 pages: 717 (2023).
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2023-Jain_Segmentation-of-human-FTUs.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2023-Jain_Segmentation-of-human-FTUs.pdf

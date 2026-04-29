@@ -1,19 +1,15 @@
 slug: pub-76
+type: article-journal
+title: Analyzing and Visualizing the Semantic Coverage of Wikipedia and Its Authors
+date: '2007-01-01'
 authors:
   - todd-holloway
   - miran-boicevic
   - katy-borner
-editors: []
-type: article-journal
-title: Analyzing and Visualizing the Semantic Coverage of Wikipedia and Its Authors
-date: '2007-01-01'
-publisher: ''
 venue: Complexity, Special Issue on Understanding Complex Systems
 volume: '12'
 issue: '3'
-doi: ''
 pages: 30-40
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-holloway-vizwiki.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-holloway-vizwiki.pdf

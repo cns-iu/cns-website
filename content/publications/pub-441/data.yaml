@@ -1,7 +1,9 @@
 slug: pub-441
 type: paper-conference
-title: Ontology-based modeling, integration, and analysis of heterogeneous
-  clinical, pathological, and molecular kidney data for precision medicine
+title: >-
+  Ontology-based modeling, integration, and analysis of heterogeneous clinical,
+  pathological, and molecular kidney data for precision medicine
+date: 2024-08-04T00:00:00.000Z
 authors:
   - yongqun-he
   - laura-barisoni
@@ -28,18 +30,10 @@ authors:
   - jonathan-himmelfarb
   - matthias-kretzler
   - kidney-precision-medicine-project
-editors: []
-doi: ""
-date: 2024-08-04
-publisher: ""
 venue: AMIA Annual Symposium Proceedings
-volume: ""
-issue: ""
 pages: 523–532
-chapter: ""
-links:
-  - https://pmc.ncbi.nlm.nih.gov/articles/PMC12099421/
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12099421/

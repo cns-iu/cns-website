@@ -1,8 +1,10 @@
 slug: pub-466
 type: manuscript
-thumbnail: fig1-2025.04.10.648034.png
-title: Benchmarking single cell transcriptome matching methods for incremental
-  growth of reference atlases
+title: >-
+  Benchmarking single cell transcriptome matching methods for incremental growth
+  of reference atlases
+date: 2025-04-16T00:00:00.000Z
+doi: 10.1101/2025.04.10.648034
 authors:
   - joyce-hu
   - beverly-peng
@@ -16,19 +18,11 @@ authors:
   - yun-zhang
 editors:
   - andreas-bueckle
-doi: 10.1101/2025.04.10.648034
+thumbnail: fig1-2025.04.10.648034.png
 pmid: PMC12190912
-date: 2025-04-16
-publisher: ""
 venue: bioRxiv
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1
-mediaUrl: fig1-2025.04.10.648034.png
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.biorxiv.org/content/10.1101/2025.04.10.648034v1

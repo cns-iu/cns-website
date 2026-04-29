@@ -1,21 +1,16 @@
 slug: pub-160
+type: paper-conference
+title: Visualizing Japanese Co-Authorship Data
+date: '2007-01-01'
 authors:
   - gavin-larowe
   - ryutaro-ichise
   - katy-borner
-editors: []
-type: paper-conference
-title: Visualizing Japanese Co-Authorship Data
-date: '2007-01-01'
 publisher: IEEE Computer Society Conference Publishing Services
 venue: >-
   Proceedings of the 11th Annual Information Visualization International
   Conference, Zurich, Switzerland
-volume: ''
-issue: ''
-doi: ''
 pages: 459-464
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-larowe-vizjapan.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-larowe-vizjapan.pdf

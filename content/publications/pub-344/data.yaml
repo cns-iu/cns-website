@@ -1,4 +1,10 @@
 slug: pub-344
+type: article-journal
+title: >-
+  Multi-Level Computational Methods for Interdisciplinary Research In the
+  HathiTrust Digital Library
+date: '2017-09-18'
+doi: 10.1371/journal.pone.0184188
 authors:
   - jaimie-murdock
   - colin-allen
@@ -12,19 +18,10 @@ authors:
   - david-bourget
   - john-lawrence
   - chris-reed
-editors: []
-type: article-journal
-title: >-
-  Multi-Level Computational Methods for Interdisciplinary Research In the
-  HathiTrust Digital Library
-date: '2017-09-18'
-publisher: ''
 venue: PLoS ONE
 volume: '12'
 issue: '9'
-doi: 10.1371/journal.pone.0184188
 pages: e0184188.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-murdock-multi-level-methods.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-murdock-multi-level-methods.pdf

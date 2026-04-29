@@ -1,21 +1,14 @@
 slug: pub-301
+type: paper-conference
+title: Data Visualization Literacy of Youth and Adult Science Museum Visitors
+date: '2015-04-16'
 authors:
   - katy-borner
   - russell-balliet
   - adam-v-maltese
   - stephen-miles-uzzo
   - joe-e-heimlich
-editors: []
-type: paper-conference
-title: Data Visualization Literacy of Youth and Adult Science Museum Visitors
-date: '2015-04-16'
-publisher: ''
 venue: AERA 2015 Annual Meeting, Chicago, IL
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2015-borner-AERA-poster.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2015-borner-AERA-poster.pdf

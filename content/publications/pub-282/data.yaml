@@ -1,19 +1,12 @@
 slug: pub-282
+type: paper-conference
+title: An Automated System for Tracking the Growth of Expert Profiling Systems
+date: '2013-08-21'
 authors:
   - robert-light
   - chin-hua-kong
   - katy-borner
-editors: []
-type: paper-conference
-title: An Automated System for Tracking the Growth of Expert Profiling Systems
-date: '2013-08-21'
-publisher: ''
 venue: Joint Conference on Digital Libraries (JCDL), Indianapolis, IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2013-light-nrn-jcdl.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2013-light-nrn-jcdl.pdf

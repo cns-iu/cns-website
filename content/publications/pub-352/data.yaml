@@ -1,19 +1,12 @@
 slug: pub-352
+type: article-journal
+title: Lifting the Veil
+date: '2017-10-29'
 authors:
   - katy-borner
   - philip-beesley
   - matthew-spremulli
-editors: []
-type: article-journal
-title: Lifting the Veil
-date: '2017-10-29'
-publisher: ''
 venue: Future Technologies Conference (FTC) | Vancouver, Canada
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-Lifting-the-Veil.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-Lifting-the-Veil.pdf

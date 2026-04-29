@@ -1,18 +1,13 @@
 slug: pub-212
-authors: []
-editors:
-  - katy-borner
-  - jinah-park
 type: paper-conference
 title: Visualization and Data Analysis 2009
 date: '2009-01-20'
+editors:
+  - katy-borner
+  - jinah-park
 publisher: 'Bellingham, WA:  SPIE'
 venue: Proceedings of SPIE
 volume: '7243'
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2009-borner-park-vda.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2009-borner-park-vda.pdf

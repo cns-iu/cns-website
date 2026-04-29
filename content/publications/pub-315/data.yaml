@@ -1,4 +1,7 @@
 slug: pub-315
+type: article-journal
+title: How Collaborating in International Science Helps America
+date: '2016-06-10'
 authors:
   - elizabeth-lyons
   - e-william-colglazier
@@ -7,19 +10,12 @@ authors:
   - david-dooley
   - c-dan-mote
   - mihail-c-roco
-editors: []
-type: article-journal
-title: How Collaborating in International Science Helps America
-date: '2016-06-10'
 publisher: >-
   Center for Science Diplomacy of the American Association for the Advancement
   of Science
 venue: Science & Diplomacy
 volume: '5'
 issue: '2'
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2016-borner-aaas.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2016-borner-aaas.pdf

@@ -1,4 +1,9 @@
 slug: pub-246
+type: article-journal
+title: >-
+  Approaches to Understanding and Measuring Interdisciplinary Scientific
+  Research (IDR): A Review of the Literature
+date: '2011-01-01'
 authors:
   - caroline-wagner
   - j-david-roessner
@@ -8,19 +13,11 @@ authors:
   - joann-keyton
   - ismael-rafols
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  Approaches to Understanding and Measuring Interdisciplinary Scientific
-  Research (IDR): A Review of the Literature
-date: '2011-01-01'
 publisher: Elsevier
 venue: Journal of Informetrics
 volume: '5'
 issue: '1'
-doi: ''
 pages: 14-26
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-wagner-interdisciplinarity.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2011-wagner-interdisciplinarity.pdf

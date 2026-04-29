@@ -1,20 +1,15 @@
 slug: pub-165
-authors:
-  - ketan-k-mane
-  - katy-borner
-editors: []
 type: paper-conference
 title: 'Computational Diagnostics: A Novel Approach to Viewing Medical Data'
 date: '2007-01-01'
+authors:
+  - ketan-k-mane
+  - katy-borner
 publisher: IEEE Computer Society Conference Publishing Services
 venue: >-
   Proceedings of the Fifth International Conference on Coordinated and Multiple
   Views in Exploratory Visualization, Zurich, Switzerland
-volume: ''
-issue: ''
-doi: ''
 pages: 27-34
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-mane-compdiag.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-mane-compdiag.pdf

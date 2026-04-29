@@ -1,4 +1,7 @@
 slug: pub-238
+type: article-journal
+title: Advancing the Science of Team Science
+date: '2010-10-01'
 authors:
   - holly-j-falk-krzesinski
   - katy-borner
@@ -11,17 +14,10 @@ authors:
   - daniel-stokols
   - william-trochim
   - brian-uzzi
-editors: []
-type: article-journal
-title: Advancing the Science of Team Science
-date: '2010-10-01'
-publisher: ''
 venue: Clinical and Translational Science
 volume: '3'
 issue: '5'
-doi: ''
 pages: 263-266
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-falk-krezinski-teamsci.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-falk-krezinski-teamsci.pdf

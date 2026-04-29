@@ -1,17 +1,14 @@
 slug: pub-222
-authors:
-  - katy-borner
-editors: []
 type: article-journal
 title: Plug-and-Play Macroscopes
 date: '2011-03-01'
+authors:
+  - katy-borner
 publisher: ACM Press
 venue: Communications of the ACM
 volume: '54'
 issue: '3'
-doi: ''
 pages: 60-69
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-borner-macroscopes-acm.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2011-borner-macroscopes-acm.pdf

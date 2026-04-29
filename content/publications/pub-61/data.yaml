@@ -1,4 +1,7 @@
 slug: pub-61
+type: paper-conference
+title: 'iScape: A Collaborative Memory Palace for Digital Library Search Results'
+date: '2001-01-01'
 authors:
   - katy-borner
 editors:
@@ -6,18 +9,12 @@ editors:
   - g-salvendy
   - d-harris
   - r-j-koubek
-type: paper-conference
-title: 'iScape: A Collaborative Memory Palace for Digital Library Search Results'
-date: '2001-01-01'
 publisher: Lawrence Erlbaum Associates, London
 venue: >-
   Proceedings of the International Conference on Human-Computer Interaction, New
   Orleans, LA
 volume: '1'
-issue: ''
-doi: ''
 pages: 1160-1164
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2001-borner-iscape2.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2001-borner-iscape2.pdf
