@@ -1,13 +1,12 @@
 slug: fun-80
 type: research
-name: NIH 1R01LM012832-01A1
 title: 'MyAura: Personalized Web Service for Epilepsy Management'
+name: NIH 1R01LM012832-01A1
 funder: National Institutes of Health
+amount: 336733
+dateStart: '2018-09-10'
+dateEnd: '2022-05-31'
 investigators:
   - luis-rocha
   - katy-borner
-amount: 336733
 receivedAmount: 336733
-dateStart: '2018-09-10'
-dateEnd: '2022-05-31'
-tags: []

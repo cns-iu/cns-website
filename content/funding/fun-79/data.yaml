@@ -1,16 +1,15 @@
 slug: fun-79
 type: research
-name: NSF DGE-1735095
 title: 'NRT: Interdisciplinary Training in Complex Networks and Systems'
+name: NSF DGE-1735095
 funder: National Science Foundation
+amount: 2999845
+dateStart: '2017-09-01'
+dateEnd: '2022-08-31'
 investigators:
   - luis-rocha
   - armando-razo
   - bernice-pescosolido
   - katy-borner
   - olaf-sporns
-amount: 2999845
 receivedAmount: 2999845
-dateStart: '2017-09-01'
-dateEnd: '2022-08-31'
-tags: []

@@ -1,18 +1,17 @@
 slug: fun-18
 type: research
-name: NSF DUE-0333623 Award
 title: >-
   Project ENABLE: Learning Through Associations in a Grid Based Bioinformatics
   Digital Library
+name: NSF DUE-0333623 Award
 funder: National Science Foundation
+amount: 449562
+dateStart: '2003-09-01'
+dateEnd: '2005-08-31'
 investigators:
   - javed-mostafa
   - katy-borner
   - donald-g-gilbert
   - snehasis-mukhopadhyay
   - mathew-j-palakal
-amount: 449562
 receivedAmount: 275156
-dateStart: '2003-09-01'
-dateEnd: '2005-08-31'
-tags: []

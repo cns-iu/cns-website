@@ -1,17 +1,16 @@
 slug: fun-3
 type: research
-name: Collaborative Systems NSF IIS-0534909 Grant
 title: >-
   Collaborative Research: Social Networking Tools to Enable Collaboration in the
   Tobacco Surveillance, Epidemiology, and Evaluation Network (TSEEN)
+name: Collaborative Systems NSF IIS-0534909 Grant
 funder: National Science Foundation
+amount: 197591
+dateStart: '2006-03-15'
+dateEnd: '2009-02-28'
 investigators:
   - katy-borner
   - noshir-s-contractor
   - thomas-finholt
   - gary-giovino
-amount: 197591
 receivedAmount: 197591
-dateStart: '2006-03-15'
-dateEnd: '2009-02-28'
-tags: []

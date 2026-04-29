@@ -1,18 +1,17 @@
 slug: fun-76
 type: research
-name: NSF DRL-1713567 Award
 title: >-
   Data Visualization Literacy: Research and Tools that Advance Public
   Understanding of Scientific Data
+name: NSF DRL-1713567 Award
 funder: National Science Foundation
+amount: 1355236
+dateStart: '2017-08-01'
+dateEnd: '2021-07-31'
 investigators:
   - katy-borner
   - kylie-peppler
   - brian-kennedy
   - stephen-miles-uzzo
   - joe-e-heimlich
-amount: 1355236
 receivedAmount: 1355236
-dateStart: '2017-08-01'
-dateEnd: '2021-07-31'
-tags: []

@@ -1,15 +1,13 @@
 slug: fun-40
 type: research
-name: 'NSF CBET-0831636 '
 title: >-
   SGER/Collaborative Research: Mapping the Structure and Evolution of
   Sustainability Science Research 
+name: 'NSF CBET-0831636 '
 funder: National Science Foundation
+amount: 104197
+dateStart: '2009-01-01'
+dateEnd: '2010-12-31'
 investigators:
   - katy-borner
   - luis-m-a-bettencourt
-amount: 104197
-receivedAmount: null
-dateStart: '2009-01-01'
-dateEnd: '2010-12-31'
-tags: []

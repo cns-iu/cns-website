@@ -1,14 +1,13 @@
 slug: fun-68
 type: research
-name: Econ P01 National Bureau of Economic Research
 title: Innovation in an Aging Society
+name: Econ P01 National Bureau of Economic Research
 funder: National Institutes of Health
+amount: 650000
+dateStart: '2013-09-01'
+dateEnd: '2018-08-31'
 investigators:
   - bruce-weinberg
   - gerald-marschke
   - katy-borner
-amount: 650000
 receivedAmount: 369438
-dateStart: '2013-09-01'
-dateEnd: '2018-08-31'
-tags: []

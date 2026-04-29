@@ -1,15 +1,14 @@
 slug: fun-64
 type: research
-name: ' Indiana Economic Development Corporation IEDC FAST-10-R-0004 award. IEDC''s Indiana 21st Century Research and Technology Fund'
 title: >-
   Increasing SBIR Commercial Success: Actively Embedding SBIR/STTR
   Commercialization Processes into Indiana's Innovation Network
+name: ' Indiana Economic Development Corporation IEDC FAST-10-R-0004 award. IEDC''s Indiana 21st Century Research and Technology Fund'
 funder: ' Indiana Economic Development Corporation'
+amount: 71776
+dateStart: '2012-01-01'
+dateEnd: '2013-12-31'
 investigators:
   - aditya-p-mathur
   - katy-borner
-amount: 71776
 receivedAmount: 241776
-dateStart: '2012-01-01'
-dateEnd: '2013-12-31'
-tags: []

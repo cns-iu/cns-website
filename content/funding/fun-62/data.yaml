@@ -1,14 +1,12 @@
 slug: fun-62
 type: research
-name: BBSRC Evidence Team Phase 1
 title: >-
   Introducing the Science of Science (Sci2) Tool to the BBSRC Policy Evidence
   Team
+name: BBSRC Evidence Team Phase 1
 funder: BBSRC
-investigators:
-  - katy-borner
 amount: null
-receivedAmount: null
 dateStart: '2013-01-01'
 dateEnd: '2013-05-31'
-tags: []
+investigators:
+  - katy-borner

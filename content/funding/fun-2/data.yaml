@@ -1,12 +1,11 @@
 slug: fun-2
 type: research
-name: NSF-CHEM Supplement
 title: Mapping Science Exhibit at the New York Public Library
+name: NSF-CHEM Supplement
 funder: National Science Foundation
-investigators:
-  - katy-borner
 amount: 15000
-receivedAmount: 15000
 dateStart: '2006-01-01'
 dateEnd: '2006-12-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 15000

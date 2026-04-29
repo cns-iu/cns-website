@@ -1,19 +1,17 @@
 slug: av5ngl80iqd71kwa6ag1x
 type: research
-title: 3D Multiscale Biomolecular Human Reference Atlas Construction,
-  Visualization and Usage
+title: >-
+  3D Multiscale Biomolecular Human Reference Atlas Construction, Visualization
+  and Usage
 name: NIH 1OT2OD033756-01
 funder: National Institutes of Health
 amount: 1827384
-dateStart: 2022-08-01
-dateEnd: 2026-07-31
+dateStart: 2022-08-01T00:00:00.000Z
+dateEnd: 2026-07-31T00:00:00.000Z
 thumbnail: atlas-humans.png
 link: https://reporter.nih.gov/project-details/10534308
 featured: true
 projects:
   - human-reference-atlas
-tags:
-  - hra
 investigators:
   - katy-borner
-mediaUrl: atlas-humans.png

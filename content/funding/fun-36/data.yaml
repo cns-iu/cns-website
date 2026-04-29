@@ -1,8 +1,11 @@
 slug: fun-36
 type: research
-name: NSF SBE-0738111 Award
 title: 'TLS: Towards a Macroscope for Science Policy Decision Making'
+name: NSF SBE-0738111 Award
 funder: National Science Foundation
+amount: 399870
+dateStart: '2008-01-01'
+dateEnd: '2009-12-31'
 investigators:
   - katy-borner
   - weixia-bonnie-huang
@@ -12,8 +15,4 @@ investigators:
   - micah-linnemeier
   - qizheng-stanley-bao
   - shreyas-ahir
-amount: 399870
 receivedAmount: 299870
-dateStart: '2008-01-01'
-dateEnd: '2009-12-31'
-tags: []
