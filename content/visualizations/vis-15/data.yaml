@@ -1,7 +1,7 @@
 slug: vis-15
-type: visualization
-link: https://cns.iu.edu/docs/research/visualizations/NIH_BaseMap_FullRes.jpg
 title: A Semantic Landscape of 2,300 Medical Subject Headings
+date: '2013-03-01'
+link: https://cns.iu.edu/docs/research/visualizations/NIH_BaseMap_FullRes.jpg
 description: >-
   By Joseph Biberstine, Russell J. Duhon, Jennifer R.S. Coffey, Katy Börner,
   Cyberinfrastructure for Network Science Center, Indiana University,
@@ -10,7 +10,6 @@ description: >-
   Sciences: A Self-Organizing Map
   Approach](/docs/publications/2013-skupin-pone.pdf), by André Skupin, Joseph R.
   Biberstine, and Katy Börner.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/NIH_BaseMap.jpg
-date: '2013-03-01'
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/NIH_BaseMap.jpg

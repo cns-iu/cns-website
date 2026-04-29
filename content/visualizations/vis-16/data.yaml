@@ -1,7 +1,7 @@
 slug: vis-16
-type: visualization
-link: https://cns.iu.edu/images/research/visualizations/nete_screenshots_full.jpg
 title: NETE Analyzer/Visualizer
+date: '2014-10-09'
+link: https://cns.iu.edu/images/research/visualizations/nete_screenshots_full.jpg
 description: >-
   Our development team has been collaborating with NET ESOLUTIONS on an
   NIH-funded SBIR Phase II project that will result in a major overhaul of the
@@ -19,7 +19,7 @@ description: >-
   front-end changes to the NETEAV system to produce scale-free and responsive
   visualizations for four visualization types for the full range of data NETEAV
   provides.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/nete_screenshots_400W.jpg
-date: '2014-10-09'
-tags: []
+media:
+  - type: image
+    url: >-
+      https://cns.iu.edu/images/research/visualizations/nete_screenshots_400W.jpg

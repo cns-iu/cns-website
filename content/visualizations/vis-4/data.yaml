@@ -1,7 +1,7 @@
 slug: vis-4
-type: visualization
-link: https://cns.iu.edu//interactive_displays.html
 title: AcademyScope
+date: '2013-06-12'
+link: https://cns.iu.edu//interactive_displays.html
 description: >-
   _AcademyScope_ is the product of a collaboration between CNS and the National
   Academy of Sciences in Washington, DC. It offers viewers a means to explore
@@ -33,7 +33,6 @@ description: >-
   consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic
   design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar
   (programming).
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/AcademyScope_400W.png
-date: '2013-06-12'
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/AcademyScope_400W.png

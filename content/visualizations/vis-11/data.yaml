@@ -1,10 +1,9 @@
 slug: vis-11
-type: visualization
-link: http://scimaps.org/web/maps/neurovis/neurovis.static.pdf
 title: Society for Neuroscience, 2006 Visual Browser
-description: by Bruce W. Herr II, David Newman, Gully APC Burns
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/images/research/visualizations/Society_For_Neuroscience_400W.png
 date: '2012-01-18'
-tags: []
+link: http://scimaps.org/web/maps/neurovis/neurovis.static.pdf
+description: by Bruce W. Herr II, David Newman, Gully APC Burns
+media:
+  - type: image
+    url: >-
+      https://cns.iu.edu/images/research/visualizations/Society_For_Neuroscience_400W.png
