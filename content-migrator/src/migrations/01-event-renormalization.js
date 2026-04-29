@@ -16,6 +16,8 @@ const DEFAULT_FIELD_VALUE_GENERATORS = {
   instructors: undefGen,
   organizers: undefGen,
   attendees: undefGen,
+  presentations: undefGen,
+  event: undefGen,
   featured: undefGen,
   projects: undefGen,
   media: undefGen,
@@ -47,8 +49,8 @@ function renormalizeLocation(content) {
   const result = {};
   copyFields(content, result, LOCATION_FIELDS, DEFAULT_LOCATION_FIELD_VALUE_GENERATORS);
 
-  if (isEmptyObject(result) && content.location) {
-    // Too many different formats to parse. Move to `raw` and let AI fix it later...
+  if (content.location) {
+    // Too many different formats to parse. Move to `raw` and fix it later...
     result.raw = content.location;
   }
 
@@ -80,19 +82,46 @@ function renormalizeMedia(content) {
   return media.length > 0 ? media : undefined;
 }
 
+function deleteEmptyFields(object, fields) {
+  for (const field of fields) {
+    const value = object[field];
+    if (typeof value !== 'object' || value === null) {
+      continue;
+    }
+
+    if ((Array.isArray(value) && value.length === 0) || (!Array.isArray(value) && isEmptyObject(value))) {
+      delete object[field];
+    }
+  }
+}
+
 async function renormalize(path) {
   try {
     const content = await readYaml(path);
     const result = {};
-  
+
+    // Treat the empty string for link as a missing value
+    content.link = content.link || undefined;
+
     copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
-  
+
     result.dateStart = content.dateStart || null;
     result.dateEnd = content.dateEnd || null;
     result.location = renormalizeLocation(content);
     result.projects = renormalizeProjects(content);
     result.media = renormalizeMedia(content);
-  
+
+    deleteEmptyFields(result, [
+      'location',
+      'presenters',
+      'instructors',
+      'organizers',
+      'attendees',
+      'presentations',
+      'projects',
+      'media',
+    ]);
+
     await writeYaml(path, result);
   } catch (error) {
     console.error(`Error processing ${path}:`, error);

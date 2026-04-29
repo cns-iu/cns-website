@@ -71,16 +71,6 @@ x-shared-field-definitions:
       value_type: int
       min: 0
   relations:
-    projects: &projects
-      name: projects
-      label: Associated projects
-      widget: relation
-      collection: project
-      multiple: true
-      search_fields: [name]
-      value_field: slug
-      display_fields: [name]
-      required: false
     people: &people
       name: people
       label: People
@@ -88,6 +78,16 @@ x-shared-field-definitions:
       collection: people
       multiple: true
       search_fields: [name, lastName]
+      value_field: slug
+      display_fields: [name]
+      required: false
+    projects: &projects
+      name: projects
+      label: Associated projects
+      widget: relation
+      collection: project
+      multiple: true
+      search_fields: [name]
       value_field: slug
       display_fields: [name]
       required: false
@@ -433,7 +433,8 @@ collections:
             hint: The country, e.g., 'USA', 'Germany', or 'Canada'
             required: false
           - name: raw
-            widget: hidden
+            label: Old location entry
+            widget: string
             hint: Old location entry in varying formats. DO NOT USE.
             required: false
 
@@ -449,6 +450,14 @@ collections:
       - <<: *people
         name: attendees
         label: Attendees
+      - name: presentations
+        widget: hidden
+        hint: List of event slugs for conference events. DO NOT USE.
+        required: false
+      - name: event
+        widget: hidden
+        hint: Parent event slug for workshop, presentation, tutorial, or other sub-events. DO NOT USE.
+        required: false
 
       - *featured
       - *projects
