@@ -13,7 +13,7 @@ export const nullGen = () => null;
 export const reqFieldGen = (content, field) => {
   console.error(`${content.slug}: Missing required field: ${field}`);
   return null;
-}
+};
 
 export function isEmptyObject(object) {
   return Object.keys(object).length === 0;
@@ -69,4 +69,36 @@ export async function readYaml(path) {
 
 export async function writeYaml(path, data) {
   return await writeFile(path, dumpYaml(data), 'utf8');
+}
+
+export async function tryFixBadMediaUrl(url, type, subdir) {
+  const BASE_URL = 'https://cns.iu.edu/docs/';
+  if (typeof url !== 'string') {
+    return undefined;
+  }
+  
+  let fullUrl = url;
+  if (!fullUrl.startsWith('http')) {
+    fullUrl = `${BASE_URL}${subdir}/${url}`;
+  }
+
+  if (!fullUrl.startsWith(BASE_URL) || !fullUrl.endsWith('.html')) {
+    return { url, type };
+  }
+
+
+  try {
+    const response = await fetch(fullUrl, { method: 'HEAD' });
+    if (response.ok) {
+      return { url: fullUrl, type };
+    }
+
+    fullUrl = fullUrl.replace(/\.html$/, '.pdf');
+    const pdfResponse = await fetch(fullUrl, { method: 'HEAD' });
+    if (pdfResponse.ok) {
+      return { url: fullUrl, type: 'pdf' };
+    }
+  } catch { }
+
+  return { url, type };
 }

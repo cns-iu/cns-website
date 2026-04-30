@@ -3,6 +3,7 @@ import {
   CONTENT,
   copyFields,
   deleteEmptyFields,
+  tryFixBadMediaUrl,
   normalizeOptionalString,
   normalizeStringFields,
   readYaml,
@@ -49,7 +50,7 @@ function fixMediaUrl(url) {
   return url;
 }
 
-function renormalizeMedia(content) {
+async function renormalizeMedia(content) {
   const mediaType = renormalizeMediaType(content.mediaType);
   const mediaUrl = fixMediaUrl(normalizeOptionalString(content.mediaUrl));
   const description = normalizeOptionalString(content.caption);
@@ -63,7 +64,16 @@ function renormalizeMedia(content) {
     });
   }
 
-  return media.length > 0 ? media : undefined;
+  if (media.length === 0) {
+    return undefined;
+  }
+
+  return await Promise.all(
+    media.map(async (entry) => ({
+      ...entry,
+      ...(await tryFixBadMediaUrl(entry.url, entry.type, 'news')),
+    })),
+  );
 }
 
 async function renormalize(path) {
@@ -74,9 +84,10 @@ async function renormalize(path) {
     normalizeStringFields(content, ['link', 'description', 'publisher', 'reporter']);
     copyFields(content, result, FIELDS, DEFAULT_FIELD_VALUE_GENERATORS);
 
+    result.link = (await tryFixBadMediaUrl(result.link, 'other', 'news'))?.url;
     result.featured ??= content.tags?.includes('featured') || undefined;
     result.projects = renormalizeProjects(content);
-    result.media = renormalizeMedia(content);
+    result.media = await renormalizeMedia(content);
 
     deleteEmptyFields(result, ['projects', 'media']);
 
