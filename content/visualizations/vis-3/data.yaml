@@ -1,20 +1,13 @@
 slug: vis-3
-type: visualization
+title: A Semantic Landscape of the Last.fm Music Folksonomy using a
+  Self-Organizing Map
+date: 2012-01-23
 link: https://cns.iu.edu/docs/research/visualizations/10-Last.fm.pdf
-title: >-
-  A Semantic Landscape of the Last.fm Music Folksonomy using a Self-Organizing
-  Map
-description: >-
-  for Sunbelt, 2010, by Joseph Biberstine, Russell J. Duhon, Katy Börner, Elisha
-  Hardy, CNS and André Skupin, San Diego State University
-
-
-  [![](images/research/visualizations/iiid_award_logo_75x75.png)](http://iiidaward.net/?pg=2&ft=#836)
-
-
+description: for Sunbelt, 2010, by Joseph Biberstine, Russell J. Duhon, Katy
+  Börner, Elisha Hardy, CNS and André Skupin, San Diego State University.
   Shortlisted submission in the 2011 International Institute for Information
   Design (IIID) Awards in the Didactics category.
 mediaType: image
 mediaUrl: https://cns.iu.edu/images/research/visualizations/LastFM_400W.png
-date: '2012-01-23'
 tags: []
+type: visualization
