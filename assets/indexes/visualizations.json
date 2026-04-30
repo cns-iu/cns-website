@@ -144,14 +144,14 @@
   },
   {
     "slug": "vis-15",
-    "type": "visualization",
-    "link": "https://cns.iu.edu/docs/research/visualizations/NIH_BaseMap_FullRes.jpg",
     "title": "A Semantic Landscape of 2,300 Medical Subject Headings",
-    "description": "By Joseph Biberstine, Russell J. Duhon, Jennifer R.S. Coffey, Katy Börner, Cyberinfrastructure for Network Science Center, Indiana University, Bloomington, and André Skupin, San Diego State University. Read the accompanying paper, [Visualizing the Topical Structure of the Medical Sciences: A Self-Organizing Map Approach](/docs/publications/2013-skupin-pone.pdf), by André Skupin, Joseph R. Biberstine, and Katy Börner.",
+    "date": "2013-03-01T00:00:00.000Z",
+    "link": "https://cns.iu.edu/docs/research/visualizations/NIH_BaseMap_FullRes.jpg",
+    "description": "By Joseph Biberstine, Russell J. Duhon, Jennifer R.S. Coffey, Katy Börner, Cyberinfrastructure for Network Science Center, Indiana University, Bloomington, and André Skupin, San Diego State University. Read the accompanying paper, [Visualizing the Topical Structure of the Medical Sciences: A Self-Organizing Map Approach](https://doi.org/10.1371/journal.pone.0058779), by André Skupin, Joseph R. Biberstine, and Katy Börner.",
     "mediaType": "image",
     "mediaUrl": "https://cns.iu.edu/images/research/visualizations/NIH_BaseMap.jpg",
-    "date": "2013-03-01",
-    "tags": []
+    "tags": [],
+    "type": "visualization"
   },
   {
     "slug": "vis-14",
