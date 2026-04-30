@@ -2,12 +2,15 @@ slug: ws-79
 type: 24hour
 title: 24 Hour Human Reference Atlas Event
 link: https://humanatlas.io/events/2022-24h/
-thumbnail: hra-human2024.png
 dateStart: 2022-12-10
 dateEnd: 2022-12-11
-location: Remote event
+thumbnail: hra-human2024.png
 projects:
   - human-reference-atlas
 tags:
   - hra
+venue: Virtual event
+location: ""
 description: ""
+mediaType: image
+mediaUrl: hra-human2024.png
