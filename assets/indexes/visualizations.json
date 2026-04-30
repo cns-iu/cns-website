@@ -67,14 +67,14 @@
   },
   {
     "slug": "vis-3",
-    "type": "visualization",
-    "link": "https://cns.iu.edu/docs/research/visualizations/10-Last.fm.pdf",
     "title": "A Semantic Landscape of the Last.fm Music Folksonomy using a Self-Organizing Map",
-    "description": "for Sunbelt, 2010, by Joseph Biberstine, Russell J. Duhon, Katy Börner, Elisha Hardy, CNS and André Skupin, San Diego State University\n\n[![](images/research/visualizations/iiid_award_logo_75x75.png)](http://iiidaward.net/?pg=2&ft=#836)\n\nShortlisted submission in the 2011 International Institute for Information Design (IIID) Awards in the Didactics category.",
+    "date": "2012-01-23T00:00:00.000Z",
+    "link": "https://cns.iu.edu/docs/research/visualizations/10-Last.fm.pdf",
+    "description": "for Sunbelt, 2010, by Joseph Biberstine, Russell J. Duhon, Katy Börner, Elisha Hardy, CNS and André Skupin, San Diego State University. Shortlisted submission in the 2011 International Institute for Information Design (IIID) Awards in the Didactics category.",
     "mediaType": "image",
     "mediaUrl": "https://cns.iu.edu/images/research/visualizations/LastFM_400W.png",
-    "date": "2012-01-23",
-    "tags": []
+    "tags": [],
+    "type": "visualization"
   },
   {
     "slug": "vis-20",
