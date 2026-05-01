@@ -1,5 +1,14 @@
 import { join } from 'path';
-import { formatDate, formatMarkdownLink, formatUrl, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import {
+  formatDate,
+  formatMarkdownLink,
+  formatUrl,
+  index,
+  INDEXES,
+  readIndex,
+  removeNullishProps,
+  writeMinifiedJSON,
+} from './utils.js';
 
 function buildDescription(item) {
   const { slug, title, link, date, reporter, publisher, media } = item;
@@ -30,19 +39,19 @@ export function writeNewsIndex() {
     const { slug, title, link, date, thumbnail, featured, projects, media } = item;
     const image = media?.find((m) => m.type === 'image');
 
-    return {
+    return removeNullishProps({
       slug,
       category: 'news',
       type: 'news',
       title,
-      link: formatUrl(slug, 'news', link) ?? undefined,
+      link: formatUrl(slug, 'news', link),
       dateStart: formatDate(date),
       dateEnd: formatDate(date),
       thumbnail: formatUrl(slug, 'news', thumbnail ?? image?.url),
       description: buildDescription(item),
       featured,
       projects,
-    };
+    });
   });
 
   writeMinifiedJSON(

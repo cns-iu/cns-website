@@ -1,5 +1,14 @@
 import { join } from 'path';
-import { formatDate, formatMarkdownLink, formatUrl, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import {
+  formatDate,
+  formatMarkdownLink,
+  formatUrl,
+  index,
+  INDEXES,
+  readIndex,
+  removeNullishProps,
+  writeMinifiedJSON,
+} from './utils.js';
 
 function buildDescription(item) {
   const { slug, title, link, date, description: itemDescription } = item;
@@ -24,12 +33,12 @@ export function writeVisualizationsIndex() {
 
     const { slug, title, link, date, thumbnail, people, featured, projects } = item;
 
-    return {
+    return removeNullishProps({
       slug,
       category: 'visualization',
       type: 'visualization',
       title,
-      link: formatUrl(slug, 'visualizations', link) ?? undefined,
+      link: formatUrl(slug, 'visualizations', link),
       dateStart: formatDate(date),
       dateEnd: formatDate(date),
       thumbnail: formatUrl(slug, 'visualizations', thumbnail),
@@ -37,7 +46,7 @@ export function writeVisualizationsIndex() {
       people,
       featured,
       projects,
-    };
+    });
   });
 
   writeMinifiedJSON(

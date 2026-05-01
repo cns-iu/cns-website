@@ -10,6 +10,7 @@ import {
   INDEXES,
   readIndex,
   readLookupIndex,
+  removeNullishProps,
   writeMinifiedJSON,
 } from './utils.js';
 
@@ -57,12 +58,12 @@ export function writeFundingIndex() {
     }
 
     const { slug, type, title, link, dateStart, dateEnd, thumbnail, investigators, featured, projects } = item;
-    return {
+    return removeNullishProps({
       slug,
       category: 'funding',
       type: type || 'funding',
       title,
-      link: formatUrl(slug, 'funding', link) ?? undefined,
+      link: formatUrl(slug, 'funding', link),
       dateStart: formatDate(dateStart),
       dateEnd: formatDate(dateEnd ?? dateStart),
       thumbnail: formatUrl(slug, 'funding', thumbnail),
@@ -70,7 +71,7 @@ export function writeFundingIndex() {
       people: investigators,
       featured,
       projects,
-    };
+    });
   });
 
   writeMinifiedJSON(

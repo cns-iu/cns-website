@@ -10,6 +10,7 @@ import {
   INDEXES,
   readIndex,
   readLookupIndex,
+  removeNullishProps,
   writeMinifiedJSON,
 } from './utils.js';
 
@@ -128,12 +129,12 @@ export function writeEventsIndex() {
     const { slug, type, title, link, dateStart, dateEnd, thumbnail, featured, projects } = item;
     const people = PEOPLE_FIELDS.flatMap((field) => item[field] ?? []);
 
-    return {
+    return removeNullishProps({
       slug,
       category: 'event',
       type,
       title,
-      link: formatUrl(slug, 'events', link) ?? undefined,
+      link: formatUrl(slug, 'events', link),
       dateStart: formatDate(dateStart),
       dateEnd: formatDate(dateEnd ?? dateStart),
       thumbnail: formatUrl(slug, 'events', thumbnail),
@@ -141,7 +142,7 @@ export function writeEventsIndex() {
       people: people.length > 0 ? people : undefined,
       featured,
       projects,
-    };
+    });
   });
 
   writeMinifiedJSON(

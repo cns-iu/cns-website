@@ -3,7 +3,16 @@ import YAML from 'js-yaml';
 import { join } from 'path';
 import TurndownService from 'turndown';
 import { formatCitation } from '../utils/csl-formatter.js';
-import { formatDate, formatUrl, index, INDEXES, readIndex, readLookupIndex, writeMinifiedJSON } from './utils.js';
+import {
+  formatDate,
+  formatUrl,
+  index,
+  INDEXES,
+  readIndex,
+  readLookupIndex,
+  removeNullishProps,
+  writeMinifiedJSON,
+} from './utils.js';
 
 const turndownService = new TurndownService();
 const permittedLinkFormats = ['pdf', 'poster', 'slides', 'website'];
@@ -79,7 +88,7 @@ export function writePublicationIndex() {
     const { slug, type, title, date, thumbnail, featured, projects } = item;
     const people = ['authors', 'editors'].flatMap((field) => item[field] ?? []);
 
-    return {
+    return removeNullishProps({
       slug,
       category: 'publication',
       type: type,
@@ -92,7 +101,7 @@ export function writePublicationIndex() {
       people: people.length > 0 ? people : undefined,
       featured,
       projects,
-    };
+    });
   });
 
   writeMinifiedJSON(
