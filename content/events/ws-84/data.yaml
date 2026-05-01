@@ -10,3 +10,6 @@ location:
 projects:
   - macroscopes
   - maps
+media:
+  - type: image
+    url: places-and-spaces.png

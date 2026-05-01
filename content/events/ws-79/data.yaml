@@ -6,6 +6,7 @@ dateStart: 2022-12-10T00:00:00.000Z
 dateEnd: 2022-12-11T00:00:00.000Z
 thumbnail: hra-human2024.png
 location:
+  venue: Virtual event
   raw: Remote event
 projects:
   - human-reference-atlas

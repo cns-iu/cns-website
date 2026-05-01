@@ -1,34 +1,31 @@
 slug: vis-4
 title: AcademyScope
-date: '2013-06-12'
+date: 2013-06-12T00:00:00.000Z
 link: https://cns.iu.edu//interactive_displays.html
 description: >-
-  _AcademyScope_ is the product of a collaboration between CNS and the National
+  *AcademyScope* is the product of a collaboration between CNS and the National
   Academy of Sciences in Washington, DC. It offers viewers a means to explore
   all reports published by the National Academy of Sciences, National Academy of
   Engineering, Institute of Medicine, and National Research Council—from twenty
-  years ago to today.  
-    
-  The "Automatic Mode" of the visualization shows the 100 most frequently
-  downloaded reports of the previous seven days as well as newly released
-  reports. Displayed downloads, including download totals, are current within
-  the minute. The "Interactive Mode" supports browsing and exploration by topic,
-  subtopic, and individual report. Users can select a topic on the right to
-  reveal all of its subtopics, and touch one of the subtopics to display all
+  years ago to today. The "Automatic Mode" of the visualization shows the 100
+  most frequently downloaded reports of the previous seven days as well as newly
+  released reports. Displayed downloads, including download totals, are current
+  within the minute. The "Interactive Mode" supports browsing and exploration by
+  topic, subtopic, and individual report. Users can select a topic on the right
+  to reveal all of its subtopics, and touch one of the subtopics to display all
   reports in that area and their relatedness to each other. (Links between
   reports are automatically generated based on the incidence of shared key terms
   and phrases.) Touching any report brings up detailed information on the right
   side of the display. There's also a QR code that allows users to download a
-  PDF of the report to their smart device.  
-    
-  Beginning October 24, 2014, [a web version of
-  _AcademyScope_](http://www.nap.edu/academy-scope/#top-downloads) is available
-  to the public on the National Academies Press website. Visitors can access it
-  from the "Browse by Topic" menu on the [NAP homepage](http://www.nap.edu), or
-  via the "Browse Topics" button in the header on every interior page. The
-  application can also be accessed directly at
-  [www.nap.edu/academy-scope](http://www.nap.edu/academy-scope).  
-    
+  PDF of the report to their smart device. Beginning October 24, 2014, [a web
+  version of *AcademyScope*](http://www.nap.edu/academy-scope/#top-downloads) is
+  available to the public on the National Academies Press website. Visitors can
+  access it from the "Browse by Topic" menu on the [NAP
+  homepage](http://www.nap.edu), or via the "Browse Topics" button in the header
+  on every interior page. The application can also be accessed directly at
+  [www.nap.edu/academy-scope](http://www.nap.edu/academy-scope).
+
+
   Acknowledgements: Katy Börner (initial concept, design & interactivity
   consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic
   design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar

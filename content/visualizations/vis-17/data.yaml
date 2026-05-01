@@ -2,8 +2,8 @@ slug: vis-17
 title: >-
   Who Really Matters in the World—Leadership Networks in Different-Language
   Wikipedias
-date: '2015-02-03'
-link: http://scimaps.org/mapdetail/who_really_matters_i_157
+date: 2015-02-03T00:00:00.000Z
+link: https://scimaps.org/map/9/8/detail
 description: >-
   Articles about people in Wikipedia include many social cues about a particular
   person. In the English Wikipedia there is a category called “Living People”
@@ -21,12 +21,11 @@ description: >-
   people articles having more than a predefined number of incoming links are
   included, in addition to peripheral articles that have a direct link to them.
   To animate the evolution of the English Wikipedia network, living people
-  articles were collected and analysed for different points in time. To explore
-  the networks interactively, visit
-  [http://www.ickn.org/wikimaps](http://www.ickn.org/wikimaps).  
-    
-  CNS's contribution: Research Assistant Ted Polley generated the networks from
+  articles were collected and analysed for different points in time. CNS's
+  contribution: Research Assistant Ted Polley generated the networks from
   Gloor's data, and Senior UX Designer Samuel Mills designed the map.
+projects:
+  - maps
 media:
   - type: image
     url: https://cns.iu.edu/images/research/visualizations/gloor_wikipedia_400W.jpg
