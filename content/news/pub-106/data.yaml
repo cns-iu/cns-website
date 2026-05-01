@@ -1,7 +1,7 @@
 slug: pub-106
 title: 'Put your money where your citations are: a proposal for a new funding system'
 date: '2013-08-27'
-link: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.html
+link: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.pdf
 description: >-
   Funding agencies allocate funds for scientific research mainly based on
   peer-review of research proposals. In 2010, more than 15,000 researchers
@@ -68,8 +68,8 @@ description: >-
 publisher: Scientific American (website accessed 9/05/13)
 reporter: Hadas Shema
 media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.html
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.pdf
     description: >-
       The following is an article that blogger Hadas Shema wrote in the
       Scientific American Blogs about an article by Johan Bollen, David

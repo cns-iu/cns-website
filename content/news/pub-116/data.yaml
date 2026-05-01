@@ -1,7 +1,7 @@
 slug: pub-116
 title: IU's Börner has full agenda during AAAS, where five from IU will be honored
 date: '2014-02-11'
-link: https://cns.iu.edu/docs/news/20130211_IUNewsroom.html
+link: https://cns.iu.edu/docs/news/20130211_IUNewsroom.pdf
 description: >-
   BLOOMINGTON, Ind. -- The annual meeting of the American Association for the
   Advancement of Science gets underway Thursday in Chicago, but for Indiana
@@ -83,8 +83,8 @@ description: >-
   International Ballroom of the Fairmont Chicago.
 publisher: IU Newsroom
 media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20130211_IUNewsroom.html
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20130211_IUNewsroom.pdf
     description: >-
       The following is an article from the IU Newsroom _Science_. Read the
       original story on the web

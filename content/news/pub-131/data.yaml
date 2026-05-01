@@ -1,7 +1,7 @@
 slug: pub-131
 title: Indiana University investing $7 million for new complexity institute
 date: '2014-10-23'
-link: https://cns.iu.edu/docs/news/20141023_IUPUINewsroom.html
+link: https://cns.iu.edu/docs/news/20141023_IUPUINewsroom.pdf
 description: >-
   BLOOMINGTON, Ind. -- Indiana University has announced the establishment of the
   [Indiana University Network Science Institute](http://iuni.iu.edu/), or IUNI.
@@ -106,8 +106,8 @@ description: >-
   broad perspective.”
 publisher: IUPUI Newsroom
 media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20141023_IUPUINewsroom.html
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20141023_IUPUINewsroom.pdf
     description: >-
       The following is an article from the IUPUI Newsroom. Read the original
       article

@@ -71,12 +71,14 @@ export async function writeYaml(path, data) {
   return await writeFile(path, dumpYaml(data), 'utf8');
 }
 
+const FIX_CACHE = new Map();
+
 export async function tryFixBadMediaUrl(url, type, subdir) {
   const BASE_URL = 'https://cns.iu.edu/docs/';
   if (typeof url !== 'string') {
     return undefined;
   }
-  
+
   let fullUrl = url;
   if (!fullUrl.startsWith('http')) {
     fullUrl = `${BASE_URL}${subdir}/${url}`;
@@ -86,19 +88,27 @@ export async function tryFixBadMediaUrl(url, type, subdir) {
     return { url, type };
   }
 
+  if (FIX_CACHE.has(fullUrl)) {
+    return { type, ...FIX_CACHE.get(fullUrl) };
+  }
 
   try {
     const response = await fetch(fullUrl, { method: 'HEAD' });
     if (response.ok) {
+      FIX_CACHE.set(fullUrl, { url: fullUrl });
       return { url: fullUrl, type };
     }
 
     fullUrl = fullUrl.replace(/\.html$/, '.pdf');
     const pdfResponse = await fetch(fullUrl, { method: 'HEAD' });
     if (pdfResponse.ok) {
+      FIX_CACHE.set(fullUrl, { url: fullUrl, type: 'pdf' });
       return { url: fullUrl, type: 'pdf' };
     }
-  } catch { }
+  } catch (error) {
+    console.error('Failure when trying to fix media URL:', url, error);
+  }
 
+  FIX_CACHE.set(url, { url });
   return { url, type };
 }

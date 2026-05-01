@@ -1,7 +1,7 @@
 slug: pub-65
 title: Power Struggle
 date: '2007-05-19'
-link: https://cns.iu.edu/docs/news/20070519_NewScientist.html
+link: https://cns.iu.edu/docs/news/20070519_NewScientist.pdf
 description: >-
   How do you keep track of the bubbling mass of information that is Wikipedia?
   This chaotic-looking mosaic is one attempt to show which topics are contained
@@ -35,7 +35,7 @@ description: >-
 publisher: New Scientist
 media:
   - type: pdf
-    url: https://cns.iu.edu/docs/news/20070519_NewScientist.html
+    url: https://cns.iu.edu/docs/news/20070519_NewScientist.pdf
     description: >-
       The following is an article from New Scientist. Read the original article
       on the web

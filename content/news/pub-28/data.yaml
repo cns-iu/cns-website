@@ -1,7 +1,7 @@
 slug: pub-28
 title: Collaboration matchmaking in VIVO
 date: '2010-05-12'
-link: https://cns.iu.edu/docs/news/20100512_IntlSciGrid.html
+link: https://cns.iu.edu/docs/news/20100512_IntlSciGrid.pdf
 description: >-
   An example of the sort of social network diagram that could be generated using
   VIVO data. This one maps co-authored papers. The line color denotes the first
@@ -204,7 +204,7 @@ publisher: International Science Grid This Week
 reporter: Mariam Boon
 media:
   - type: pdf
-    url: https://cns.iu.edu/docs/news/20100512_IntlSciGrid.html
+    url: https://cns.iu.edu/docs/news/20100512_IntlSciGrid.pdf
     description: >-
       The following is an article from International Science Grid This Week.
       Read the original article on the web
