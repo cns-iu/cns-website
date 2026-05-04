@@ -1,19 +1,16 @@
 slug: pub-29
+type: chapter
+title: Visual Interfaces for Semantic Information Retrieval and Browsing
+date: '2002-01-01'
 authors:
   - katy-borner
 editors:
   - vladimir-geroimenko
   - chaomei-chen
-type: chapter
-title: Visual Interfaces for Semantic Information Retrieval and Browsing
-date: '2002-01-01'
 publisher: 'London:  Springer-Verlag'
 venue: 'Visualizing the Semantic Web: XML-based Internet and Information Visualization'
-volume: ''
-issue: ''
-doi: ''
 pages: 99-115
 chapter: '7'
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-visir.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-visir.pdf

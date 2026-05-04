@@ -1,14 +1,8 @@
 slug: ev-38
 type: conference
 title: Symposium on Knowledge Discovery and Knowledge Management Tools
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://grants.nih.gov/grants/KM/OERRM/OER_KM_events/
 dateStart: '2006-02-06'
 dateEnd: '2006-02-06'
-tags: []
-link: http://grants.nih.gov/grants/KM/OERRM/OER_KM_events/
+location:
+  raw: Washington, DC

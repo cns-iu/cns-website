@@ -1,7 +1,10 @@
 slug: pub-426
 type: article-journal
-title: "Organ Mapping Antibody Panels: a community resource for standardized
-  multiplexed tissue imaging"
+title: >-
+  Organ Mapping Antibody Panels: a community resource for standardized
+  multiplexed tissue imaging
+date: 2023-07-19T00:00:00.000Z
+doi: 10.1038/s41592-023-01846-7
 authors:
   - ellen-m-quardokus
   - diane-c-saunders
@@ -41,18 +44,9 @@ authors:
   - neil-l-kelleher
   - katy-borner
   - andrea-j-radtke
-editors: []
-doi: 10.1038/s41592-023-01846-7
-date: 2023-07-19
-publisher: ""
 venue: Nature Methods
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2023-Quardokus_OMAPs.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2023-Quardokus_OMAPs.pdf

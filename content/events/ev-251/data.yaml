@@ -1,14 +1,8 @@
 slug: ev-251
 type: conference
 title: ACM SoftVis
-description: null
-location: Ammersee, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.st.uni-trier.de/~diehl/softvis/org/softvis08/
 dateStart: '2008-09-16'
 dateEnd: '2008-09-17'
-tags: []
-link: http://www.st.uni-trier.de/~diehl/softvis/org/softvis08/
+location:
+  raw: Ammersee, Germany

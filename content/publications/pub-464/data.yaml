@@ -1,8 +1,8 @@
 slug: pub-464
 type: article-journal
-thumbnail: fig1journal.pbio.3003070.png
-title: "The IBEX Knowledge-Base: A central resource for multiplexed imaging
-  techniques"
+title: 'The IBEX Knowledge-Base: A central resource for multiplexed imaging techniques'
+date: 2025-03-19T00:00:00.000Z
+doi: 10.1371/journal.pbio.3003070
 authors:
   - andrea-j-radtke
   - ifeanyichukwu-u-anidi
@@ -65,18 +65,10 @@ authors:
   - nathan-zangger
   - ronald-n-germain
   - ziv-yaniv
-editors: []
-doi: 10.1371/journal.pbio.3003070
+thumbnail: fig1journal.pbio.3003070.png
 pmid: PMC12135934
-date: 2025-03-19
-publisher: ""
 venue: PLOS Biology
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003070&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author
-mediaUrl: fig1journal.pbio.3003070.png
-projects: []
-tags: []
+media:
+  - type: website
+    url: >-
+      https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003070&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author

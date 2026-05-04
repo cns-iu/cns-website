@@ -1,15 +1,10 @@
 slug: ev-44
 type: other
 title: Central Indiana Celebration of Women in Computing
-description: null
-location: Spencer, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-110
-tutorials: []
+link: http://www.cs.indiana.edu/cicwic/
 dateStart: '2004-02-20'
 dateEnd: '2004-02-21'
-tags: []
-link: http://www.cs.indiana.edu/cicwic/
+location:
+  raw: Spencer, Indiana
+presentations:
+  - pres-110

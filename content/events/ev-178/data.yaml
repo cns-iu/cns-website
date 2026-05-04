@@ -1,14 +1,8 @@
 slug: ev-178
 type: conference
 title: IEEE Pacific Visualization Symposium
-description: null
-location: Department of Social Informatics, Kyoto University, Kyoto, Japan, 606
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://vis.cs.ucdavis.edu/PacificVis08/
 dateStart: '2008-03-05'
 dateEnd: '2008-03-07'
-tags: []
-link: http://vis.cs.ucdavis.edu/PacificVis08/
+location:
+  raw: Department of Social Informatics, Kyoto University, Kyoto, Japan, 606

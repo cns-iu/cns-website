@@ -1,13 +1,8 @@
 slug: ev-622
 type: workshop
 title: Living Architecture Systems Launch
-description: ''
-location: Toronto
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2016-11-15'
 dateEnd: null
-tags: []
+location:
+  raw: Toronto

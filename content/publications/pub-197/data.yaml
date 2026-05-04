@@ -1,25 +1,20 @@
 slug: pub-197
+type: paper-conference
+title: >-
+  113 Years of Physical Review: Using Flow Maps to Show Temporal and Topical
+  Citation Patterns
+date: '2008-01-01'
 authors:
   - bruce-w-herr-ii
   - russell-jackson-duhon
   - katy-borner
   - elisha-f-allgood
   - shashikant-penumarthy
-editors: []
-type: paper-conference
-title: >-
-  113 Years of Physical Review: Using Flow Maps to Show Temporal and Topical
-  Citation Patterns
-date: '2008-01-01'
 publisher: IEEE Computer Society Conference Publishing Services
 venue: >-
   Proceedings of the 12th Information Visualization Conference (IV 2008),
   London, UK
-volume: ''
-issue: ''
-doi: ''
 pages: 421-426
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2008-herr-phys-rev.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2008-herr-phys-rev.pdf

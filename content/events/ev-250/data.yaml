@@ -1,14 +1,8 @@
 slug: ev-250
 type: conference
 title: IEEE Information Visualization Conference (InfoVis 2008)
-description: null
-location: Columbus, OH
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://vis.computer.org/VisWeek2008/Vis/index.html
 dateStart: '2008-10-19'
 dateEnd: '2008-10-19'
-tags: []
-link: http://vis.computer.org/VisWeek2008/Vis/index.html
+location:
+  raw: Columbus, OH

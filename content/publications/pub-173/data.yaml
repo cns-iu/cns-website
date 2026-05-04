@@ -1,22 +1,16 @@
 slug: pub-173
+type: paper-conference
+title: Mapping, Illuminating, and Interacting with Science
+date: '2007-05-01'
 authors:
   - kevin-w-boyack
   - richard-klavans
   - w-bradford-paley
   - katy-borner
-editors: []
-type: paper-conference
-title: Mapping, Illuminating, and Interacting with Science
-date: '2007-05-01'
 publisher: ACM
 venue: >-
   International Conference on Computer Graphics and Interactive Techniques ACM
   Siggraph 2007 Sketches, San Diego, CA
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-boyack-siggraph.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-boyack-siggraph.pdf

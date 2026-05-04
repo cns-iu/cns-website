@@ -1,15 +1,10 @@
 slug: ev-659
 type: visit
 title: Talk at University of Applied Sciences Mittweida
-description: ''
-location: University  of  Applied Sciences  Mittweida, Mittweida, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-511
-tutorials: []
+link: https://www.hs-mittweida.de/en.html
 dateStart: '2017-07-10'
 dateEnd: '2017-07-10'
-tags: []
-link: https://www.hs-mittweida.de/en.html
+location:
+  raw: University  of  Applied Sciences  Mittweida, Mittweida, Germany
+presentations:
+  - pres-511

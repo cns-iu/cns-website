@@ -1,17 +1,12 @@
 slug: ev-584
 type: workshop
 title: CEWiT, Indiana University
-description: ''
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-455
-tutorials: []
+link: http://cewit.indiana.edu/
 dateStart: '2016-02-26'
 dateEnd: '2016-02-26'
-tags: []
-link: http://cewit.indiana.edu/
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
+presentations:
+  - pres-455

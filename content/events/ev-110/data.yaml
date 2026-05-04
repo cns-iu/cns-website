@@ -1,14 +1,10 @@
 slug: ev-110
 type: conference
 title: Animal Behavior Society, Conference 2003
-description: null
-location: Boise, ID
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-44
-tutorials: []
+link: null
 dateStart: '2003-07-19'
 dateEnd: '2003-07-23'
-tags: []
+location:
+  raw: Boise, ID
+presentations:
+  - pres-44

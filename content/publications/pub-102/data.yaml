@@ -1,17 +1,10 @@
 slug: pub-102
-authors:
-  - stacy-kowalczyk
-editors: []
 type: manuscript
 title: Digital Preservation Annotated Bibliography
 date: '2004-01-01'
-publisher: ''
+authors:
+  - stacy-kowalczyk
 venue: L701 class paper
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-kowalczyk-annotbib.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-kowalczyk-annotbib.pdf

@@ -1,11 +1,11 @@
 slug: pres-366
 type: presentation
 title: 'Maps & Macroscopes: Gaining Insights from BIG Data'
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2013-borner-tedx.pdf
 dateStart: '2013-03-22'
 dateEnd: '2013-03-22'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-503
-link: https://cns.iu.edu/docs/presentations/2013-borner-tedx.pdf

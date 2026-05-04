@@ -1,15 +1,10 @@
 slug: ev-449
 type: meeting
 title: National Academy of Sciences
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-295
-tutorials: []
+link: http://www.nasonline.org/site/PageServer
 dateStart: '2011-08-22'
 dateEnd: '2011-08-22'
-tags: []
-link: http://www.nasonline.org/site/PageServer
+location:
+  raw: Washington, DC
+presentations:
+  - pres-295

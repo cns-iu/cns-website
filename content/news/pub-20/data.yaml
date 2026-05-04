@@ -1,6 +1,7 @@
 slug: pub-20
-link: https://cns.iu.edu/docs/news/20110308_WiredScience.html
 title: 'Data as Art: 10 Striking Science Maps (website accessed 03/08/2011)'
+date: '2011-03-08'
+link: https://cns.iu.edu/docs/news/20110308_WiredScience.pdf
 description: >-
   The computer age triggered a seemingly endless stream of scientific data, but
   such incoming mountains of information come at a cost. The more data you
@@ -39,14 +40,13 @@ description: >-
   Each arc represents a collaboration between scientists in different cities
   mined from studies, books and trade journals found in Elsevier's Scopus
   database. Dense nodes of science emerge in the Americas, Europe and Japan.
-date: '2011-03-08'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20110308_WiredScience.html
-caption: >-
-  The following is an article from Wired Science. Read the original article
-  [here](http://www.wired.com/wiredscience/2011/03/best-science-maps/), or
-  download a PDF of the article [here](/docs/news/20110308_WiredScience.pdf).
 publisher: Wired Science
 reporter: Dave Mosher
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20110308_WiredScience.pdf
+    description: >-
+      The following is an article from Wired Science. Read the original article
+      [here](http://www.wired.com/wiredscience/2011/03/best-science-maps/), or
+      download a PDF of the article
+      [here](/docs/news/20110308_WiredScience.pdf).

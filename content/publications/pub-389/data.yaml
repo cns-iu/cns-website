@@ -1,4 +1,10 @@
 slug: pub-389
+type: article-journal
+title: >-
+  Back to Business and (Re)employing Workers? Labor Market Activity During State
+  COVID-19 Reopenings
+date: '2020-06-01'
+doi: 10.3386/w27419
 authors:
   - wei-cheng
   - patrick-carlin
@@ -12,19 +18,7 @@ authors:
   - kosali-i-simon
   - coady-wing
   - bruce-weinberg
-editors: []
-type: article-journal
-title: >-
-  Back to Business and (Re)employing Workers? Labor Market Activity During State
-  COVID-19 Reopenings
-date: '2020-06-01'
-publisher: ''
 venue: The National Bureau of Economic Research
-volume: ''
-issue: ''
-doi: 10.3386/w27419
-pages: ''
-chapter: ''
-links:
-  - https://www.nber.org/papers/w27419
-tags: []
+media:
+  - type: website
+    url: https://www.nber.org/papers/w27419

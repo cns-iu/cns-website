@@ -1,13 +1,11 @@
 slug: fun-59
 type: research
-name: BBSRC Evidence Team Phase 2
 title: Introducing the Science of Science (Sci2) Tool
+name: BBSRC Evidence Team Phase 2
 funder: BBSRC
+amount: null
+dateStart: '2012-10-19'
+dateEnd: '2013-01-31'
 investigators:
   - katy-borner
   - robert-light
-amount: null
-receivedAmount: null
-dateStart: '2012-10-19'
-dateEnd: '2013-01-31'
-tags: []

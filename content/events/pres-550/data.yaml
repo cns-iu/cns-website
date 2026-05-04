@@ -1,12 +1,12 @@
 slug: pres-550
 type: presentation
 title: 'Optimizing Socio-linguistic Analysis: Language Variation Suite Toolkit'
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - olga-scrivner
-dateStart: '2018-04-12'
-dateEnd: '2018-04-12'
-event: ev-699
 link: >-
   https://cns.iu.edu/docs/presentations/2018-Scrivner-LVS-Data-Analysis-with-Shiny-App.pdf
+dateStart: '2018-04-12'
+dateEnd: '2018-04-12'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - olga-scrivner
+event: ev-699

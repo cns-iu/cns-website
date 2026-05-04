@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Searching for the Perfect Match: A Comparison of Free Sorting Results for
   Images by Human Subjects and by Latent Semantic Analysis Techniques
-description: ''
-location: London South Bank University, London, UK, SE1 6LN
-presenters:
-  - katy-borner
+link: http://ivl.slis.indiana.edu/km/pres/2001-borner-lvis/
 dateStart: '2000-07-21'
 dateEnd: '2000-07-21'
+location:
+  raw: London South Bank University, London, UK, SE1 6LN
+presenters:
+  - katy-borner
 event: ev-382
-link: http://ivl.slis.indiana.edu/km/pres/2001-borner-lvis/

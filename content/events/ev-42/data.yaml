@@ -1,13 +1,8 @@
 slug: ev-42
 type: other
 title: Meeting with Terry Winograd and Pat Hanrahan, Stanford University
-description: null
-location: Stanford, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2004-01-21'
 dateEnd: '2004-01-21'
-tags: []
+location:
+  raw: Stanford, CA

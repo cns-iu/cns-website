@@ -1,15 +1,10 @@
 slug: ev-331
 type: other
 title: Data and Search Institute Seminar
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-04-08'
 dateEnd: '2009-04-08'
-tags: []
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405

@@ -1,15 +1,10 @@
 slug: ev-702
 type: meeting
 title: Complexity of Educational Ecosystems
-description: ''
-location: Santa Fe, MN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-555
-tutorials: []
+link: https://www.santafe.edu/events/complexity-educational-ecosystem
 dateStart: '2018-06-04'
 dateEnd: '2018-06-05'
-tags: []
-link: https://www.santafe.edu/events/complexity-educational-ecosystem
+location:
+  raw: Santa Fe, MN
+presentations:
+  - pres-555

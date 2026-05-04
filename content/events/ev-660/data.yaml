@@ -1,15 +1,10 @@
 slug: ev-660
 type: conference
 title: European Forum Alpbach 2017
-description: ''
-location: Alpbach, Austria
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-512
-tutorials: []
+link: https://www.alpbach.org/en/
 dateStart: '2017-08-25'
 dateEnd: '2017-08-25'
-tags: []
-link: https://www.alpbach.org/en/
+location:
+  raw: Alpbach, Austria
+presentations:
+  - pres-512

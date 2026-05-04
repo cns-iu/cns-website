@@ -1,15 +1,10 @@
 slug: ev-21
 type: conference
 title: I-Light 2005 Symposium, IUPUI
-description: null
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-14
-tutorials: []
+link: http://www.iupui.edu/%7Eilight/symposium05/program.html
 dateStart: '2005-09-21'
 dateEnd: '2005-09-22'
-tags: []
-link: http://www.iupui.edu/%7Eilight/symposium05/program.html
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-14

@@ -1,15 +1,10 @@
 slug: ev-769
 type: conference
 title: ASTC 2019 Preconference
-description: ''
-location: Toronto, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-631
-tutorials: []
+link: https://www.astc.org/conferences-and-events/2019-conference/
 dateStart: '2019-09-19'
 dateEnd: '2019-09-20'
-tags: []
-link: https://www.astc.org/conferences-and-events/2019-conference/
+location:
+  raw: Toronto, Canada
+presentations:
+  - pres-631

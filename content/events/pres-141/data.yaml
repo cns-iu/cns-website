@@ -1,11 +1,11 @@
 slug: pres-141
 type: presentation
 title: 'VegoWelt: A Smart Virtual Playroom'
-description: ''
-location: University of Sydney, Sydney, Australia
-presenters:
-  - katy-borner
+link: http://faculty.arch.usyd.edu.au/kcdc/ijdc/vol02/dcnet/Katy/katy2.html
 dateStart: '1999-12-02'
 dateEnd: '1999-12-02'
+location:
+  raw: University of Sydney, Sydney, Australia
+presenters:
+  - katy-borner
 event: ev-231
-link: http://faculty.arch.usyd.edu.au/kcdc/ijdc/vol02/dcnet/Katy/katy2.html

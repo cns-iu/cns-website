@@ -1,15 +1,10 @@
 slug: ev-439
 type: conference
 title: HUBbub 2011!
-description: HUBzero Conference
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-283
-tutorials: []
+link: http://hubzero.org/hubbub2011
 dateStart: '2011-04-05'
 dateEnd: '2011-04-06'
-tags: []
-link: http://hubzero.org/hubbub2011
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-283

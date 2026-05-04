@@ -1,9 +1,8 @@
 slug: ws-13
 type: workshop
 title: NSF/JSMF Workshop on How to Measure, Map, and Dramatize Science
-description: ''
-location: Flushing Meadows Corona Park, NY
+link: http://web.archive.org/web/20260108203019/https://cns.iu.edu/091001.html
 dateStart: '2009-10-01'
 dateEnd: '2009-10-02'
-tags: []
-link: http://web.archive.org/web/20260108203019/https://cns.iu.edu/091001.html
+location:
+  raw: Flushing Meadows Corona Park, NY

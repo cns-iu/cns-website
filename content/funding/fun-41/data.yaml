@@ -1,14 +1,12 @@
 slug: fun-41
 type: research
+title: Mapping the Emergence and Development of Scientific Disciplines
 name: >-
   James S. McDonnell Foundation grant in area 21st Century Science-Special
   Initiative/Studying Complex Systems 
-title: Mapping the Emergence and Development of Scientific Disciplines
 funder: James S. McDonnell Foundation
-investigators:
-  - katy-borner
 amount: 364787
-receivedAmount: null
 dateStart: '2009-01-01'
 dateEnd: '2013-12-31'
-tags: []
+investigators:
+  - katy-borner

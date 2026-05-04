@@ -1,19 +1,14 @@
 slug: pub-145
+type: paper-conference
+title: Interactive, Adaptive, Computer-Aided Design
+date: '1995-01-01'
 authors:
   - katy-borner
 editors:
   - m-tan
   - r-teh
-type: paper-conference
-title: Interactive, Adaptive, Computer-Aided Design
-date: '1995-01-01'
-publisher: ''
 venue: International Conference CAAD Futures, Singapore, September 24-26
-volume: ''
-issue: ''
-doi: ''
 pages: 627-634
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1995-borner-cad-caad.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1995-borner-cad-caad.pdf

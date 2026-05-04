@@ -1,16 +1,11 @@
 slug: ev-836
 type: meeting
 title: Health Research Alliance Webinar
-description: ''
-location: Research Triangle Park, NC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-670
-tutorials: []
-dateStart: '2022-09-22'
-dateEnd: '2022-09-22'
-tags: []
 link: >-
   https://www.healthra.org/resources/utilizing-visualization-for-program-evaluation-techniques-and-strategies/
+dateStart: '2022-09-22'
+dateEnd: '2022-09-22'
+location:
+  raw: Research Triangle Park, NC
+presentations:
+  - pres-670

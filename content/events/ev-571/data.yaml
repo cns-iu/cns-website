@@ -1,15 +1,10 @@
 slug: ev-571
 type: workshop
 title: Visual Analytics in Healthcare Workshop
-description: ''
-location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-442
-tutorials: []
+link: cns.iu.edu/workshops/event/151102.html
 dateStart: '2015-11-02'
 dateEnd: '2015-11-03'
-tags: []
-link: cns.iu.edu/workshops/event/151102.html
+location:
+  raw: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
+presentations:
+  - pres-442

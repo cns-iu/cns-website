@@ -1,9 +1,8 @@
 slug: ws-89
 type: workshop
 title: Inspired by Nature
-description: ''
-location: Bloomington, Indiana, USA
+link: https://cns-iu.github.io/workshops/2024-11-18_inspired_by_nature/
 dateStart: '2024-11-18'
 dateEnd: '2025-04-18'
-tags: []
-link: https://cns-iu.github.io/workshops/2024-11-18_inspired_by_nature/
+location:
+  raw: Bloomington, Indiana, USA

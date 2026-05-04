@@ -1,14 +1,10 @@
 slug: ev-106
 type: workshop
 title: Workshop on Scholarly Data and Data Integration
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-119
-tutorials: []
+link: null
 dateStart: '2006-08-17'
 dateEnd: '2006-08-18'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-119

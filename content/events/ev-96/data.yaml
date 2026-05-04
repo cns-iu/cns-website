@@ -3,14 +3,8 @@ type: other
 title: >-
   James S. McDonnel Foundation 21st Century Science Initiative: 2006 Program
   Meeting
-description: null
-location: Palisades, NY
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.jsmf.org/meetings/2006/june-travelinfo.htm
 dateStart: '2006-07-07'
 dateEnd: '2006-07-09'
-tags: []
-link: http://www.jsmf.org/meetings/2006/june-travelinfo.htm
+location:
+  raw: Palisades, NY

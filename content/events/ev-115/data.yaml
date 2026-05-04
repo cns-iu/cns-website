@@ -1,15 +1,10 @@
 slug: ev-115
 type: other
 title: Office of Science and Technology Policy (Executive Office of the President)
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-81
-tutorials: []
+link: http://www.ostp.gov/
 dateStart: '2004-06-14'
 dateEnd: '2004-06-16'
-tags: []
-link: http://www.ostp.gov/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-81

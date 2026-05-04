@@ -1,4 +1,10 @@
 slug: pub-422
+type: article-journal
+title: >-
+  Understanding Contexts and Challenges of Information Management for Epilepsy
+  Care
+date: '2023-04-19'
+doi: 10.1145/3544548.3580949
 authors:
   - aehong-min
   - wendy-r-miller
@@ -6,22 +12,12 @@ authors:
   - katy-borner
   - rion-brattig-correia
   - patrick-c-shih
-editors: []
-type: article-journal
-title: >-
-  Understanding Contexts and Challenges of Information Management for Epilepsy
-  Care
-date: '2023-04-19'
 publisher: Association for Computing Machinery
 venue: >-
   CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Computing
   Systems
-volume: ''
-issue: ''
-doi: 10.1145/3544548.3580949
 pages: '328: 1-15.'
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2023-Min-Understanding_Contexts_and_Challenges.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2023-Min-Understanding_Contexts_and_Challenges.pdf

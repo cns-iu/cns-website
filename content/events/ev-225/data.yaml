@@ -1,14 +1,8 @@
 slug: ev-225
 type: conference
 title: 2007 Society for Social Studies of Science (4S) Annual Meeting
-description: null
-location: Montreal, Quebec, Canada
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.4sonline.org/meeting.htm
 dateStart: '2007-10-11'
 dateEnd: '2007-10-13'
-tags: []
-link: http://www.4sonline.org/meeting.htm
+location:
+  raw: Montreal, Quebec, Canada

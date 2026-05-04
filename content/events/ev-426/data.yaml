@@ -1,15 +1,10 @@
 slug: ev-426
 type: workshop
 title: The Challenges of Visualising Biological Data
-description: null
-location: BBSRC, Polaris House, North Star Avenue, Swindon, Wiltshire, UK, SN2 1UH
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-270
-tutorials: []
+link: http://www.bbsrc.ac.uk/news/events/1011-visualising-biological-data.aspx
 dateStart: '2010-11-16'
 dateEnd: '2010-11-17'
-tags: []
-link: http://www.bbsrc.ac.uk/news/events/1011-visualising-biological-data.aspx
+location:
+  raw: BBSRC, Polaris House, North Star Avenue, Swindon, Wiltshire, UK, SN2 1UH
+presentations:
+  - pres-270

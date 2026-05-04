@@ -1,16 +1,11 @@
 slug: ev-638
 type: workshop
 title: Lifelong Learning
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-497
-tutorials: []
-dateStart: '2017-02-22'
-dateEnd: '2017-02-22'
-tags: []
 link: >-
   https://v2.aitapps-s.iu.edu/AIT_INlighten_V1_Online/blvpue/Course/Index/170-32F4EAD2-8E7A-47D0-B0C4-ABAEA5F4AC7B
+dateStart: '2017-02-22'
+dateEnd: '2017-02-22'
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-497

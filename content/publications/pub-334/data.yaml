@@ -1,19 +1,11 @@
 slug: pub-334
-authors:
-  - katy-borner
-  - stasa-milojevic
-editors: []
 type: paper-conference
 title: Modelling Science, Technology, and Innovation
 date: '2016-12-01'
-publisher: ''
+authors:
+  - katy-borner
+  - stasa-milojevic
 venue: OECD Blue Sky III, Ghent, Belgium
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2016-borner-milojevic-bluesky.pdf
-  - https://cns.iu.edu/docs/publications/2016-borner-milojevic-bluesky.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2016-borner-milojevic-bluesky.pdf

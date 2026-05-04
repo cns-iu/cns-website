@@ -1,18 +1,12 @@
 slug: pub-78
-authors:
-  - yueyu-fu
-  - javed-mostafa
-editors: []
 type: paper-conference
 title: Toward Information Retrieval Web Services for Digital Libraries
 date: '2004-01-01'
-publisher: ''
+authors:
+  - yueyu-fu
+  - javed-mostafa
 venue: IEEE/ACM Joint Conference on Digital Libraries 2004, Tucson, AZ
-volume: ''
-issue: ''
-doi: ''
 pages: 370-371
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-fu-inforet.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-fu-inforet.pdf

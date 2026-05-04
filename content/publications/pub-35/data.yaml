@@ -1,23 +1,20 @@
 slug: pub-35
+type: chapter
+title: Structural Similarity as Guidance in Case-Based Design
+date: '1994-01-01'
 authors:
   - katy-borner
 editors:
   - s-wess
   - k-d-althoff
   - michael-richter
-type: chapter
-title: Structural Similarity as Guidance in Case-Based Design
-date: '1994-01-01'
 publisher: 'Berlin:  Springer-Verlag'
 venue: >-
   Topics in Case-Based Reasoning - Selected Papers from the First European
   Workshop on Topics in Case-Based Reasoning, Lecture Notes in Artificial
   Intelligence
 volume: '837'
-issue: ''
-doi: ''
 pages: 197-208
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1993-borner-strucsim.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1993-borner-strucsim.pdf

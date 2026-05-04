@@ -1,13 +1,13 @@
 slug: pres-194
 type: presentation
 title: Mapping the Structure and Dynamics of Science
-description: ''
-location: |-
-  2226 School of Information North, University of Michigan
-  , 1075 Beal Ave., Ann Arbor, MI, 48109-2112
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2008-borner-scimap-umich.pdf
 dateStart: '2008-11-19'
 dateEnd: '2008-11-19'
+location:
+  raw: |-
+    2226 School of Information North, University of Michigan
+    , 1075 Beal Ave., Ann Arbor, MI, 48109-2112
+presenters:
+  - katy-borner
 event: ev-315
-link: https://cns.iu.edu/docs/presentations/2008-borner-scimap-umich.pdf

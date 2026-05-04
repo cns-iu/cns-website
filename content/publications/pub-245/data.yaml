@@ -1,19 +1,11 @@
 slug: pub-245
-authors:
-  - katy-borner
-editors: []
 type: manuscript
 title: >-
   Briefing Document for "Changing the Conduct of Science in the Information Age"
   NSF Workshop
 date: '2010-04-26'
-publisher: ''
-venue: ''
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-borner-nsfbriefingdoc.pdf
-tags: []
+authors:
+  - katy-borner
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-borner-nsfbriefingdoc.pdf

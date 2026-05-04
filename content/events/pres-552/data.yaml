@@ -1,11 +1,11 @@
 slug: pres-552
 type: presentation
 title: Actionable Data Visualizations
-description: ''
-location: Boston, MA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2018-borner-nesta.pdf
 dateStart: '2018-06-13'
 dateEnd: '2018-06-13'
+location:
+  raw: Boston, MA
+presenters:
+  - katy-borner
 event: ev-701
-link: https://cns.iu.edu/docs/presentations/2018-borner-nesta.pdf

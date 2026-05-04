@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Northwestern Institute on Complex Systems (NICO) Complexity Conference
   Workshops
-description: null
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-216
-tutorials: []
+link: http://www.northwestern.edu/nico/complexity-conference/workshop.html
 dateStart: '2009-09-03'
 dateEnd: '2009-09-03'
-tags: []
-link: http://www.northwestern.edu/nico/complexity-conference/workshop.html
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-216

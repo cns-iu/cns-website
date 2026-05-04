@@ -2,12 +2,10 @@ slug: ws-85
 type: workshop
 title: Hackathon for the Human Reference Atlas (HRA) Organ Gallery
 link: https://cns-iu.github.io/workshops/2023-10-18-nih-3d-hackathon/
-dateStart: 2023-10-18
-dateEnd: 2023-10-19
-venue: BCBB/NIAID Biovisualization Lab
-location: Rockville, Maryland, USA
+dateStart: 2023-10-18T00:00:00.000Z
+dateEnd: 2023-10-19T00:00:00.000Z
+location:
+  venue: BCBB/NIAID Biovisualization Lab
+  raw: Rockville, Maryland, USA
 projects:
   - human-reference-atlas
-tags:
-  - hra
-description: ""

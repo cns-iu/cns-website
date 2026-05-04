@@ -1,13 +1,8 @@
 slug: ev-34
 type: other
 title: TV Intensive Session with Brad Paley
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2005-12-15'
 dateEnd: '2005-12-17'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana

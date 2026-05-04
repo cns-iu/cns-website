@@ -1,15 +1,10 @@
 slug: ev-826
 type: conference
 title: 28th Conference on Intelligent Systems for Molecular Biology (ISMB)
-description: ''
-location: Montreal, Canada (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-629
-tutorials: []
+link: https://www.iscb.org/ismb2020
 dateStart: '2020-07-13'
 dateEnd: '2020-07-16'
-tags: []
-link: https://www.iscb.org/ismb2020
+location:
+  raw: Montreal, Canada (Virtual Event)
+presentations:
+  - pres-629

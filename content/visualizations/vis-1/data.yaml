@@ -1,7 +1,7 @@
 slug: vis-1
-type: visualization
-link: https://cns.iu.edu/docs/research/visualizations/2013_TEDx.pdf
 title: TEDxBloomington Map of Registrations
+date: '2013-01-23'
+link: https://cns.iu.edu/docs/research/visualizations/2013_TEDx.pdf
 description: >-
   Shown here are all TEDxBloomington attendees who registered by March 8, 2013
   together with the subjects they like 313 subject nodes in colors. People are
@@ -17,7 +17,6 @@ description: >-
   Portraits of the speakers from this year’s conference are placed by their
   subjects of interest. A listing of all subjects and their counts is given in
   the lower left.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/2013_TEDx_400W.png
-date: '2013-01-23'
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/2013_TEDx_400W.png

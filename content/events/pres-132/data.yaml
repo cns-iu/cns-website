@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Scholarly Data, Network Science, and (Google) Maps - Modeling, Mapping, and
   Exploring the Dynamic Landscape of Science
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2007-borner-borders.pdf
 dateStart: '2007-05-10'
 dateEnd: '2007-05-10'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-206
-link: https://cns.iu.edu/docs/presentations/2007-borner-borders.pdf

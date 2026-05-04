@@ -1,15 +1,10 @@
 slug: ev-476
 type: conference
 title: A Festschrift for Richard M. Shiffrin
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-329
-tutorials: []
+link: http://cogs.indiana.edu/FestschriftForRichShiffrin/index.html
 dateStart: '2012-05-08'
 dateEnd: '2012-05-09'
-tags: []
-link: http://cogs.indiana.edu/FestschriftForRichShiffrin/index.html
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-329

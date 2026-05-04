@@ -1,14 +1,8 @@
 slug: ev-140
 type: other
 title: InfoVis Seminar
-description: null
-location: Schloss Dagstul, Wadern, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.dagstuhl.de/de/program/calendar/semhp/?semnr=07221
 dateStart: '2007-05-28'
 dateEnd: '2007-06-01'
-tags: []
-link: http://www.dagstuhl.de/de/program/calendar/semhp/?semnr=07221
+location:
+  raw: Schloss Dagstul, Wadern, Germany

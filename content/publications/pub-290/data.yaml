@@ -1,4 +1,7 @@
 slug: pub-290
+type: chapter
+title: Replicable Science of Science Studies
+date: '2014-01-31'
 authors:
   - katy-borner
   - david-e-polley
@@ -6,16 +9,10 @@ editors:
   - ying-ding
   - ronald-rousseau
   - dietmar-wolfram
-type: chapter
-title: Replicable Science of Science Studies
-date: '2014-01-31'
 publisher: Springer International Publishing
 venue: 'Measuring Scholarly Impact: Methods and Practice'
-volume: ''
-issue: ''
-doi: ''
 pages: 321-341
 chapter: '14'
-links:
-  - https://cns.iu.edu/docs/publications/2014-borner-replicable-springer.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2014-borner-replicable-springer.pdf

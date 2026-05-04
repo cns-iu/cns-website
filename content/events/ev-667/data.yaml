@@ -1,15 +1,10 @@
 slug: ev-667
 type: workshop
 title: 'Reproducible Scientometrics Research: Open Data, Code, and Education'
-description: ''
-location: ISSI 2017, Wuhan, China
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-522
-tutorials: []
+link: http://stage.cns.iu.edu/workshops/event/171017.html
 dateStart: '2017-10-17'
 dateEnd: '2017-10-17'
-tags: []
-link: http://stage.cns.iu.edu/workshops/event/171017.html
+location:
+  raw: ISSI 2017, Wuhan, China
+presentations:
+  - pres-522

@@ -1,17 +1,12 @@
 slug: ev-333
 type: conference
 title: '3rd Annual iFQ Conference: Foresight-Between Science and Fiction'
-description: null
-location: >-
-  Center of Advanced European Studies and Research, Ludwig-Erhard-Allee 2, Bonn,
-  Germany, 53175
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-200
-tutorials: []
+link: http://www.research-information.de/Tagungen/Programm_engl.pdf
 dateStart: '2008-12-11'
 dateEnd: '2008-12-12'
-tags: []
-link: http://www.research-information.de/Tagungen/Programm_engl.pdf
+location:
+  raw: >-
+    Center of Advanced European Studies and Research, Ludwig-Erhard-Allee 2,
+    Bonn, Germany, 53175
+presentations:
+  - pres-200

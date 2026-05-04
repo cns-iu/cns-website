@@ -1,10 +1,13 @@
 slug: fun-22
 type: research
-name: NSF/BCS-0215738 Major Research Instrumentation Grant
 title: >-
   Development of a Spatial-Experimental Laboratory for Research and Policy
   Analysis Related to Complex Systems
+name: NSF/BCS-0215738 Major Research Instrumentation Grant
 funder: National Science Foundation
+amount: 847874
+dateStart: '2002-08-01'
+dateEnd: '2007-07-31'
 investigators:
   - elinor-ostrom
   - jerome-busemeyer
@@ -12,8 +15,4 @@ investigators:
   - robert-huckfeldt
   - james-walker
   - katy-borner
-amount: 847874
 receivedAmount: 0
-dateStart: '2002-08-01'
-dateEnd: '2007-07-31'
-tags: []

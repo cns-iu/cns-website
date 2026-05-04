@@ -1,15 +1,10 @@
 slug: ev-725
 type: other
 title: Allen Institute for Brain Science
-description: ''
-location: Seattle, WA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-575
-tutorials: []
+link: https://alleninstitute.org/what-we-do/brain-science/
 dateStart: '2019-03-07'
 dateEnd: null
-tags: []
-link: https://alleninstitute.org/what-we-do/brain-science/
+location:
+  raw: Seattle, WA
+presentations:
+  - pres-575

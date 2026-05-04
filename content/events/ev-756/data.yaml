@@ -1,13 +1,8 @@
 slug: ev-756
 type: other
 title: 11th International Conference on Social Informatics (SocInfo 2019)
-description: ''
-location: Doha, Qatar
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2019-11-18'
 dateEnd: '2019-11-21'
-tags: []
+location:
+  raw: Doha, Qatar

@@ -1,11 +1,11 @@
 slug: pres-554
 type: presentation
 title: Actionable Data Visualizations
-description: ''
-location: Crane, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2018-borner-crane.pdf
 dateStart: '2018-04-17'
 dateEnd: '2018-04-17'
+location:
+  raw: Crane, Indiana
+presenters:
+  - katy-borner
 event: ev-703
-link: https://cns.iu.edu/docs/presentations/2018-borner-crane.pdf

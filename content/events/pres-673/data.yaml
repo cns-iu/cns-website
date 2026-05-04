@@ -3,14 +3,14 @@ type: presentation
 title: >-
   Mapping the Human Body At Single Cell Resolution: Developing The Human
   Reference Atlas (Poster)
-description: ''
-location: Boston, MA
-presenters:
-  - supriya-bidanta
-dateStart: '2022-09-15'
-dateEnd: '2022-09-15'
-event: ev-838
 link: >-
   https://cns.iu.edu/docs/presentations/22-SpatialBiology-MappingTheHumanBody-Poster-Bidanta.pdf
-tags:
-  - hra
+dateStart: '2022-09-15'
+dateEnd: '2022-09-15'
+location:
+  raw: Boston, MA
+presenters:
+  - supriya-bidanta
+event: ev-838
+projects:
+  - human-reference-atlas

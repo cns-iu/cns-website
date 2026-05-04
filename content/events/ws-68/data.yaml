@@ -1,9 +1,8 @@
 slug: ws-68
 type: workshop
 title: 'Spatial Biology Europe: Online'
-description: ''
-location: This was a virtual event, hosted by Oxford Global Conferences
+link: https://cns-iu.github.io/workshops/2021-04-14_spatial_biology_europe_online/
 dateStart: '2021-04-14'
 dateEnd: '2021-04-16'
-tags: []
-link: https://cns-iu.github.io/workshops/2021-04-14_spatial_biology_europe_online/
+location:
+  raw: This was a virtual event, hosted by Oxford Global Conferences

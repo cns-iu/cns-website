@@ -1,15 +1,10 @@
 slug: ev-427
 type: meeting
 title: CASA Seminar Series
-description: ''
-location: London, England
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-271
-tutorials: []
+link: http://www.casa.ucl.ac.uk/lectures/seminarAbstract.asp?ID=305
 dateStart: '2010-11-15'
 dateEnd: '2010-11-15'
-tags: []
-link: http://www.casa.ucl.ac.uk/lectures/seminarAbstract.asp?ID=305
+location:
+  raw: London, England
+presentations:
+  - pres-271

@@ -3,15 +3,10 @@ type: other
 title: >-
   Symposium at NCSA: The Age of Networks: Social, Cultural and Technological
   Connections
-description: null
-location: Champaign, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-65
-tutorials: []
+link: http://www.ncsa.uiuc.edu/Conferences/Networks/
 dateStart: '2006-02-13'
 dateEnd: '2006-05-12'
-tags: []
-link: http://www.ncsa.uiuc.edu/Conferences/Networks/
+location:
+  raw: Champaign, IL
+presentations:
+  - pres-65

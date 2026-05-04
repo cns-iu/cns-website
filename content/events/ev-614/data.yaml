@@ -1,15 +1,10 @@
 slug: ev-614
 type: workshop
 title: Indiana University Network Science Institute, Open Science Forum
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-482
-tutorials: []
+link: http://iuni.iu.edu/
 dateStart: '2016-10-19'
 dateEnd: '2016-10-19'
-tags: []
-link: http://iuni.iu.edu/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-482

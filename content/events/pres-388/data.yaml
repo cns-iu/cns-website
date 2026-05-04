@@ -1,11 +1,11 @@
 slug: pres-388
 type: presentation
 title: 'MOOC Data Analysis: Open-Source Code for Open Education'
-description: ''
-location: Anaheim, CA
-presenters:
-  - david-e-polley
+link: https://cns.iu.edu/docs/presentations/2013-polley-educause-ivmooc.pdf
 dateStart: '2013-10-16'
 dateEnd: '2013-10-16'
+location:
+  raw: Anaheim, CA
+presenters:
+  - david-e-polley
 event: ev-521
-link: https://cns.iu.edu/docs/presentations/2013-polley-educause-ivmooc.pdf

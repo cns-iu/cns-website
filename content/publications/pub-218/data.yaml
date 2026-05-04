@@ -1,22 +1,17 @@
 slug: pub-218
+type: article-journal
+title: The Scholarly Database and its Utility for Scientometrics Research
+date: '2008-11-13'
 authors:
   - gavin-larowe
   - sumeet-adinath-ambre
   - john-w-burgoon
   - weimao-ke
   - katy-borner
-editors: []
-type: article-journal
-title: The Scholarly Database and its Utility for Scientometrics Research
-date: '2008-11-13'
 publisher: Springer
 venue: 'Scientometrics: Online First'
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2008-larowe-sdb-scientometrics.pdf
-  - http://www.springerlink.com/content/w6056671m282n266/fulltext.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2008-larowe-sdb-scientometrics.pdf
+  - type: pdf
+    url: http://www.springerlink.com/content/w6056671m282n266/fulltext.pdf

@@ -1,6 +1,7 @@
 slug: pub-29
-link: https://cns.iu.edu/docs/news/20100410_InformationToday.html
 title: 'VIVO: What''s Driving the Data'
+date: '2010-04-01'
+link: https://cns.iu.edu/docs/news/20100410_InformationToday.html
 description: >-
   Creating a national network and getting it set up and running is no easy feat.
   But as the VIVO National Network (aka, Facebook for Scientists) moves along
@@ -126,14 +127,13 @@ description: >-
   tell us when links have broken,” says Corson-Rikert. “This lays a solid
   foundation for us, so that as the VIVO National Network expands, we’ll have a
   good handle on what is going on.”
-date: '2010-04-01'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20100410_InformationToday.html
-caption: >-
-  The following is an article from Information Today. Read the original article
-  on the web [here](http://www.infotoday.com/IT/apr10/Brynko.shtml), or download
-  a PDF of the article [here](/docs/news/20100410_InformationToday.pdf).
 publisher: Information Today
 reporter: Barbara Brynko
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20100410_InformationToday.html
+    description: >-
+      The following is an article from Information Today. Read the original
+      article on the web [here](http://www.infotoday.com/IT/apr10/Brynko.shtml),
+      or download a PDF of the article
+      [here](/docs/news/20100410_InformationToday.pdf).

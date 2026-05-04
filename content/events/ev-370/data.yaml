@@ -3,18 +3,13 @@ type: workshop
 title: >-
   Modelling Science: Understanding, Forecasting and Communicating the Science
   System, History and Taxonomy Session
-description: null
-location: >-
-  Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands, 1019
-  AT
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-222
-tutorials: []
-dateStart: '2009-10-07'
-dateEnd: '2009-10-07'
-tags: []
 link: >-
   http://modelling-science.simshelf.virtualknowledgestudio.nl/programme/2009-10-07
+dateStart: '2009-10-07'
+dateEnd: '2009-10-07'
+location:
+  raw: >-
+    Cruquiusweg 31, 1019 AT Amsterdam, VKS KNAW, Amsterdam, The Netherlands,
+    1019 AT
+presentations:
+  - pres-222

@@ -1,17 +1,12 @@
 slug: ev-268
 type: conference
 title: The 2008 North American Conference on Computing and Philosophy
-description: 'NA-CAP @IU2008: The Limits of Computation'
-location: >-
-  Department of Psychological and Brain Sciences, Indiana University at
-  Bloomington, 1101 East Tenth Street, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-172
-tutorials: []
+link: http://www.ia-cap.org/na-cap08/
 dateStart: '2008-07-10'
 dateEnd: '2008-07-12'
-tags: []
-link: http://www.ia-cap.org/na-cap08/
+location:
+  raw: >-
+    Department of Psychological and Brain Sciences, Indiana University at
+    Bloomington, 1101 East Tenth Street, Bloomington, Indiana, 47405
+presentations:
+  - pres-172

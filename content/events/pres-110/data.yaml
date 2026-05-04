@@ -3,11 +3,11 @@ type: presentation
 title: >-
   InfoVis Cyberinfrastructure: A Data-Code-Compute Resource for Research &
   Education in Information Visualization
-description: ''
-location: Spencer, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2004-borner-cntinfem-creek.jpg
 dateStart: '2004-02-20'
 dateEnd: '2004-02-20'
+location:
+  raw: Spencer, Indiana
+presenters:
+  - katy-borner
 event: ev-44
-link: https://cns.iu.edu/docs/presentations/2004-borner-cntinfem-creek.jpg

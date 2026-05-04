@@ -1,4 +1,9 @@
 slug: pub-194
+type: paper-conference
+title: >-
+  A Snapshot of Neuroscience: Unsupervised Natural Language Processing of
+  Abstracts from the Society for Neuroscience 2006 Annual Meeting
+date: '2007-11-06'
 authors:
   - gully-apc-burns
   - bruce-w-herr-ii
@@ -6,18 +11,4 @@ authors:
   - tommy-ingulfsen
   - patric-pantel
   - padhraic-smyth
-editors: []
-type: paper-conference
-title: >-
-  A Snapshot of Neuroscience: Unsupervised Natural Language Processing of
-  Abstracts from the Society for Neuroscience 2006 Annual Meeting
-date: '2007-11-06'
-publisher: ''
 venue: Society for Neuroscience 2007 Annual Meeting, San Diego, CA
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links: []
-tags: []

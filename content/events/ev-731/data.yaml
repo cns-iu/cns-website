@@ -3,15 +3,10 @@ type: other
 title: >-
   OurCS Hello Research 2018 Conference: Augmented Reality Visualizations of IoT
   Data
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-582
-tutorials: []
+link: https://cns.iu.edu/amatria.html
 dateStart: '2018-10-27'
 dateEnd: null
-tags: []
-link: https://cns.iu.edu/amatria.html
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-582

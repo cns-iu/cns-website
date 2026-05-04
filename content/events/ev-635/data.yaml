@@ -1,15 +1,10 @@
 slug: ev-635
 type: workshop
 title: BrainHack Global Bloomington 2017
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-494
-tutorials: []
+link: https://www.indiana.edu/~irf/home/brainhack-bloomington/
 dateStart: '2017-03-02'
 dateEnd: '2017-03-05'
-tags: []
-link: https://www.indiana.edu/~irf/home/brainhack-bloomington/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-494

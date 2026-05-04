@@ -3,13 +3,8 @@ type: workshop
 title: >-
   Workshop on Modernizing the Infrastructure of the National Science Foundation
   Federal Funds Survey
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-09-05'
 dateEnd: '2008-09-06'
-tags: []
+location:
+  raw: Washington, DC

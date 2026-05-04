@@ -1,17 +1,12 @@
 slug: ev-314
 type: other
 title: Indiana University Digital Library Brown Bag Luncheon Series
-description: luncheon talk series
-location: >-
-  Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-192
-tutorials: []
+link: http://www.dlib.indiana.edu/education/brownbags/index.shtml
 dateStart: '2008-11-05'
 dateEnd: '2008-11-05'
-tags: []
-link: http://www.dlib.indiana.edu/education/brownbags/index.shtml
+location:
+  raw: >-
+    Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-192

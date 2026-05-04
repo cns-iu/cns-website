@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Ideological Alliances on the United States Supreme Court: Visualizing 50 Years
   of Co-Voting Data
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.ppt
 dateStart: '2006-09-16'
 dateEnd: '2006-09-16'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - peter-a-hook
 event: ev-138
-link: https://cns.iu.edu/docs/presentations/2006-hook-ideoal-unknown.ppt

@@ -1,4 +1,7 @@
 slug: pub-345
+type: paper-conference
+title: High-Impact and Transformative Science (HITS) Metrics
+date: '2016-12-01'
 authors:
   - joseph-staudt
   - huifeng-yu
@@ -6,17 +9,7 @@ authors:
   - gerald-marschke
   - katy-borner
   - bruce-weinberg
-editors: []
-type: paper-conference
-title: High-Impact and Transformative Science (HITS) Metrics
-date: '2016-12-01'
-publisher: ''
 venue: OECD Blue Sky III, Ghent, Belgium
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2016-weinberg-bluesky.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2016-weinberg-bluesky.pdf

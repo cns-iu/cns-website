@@ -1,14 +1,10 @@
-organizers: []
-publications: []
 slug: ev-893
 type: other
 title: Network Science Society Colloquium
-dateStart: 2024-10-30
-dateEnd: 2024-10-30
-tutorials: []
-location: Remote event
-tags: []
+link: null
+dateStart: 2024-10-30T00:00:00.000Z
+dateEnd: 2024-10-30T00:00:00.000Z
+location:
+  raw: Remote event
 presentations:
   - pres-738
-description: ""
-attendees: []

@@ -1,15 +1,10 @@
 slug: ev-634
 type: visit
 title: Opening Reception at Vanderbilt University
-description: ''
-location: Vanderbilt University, Nashville, TN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-493
-tutorials: []
+link: http://www.vanderbilt.edu/
 dateStart: '2017-01-27'
 dateEnd: '2017-01-27'
-tags: []
-link: http://www.vanderbilt.edu/
+location:
+  raw: Vanderbilt University, Nashville, TN
+presentations:
+  - pres-493

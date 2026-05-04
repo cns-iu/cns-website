@@ -1,15 +1,10 @@
 slug: ev-363
 type: conference
 title: Northwestern Institute on Complex Systems (NICO) Complexity Conference
-description: null
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-215
-tutorials: []
+link: http://www.northwestern.edu/nico/complexity-conference/
 dateStart: '2009-09-01'
 dateEnd: '2009-09-03'
-tags: []
-link: http://www.northwestern.edu/nico/complexity-conference/
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-215

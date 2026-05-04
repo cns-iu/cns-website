@@ -1,15 +1,10 @@
 slug: ev-231
 type: conference
 title: Design Computing on the Net'99 (DCNet'99)
-description: ''
-location: University of Sydney, Sydney, Australia
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-141
-tutorials: []
+link: http://sydney.edu.au
 dateStart: '1999-11-30'
 dateEnd: '1999-12-03'
-tags: []
-link: http://sydney.edu.au
+location:
+  raw: University of Sydney, Sydney, Australia
+presentations:
+  - pres-141

@@ -1,12 +1,12 @@
 slug: pres-312
 type: presentation
 title: 'Sci2: A Tool of Science of ScienceResearch and Practice Tutorial'
-description: ''
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+link: https://cns.iu.edu/docs/presentations/2011-borner-sci2tutorial-nsf.pdf
+dateStart: '2011-10-17'
+dateEnd: '2011-10-17'
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
 presenters:
   - katy-borner
   - joseph-r-biberstine
-dateStart: '2011-10-17'
-dateEnd: '2011-10-17'
 event: ev-460
-link: https://cns.iu.edu/docs/presentations/2011-borner-sci2tutorial-nsf.pdf

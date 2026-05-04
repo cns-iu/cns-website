@@ -1,15 +1,10 @@
 slug: ev-254
 type: visit
 title: Ingo Gunther visits Center
-description: null
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-05-01'
 dateEnd: '2008-06-30'
-tags: []
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana

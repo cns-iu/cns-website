@@ -1,23 +1,19 @@
 slug: pub-387
 type: article-journal
-title: Considerations for Using the Vasculature as a Coordinate System to Map
-  All the Cells in the Human Body
+title: >-
+  Considerations for Using the Vasculature as a Coordinate System to Map All the
+  Cells in the Human Body
+date: 2020-03-13T00:00:00.000Z
+doi: 10.3389/fcvm.2020.00029
 authors:
   - griffin-m-weber
   - yingnan-ju
   - katy-borner
-editors: []
-doi: 10.3389/fcvm.2020.00029
-date: 2020-03-13
-publisher: ""
 venue: Frontiers in Cardiovascular Medicine
 volume: 7 - 2020
-issue: "29"
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2020-Weber-Considerations.pdf
+issue: '29'
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2020-Weber-Considerations.pdf

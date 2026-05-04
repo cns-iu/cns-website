@@ -1,15 +1,12 @@
 slug: ev-883
 type: other
 title: SenNet Sci-talk
-description: ''
-location: Virtual
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-728
-tutorials: []
+link: null
 dateStart: '2024-05-29'
 dateEnd: '2024-05-29'
-tags:
-  - hra
+location:
+  raw: Virtual
+presentations:
+  - pres-728
+projects:
+  - human-reference-atlas

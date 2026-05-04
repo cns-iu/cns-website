@@ -1,12 +1,11 @@
 slug: fun-57
 type: research
-name: NIH/NCI Contract
 title: Evaluating Large, Interdisciplinary Research Initiatives
+name: NIH/NCI Contract
 funder: National Institutes of Health
-investigators:
-  - katy-borner
 amount: 40000
-receivedAmount: 40000
 dateStart: '2008-09-01'
 dateEnd: '2009-08-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 40000

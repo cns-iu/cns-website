@@ -1,7 +1,7 @@
 slug: vis-2
-type: visualization
-link: https://cns.iu.edu//interactive_displays.html
 title: Illuminated Diagram Display
+date: '2013-01-23'
+link: https://cns.iu.edu//interactive_displays.html
 description: >-
   The _Illuminated Diagram_ features a geographic map and a science map
   controlled by a touch panel, which allows users to learn what areas of science
@@ -12,9 +12,8 @@ description: >-
   provided by Jagannathan Lakshmipathy and David M. Reagan. The original design,
   cartography, and programming were created by W. Bradford Paley, John Burgoon,
   and Peter Kennard.
-mediaType: video
-mediaUrl: >-
-  https://cns.iu.edu///www.youtube.com/embed/Ef3tAxoW9mE" 
-  aria-label="illuminated
-date: '2013-01-23'
-tags: []
+media:
+  - type: video
+    url: >-
+      https://cns.iu.edu///www.youtube.com/embed/Ef3tAxoW9mE" 
+      aria-label="illuminated

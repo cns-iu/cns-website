@@ -3,15 +3,10 @@ type: conference
 title: >-
   SIGGRAPH 2007: The 34nd International Conference and Exhibition on Computer
   Graphics and Interactive Techniques
-description: null
-location: San Diego, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-124
-tutorials: []
+link: http://www.siggraph.org/s2007/
 dateStart: '2007-08-05'
 dateEnd: '2007-08-09'
-tags: []
-link: http://www.siggraph.org/s2007/
+location:
+  raw: San Diego, CA
+presentations:
+  - pres-124

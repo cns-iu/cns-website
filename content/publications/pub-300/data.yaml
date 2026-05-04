@@ -1,4 +1,9 @@
 slug: pub-300
+type: article-journal
+title: >-
+  Mapping the Impact of Transdisciplinary Research: A Visual Comparison of
+  Investigator Initiated and Team Based Tobacco Use Research Publications
+date: '2014-09-25'
 authors:
   - brooke-stipelman
   - kara-l-hall
@@ -6,19 +11,10 @@ authors:
   - janet-okamoto
   - daniel-stokols
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  Mapping the Impact of Transdisciplinary Research: A Visual Comparison of
-  Investigator Initiated and Team Based Tobacco Use Research Publications
-date: '2014-09-25'
-publisher: ''
 venue: The Journal of Translational Medicine and Epidemiology
 volume: '2'
 issue: '2'
-doi: ''
 pages: '1033'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2014-stipelman-mappingimpact.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2014-stipelman-mappingimpact.pdf

@@ -1,12 +1,10 @@
 slug: fun-29
 type: research
-name: German Academic Exchange Center Grant (DAAD)
 title: Grant for Ph.D. Research in US
+name: German Academic Exchange Center Grant (DAAD)
 funder: German Academic Exchange Center (DAAD)
-investigators:
-  - katy-borner
 amount: 28000
-receivedAmount: null
 dateStart: '1995-07-01'
 dateEnd: '1995-08-31'
-tags: []
+investigators:
+  - katy-borner

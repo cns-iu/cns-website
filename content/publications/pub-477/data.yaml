@@ -1,23 +1,14 @@
 slug: pub-477
 type: book
-thumbnail: atlas-macroscopes.png
-title: " Atlas of Macroscopes: Interactive Data Visualizations"
+title: ' Atlas of Macroscopes: Interactive Data Visualizations'
+date: 2025-09-30T00:00:00.000Z
 authors:
   - katy-borner
   - elizabeth-g-record
   - todd-theriault
-editors: []
-doi: ""
-date: 2025-09-30
-publisher: "Cambridge, MA: The MIT Press"
-venue: ""
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/
-mediaUrl: atlas-macroscopes.png
+thumbnail: atlas-macroscopes.png
+publisher: 'Cambridge, MA: The MIT Press'
 featured: true
-tags:
-  - featured
+media:
+  - type: website
+    url: https://mitpress.mit.edu/9780262049924/atlas-of-macroscopes/

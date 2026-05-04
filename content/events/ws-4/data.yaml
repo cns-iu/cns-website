@@ -1,9 +1,8 @@
 slug: ws-4
 type: workshop
 title: NIH Workshop on Value Added Services for VIVO
-description: ''
-location: Bloomington, Indiana
+link: http://web.archive.org/web/20260108191923/https://cns.iu.edu/110325.html
 dateStart: '2011-03-25'
 dateEnd: '2011-03-26'
-tags: []
-link: http://web.archive.org/web/20260108191923/https://cns.iu.edu/110325.html
+location:
+  raw: Bloomington, Indiana

@@ -1,14 +1,8 @@
 slug: ev-48
 type: conference
 title: I-Light Symposium, IUPUI
-description: null
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.iupui.edu/%7Eilight/symposium04/index.html
 dateStart: '2004-03-08'
 dateEnd: '2004-03-08'
-tags: []
-link: http://www.iupui.edu/%7Eilight/symposium04/index.html
+location:
+  raw: Indianapolis, Indiana

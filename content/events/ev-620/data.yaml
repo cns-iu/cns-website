@@ -1,14 +1,8 @@
 slug: ev-620
 type: workshop
 title: University of Michigan
-description: ''
-location: Ann Arbor, MI
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://umich.edu/
 dateStart: '2016-10-31'
 dateEnd: '2016-10-31'
-tags: []
-link: http://umich.edu/
+location:
+  raw: Ann Arbor, MI

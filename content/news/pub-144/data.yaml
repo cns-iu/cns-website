@@ -1,6 +1,7 @@
 slug: pub-144
-link: https://cns.iu.edu/docs/news/20160125_cdc.html
 title: 'CDC Museum to Host Places & Spaces: Mapping Science Exhibition'
+date: '2016-01-25'
+link: https://cns.iu.edu/docs/news/20160125_cdc.html
 description: >-
   Data visualization is a powerful tool that helps both scientists and the
   public quickly understand the scope and context of complex health threats.
@@ -26,15 +27,13 @@ description: >-
     
   [Read the full story on the Centers for Disease Control
   website.](http://www.cdc.gov/media/releases/2016/s0125-cdc-museum-placesandspaces.html)
-date: '2016-01-25'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20160125_cdc.html
-caption: >-
-  New CDC Museum Exhibit - Places & Spaces: Mapping Science One of the many
-  infographics found at the exhibit.  
-
-  [Read the original story at the Centers for Disease Control
-  website](http://www.cdc.gov/media/releases/2016/s0125-cdc-museum-placesandspaces.html)
-publisher: ''
 reporter: CDC Newsroom
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20160125_cdc.html
+    description: >-
+      New CDC Museum Exhibit - Places & Spaces: Mapping Science One of the many
+      infographics found at the exhibit.  
+
+      [Read the original story at the Centers for Disease Control
+      website](http://www.cdc.gov/media/releases/2016/s0125-cdc-museum-placesandspaces.html)

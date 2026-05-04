@@ -1,6 +1,7 @@
 slug: pub-115
-link: https://cns.iu.edu/docs/news/20130207_Science.html
 title: Making Every Scientist a Research Funder
+date: '2014-02-07'
+link: https://cns.iu.edu/docs/news/20130207_Science.pdf
 description: >-
   A radical proposal to revamp peer review would give scientists an even bigger
   role in deciding how to distribute U.S. research dollars—at a fraction of the
@@ -55,15 +56,13 @@ description: >-
   peers. The simulation, he says, yielded a funding pattern "similar in shape to
   the actual distribution" at NSF and the National Institutes of Health for the
   past decade—at a fraction of the overhead required by the current system.
-date: '2014-02-07'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20130207_Science.html
-caption: >-
-  The following is an article from the journal _Science_. Read the original
-  story on the web
-  [here](http://www.sciencemag.org/content/343/6171/598.full?sid=4f40a7f0-6ba2-4ad8-a181-7ab394fe2178),
-  or download a PDF of the article [here](/docs/news/20130207_Science.pdf).
 publisher: Science
 reporter: Jeffrey Mervis
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20130207_Science.pdf
+    description: >-
+      The following is an article from the journal _Science_. Read the original
+      story on the web
+      [here](http://www.sciencemag.org/content/343/6171/598.full?sid=4f40a7f0-6ba2-4ad8-a181-7ab394fe2178),
+      or download a PDF of the article [here](/docs/news/20130207_Science.pdf).

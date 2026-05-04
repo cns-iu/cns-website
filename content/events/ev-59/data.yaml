@@ -1,14 +1,10 @@
 slug: ev-59
 type: other
 title: INRIA
-description: null
-location: Paris, France
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-25
-tutorials: []
+link: null
 dateStart: '2004-07-12'
 dateEnd: '2004-07-12'
-tags: []
+location:
+  raw: Paris, France
+presentations:
+  - pres-25

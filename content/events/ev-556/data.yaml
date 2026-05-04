@@ -1,15 +1,10 @@
 slug: ev-556
 type: workshop
 title: National Center for Advancing Translational Sciences
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-422
-tutorials: []
+link: http://www.ncats.nih.gov/
 dateStart: '2015-04-02'
 dateEnd: null
-tags: []
-link: http://www.ncats.nih.gov/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-422

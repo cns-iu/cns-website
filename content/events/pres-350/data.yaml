@@ -1,20 +1,20 @@
 slug: pres-350
 type: presentation
-title: "Places & Spaces: Mapping Science An International Exhibit"
+title: 'Places & Spaces: Mapping Science An International Exhibit'
 link: https://cns.iu.edu/docs/presentations/2012-borner-statewideIT-exhibit.pdf
-dateStart: 2012-09-24
-dateEnd: 2012-09-24
-projects:
-  - macroscopes
-  - maps
-tags:
-  - exhibits
-location: Indiana Memorial Union, Indiana University at Bloomington, 900 E.
-  Seventh St., Bloomington, Indiana, 47405
-description: ""
-mediaType: image
-mediaUrl: places-and-spaces.png
+dateStart: 2012-09-24T00:00:00.000Z
+dateEnd: 2012-09-24T00:00:00.000Z
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
 presenters:
   - katy-borner
   - todd-theriault
 event: ev-492
+projects:
+  - macroscopes
+  - maps
+media:
+  - type: image
+    url: places-and-spaces.png

@@ -1,7 +1,7 @@
 slug: vis-19
-type: visualization
-link: https://cns.iu.edu/docs/research/visualizations/2015_NAFKI_Outcomes.pdf
 title: 2015 NAFKI Outcomes
+date: '2015-11-11'
+link: https://cns.iu.edu/docs/research/visualizations/2015_NAFKI_Outcomes.pdf
 description: >-
   The National Academies Keck Futures Initiative (NAKFI) is a program of the
   National Academies of Sciences, Engineering and Medicine supported by the W.M.
@@ -9,7 +9,6 @@ description: >-
   together to work in task groups and challenge teams to tackle tough real-world
   problems through innovative, outstanding communication and cooperation among
   disciplines.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/NAFKI2_400W.png
-date: '2015-11-11'
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/NAFKI2_400W.png

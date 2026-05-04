@@ -2,14 +2,12 @@ slug: pres-246
 type: presentation
 title: |
   Evolving and Emerging Populations and Topics Extracted from NSF Awards
-description: >-
-  From the Cyberinfrastructure for Network Science Center to the National
-  Science Foundation CISE and SBE AC Subcommittee
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+link: https://cns.iu.edu/docs/presentations/2010-borner-zoss-nsf.pdf
+dateStart: '2010-06-07'
+dateEnd: '2010-06-07'
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
 presenters:
   - katy-borner
   - angela-zoss
-dateStart: '2010-06-07'
-dateEnd: '2010-06-07'
 event: ev-415
-link: https://cns.iu.edu/docs/presentations/2010-borner-zoss-nsf.pdf

@@ -1,14 +1,10 @@
 slug: ev-261
 type: conference
 title: Colloquium on Language and the New Media
-description: null
-location: British Association of Applied Linguistics, Cardiff, Wales, UK
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-163
-tutorials: []
+link: null
 dateStart: '2002-08-05'
 dateEnd: '2002-08-05'
-tags: []
+location:
+  raw: British Association of Applied Linguistics, Cardiff, Wales, UK
+presentations:
+  - pres-163

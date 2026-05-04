@@ -1,12 +1,12 @@
 slug: pres-6
 type: presentation
 title: Mapping the Disciplinary Diffusion of Information
-description: ''
-location: Champaign, IL
+link: https://cns.iu.edu/docs/presentations/2005-hook-mapdiff-unknown.ppt
+dateStart: '2005-05-17'
+dateEnd: '2005-05-17'
+location:
+  raw: Champaign, IL
 presenters:
   - kevin-w-boyack
   - peter-a-hook
-dateStart: '2005-05-17'
-dateEnd: '2005-05-17'
 event: ev-53
-link: https://cns.iu.edu/docs/presentations/2005-hook-mapdiff-unknown.ppt

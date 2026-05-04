@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Identifying Overlap, Gaps and Emerging Research Areas Using Multi-Level
   Science Maps
-description: ''
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2012-borner-portfolio-analysis-nih.pdf
 dateStart: '2012-07-24'
 dateEnd: '2012-07-24'
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
+presenters:
+  - katy-borner
 event: ev-487
-link: https://cns.iu.edu/docs/presentations/2012-borner-portfolio-analysis-nih.pdf

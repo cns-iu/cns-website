@@ -1,14 +1,8 @@
 slug: ev-137
 type: workshop
 title: IM 2.3 Winter Workshop at Apple
-description: null
-location: Cupertino, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://web.mit.edu/I-m/
 dateStart: '2007-02-01'
 dateEnd: '2007-02-02'
-tags: []
-link: http://web.mit.edu/I-m/
+location:
+  raw: Cupertino, CA

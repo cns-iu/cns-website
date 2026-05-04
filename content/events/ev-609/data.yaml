@@ -1,16 +1,10 @@
 slug: ev-609
 type: conference
 title: OECD Blue Sky Forum on Science and Innovation Indicators
-description: ''
-location: Ghent, Belgium
-organizers: []
-attendees: []
-publications:
-  - pub-334
-presentations:
-  - pres-476
-tutorials: []
+link: https://oecd.org
 dateStart: '2016-09-19'
 dateEnd: '2016-09-21'
-tags: []
-link: https://oecd.org
+location:
+  raw: Ghent, Belgium
+presentations:
+  - pres-476

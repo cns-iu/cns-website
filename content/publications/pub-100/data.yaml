@@ -1,19 +1,12 @@
 slug: pub-100
-authors:
-  - stacy-kowalczyk
-editors: []
 type: manuscript
 title: Digital Preservation Cross Discipline Survey
 date: '2005-01-01'
-publisher: ''
+authors:
+  - stacy-kowalczyk
 venue: >-
   L709: Introduction to Research and Statistics, School of Library and
   Information Science, Indiana University
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-kowalczyk-crossdis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-kowalczyk-crossdis.pdf

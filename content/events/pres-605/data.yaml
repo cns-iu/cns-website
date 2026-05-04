@@ -3,8 +3,11 @@ type: presentation
 title: >-
   Multi-Level, Multi-Modal CCF UI for Data Providers and Users within the Human
   BioMolecular Atlas Program (HuBMAP)
-description: ''
-location: Boston, MA
+link: https://cns.iu.edu/docs/presentations/2019.06.27-MC-IU.Q3-DemoDay.pdf
+dateStart: '2019-06-27'
+dateEnd: '2019-06-27'
+location:
+  raw: Boston, MA
 presenters:
   - bruce-w-herr-ii
   - katy-borner
@@ -13,9 +16,6 @@ presenters:
   - paul-macklin
   - james-p-sluka
   - randy-heiland
-dateStart: '2019-06-27'
-dateEnd: '2019-06-27'
 event: ev-747
-link: https://cns.iu.edu/docs/presentations/2019.06.27-MC-IU.Q3-DemoDay.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

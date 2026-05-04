@@ -1,4 +1,7 @@
 slug: pub-177
+type: paper-conference
+title: Case-Based Learning for Design
+date: '1994-01-01'
 authors:
   - katy-borner
   - dietmar-janetzko
@@ -6,18 +9,10 @@ editors:
   - m-keane
   - j-p-haton
   - m-manago
-type: paper-conference
-title: Case-Based Learning for Design
-date: '1994-01-01'
-publisher: ''
 venue: >-
   Proceedings of the 2nd European Workshop on Case-Based Reasoning, Chantilly,
   France
-volume: ''
-issue: ''
-doi: ''
 pages: 273-281
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1994-borner-learndes-cbr.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1994-borner-learndes-cbr.pdf

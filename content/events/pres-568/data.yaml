@@ -1,11 +1,11 @@
 slug: pres-568
 type: presentation
 title: Public or Perish
-description: ''
-location: Hartford, CT
-presenters:
-  - lisel-record
+link: https://cns.iu.edu/docs/presentations/2018-record-astc.pdf
 dateStart: '2018-09-29'
 dateEnd: '2018-09-29'
+location:
+  raw: Hartford, CT
+presenters:
+  - lisel-record
 event: ev-716
-link: https://cns.iu.edu/docs/presentations/2018-record-astc.pdf

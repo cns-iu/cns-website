@@ -1,23 +1,16 @@
 slug: pub-346
+type: paper-conference
+title: >-
+  Jetstream: Network Workbench and Custom VMs for Network Scientists on the
+  Science Cloud
+date: '2017-11-01'
 authors:
   - katy-borner
   - craig-alan-stewart
   - valentin-pentchev
   - david-hancock
   - jeremy-fischer
-editors: []
-type: paper-conference
-title: >-
-  Jetstream: Network Workbench and Custom VMs for Network Scientists on the
-  Science Cloud
-date: '2017-11-01'
-publisher: ''
 venue: NetSci 2017, Indianapolis, IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-Fischer-NetSci-Jetstream.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-Fischer-NetSci-Jetstream.pdf

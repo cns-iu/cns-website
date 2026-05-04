@@ -1,4 +1,7 @@
 slug: pub-343
+type: paper-conference
+title: Enter a Job, Get Course Recommendations
+date: '2017-03-24'
 authors:
   - katy-borner
   - naren-suri
@@ -6,17 +9,8 @@ authors:
   - zhen-gao
   - tian-xia
   - xiaozhong-liu
-editors: []
-type: paper-conference
-title: Enter a Job, Get Course Recommendations
-date: '2017-03-24'
-publisher: ''
 venue: iConference, Wuhan, China
-volume: ''
-issue: ''
-doi: ''
 pages: '5'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-li-enter-a-job.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-li-enter-a-job.pdf

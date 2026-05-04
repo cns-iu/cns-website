@@ -1,14 +1,8 @@
 slug: ev-101
 type: conference
 title: 8th Science and Technology Indicators Conference 2004
-description: null
-location: Leiden, The Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://conference.cwts.nl/
 dateStart: '2004-09-23'
 dateEnd: '2004-09-25'
-tags: []
-link: http://conference.cwts.nl/
+location:
+  raw: Leiden, The Netherlands

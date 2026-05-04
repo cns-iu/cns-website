@@ -1,6 +1,7 @@
 slug: pub-120
-link: https://cns.iu.edu/docs/news/20140429_BritishLibrary.html
 title: UK Research Council funding data comes to life in two new visualisations
+date: '2014-04-29'
+link: https://cns.iu.edu/docs/news/20140429_BritishLibrary.pdf
 description: >-
   *   Competition run by British Library, BBRSC and AHRC challenged the public
   to create a visualisation showing how £3 billion of funding is apportioned
@@ -129,16 +130,13 @@ description: >-
   The quality and range of research supported by this investment of public funds
   not only provides social and cultural benefits but also contributes to the
   economic success of the UK. [www.ahrc.ac.uk](http://www.ahrc.ac.uk/)
-date: '2014-04-29'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140429_BritishLibrary.html
-caption: >-
-  The following is a press release from the British Library. Read the original
-  article
-  http://pressandpolicy.bl.uk/Press-Releases/UK-Research-Council-funding-data-comes-to-life-in-two-new-visualisations-69f.aspx
-  here, or download a PDF of the article
-  [here](/docs/news/20140429_BritishLibrary.pdf).
 publisher: British Library
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20140429_BritishLibrary.pdf
+    description: >-
+      The following is a press release from the British Library. Read the
+      original article
+      http://pressandpolicy.bl.uk/Press-Releases/UK-Research-Council-funding-data-comes-to-life-in-two-new-visualisations-69f.aspx
+      here, or download a PDF of the article
+      [here](/docs/news/20140429_BritishLibrary.pdf).

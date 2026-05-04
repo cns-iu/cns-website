@@ -1,15 +1,10 @@
 slug: ev-716
 type: conference
 title: ASTC Annual Conference
-description: ''
-location: Hartford, CT
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-568
-tutorials: []
+link: http://www.astc.org/
 dateStart: '2018-09-29'
 dateEnd: '2018-10-02'
-tags: []
-link: http://www.astc.org/
+location:
+  raw: Hartford, CT
+presentations:
+  - pres-568

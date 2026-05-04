@@ -1,15 +1,10 @@
 slug: ev-533
 type: other
 title: OECD
-description: ''
-location: Paris, France
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-399
-tutorials: []
+link: http://www.oecd.org/
 dateStart: '2014-06-25'
 dateEnd: '2014-06-25'
-tags: []
-link: http://www.oecd.org/
+location:
+  raw: Paris, France
+presentations:
+  - pres-399

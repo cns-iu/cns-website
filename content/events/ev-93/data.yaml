@@ -3,14 +3,8 @@ type: conference
 title: >-
   The Atlanta Conference on S&T Policy 2006: US-EU Policies for Research and
   Innovation
-description: null
-location: Technology Square, Georgia Institute of Technology, Atlanta, GA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.spp.gatech.edu/conference2006.php
 dateStart: '2006-05-18'
 dateEnd: '2006-05-20'
-tags: []
-link: http://www.spp.gatech.edu/conference2006.php
+location:
+  raw: Technology Square, Georgia Institute of Technology, Atlanta, GA

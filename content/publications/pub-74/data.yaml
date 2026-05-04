@@ -1,19 +1,13 @@
 slug: pub-74
-authors:
-  - katy-borner
-editors: []
 type: paper-conference
 title: >-
   Extracting and Visualizing Semantic Structures in Retrieval Results for
   Browsing
 date: '2000-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: ACM Digital Library Conference, San Antonio, TX
-volume: ''
-issue: ''
-doi: ''
 pages: 234-235
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2000-borner-browsing.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2000-borner-browsing.pdf

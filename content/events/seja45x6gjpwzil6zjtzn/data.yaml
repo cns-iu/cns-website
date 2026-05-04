@@ -1,16 +1,12 @@
 slug: seja45x6gjpwzil6zjtzn
 type: exhibit
-title: "Luddy TechFest: Visualizing Science"
+title: 'Luddy TechFest: Visualizing Science'
 link: luddy-tech-fest-2026.pdf
+dateStart: 2026-04-11T00:00:00.000Z
+dateEnd: null
 thumbnail: luddytechfest2026.png
-dateStart: 2026-04-11
-location: Bloomington, Indiana, USA
+location:
+  raw: Bloomington, Indiana, USA
 projects:
   - maps
   - macroscopes
-tags:
-  - exhibits
-description: A multimedia exhibit of data visualization featuring the Places and
-  Spaces Exhibit
-mediaType: image
-mediaUrl: luddytechfest2026.png

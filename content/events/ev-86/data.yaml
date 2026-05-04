@@ -3,14 +3,8 @@ type: workshop
 title: >-
   Social Networks and Cyberinfrastructure (SNAC): The Role of Social Network
   Research in Enabling Cyberinfrastructure
-description: null
-location: Urbana, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.ncsa.uiuc.edu/Conferences/SNAC/
 dateStart: '2005-11-03'
 dateEnd: '2005-11-05'
-tags: []
-link: http://www.ncsa.uiuc.edu/Conferences/SNAC/
+location:
+  raw: Urbana, IL

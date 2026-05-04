@@ -1,10 +1,10 @@
 slug: ws-55
 type: workshop
 title: HuBMAP HIVE Demo Day
-description: ''
-location: Bloomington, Indiana, USA
+link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
 dateStart: '2020-09-20'
 dateEnd: '2020-09-21'
-tags:
-  - hra
-link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
+location:
+  raw: Bloomington, Indiana, USA
+projects:
+  - human-reference-atlas

@@ -1,11 +1,11 @@
 slug: pres-152
 type: presentation
 title: Network Analysis, Modeling, and Visualization
-description: ''
-location: Den Haag, The Netherlands
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2008-borner-nwb-rathenau.ppt
 dateStart: '2008-01-24'
 dateEnd: '2008-01-24'
+location:
+  raw: Den Haag, The Netherlands
+presenters:
+  - katy-borner
 event: ev-237
-link: https://cns.iu.edu/docs/presentations/2008-borner-nwb-rathenau.ppt

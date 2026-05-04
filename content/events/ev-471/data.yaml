@@ -1,17 +1,12 @@
 slug: ev-471
 type: meeting
 title: Centre for Science and Technology Studies
-description: null
-location: >-
-  Centre for Science and Technology Studies, Leiden University, P.O. Box 9555,
-  Leiden, The Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-323
-tutorials: []
+link: http://www.socialsciences.leiden.edu/cwts/news/cwts-seminar-20120323.html
 dateStart: '2012-03-23'
 dateEnd: '2012-03-23'
-tags: []
-link: http://www.socialsciences.leiden.edu/cwts/news/cwts-seminar-20120323.html
+location:
+  raw: >-
+    Centre for Science and Technology Studies, Leiden University, P.O. Box 9555,
+    Leiden, The Netherlands
+presentations:
+  - pres-323

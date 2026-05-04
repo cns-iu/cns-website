@@ -1,16 +1,11 @@
 slug: ev-501
 type: meeting
 title: World Economic Forum Annual Meeting 2013
-description: ''
-location: Davos-Klosters, Switzerland
-organizers: []
-attendees: []
-publications: []
+link: http://www.weforum.org/events/world-economic-forum-annual-meeting-2013
+dateStart: '2013-01-23'
+dateEnd: '2013-01-27'
+location:
+  raw: Davos-Klosters, Switzerland
 presentations:
   - pres-362
   - pres-363
-tutorials: []
-dateStart: '2013-01-23'
-dateEnd: '2013-01-27'
-tags: []
-link: http://www.weforum.org/events/world-economic-forum-annual-meeting-2013

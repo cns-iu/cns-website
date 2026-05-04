@@ -1,6 +1,7 @@
 slug: pub-67
-link: https://cns.iu.edu/docs/news/duke.html
 title: CNS to collaborate with Duke University on digital exhibit
+date: '2013-07-15'
+link: https://cns.iu.edu/docs/news/duke.html
 description: >-
   [_Places & Spaces: Mapping Science_](http://scimaps.org) is very excited to be
   working with the prestigious Duke University Libraries and Visual Studies
@@ -30,13 +31,12 @@ description: >-
   exhibit hopes to create a more dynamic relationship between the maps and their
   audience—a relationship that involves not only information, but also
   curiosity, play, and discovery.
-date: '2013-07-15'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/duke.html
-caption: >-
-  Shown above is [Ward Shelley's "History of Science
-  Fiction"](http://scimaps.org/maps/map/history_of_science_f_132/) from the 7th
-  Iteration of _Places & Spaces_ displayed on Indiana University's IQ Wall.
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/duke.html
+    description: >-
+      Shown above is [Ward Shelley's "History of Science
+      Fiction"](http://scimaps.org/maps/map/history_of_science_f_132/) from the
+      7th Iteration of _Places & Spaces_ displayed on Indiana University's IQ
+      Wall.

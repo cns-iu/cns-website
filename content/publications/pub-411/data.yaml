@@ -1,4 +1,10 @@
 slug: pub-411
+type: article-journal
+title: >-
+  Leveraging online shopping behaviors as a proxy for personal lifestyle
+  choices: New insights into chronic disease prevention literacy
+date: '2022-03-28'
+doi: 10.1177/20552076221089092
 authors:
   - yongzhen-wang
   - xiaozhong-liu
@@ -7,20 +13,10 @@ authors:
   - yingnan-ju
   - changlong-sun
   - luo-si
-editors: []
-type: article-journal
-title: >-
-  Leveraging online shopping behaviors as a proxy for personal lifestyle
-  choices: New insights into chronic disease prevention literacy
-date: '2022-03-28'
-publisher: ''
 venue: DIGITAL HEALTH
 volume: '8'
-issue: ''
-doi: 10.1177/20552076221089092
 pages: 1-13.
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2022-Wang_Leveraging-online-shopping-behaviors.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2022-Wang_Leveraging-online-shopping-behaviors.pdf

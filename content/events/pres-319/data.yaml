@@ -1,20 +1,19 @@
 slug: pres-319
 type: presentation
-title: "Places & Spaces: Mapping Science at Northeastern University"
+title: 'Places & Spaces: Mapping Science at Northeastern University'
 link: https://cns.iu.edu/docs/presentations/2012-borner-neu-exhibit.pdf
-dateStart: 2012-02-02
-dateEnd: 2012-02-02
+dateStart: 2012-02-02T00:00:00.000Z
+dateEnd: 2012-02-02T00:00:00.000Z
 thumbnail: places-and-spaces.png
+location:
+  street: Northeastern University
+  city: Boston
+  state: Massachusetts
+  postcode: '02115'
+  country: USA
+presenters:
+  - katy-borner
+event: ev-467
 projects:
   - macroscopes
   - maps
-street: Northeastern University
-city: Boston
-state: Massachusetts
-country: USA
-postcode: "02115"
-presenters:
-  - katy-borner
-location: ""
-event: ev-467
-description: ""

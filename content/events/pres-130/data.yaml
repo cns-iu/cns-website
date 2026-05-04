@@ -1,13 +1,13 @@
 slug: pres-130
 type: presentation
 title: Chinese Text Segmentation
-description: ''
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-presenters:
-  - chung-yang-kenneth-lee
+link: https://cns.iu.edu/docs/presentations/2007-lee-chinaseg.pdf
 dateStart: '2007-09-10'
 dateEnd: '2007-09-10'
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
+presenters:
+  - chung-yang-kenneth-lee
 event: ev-169
-link: https://cns.iu.edu/docs/presentations/2007-lee-chinaseg.pdf

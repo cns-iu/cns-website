@@ -3,14 +3,14 @@ type: presentation
 title: >-
   Cyberinfrastructure Shell (CIShell): An OSGi-Based Framework for the
   Integration of Datasets and Algorithms
-description: ''
-location: Santa Clara, CA
+link: http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931
+dateStart: '2007-03-06'
+dateEnd: '2007-03-06'
+location:
+  raw: Santa Clara, CA
 presenters:
   - bruce-w-herr-ii
   - katy-borner
   - ben-markines
   - weixia-bonnie-huang
-dateStart: '2007-03-06'
-dateEnd: '2007-03-06'
 event: ev-241
-link: http://www.eclipsecon.org/2007/index.php?page=sub/&id=3931

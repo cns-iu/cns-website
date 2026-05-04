@@ -1,22 +1,19 @@
 slug: pub-192
+type: periodical
+title: Mapping Knowledge Domains
+date: '2004-01-01'
 authors:
   - richard-m-shiffrin
   - katy-borner
 editors:
   - richard-m-shiffrin
   - katy-borner
-type: periodical
-title: Mapping Knowledge Domains
-date: '2004-01-01'
-publisher: ''
 venue: >-
   Proceedings of the National Academy of Sciences of the United States of
   America
 volume: '101'
 issue: Suppl. 1
-doi: ''
 pages: 5183-5185
-chapter: ''
-links:
-  - http://ella.slis.indiana.edu/~katy/paper/04pnas-intro.pdf
-tags: []
+media:
+  - type: pdf
+    url: http://ella.slis.indiana.edu/~katy/paper/04pnas-intro.pdf

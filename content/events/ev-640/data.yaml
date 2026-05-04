@@ -1,13 +1,8 @@
 slug: ev-640
 type: conference
 title: 7th International Learning Analytics and Knowledge (LAK) Conference
-description: ''
-location: Simon Fraser University, Vancouver, BC, Canada
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2017-03-13'
 dateEnd: '2017-03-17'
-tags: []
+location:
+  raw: Simon Fraser University, Vancouver, BC, Canada

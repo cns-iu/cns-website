@@ -1,16 +1,14 @@
 slug: pub-17
-link: https://cns.iu.edu/docs/news/20110902_ASIST.html
 title: >-
   2011 Award Winners — Atlas of Science: Visualizing What We Know wins Best
   Information Science Book award (website accessed 09/02/2011)
-description: ''
 date: '2011-09-02'
-mediaType: document
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20110902_ASIST.html
-caption: >-
-  Read the original article on the web
-  [here](http://www.asis.org/awards/2011_winners.html), or download a PDF of the
-  article [here](/docs/news/20110902_ASIST.pdf)
+link: https://cns.iu.edu/docs/news/20110902_ASIST.pdf
 publisher: 'ASIS&T: The Information Society for the Information Age'
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20110902_ASIST.pdf
+    description: >-
+      Read the original article on the web
+      [here](http://www.asis.org/awards/2011_winners.html), or download a PDF of
+      the article [here](/docs/news/20110902_ASIST.pdf)

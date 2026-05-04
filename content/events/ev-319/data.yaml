@@ -1,15 +1,10 @@
 slug: ev-319
 type: conference
 title: Talk in SAP Media X 2009 Winter Quarter Seminar Series
-description: null
-location: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-196
-tutorials: []
+link: http://mediax.stanford.edu/about.html
 dateStart: '2009-01-21'
 dateEnd: '2009-01-21'
-tags: []
-link: http://mediax.stanford.edu/about.html
+location:
+  raw: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
+presentations:
+  - pres-196

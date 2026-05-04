@@ -3,11 +3,13 @@ type: presentation
 title: >-
   Evolution of American Legal Topics: Metrics, Visualizations, and the History
   of a Discipline-the AALS Data
-description: Legal Education Lunch
-location: School of Law, Indiana University at Bloomington, Bloomington, Indiana, 47405
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2008-hook-evolution-topics.ppt
 dateStart: '2008-03-18'
 dateEnd: '2008-03-18'
+location:
+  raw: >-
+    School of Law, Indiana University at Bloomington, Bloomington, Indiana,
+    47405
+presenters:
+  - peter-a-hook
 event: ev-257
-link: https://cns.iu.edu/docs/presentations/2008-hook-evolution-topics.ppt

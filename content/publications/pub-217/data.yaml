@@ -1,23 +1,17 @@
 slug: pub-217
+type: paper-conference
+title: The Scholarly Database and its Utility for Scientometrics Research
+date: '2007-06-27'
 authors:
   - gavin-larowe
   - sumeet-adinath-ambre
   - john-w-burgoon
   - weimao-ke
   - katy-borner
-editors: []
-type: paper-conference
-title: The Scholarly Database and its Utility for Scientometrics Research
-date: '2007-06-27'
-publisher: ''
 venue: >-
   Proceedings of the 11th International Conference on Scientometrics and
   Informetrics, Madrid, Spain
-volume: ''
-issue: ''
-doi: ''
 pages: 457-462
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-larowe-sdb-csi.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-larowe-sdb-csi.pdf

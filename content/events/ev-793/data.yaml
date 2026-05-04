@@ -3,15 +3,10 @@ type: conference
 title: >-
   Dagstuhl Seminar on Multi-Level Graph Representation for Big Data Arising in
   Science Mapping
-description: ''
-location: Wadern, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-655
-tutorials: []
+link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21152
 dateStart: '2021-04-11'
 dateEnd: '2021-04-16'
-tags: []
-link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=21152
+location:
+  raw: Wadern, Germany
+presentations:
+  - pres-655

@@ -1,15 +1,10 @@
 slug: ev-511
 type: conference
 title: Fourth Annual VIVO Conference
-description: ''
-location: St. Louis, MO
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-376
-tutorials: []
+link: https://www.eiseverywhere.com/ehome/vivo2013/
 dateStart: '2013-08-14'
 dateEnd: '2013-08-16'
-tags: []
-link: https://www.eiseverywhere.com/ehome/vivo2013/
+location:
+  raw: St. Louis, MO
+presentations:
+  - pres-376

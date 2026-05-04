@@ -1,6 +1,7 @@
 slug: pub-110
-link: https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
 title: Interactive open house shows SOIC tools
+date: '2013-11-11'
+link: https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
 description: >-
   Students and professors trickled into Woodburn Hall, looking around at the
   screens lining the front of the room and the rows of empty tables, serving as
@@ -82,15 +83,13 @@ description: >-
     
   “Ultimately, I believe anyone can make sense of data,” Börner said. “Just like
   anyone can cook, anyone can map and visualize data and make sense of it.”
-date: '2013-11-11'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
-caption: >-
-  The following is an article from IDS News. [Click
-  here](http://idsnews.com/news/story.aspx?id=95234) to see the original article
-  on the web, or download a PDF of the original article
-  [here](/docs/news/20131111_IDSNews.pdf).
 publisher: IDS News
 reporter: Danielle Castonzo
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
+    description: >-
+      The following is an article from IDS News. [Click
+      here](http://idsnews.com/news/story.aspx?id=95234) to see the original
+      article on the web, or download a PDF of the original article
+      [here](/docs/news/20131111_IDSNews.pdf).

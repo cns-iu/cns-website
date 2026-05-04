@@ -1,6 +1,7 @@
 slug: pub-24
-link: https://cns.iu.edu/docs/news/20100730_NSFCurrent.html
 title: 'VIVO: A Digital Matchmaker for Scientists (website access 7/30/10)'
+date: '2010-07-30'
+link: https://cns.iu.edu/docs/news/20100730_NSFCurrent.pdf
 description: >-
   Ask any scientist what he or she is working on, and you might be surprised at
   just how specific most of the answers can be. A marine biologist may have
@@ -21,15 +22,12 @@ description: >-
   the project to as many institutions as possible. As scientific endeavors
   become increasing interdisciplinary, many scientists may soon find VIVO to be
   the perfect match.
-date: '2010-07-30'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20100730_NSFCurrent.html
-caption: >-
-  The following is an article from the National Science Foundation's newsletter,
-  _Current_. Read the original article
-  [here](http://www.nsf.gov/news/newsletter/aug_10/index.jsp), or download a PDF
-  of the article [here](/docs/news/20100730_NSFCurrent.pdf).
 publisher: National Science Foundation
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20100730_NSFCurrent.pdf
+    description: >-
+      The following is an article from the National Science Foundation's
+      newsletter, _Current_. Read the original article
+      [here](http://www.nsf.gov/news/newsletter/aug_10/index.jsp), or download a
+      PDF of the article [here](/docs/news/20100730_NSFCurrent.pdf).

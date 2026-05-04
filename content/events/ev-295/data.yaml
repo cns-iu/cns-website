@@ -1,15 +1,10 @@
 slug: ev-295
 type: meeting
 title: NCRR Staff Meeting
-description: null
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-05-06'
 dateEnd: '2008-05-06'
-tags: []
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD

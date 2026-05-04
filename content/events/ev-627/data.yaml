@@ -1,15 +1,10 @@
 slug: ev-627
 type: conference
 title: 2016 NSF Nanoscale Science and Engineering Grantees Conference
-description: ''
-location: Arlington, VA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-489
-tutorials: []
+link: http://www.nseresearch.org/2016/
 dateStart: '2016-12-12'
 dateEnd: '2016-01-01'
-tags: []
-link: http://www.nseresearch.org/2016/
+location:
+  raw: Arlington, VA
+presentations:
+  - pres-489

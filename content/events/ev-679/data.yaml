@@ -1,15 +1,10 @@
 slug: ev-679
 type: other
 title: Future Technologies Conference
-description: ''
-location: Vancouver, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-533
-tutorials: []
+link: http://saiconference.com/FTC
 dateStart: '2017-11-29'
 dateEnd: '2017-11-30'
-tags: []
-link: http://saiconference.com/FTC
+location:
+  raw: Vancouver, Canada
+presentations:
+  - pres-533

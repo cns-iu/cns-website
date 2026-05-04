@@ -3,15 +3,10 @@ type: conference
 title: >-
   15th International Conference on Webometrics, Informetrics and Scientometrics
   (WIS) & 20th COLLNET Meeting
-description: ''
-location: Dalian, China
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-611
-tutorials: []
+link: http://collnet2019.dlut.edu.cn/meeting/index_en.asp?id=2676
 dateStart: '2019-11-05'
 dateEnd: '2019-11-08'
-tags: []
-link: http://collnet2019.dlut.edu.cn/meeting/index_en.asp?id=2676
+location:
+  raw: Dalian, China
+presentations:
+  - pres-611

@@ -1,13 +1,11 @@
 slug: fun-60
 type: research
-name: NAS
 title: National Academy of Science Exhibit Display
+name: NAS
 funder: National Academy of Sciences
+amount: null
+dateStart: '2012-11-01'
+dateEnd: '2013-01-31'
 investigators:
   - katy-borner
   - chin-hua-kong
-amount: null
-receivedAmount: null
-dateStart: '2012-11-01'
-dateEnd: '2013-01-31'
-tags: []

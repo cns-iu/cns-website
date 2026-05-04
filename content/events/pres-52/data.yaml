@@ -1,11 +1,11 @@
 slug: pres-52
 type: presentation
 title: 'Knowledge Domain Visualizations: An Emerging Field of Information Cartography'
-description: ''
-location: Santa Fe, NM
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2005-hook-knowdom-santafe.ppt
 dateStart: '2005-05-25'
 dateEnd: '2005-05-25'
+location:
+  raw: Santa Fe, NM
+presenters:
+  - peter-a-hook
 event: ev-12
-link: https://cns.iu.edu/docs/presentations/2005-hook-knowdom-santafe.ppt

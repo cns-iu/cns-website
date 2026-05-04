@@ -1,11 +1,11 @@
 slug: pres-57
 type: presentation
 title: 'Organization of U.S Legal Materials: An Access Driven Infrastructure'
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2005-hook-orguslgl-unknown.pdf
 dateStart: '2005-04-20'
 dateEnd: '2005-04-20'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - peter-a-hook
 event: ev-228
-link: https://cns.iu.edu/docs/presentations/2005-hook-orguslgl-unknown.pdf

@@ -1,15 +1,10 @@
 slug: ev-819
 type: meeting
 title: HTAN All-Hands Meeting, Cross-Consortium Presentation
-description: ''
-location: Rockville, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-639
-tutorials: []
+link: https://humantumoratlas.org/
 dateStart: '2020-11-13'
 dateEnd: '2020-11-13'
-tags: []
-link: https://humantumoratlas.org/
+location:
+  raw: Rockville, MD (Virtual Event)
+presentations:
+  - pres-639

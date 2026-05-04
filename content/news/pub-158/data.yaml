@@ -1,6 +1,7 @@
 slug: pub-158
-link: https://cns.iu.edu/docs/news/20080411-amatria-unveiling-luddy-fest.html
 title: Amatria Unveiling caps off busy day at Luddy Fest
+date: '2018-04-11'
+link: https://cns.iu.edu/docs/news/20080411-amatria-unveiling-luddy-fest.html
 description: >-
   [LuddyFest](https://www.sice.indiana.edu/luddyfest/), the week-long
   celebration of innovation and the opening of Luddy Hall, the new home of the
@@ -188,13 +189,10 @@ description: >-
 
   For more information on LuddyFest, visit our
   [website](https://www.sice.indiana.edu/luddyfest/).
-date: '2018-04-11'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080411-amatria-unveiling-luddy-fest.html
-caption: >-
-  View the original story at [SICE
-  News](https://www.sice.indiana.edu/news/story.html?story=Amatria-unveiling-caps-off-busy-day-at-LuddyFest).
-publisher: ''
 reporter: SICE News
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20080411-amatria-unveiling-luddy-fest.html
+    description: >-
+      View the original story at [SICE
+      News](https://www.sice.indiana.edu/news/story.html?story=Amatria-unveiling-caps-off-busy-day-at-LuddyFest).

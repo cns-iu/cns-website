@@ -1,17 +1,15 @@
 slug: pub-50
-link: https://cns.iu.edu/docs/news/20070403_CPNSS_UofCopenhagen.html
 title: The Unity of Science Forms a Network
-description: ''
 date: '2007-04-03'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070403_CPNSS_UofCopenhagen.html
-caption: >-
-  Read the original article on the web
-  [here](http://cpnss.blogspot.com/2007/04/unity-of-science-forms-network.html),
-  or download a PDF of the article [here](20070403_CPNSS_UofCopenhagen.pdf).
+link: https://cns.iu.edu/docs/news/20070403_CPNSS_UofCopenhagen.pdf
 publisher: >-
   Center for the Philosophy of Nature and Science Studies, University of
   Copenhagen
 reporter: CPNSS Blogspot
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070403_CPNSS_UofCopenhagen.pdf
+    description: >-
+      Read the original article on the web
+      [here](http://cpnss.blogspot.com/2007/04/unity-of-science-forms-network.html),
+      or download a PDF of the article [here](20070403_CPNSS_UofCopenhagen.pdf).

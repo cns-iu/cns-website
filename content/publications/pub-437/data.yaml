@@ -1,4 +1,10 @@
 slug: pub-437
+type: article-journal
+title: >-
+  Multi-scalar data integration links glomerular angiopoietin-tie signaling
+  pathway activation with progression of diabetic kidney disease
+date: '2022-12-01'
+doi: 10.2337/db22-0169
 authors:
   - jiahao-liu
   - viji-nair
@@ -32,21 +38,14 @@ authors:
   - bruce-w-herr-ii
   - ellen-m-quardokus
   - lisel-record
-editors: []
-type: article-journal
-title: >-
-  Multi-scalar data integration links glomerular angiopoietin-tie signaling
-  pathway activation with progression of diabetic kidney disease
-date: '2022-12-01'
 publisher: American Diabetes Association
 venue: Diabetes
 volume: '71'
 issue: '12'
-doi: 10.2337/db22-0169
 pages: 2664-2676,
-chapter: ''
-links:
-  - >-
-    https://diabetesjournals.org/diabetes/article/71/12/2664/147552/Multi-Scalar-Data-Integration-Links-Glomerular
-tags:
-  - hra
+projects:
+  - human-reference-atlas
+media:
+  - type: website
+    url: >-
+      https://diabetesjournals.org/diabetes/article/71/12/2664/147552/Multi-Scalar-Data-Integration-Links-Glomerular

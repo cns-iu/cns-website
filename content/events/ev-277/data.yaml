@@ -3,14 +3,8 @@ type: conference
 title: >-
   Intelligence Advanced Research Projects Activity (IARPA) Conference on
   Information Extraction from Technical Literature
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.iarpa.gov/
 dateStart: '2008-10-28'
 dateEnd: '2008-10-29'
-tags: []
-link: http://www.iarpa.gov/
+location:
+  raw: Chicago, IL

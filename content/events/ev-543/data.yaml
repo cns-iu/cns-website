@@ -1,17 +1,12 @@
 slug: ev-543
 type: visit
 title: Department of Computer Science, University of Arizona
-description: ''
-location: |-
-  Karl Eller Graduate School of Managment, University of Arizona
-  , McClelland Hall 430Z, Tucson, AZ, 85721
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-410
-tutorials: []
+link: http://www.cs.arizona.edu/
 dateStart: '2014-10-07'
 dateEnd: '2014-10-07'
-tags: []
-link: http://www.cs.arizona.edu/
+location:
+  raw: |-
+    Karl Eller Graduate School of Managment, University of Arizona
+    , McClelland Hall 430Z, Tucson, AZ, 85721
+presentations:
+  - pres-410

@@ -1,16 +1,11 @@
 slug: ev-815
 type: meeting
 title: Chan Zuckerberg Initiative (CZI) Seed Networks 2020 Annual Meeting
-description: ''
-location: Redwood City, CA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-643
-tutorials: []
-dateStart: '2020-11-17'
-dateEnd: '2020-11-19'
-tags: []
 link: >-
   https://chanzuckerberg.com/science/programs-resources/single-cell-biology/seednetworks/
+dateStart: '2020-11-17'
+dateEnd: '2020-11-19'
+location:
+  raw: Redwood City, CA (Virtual Event)
+presentations:
+  - pres-643

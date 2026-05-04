@@ -1,15 +1,10 @@
 slug: ev-695
 type: conference
 title: 10th annual Midwest Undergraduate Cognitive Science Conference
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-547
-tutorials: []
+link: http://mucsc.info/#about
 dateStart: '2018-04-07'
 dateEnd: '2018-04-07'
-tags: []
-link: http://mucsc.info/#about
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-547

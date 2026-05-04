@@ -1,15 +1,10 @@
 slug: ev-532
 type: workshop
 title: European Commission Directorate-General for Research and Innovation
-description: ''
-location: Brussels, Belgium
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-398
-tutorials: []
+link: http://ec.europa.eu/research/index.cfm?pg=home&lg=en
 dateStart: '2014-06-23'
 dateEnd: '2014-06-23'
-tags: []
-link: http://ec.europa.eu/research/index.cfm?pg=home&lg=en
+location:
+  raw: Brussels, Belgium
+presentations:
+  - pres-398

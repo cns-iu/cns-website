@@ -1,7 +1,10 @@
 slug: pub-413
 type: article-journal
-title: Tissue registration and exploration user interfaces in support of a human
+title: >-
+  Tissue registration and exploration user interfaces in support of a human
   reference atlas
+date: 2022-12-13T00:00:00.000Z
+doi: 10.1101/2021.12.30.474265
 authors:
   - katy-borner
   - andreas-bueckle
@@ -18,18 +21,12 @@ authors:
   - jeffrey-m-spraggins
   - nathan-h-patterson
   - griffin-m-weber
-editors: []
-doi: 10.1101/2021.12.30.474265
-date: 2022-12-13
-publisher: ""
 venue: Nature Communications Biology
-volume: "5"
-issue: ""
+volume: '5'
 pages: 1369 (2022).
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2022-Borner_Tissue-Registration-and-EUIs.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2022-Borner_Tissue-Registration-and-EUIs.pdf

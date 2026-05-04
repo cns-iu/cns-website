@@ -2,15 +2,11 @@ slug: l0yop7bh8sr4eb6dd5xpk
 type: presentation
 title: Visualizing Multiscale Complex Systems
 link: luddy-research-symposium.pdf
-dateStart: 2026-02-20
-dateEnd: 2026-02-20
-projects: []
-tags: []
-venue: Luddy School of Informatics, Computing, and Engineering
-city: Bloomington
-state: IN
+dateStart: 2026-02-20T00:00:00.000Z
+dateEnd: 2026-02-20T00:00:00.000Z
+location:
+  venue: Luddy School of Informatics, Computing, and Engineering
+  city: Bloomington
+  state: IN
 presenters:
   - katy-borner
-instructors: []
-organizers: []
-attendees: []

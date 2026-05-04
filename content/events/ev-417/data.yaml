@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Basser Seminar Series, School of Information Technologies, University of
   Sydney
-description: null
-location: University of Sydney, Sydney, Australia
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-248
-tutorials: []
+link: http://www.cs.su.oz.au/research/news/seminars.shtml
 dateStart: '2010-06-24'
 dateEnd: '2010-06-24'
-tags: []
-link: http://www.cs.su.oz.au/research/news/seminars.shtml
+location:
+  raw: University of Sydney, Sydney, Australia
+presentations:
+  - pres-248

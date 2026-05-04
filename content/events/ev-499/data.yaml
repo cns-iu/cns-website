@@ -1,15 +1,10 @@
 slug: ev-499
 type: meeting
 title: Indiana Economic Development Corporation Meeting
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-360
-tutorials: []
+link: http://iedc.in.gov/
 dateStart: '2012-09-19'
 dateEnd: '2012-09-19'
-tags: []
-link: http://iedc.in.gov/
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-360

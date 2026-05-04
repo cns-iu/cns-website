@@ -1,14 +1,8 @@
 slug: ev-749
 type: conference
 title: 2019 Gordon Research Conference on Computer Aided Drug Design
-description: ''
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.grc.org/computer-aided-drug-design-conference/2019/
 dateStart: '2019-01-01'
 dateEnd: '2019-01-01'
-tags: []
-link: https://www.grc.org/computer-aided-drug-design-conference/2019/
+location:
+  raw: Boston, MA

@@ -1,17 +1,12 @@
 slug: ev-306
 type: other
 title: 'S701: Introduction to Doctoral Research in Information Science'
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-191
-tutorials: []
+link: http://www.slis.indiana.edu/syllabi/fall_2007/S701.html
 dateStart: '2008-11-06'
 dateEnd: '2008-11-06'
-tags: []
-link: http://www.slis.indiana.edu/syllabi/fall_2007/S701.html
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-191

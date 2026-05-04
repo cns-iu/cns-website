@@ -1,15 +1,10 @@
 slug: ev-99
 type: conference
 title: International Conference on Complex Systems (ICCS2006)
-description: null
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-84
-tutorials: []
+link: http://www.necsi.org/events/iccs6/
 dateStart: '2006-06-25'
 dateEnd: '2006-06-30'
-tags: []
-link: http://www.necsi.org/events/iccs6/
+location:
+  raw: Boston, MA
+presentations:
+  - pres-84

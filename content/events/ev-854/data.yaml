@@ -1,15 +1,10 @@
 slug: ev-854
 type: meeting
 title: Guest Lecture in Computer Science (COMP) 4600 at University of Denver
-description: ''
-location: Denver, CO (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-689
-tutorials: []
+link: http://bulletin.du.edu/graduate/coursedescriptions/comp/
 dateStart: '2021-11-05'
 dateEnd: '2021-11-05'
-tags: []
-link: http://bulletin.du.edu/graduate/coursedescriptions/comp/
+location:
+  raw: Denver, CO (Virtual Event)
+presentations:
+  - pres-689

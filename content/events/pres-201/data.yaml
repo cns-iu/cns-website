@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Understanding Outside Collaborations of the Chinese Academy of Science Using
   Jensen-Shannon Divergence
-description: ''
-location: San Jose, CA
-presenters:
-  - russell-jackson-duhon
+link: https://cns.iu.edu/docs/presentations/2009-duhon-vda-collaborations.pdf
 dateStart: '2009-01-19'
 dateEnd: '2009-01-19'
+location:
+  raw: San Jose, CA
+presenters:
+  - russell-jackson-duhon
 event: ev-324
-link: https://cns.iu.edu/docs/presentations/2009-duhon-vda-collaborations.pdf

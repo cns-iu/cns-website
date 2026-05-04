@@ -1,9 +1,8 @@
 slug: ws-52
 type: workshop
 title: Learning Analytics in Support of Convergence
-description: ''
-location: Tempe, Arizona, USA
+link: http://knowledgeconvergence.org/
 dateStart: '2019-03-04'
 dateEnd: '2019-03-08'
-tags: []
-link: http://knowledgeconvergence.org/
+location:
+  raw: Tempe, Arizona, USA

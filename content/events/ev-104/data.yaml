@@ -1,14 +1,8 @@
 slug: ev-104
 type: conference
 title: Symposium on Knowledge Domain Visualizations
-description: null
-location: London, UK
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.graphicslink.co.uk/IV06/
 dateStart: '2006-07-06'
 dateEnd: '2006-07-08'
-tags: []
-link: http://www.graphicslink.co.uk/IV06/
+location:
+  raw: London, UK

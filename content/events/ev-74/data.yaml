@@ -1,14 +1,10 @@
 slug: ev-74
 type: other
 title: Interdisciplinary Experimental Lab
-description: null
-location: Woodburn Hall 220, Indiana University at Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-41
-tutorials: []
+link: null
 dateStart: '2000-11-30'
 dateEnd: '2000-11-30'
-tags: []
+location:
+  raw: Woodburn Hall 220, Indiana University at Bloomington, Bloomington, Indiana
+presentations:
+  - pres-41

@@ -1,11 +1,11 @@
 slug: pres-142
 type: presentation
 title: 'Network Workbench: A CI-Marketplace for Network Scientists'
-description: ''
-location: Ann Arbor, MI
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2007-borner-esocialsci-mich.pdf
 dateStart: '2007-10-09'
 dateEnd: '2007-10-09'
+location:
+  raw: Ann Arbor, MI
+presenters:
+  - katy-borner
 event: ev-232
-link: https://cns.iu.edu/docs/presentations/2007-borner-esocialsci-mich.pdf

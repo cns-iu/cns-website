@@ -1,12 +1,10 @@
 slug: fun-67
 type: research
-name: NEH Award Subcontract to Brown University
 title: A Journal-Driven Bibliography of Digital Humanities
+name: NEH Award Subcontract to Brown University
 funder: National Endowment for the Humanities
-investigators:
-  - katy-borner
 amount: 15000
-receivedAmount: null
 dateStart: '2011-01-01'
 dateEnd: '2013-06-30'
-tags: []
+investigators:
+  - katy-borner

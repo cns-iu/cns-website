@@ -1,6 +1,7 @@
 slug: pub-154
-link: https://cns.iu.edu/docs/news/20170703-scott.html
 title: Two UNC-Chapel Hill students earn Goldwater Scholarships
+date: '2017-04-03'
+link: https://cns.iu.edu/docs/news/20170703-scott.html
 description: >-
   (Chapel Hill, N.C. – March 31, 2017) – The Barry Goldwater Scholarship and
   Excellence in Education Program named University of North Carolina at Chapel
@@ -63,12 +64,10 @@ description: >-
   Congress established the Goldwater scholarship program in 1986 to honor the
   late Barry M. Goldwater of Arizona who served in the U.S. Senate for 30 years.
   The first awards were given in 1989.
-date: '2017-04-03'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20170703-scott.html
-caption: >-
-  View the original story at [UNC
-  News](http://uncnews.unc.edu/2017/03/31/two-unc-chapel-hill-students-earn-goldwater-scholarships/).
-publisher: ''
 reporter: UNC News
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20170703-scott.html
+    description: >-
+      View the original story at [UNC
+      News](http://uncnews.unc.edu/2017/03/31/two-unc-chapel-hill-students-earn-goldwater-scholarships/).

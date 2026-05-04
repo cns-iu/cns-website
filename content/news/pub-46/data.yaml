@@ -1,6 +1,7 @@
 slug: pub-46
-link: https://cns.iu.edu/docs/news/20070828_AmrcnMuseumOfSciEnergy.html
 title: 'Places and Spaces: Mapping Science'
+date: '2007-08-28'
+link: https://cns.iu.edu/docs/news/20070828_AmrcnMuseumOfSciEnergy.pdf
 description: >-
   Want to see science from above? Curious to see what impact one single person
   or invention can have? Keen to find pockets of innovation? Desperate for
@@ -43,14 +44,11 @@ description: >-
   authors, and subject. Additionally, databases can be used for analyzing data
   and visualizing hot topics in science and the connections between researchers
   in science disciplines such as astrophysics.
-date: '2007-08-28'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070828_AmrcnMuseumOfSciEnergy.html
-caption: >-
-  The following is an article from the American Museum of Science and Energy.
-  Download a PDF of the original article
-  [here](/docs/news/20070828_AmrcnMuseumOfSciEnergy.pdf).
 publisher: American Museum of Science and Energy
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070828_AmrcnMuseumOfSciEnergy.pdf
+    description: >-
+      The following is an article from the American Museum of Science and
+      Energy. Download a PDF of the original article
+      [here](/docs/news/20070828_AmrcnMuseumOfSciEnergy.pdf).

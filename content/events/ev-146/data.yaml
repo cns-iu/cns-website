@@ -1,14 +1,10 @@
 slug: ev-146
 type: conference
 title: NIH Conference on Knowledge Environments for Biomedical Research
-description: null
-location: Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-104
-tutorials: []
+link: null
 dateStart: '2006-12-11'
 dateEnd: '2006-12-12'
-tags: []
+location:
+  raw: Bethesda, MD
+presentations:
+  - pres-104

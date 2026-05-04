@@ -1,15 +1,10 @@
 slug: ev-520
 type: meeting
 title: Sci2 Tutorial at TD Ameritrade
-description: ''
-location: Omaha, NE
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-387
-tutorials: []
+link: https://www.tdameritrade.com/home.page
 dateStart: '2013-09-23'
 dateEnd: '2013-09-24'
-tags: []
-link: https://www.tdameritrade.com/home.page
+location:
+  raw: Omaha, NE
+presentations:
+  - pres-387

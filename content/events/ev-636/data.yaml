@@ -1,15 +1,10 @@
 slug: ev-636
 type: workshop
 title: Closing Reception at the University of Iowa
-description: ''
-location: University of Iowa, Cedar Rapids, IA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-495
-tutorials: []
+link: https://uiowa.edu/
 dateStart: '2017-03-06'
 dateEnd: '2017-03-06'
-tags: []
-link: https://uiowa.edu/
+location:
+  raw: University of Iowa, Cedar Rapids, IA
+presentations:
+  - pres-495

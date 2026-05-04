@@ -1,14 +1,8 @@
 slug: ev-127
 type: workshop
 title: Image and Meaning 2.1 Workshop
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://web.mit.edu/I-m/index.html
 dateStart: '2006-09-07'
 dateEnd: '2006-09-07'
-tags: []
-link: http://web.mit.edu/I-m/index.html
+location:
+  raw: Chicago, IL

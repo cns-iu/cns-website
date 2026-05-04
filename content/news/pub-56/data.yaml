@@ -1,6 +1,7 @@
 slug: pub-56
-link: https://cns.iu.edu/docs/news/20070307_Seed.html
 title: 'Scientific Method: Relationships Among Scientific Paradigms'
+date: '2007-03-07'
+link: https://cns.iu.edu/docs/news/20070307_Seed.pdf
 description: >-
   _To see the full map of relationships among scientific paradigms, [click
   here](https://www.flickr.com/photos/7446536@N03/430561725/) or on the image
@@ -23,14 +24,13 @@ description: >-
   of Science. Visit the [Information Esthetics
   site](http://informationesthetics.org/node/20) to order a free print.
   (Shipping and handling are not included.)
-date: '2007-03-07'
-mediaType: document
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070307_Seed.html
-caption: >-
-  The following is an article from Seed Magazine. Read the original article on
-  the web
-  [here](http://seedmagazine.com/content/article/scientific_method_relationships_among_scientific_paradigms/),
-  or download a PDF of the article [here](/docs/news/20070307_Seed.pdf).
 publisher: Seed Magazine
 reporter: Edit Staff
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070307_Seed.pdf
+    description: >-
+      The following is an article from Seed Magazine. Read the original article
+      on the web
+      [here](http://seedmagazine.com/content/article/scientific_method_relationships_among_scientific_paradigms/),
+      or download a PDF of the article [here](/docs/news/20070307_Seed.pdf).

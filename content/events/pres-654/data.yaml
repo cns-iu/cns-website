@@ -1,11 +1,11 @@
 slug: pres-654
 type: presentation
 title: Designing Actionable Data Visualizations
-description: ''
-location: Atlanta, GA (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/21-CDC.pdf
 dateStart: '2021-04-02'
 dateEnd: '2021-04-02'
+location:
+  raw: Atlanta, GA (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-809
-link: https://cns.iu.edu/docs/presentations/21-CDC.pdf

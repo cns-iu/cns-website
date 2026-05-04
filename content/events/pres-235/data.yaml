@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Extracting and Visualizing Semantic Structures in Retrieval Results for
   Browsing
-description: ''
-location: San Antonio, TX
-presenters:
-  - katy-borner
+link: http://ivl.slis.indiana.edu/km/pres/2000-borner-dl/
 dateStart: '2000-06-02'
 dateEnd: '2000-06-02'
+location:
+  raw: San Antonio, TX
+presenters:
+  - katy-borner
 event: ev-383
-link: http://ivl.slis.indiana.edu/km/pres/2000-borner-dl/

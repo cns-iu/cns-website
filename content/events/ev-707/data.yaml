@@ -1,16 +1,11 @@
 slug: ev-707
 type: other
 title: Doktorandenkolloquium"Education & Technology"
-description: ''
-location: Dresden, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-556
-tutorials: []
-dateStart: '2018-07-05'
-dateEnd: '2018-07-05'
-tags: []
 link: >-
   https://tu-dresden.de/mz/die-einrichtung/team/sander-muenster/sander-muenster-educational-activities
+dateStart: '2018-07-05'
+dateEnd: '2018-07-05'
+location:
+  raw: Dresden, Germany
+presentations:
+  - pres-556

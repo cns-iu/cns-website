@@ -1,17 +1,11 @@
 slug: pub-3
-authors:
-  - daniel-kutz
-editors: []
 type: paper-conference
 title: Examining the Evolution and Distribution of Patent Classifications
 date: '2004-01-01'
-publisher: ''
+authors:
+  - daniel-kutz
 venue: IV2004 Conference, London, UK
-volume: ''
-issue: ''
-doi: ''
 pages: 983-988
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-kutz-exam.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-kutz-exam.pdf

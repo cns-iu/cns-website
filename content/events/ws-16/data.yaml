@@ -3,9 +3,8 @@ type: workshop
 title: >-
   NSF Workshops on Knowledge Management and Visualization Tools in Support of
   Discovery-Workshop I
-description: ''
-location: Arlington, VA
+link: http://vw.slis.indiana.edu/cdi2008/workshop1.html
 dateStart: '2008-03-10'
 dateEnd: '2008-03-11'
-tags: []
-link: http://vw.slis.indiana.edu/cdi2008/workshop1.html
+location:
+  raw: Arlington, VA

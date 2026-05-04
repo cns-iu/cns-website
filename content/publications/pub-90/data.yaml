@@ -1,19 +1,16 @@
 slug: pub-90
+type: article-journal
+title: Advanced Information Retrieval Web Services for Digital Libraries
+date: '2005-01-01'
 authors:
   - yueyu-fu
   - weimao-ke
   - javed-mostafa
-editors: []
-type: article-journal
-title: Advanced Information Retrieval Web Services for Digital Libraries
-date: '2005-01-01'
 publisher: Elsevier Science, Oxford, ROYAUME-UNI (1999) (Revue)
 venue: Library Collections, Acquisitions, and Technology Services
 volume: '29'
 issue: '2'
-doi: ''
 pages: 220-224
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-ke-adinfo.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-ke-adinfo.pdf

@@ -1,8 +1,9 @@
 slug: pub-483
 type: paper-conference
-thumbnail: ontologies2025.png
-title: Ontology-supported Integration of Gene Expression Data from Heterogeneous
+title: >-
+  Ontology-supported Integration of Gene Expression Data from Heterogeneous
   Subjects in KPMP and HuBMAP Resources for Systematic Kidney Disease Analysis
+date: 2025-08-03T00:00:00.000Z
 authors:
   - ruopeng-wu
   - yichao-chen
@@ -20,17 +21,10 @@ authors:
   - the-kidney-precision-medicine-project
   - bruce-w-herr-ii
   - yongqun-he
-editors: []
-doi: ""
-date: 2025-08-03
-publisher: ""
-venue: "International Conference on Intelligent, Biology and Medicine (ICIBM),
-  Columbus, Ohio "
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/ICIBM_2025_Poster_Ruopeng_Wu.pdf
-mediaUrl: ontologies2025.png
-tags: []
+thumbnail: ontologies2025.png
+venue: >-
+  International Conference on Intelligent, Biology and Medicine (ICIBM),
+  Columbus, Ohio 
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/ICIBM_2025_Poster_Ruopeng_Wu.pdf

@@ -1,17 +1,14 @@
 slug: pub-17
-authors:
-  - katy-borner
-editors: []
 type: article-journal
 title: Efficient Case-Based Structure Generation for Design Support
 date: '2001-01-01'
+authors:
+  - katy-borner
 publisher: Kluwer Academic
 venue: Artificial Intelligence Review
 volume: '16'
 issue: '2'
-doi: ''
 pages: 87-118
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2001-borner-phdwork.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2001-borner-phdwork.pdf

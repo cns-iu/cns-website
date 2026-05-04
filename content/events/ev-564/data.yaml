@@ -1,15 +1,10 @@
 slug: ev-564
 type: conference
 title: Visitor Studies Association Annual Meeting
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-434
-tutorials: []
+link: http://www.visitorstudies.org/conference
 dateStart: '2015-07-14'
 dateEnd: '2015-07-18'
-tags: []
-link: http://www.visitorstudies.org/conference
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-434

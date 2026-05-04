@@ -3,9 +3,8 @@ type: workshop
 title: >-
   International Conference of the International Society for Scientometrics and
   Informetrics
-description: ''
-location: Bloomington, Indiana, USA
+link: https://cns-iu.github.io/workshops/2023-07-02_issi/
 dateStart: '2023-07-02'
 dateEnd: '2023-07-05'
-tags: []
-link: https://cns-iu.github.io/workshops/2023-07-02_issi/
+location:
+  raw: Bloomington, Indiana, USA

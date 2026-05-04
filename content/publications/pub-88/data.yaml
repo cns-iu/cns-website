@@ -1,4 +1,7 @@
 slug: pub-88
+type: paper-conference
+title: Content Coverage of Animal Behavior Data
+date: '2004-01-01'
 authors:
   - sidharth-thakur
   - ketan-k-mane
@@ -11,16 +14,9 @@ editors:
   - jonathan-c-roberts
   - matti-grohn
   - katy-borner
-type: paper-conference
-title: Content Coverage of Animal Behavior Data
-date: '2004-01-01'
-publisher: ''
 venue: Visualization and Data Analysis, San Jose, CA
 volume: '5295'
-issue: ''
-doi: ''
 pages: 305-311
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-thakur-animal.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-thakur-animal.pdf

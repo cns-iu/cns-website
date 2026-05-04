@@ -1,9 +1,8 @@
 slug: ws-18
 type: workshop
 title: Science (Weather) Forecasts Workshop
-description: ''
-location: New York Hall of Science, NY
+link: http://web.archive.org/web/20260108190923/https://cns.iu.edu/061026.html
 dateStart: '2006-10-25'
 dateEnd: '2006-10-26'
-tags: []
-link: http://web.archive.org/web/20260108190923/https://cns.iu.edu/061026.html
+location:
+  raw: New York Hall of Science, NY

@@ -1,14 +1,8 @@
 slug: ev-671
 type: conference
 title: ISSI 2017
-description: ''
-location: Wuhan, China
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.issi2017.org/
 dateStart: '2017-10-16'
 dateEnd: '2017-10-20'
-tags: []
-link: http://www.issi2017.org/
+location:
+  raw: Wuhan, China

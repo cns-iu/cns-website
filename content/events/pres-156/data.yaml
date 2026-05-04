@@ -1,11 +1,11 @@
 slug: pres-156
 type: presentation
 title: The Science of Science
-description: ''
-location: Pasadena, CA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2008-borner-astro-caltech.pdf
 dateStart: '2008-02-20'
 dateEnd: '2008-02-20'
+location:
+  raw: Pasadena, CA
+presenters:
+  - katy-borner
 event: ev-180
-link: https://cns.iu.edu/docs/presentations/2008-borner-astro-caltech.pdf

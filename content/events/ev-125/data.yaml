@@ -1,14 +1,8 @@
 slug: ev-125
 type: other
 title: Places & Spaces on Display at the 233rd - ACS National Meeting & Exposition
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://scimaps.org
 dateStart: '2007-03-25'
 dateEnd: '2007-03-29'
-tags: []
-link: http://scimaps.org
+location:
+  raw: Chicago, IL

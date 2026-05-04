@@ -1,4 +1,8 @@
 slug: pub-377
+type: article-journal
+title: The 2019 Mathematical Oncology Roadmap
+date: '2019-04-16'
+doi: 10.1088/1478-3975/ab1a09
 authors:
   - russell-c-rockne
   - andrea-hawkins-daarud
@@ -35,17 +39,8 @@ authors:
   - andriy-marusyk
   - michael-hinczewski
   - jacob-g-scott
-editors: []
-type: article-journal
-title: The 2019 Mathematical Oncology Roadmap
-date: '2019-04-16'
 publisher: IOP Publishing Ltd
 venue: Physical Biology
-volume: ''
-issue: ''
-doi: 10.1088/1478-3975/ab1a09
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2019-rockne-MathematicalOncology.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2019-rockne-MathematicalOncology.pdf

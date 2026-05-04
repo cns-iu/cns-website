@@ -1,6 +1,7 @@
 slug: pub-106
-link: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.html
 title: 'Put your money where your citations are: a proposal for a new funding system'
+date: '2013-08-27'
+link: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.pdf
 description: >-
   Funding agencies allocate funds for scientific research mainly based on
   peer-review of research proposals. In 2010, more than 15,000 researchers
@@ -64,18 +65,17 @@ description: >-
   Johan Bollen, David Crandall, Damion Junk, Ying Ding, & Katy Boerner (2013).
   Collective allocation of science funding: from funding agencies to scientific
   agency ArXiv arXiv: 1304.1067v1
-date: '2013-08-27'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20130827_ScientificAmerican.html
-caption: >-
-  The following is an article that blogger Hadas Shema wrote in the Scientific
-  American Blogs about an article by Johan Bollen, David Crandall, Damion Junk,
-  Ying Ding and Katy Börner, “Collective allocation of science funding: from
-  funding agencies to scientific agency." Read the original article
-  [here](http://blogs.scientificamerican.com/information-culture/2013/08/27/put-your-money-where-your-citations-are-a-proposal-for-a-new-funding-system/)
-  or download a PDF of the article
-  [here](/docs/news/20130827_ScientificAmerican.pdf).
 publisher: Scientific American (website accessed 9/05/13)
 reporter: Hadas Shema
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20130827_ScientificAmerican.pdf
+    description: >-
+      The following is an article that blogger Hadas Shema wrote in the
+      Scientific American Blogs about an article by Johan Bollen, David
+      Crandall, Damion Junk, Ying Ding and Katy Börner, “Collective allocation
+      of science funding: from funding agencies to scientific agency." Read the
+      original article
+      [here](http://blogs.scientificamerican.com/information-culture/2013/08/27/put-your-money-where-your-citations-are-a-proposal-for-a-new-funding-system/)
+      or download a PDF of the article
+      [here](/docs/news/20130827_ScientificAmerican.pdf).

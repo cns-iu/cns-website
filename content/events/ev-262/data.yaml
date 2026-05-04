@@ -3,17 +3,12 @@ type: workshop
 title: >-
   US-China Workshop on Designing Cyberinfrastructure to Enable US-China
   Collaboration in Tobacco Research
-description: null
-location: Beijing, China
-organizers: []
-attendees: []
-publications: []
+link: http://www.slis.indiana.edu/news/story.php?story_id=1698
+dateStart: '2008-03-27'
+dateEnd: '2008-03-29'
+location:
+  raw: Beijing, China
 presentations:
   - pres-165
   - pres-166
   - pres-167
-tutorials: []
-dateStart: '2008-03-27'
-dateEnd: '2008-03-29'
-tags: []
-link: http://www.slis.indiana.edu/news/story.php?story_id=1698

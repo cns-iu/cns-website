@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Plug-and-Play Macroscopes: Custom Tools for Data Analysis, Modeling, and
   Visualization
-description: ''
-location: BBSRC, Polaris House, North Star Avenue, Swindon, Wiltshire, UK, SN2 1UH
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2010-borner-BioVis-Bristol.pdf
 dateStart: '2010-11-16'
 dateEnd: '2010-11-16'
+location:
+  raw: BBSRC, Polaris House, North Star Avenue, Swindon, Wiltshire, UK, SN2 1UH
+presenters:
+  - katy-borner
 event: ev-426
-link: https://cns.iu.edu/docs/presentations/2010-borner-BioVis-Bristol.pdf

@@ -1,14 +1,10 @@
 slug: ev-108
 type: other
 title: I-ASIST Meeting
-description: ''
-location: Austin, TX
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-72
-tutorials: []
+link: null
 dateStart: '2006-04-11'
 dateEnd: '2006-04-11'
-tags: []
+location:
+  raw: Austin, TX
+presentations:
+  - pres-72

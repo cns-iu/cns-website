@@ -1,15 +1,10 @@
 slug: ev-272
 type: meeting
 title: Science of Science Management Meeting
-description: null
-location: Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-175
-tutorials: []
+link: http://nihperformance.nih.gov/
 dateStart: '2008-10-02'
 dateEnd: '2008-10-03'
-tags: []
-link: http://nihperformance.nih.gov/
+location:
+  raw: Bethesda, MD
+presentations:
+  - pres-175

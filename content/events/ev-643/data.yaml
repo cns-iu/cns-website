@@ -1,15 +1,10 @@
 slug: ev-643
 type: conference
 title: The Media School Graduate Student Conference
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-498
-tutorials: []
+link: http://mediaschool.indiana.edu/grad-student-conference/
 dateStart: '2017-04-07'
 dateEnd: '2017-04-07'
-tags: []
-link: http://mediaschool.indiana.edu/grad-student-conference/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-498

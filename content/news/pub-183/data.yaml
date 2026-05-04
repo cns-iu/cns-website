@@ -1,14 +1,13 @@
 slug: pub-183
-title: Collection of Articles Reports Advances in Building Cellular Organization
-  Maps of the Human Body
+title: >-
+  Collection of Articles Reports Advances in Building Cellular Organization Maps
+  of the Human Body
+date: 2023-07-19T00:00:00.000Z
 link: https://hubmapconsortium.org/nature-release-2023/
-date: 2023-07-19
 projects:
   - human-reference-atlas
-tags: []
-description: ""
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://hubmapconsortium.org/nature-release-2023/
-caption: ""
-publisher: ""
 reporter: HuBMAP Consortium
+media:
+  - type: image
+    url: >-
+      https://cns.iu.edu/docs/news/https://hubmapconsortium.org/nature-release-2023/

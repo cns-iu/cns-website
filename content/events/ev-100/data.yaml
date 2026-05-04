@@ -1,14 +1,10 @@
 slug: ev-100
 type: workshop
 title: Science of Science Policy Workshop
-description: null
-location: Helsinki, Finland
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-85
-tutorials: []
+link: null
 dateStart: '2006-07-12'
 dateEnd: '2006-07-12'
-tags: []
+location:
+  raw: Helsinki, Finland
+presentations:
+  - pres-85

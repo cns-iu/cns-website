@@ -1,4 +1,11 @@
 slug: pub-361
+type: article-journal
+title: >-
+  XD Metrics on Demand Value analytics: Visualizing the impact of internal
+  information Technology investments on external Funding, Publications, and
+  collaboration networks
+date: '2018-01-29'
+doi: 10.3389/frma.2017.00010
 authors:
   - olga-scrivner
   - gagandeep-singh
@@ -9,19 +16,8 @@ authors:
   - katy-borner
 editors:
   - kevin-w-boyack
-type: article-journal
-title: >-
-  XD Metrics on Demand Value analytics: Visualizing the impact of internal
-  information Technology investments on external Funding, Publications, and
-  collaboration networks
-date: '2018-01-29'
-publisher: ''
 venue: Frontiers Research Metrics and Analytics
 volume: 2 - 2017
-issue: ''
-doi: 10.3389/frma.2017.00010
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2018-scrivner-xdmod-frontiers.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2018-scrivner-xdmod-frontiers.pdf

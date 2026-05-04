@@ -1,16 +1,12 @@
 slug: ev-766
 type: meeting
 title: HuBMAP Annual Meeting ("External Collaborations" Session)
-description: ''
-location: Washington, DC (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-627
-tutorials: []
+link: https://hubmapconsortium.org/all-hands-2020/
 dateStart: '2020-05-19'
 dateEnd: '2020-05-20'
-tags:
-  - hra
-link: https://hubmapconsortium.org/all-hands-2020/
+location:
+  raw: Washington, DC (Virtual Event)
+presentations:
+  - pres-627
+projects:
+  - human-reference-atlas

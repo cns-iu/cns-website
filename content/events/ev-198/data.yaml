@@ -4,13 +4,8 @@ title: >-
   Meeting with Dr. Annette Schavan, Bundesministerin fr Bildung und Forschung
   and Prof. Dr. Matthias Kleiner, Prsident der Deutschen Forschungsgemenschaft
   (DFG)
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2007-06-08'
 dateEnd: '2007-06-08'
-tags: []
+location:
+  raw: Washington, DC

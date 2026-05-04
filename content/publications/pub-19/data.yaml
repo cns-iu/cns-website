@@ -1,22 +1,19 @@
 slug: pub-19
+type: chapter
+title: >-
+  Educational Knowledge Domain Visualizations: Tools to Navigate, Understand,
+  and Internalize the Structure of Scholarly Knowledge and Expertise
+date: '2005-01-01'
 authors:
   - peter-a-hook
   - katy-borner
 editors:
   - amanda-spink
   - charles-cole
-type: chapter
-title: >-
-  Educational Knowledge Domain Visualizations: Tools to Navigate, Understand,
-  and Internalize the Structure of Scholarly Knowledge and Expertise
-date: '2005-01-01'
 publisher: 'Netherlands:  Springer'
 venue: New Directions in Cognitive Information Retrieval
-volume: ''
-issue: ''
-doi: ''
 pages: 187-208
 chapter: '5'
-links:
-  - https://cns.iu.edu/docs/publications/2005-hook-educknow.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-hook-educknow.pdf

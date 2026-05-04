@@ -1,13 +1,13 @@
 slug: pres-527
 type: presentation
 title: Visual Insights
-description: ''
-location: >-
-  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
-  47405
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2017-borner-E599.pdf
 dateStart: '2017-10-15'
 dateEnd: '2017-10-15'
+location:
+  raw: >-
+    Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
+    47405
+presenters:
+  - katy-borner
 event: ev-673
-link: https://cns.iu.edu/docs/presentations/2017-borner-E599.pdf

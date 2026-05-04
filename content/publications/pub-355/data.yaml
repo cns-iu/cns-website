@@ -1,4 +1,8 @@
 slug: pub-355
+type: article-journal
+title: Science of Science
+date: '2018-03-02'
+doi: 10.20913/1815-3186-2021-1-25-42
 authors:
   - santo-fortunato
   - carl-t-bergstrom
@@ -14,17 +18,10 @@ authors:
   - ludo-waltman
   - dashun-wang
   - albert-laszlo-barabasi
-editors: []
-type: article-journal
-title: Science of Science
-date: '2018-03-02'
 publisher: American Association for the Advancement of Science
 venue: Science
 volume: '359'
 issue: '6379'
-doi: 10.20913/1815-3186-2021-1-25-42
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-borner-SciSci2.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-borner-SciSci2.pdf

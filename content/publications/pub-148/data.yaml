@@ -1,4 +1,7 @@
 slug: pub-148
+type: paper-conference
+title: Learning and Applying Conditions for Testing Realizations of Design-Tasks
+date: '1994-01-01'
 authors:
   - oliver-jschke
   - dietmar-janetzko
@@ -6,15 +9,5 @@ authors:
 editors:
   - c-globig
   - k-d-althoff
-type: paper-conference
-title: Learning and Applying Conditions for Testing Realizations of Design-Tasks
-date: '1994-01-01'
 publisher: Kaiserslautern
 venue: Proceedings of the 7th Annual Meeting of the German Group for Machine Learning
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links: []
-tags: []

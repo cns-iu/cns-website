@@ -1,14 +1,10 @@
 slug: ev-149
 type: conference
 title: WISP 2005
-description: null
-location: Faro, Portugal
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-61
-tutorials: []
+link: null
 dateStart: '2005-09-01'
 dateEnd: '2005-09-03'
-tags: []
+location:
+  raw: Faro, Portugal
+presentations:
+  - pres-61

@@ -1,17 +1,12 @@
 slug: ev-463
 type: meeting
 title: S604/S764 Information Networks
-description: ''
-location: >-
-  School of Library and Information Science, Wells Library 011, Indiana
-  University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-315
-tutorials: []
+link: http://www.slis.indiana.edu/faculty/smilojev/teaching/s604fall2011/index.html
 dateStart: '2011-11-14'
 dateEnd: '2011-11-14'
-tags: []
-link: http://www.slis.indiana.edu/faculty/smilojev/teaching/s604fall2011/index.html
+location:
+  raw: >-
+    School of Library and Information Science, Wells Library 011, Indiana
+    University at Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-315

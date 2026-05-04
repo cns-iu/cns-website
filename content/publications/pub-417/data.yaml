@@ -1,6 +1,8 @@
 slug: pub-417
 type: article-journal
 title: Real-Time Spatial Registration for 3D Human Atlas
+date: 2022-11-03T00:00:00.000Z
+doi: 10.1145/3557917.3567618
 authors:
   - lu-chen
   - dejun-teng
@@ -10,19 +12,14 @@ authors:
   - andreas-bueckle
   - katy-borner
   - fusheng-wang
-editors: []
-doi: 10.1145/3557917.3567618
-date: 2022-11-03
 publisher: Association for Computing Machinery
-venue: "BigSpatial '22: Proceedings of the 10th ACM SIGSPATIAL International
-  Workshop on Analytics for Big Geospatial Data"
-volume: ""
-issue: ""
+venue: >-
+  BigSpatial '22: Proceedings of the 10th ACM SIGSPATIAL International Workshop
+  on Analytics for Big Geospatial Data
 pages: 27-35.
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2022-Chen_Real-Time-Spatial-Registration.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2022-Chen_Real-Time-Spatial-Registration.pdf

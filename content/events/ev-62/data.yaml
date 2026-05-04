@@ -3,13 +3,8 @@ type: conference
 title: >-
   First Symposium on Applied Perception in Graphics and Visualization/ACM
   SIGGRAPH
-description: null
-location: Los Angeles, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2004-08-06'
 dateEnd: '2004-08-07'
-tags: []
+location:
+  raw: Los Angeles, CA

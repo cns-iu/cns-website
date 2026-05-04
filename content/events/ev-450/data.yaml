@@ -1,15 +1,10 @@
 slug: ev-450
 type: meeting
 title: Science/AAAS
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-296
-tutorials: []
+link: http://www.aaas.org/
 dateStart: '2011-08-23'
 dateEnd: '2011-08-23'
-tags: []
-link: http://www.aaas.org/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-296

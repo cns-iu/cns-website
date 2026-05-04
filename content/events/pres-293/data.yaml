@@ -3,12 +3,12 @@ type: presentation
 title: >-
   Mapping Interactions Within the Evolving Science of Science and Innovation
   Policy Community
-description: ''
-location: Durban, South Africa
+link: https://cns.iu.edu/docs/presentations/2011-zoss-ISSI.pdf
+dateStart: '2011-07-06'
+dateEnd: '2011-07-06'
+location:
+  raw: Durban, South Africa
 presenters:
   - katy-borner
   - angela-zoss
-dateStart: '2011-07-06'
-dateEnd: '2011-07-06'
 event: ev-441
-link: https://cns.iu.edu/docs/presentations/2011-zoss-ISSI.pdf

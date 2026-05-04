@@ -1,6 +1,7 @@
 slug: pub-103
-link: https://cns.iu.edu/docs/news/2013_vivo.html
 title: Robert Light and Chin Hua Kong present at the 2013 VIVO Conference
+date: '2013-08-07'
+link: https://cns.iu.edu/docs/news/2013_vivo.html
 description: >-
   On August 14, 2013, Senior Systems Analyst and Database Administrator Robert
   Light and Systems Architect Chin Hua Kong will present "VIVO Data and
@@ -28,14 +29,12 @@ description: >-
   implementation of VIVO, VIVO-based tools and the opportunities created by
   advancing data sharing and team science. [Click here for more
   information](https://www.eiseverywhere.com/ehome/vivo2013/home/?eb=57831).
-date: '2013-08-07'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/2013_vivo.html
-caption: >-
-  VIVO is an open source semantic web application that, when installed and
-  populated with researcher interests, activities, and accomplishments, enables
-  the discovery of research and scholarship across disciplines at that
-  institution and beyond.
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/2013_vivo.html
+    description: >-
+      VIVO is an open source semantic web application that, when installed and
+      populated with researcher interests, activities, and accomplishments,
+      enables the discovery of research and scholarship across disciplines at
+      that institution and beyond.

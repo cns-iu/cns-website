@@ -1,25 +1,21 @@
 slug: pub-412
 type: article-journal
-title: Optimizing Performance and Satisfaction in Matching and Movement Tasks in
+title: >-
+  Optimizing Performance and Satisfaction in Matching and Movement Tasks in
   Virtual Reality with Interventions Using the Data Visualization Literacy
   Framework
+date: 2022-01-21T00:00:00.000Z
+doi: 10.3389/frvir.2021.727344
 authors:
   - andreas-bueckle
   - kilian-buehling
   - patrick-c-shih
   - katy-borner
-editors: []
-doi: 10.3389/frvir.2021.727344
-date: 2022-01-21
-publisher: ""
 venue: Frontiers in Virtual Reality
 volume: 2 - 2021
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2022-Bueckle_Optimizing-Performance-and-Satisfaction.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2022-Bueckle_Optimizing-Performance-and-Satisfaction.pdf

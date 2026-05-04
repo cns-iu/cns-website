@@ -1,15 +1,12 @@
 slug: ev-257
 type: other
 title: Talk at Legal Education Lunch, IU School of Law
-description: null
-location: School of Law, Indiana University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-169
-tutorials: []
+link: http://www.law.indiana.edu/index.shtml
 dateStart: '2008-03-18'
 dateEnd: '2008-03-18'
-tags: []
-link: http://www.law.indiana.edu/index.shtml
+location:
+  raw: >-
+    School of Law, Indiana University at Bloomington, Bloomington, Indiana,
+    47405
+presentations:
+  - pres-169

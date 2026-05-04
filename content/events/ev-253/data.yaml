@@ -1,14 +1,8 @@
 slug: ev-253
 type: conference
 title: 12th International Conference on Information Visualisation
-description: null
-location: London South Bank University, London, UK, SE1 6LN
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.graphicslink.co.uk/IV08/
 dateStart: '2008-07-08'
 dateEnd: '2008-07-11'
-tags: []
-link: http://www.graphicslink.co.uk/IV08/
+location:
+  raw: London South Bank University, London, UK, SE1 6LN

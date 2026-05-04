@@ -1,13 +1,12 @@
 slug: fun-4
 type: research
-name: NSF CHE-0524661 Award
 title: Mapping Chemistry
+name: NSF CHE-0524661 Award
 funder: National Science Foundation
+amount: 182415
+dateStart: '2005-08-01'
+dateEnd: '2006-07-31'
 investigators:
   - katy-borner
   - kevin-w-boyack
-amount: 182415
 receivedAmount: 90000
-dateStart: '2005-08-01'
-dateEnd: '2006-07-31'
-tags: []

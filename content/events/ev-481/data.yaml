@@ -1,17 +1,12 @@
 slug: ev-481
 type: meeting
 title: NIH SWAM Teleconference
-description: ''
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-333
-tutorials: []
+link: http://nih.gov/
 dateStart: '2012-01-26'
 dateEnd: '2012-01-26'
-tags: []
-link: http://nih.gov/
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
+presentations:
+  - pres-333

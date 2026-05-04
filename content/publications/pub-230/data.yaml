@@ -1,4 +1,9 @@
 slug: pub-230
+type: article-journal
+title: >-
+  Semantic Web Portal: A Platform for Better Browsing and Visualizing Semantic
+  Data
+date: '2010-09-01'
 authors:
   - ying-ding
   - yuyin-sun
@@ -13,19 +18,9 @@ authors:
   - stasa-milojevic
   - shanshan-chen
   - madhuvanthi-sankaranarayanan
-editors: []
-type: article-journal
-title: >-
-  Semantic Web Portal: A Platform for Better Browsing and Visualizing Semantic
-  Data
-date: '2010-09-01'
-publisher: ''
 venue: Lecture Notes in Computer Science
 volume: '6335'
-issue: ''
-doi: ''
 pages: 448-460
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-ding-et-al-swp.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-ding-et-al-swp.pdf

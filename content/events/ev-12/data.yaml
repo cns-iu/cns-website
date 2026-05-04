@@ -3,15 +3,10 @@ type: conference
 title: >-
   Fifth Annual AISTI Conference, 2005: Seeds of Transformation for Digital
   Libraries
-description: null
-location: Santa Fe, NM
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-52
-tutorials: []
+link: http://www.aisti.org/events/mini05/index.php
 dateStart: '2005-05-25'
 dateEnd: '2005-05-26'
-tags: []
-link: http://www.aisti.org/events/mini05/index.php
+location:
+  raw: Santa Fe, NM
+presentations:
+  - pres-52

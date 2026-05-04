@@ -1,15 +1,10 @@
 slug: ev-412
 type: other
 title: Science-Based Business Initiative Seminars, Harvard Business School
-description: null
-location: Harvard Business School, Soldiers Field, Boston, MA, 02163
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-243
-tutorials: []
+link: http://www.hbs.edu/units/tom/seminars/2009/science/
 dateStart: '2010-04-22'
 dateEnd: '2010-04-22'
-tags: []
-link: http://www.hbs.edu/units/tom/seminars/2009/science/
+location:
+  raw: Harvard Business School, Soldiers Field, Boston, MA, 02163
+presentations:
+  - pres-243

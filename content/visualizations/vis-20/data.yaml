@@ -1,7 +1,7 @@
 slug: vis-20
-type: visualization
-link: https://cns.iu.edu/docs/research/visualizations/2017_i2b2_ontology.pdf
 title: i2b2 Ontology Visualization
+date: '2017-07-20'
+link: https://cns.iu.edu/docs/research/visualizations/2017_i2b2_ontology.pdf
 description: >-
   Informatics for Integrating Biology and the Bedside (i2b2) data is organized
   by the i2b2 ontology. The SCILHS public i2b2 ontology has 490,484 concepts
@@ -11,7 +11,6 @@ description: >-
   are not relevant, and it will soon support ontology comparisons. The
   visualization also enables investigators to locate specific codes/diagnosis,
   determine how broad the data is.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/i2b2_400w.png
-date: '2017-07-20'
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/i2b2_400w.png

@@ -1,15 +1,10 @@
 slug: ev-705
 type: other
 title: Flowbile Workshop
-description: ''
-location: Leipzig, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-559
-tutorials: []
+link: http://www.conoscope.de/
 dateStart: '2018-06-26'
 dateEnd: '2018-07-26'
-tags: []
-link: http://www.conoscope.de/
+location:
+  raw: Leipzig, Germany
+presentations:
+  - pres-559

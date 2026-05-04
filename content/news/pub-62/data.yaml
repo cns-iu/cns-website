@@ -1,16 +1,13 @@
 slug: pub-62
-link: https://cns.iu.edu/docs/news/20070318_RedditBlog.html
 title: Science
-description: ''
 date: '2007-03-18'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070318_RedditBlog.html
-caption: >-
-  The following is an article from the Reddit Science Blog. Read the original
-  post on the web
-  [here](http://www.reddit.com/r/science/comments/1b37k/the_relationships_bet),
-  or download a PDF [here](/docs/news/20070318_RedditBlog.pdf).
+link: https://cns.iu.edu/docs/news/20070318_RedditBlog.pdf
 publisher: Reddit Blog
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070318_RedditBlog.pdf
+    description: >-
+      The following is an article from the Reddit Science Blog. Read the
+      original post on the web
+      [here](http://www.reddit.com/r/science/comments/1b37k/the_relationships_bet),
+      or download a PDF [here](/docs/news/20070318_RedditBlog.pdf).

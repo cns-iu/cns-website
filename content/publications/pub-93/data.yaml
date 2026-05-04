@@ -1,21 +1,15 @@
 slug: pub-93
+type: paper-conference
+title: 'Organizing the Web: Semi Automatic Construction of a Faceted Scheme'
+date: '2004-01-01'
 authors:
   - elin-jacob
   - seungmin-lee
   - aaron-loehrlein
   - kiduk-yang
   - ning-yu
-editors: []
-type: paper-conference
-title: 'Organizing the Web: Semi Automatic Construction of a Faceted Scheme'
-date: '2004-01-01'
-publisher: ''
 venue: Proceedings of IADIS International Conference WWW/Internet, Madrid, Spain
-volume: ''
-issue: ''
-doi: ''
 pages: 374-381
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-yang-orgweb.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-yang-orgweb.pdf

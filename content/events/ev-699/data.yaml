@@ -1,15 +1,10 @@
 slug: ev-699
 type: workshop
 title: SSRC
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-550
-tutorials: []
+link: https://ssrc.indiana.edu/
 dateStart: '2018-04-12'
 dateEnd: '2018-04-12'
-tags: []
-link: https://ssrc.indiana.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-550

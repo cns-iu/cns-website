@@ -1,19 +1,12 @@
 slug: pub-43
+type: manuscript
+title: Building Blocks for Virtual Worlds
+date: '2002-01-01'
 authors:
   - katy-borner
   - margaret-corbit
   - bonnie-jean-devarco
-editors: []
-type: manuscript
-title: Building Blocks for Virtual Worlds
-date: '2002-01-01'
-publisher: ''
 venue: CILT Seed Grant Interim Report
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-bldblck.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-bldblck.pdf

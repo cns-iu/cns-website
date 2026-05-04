@@ -1,14 +1,8 @@
 slug: ev-9
 type: workshop
 title: Understanding Complex Systems 2004
-description: null
-location: Urbana, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.how-why.com/ucs2004/
 dateStart: '2004-05-17'
 dateEnd: '2004-05-20'
-tags: []
-link: http://www.how-why.com/ucs2004/
+location:
+  raw: Urbana, IL

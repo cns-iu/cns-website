@@ -1,13 +1,13 @@
 slug: pres-164
 type: presentation
 title: 'iUniverse: A Collaborative Information Universe for IU'
-description: ''
-location: Indianapolis, Indiana
+link: https://cns.iu.edu/docs/presentations/2002-borner-iuniverse.pdf
+dateStart: '2002-12-04'
+dateEnd: '2002-12-04'
+location:
+  raw: Indianapolis, Indiana
 presenters:
   - katy-borner
   - elijah-wright
   - michael-boyles
-dateStart: '2002-12-04'
-dateEnd: '2002-12-04'
 event: ev-260
-link: https://cns.iu.edu/docs/presentations/2002-borner-iuniverse.pdf

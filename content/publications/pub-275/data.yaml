@@ -1,21 +1,17 @@
 slug: pub-275
-authors:
-  - yunwei-chen
-  - katy-borner
-  - shu-fang
-editors: []
 type: article-journal
 title: >-
   Evolving Collaboration Networks in Scientometrics in 1978-2010: A Micro-Macro
   Analysis
 date: '2013-05-11'
-publisher: ''
+authors:
+  - yunwei-chen
+  - katy-borner
+  - shu-fang
 venue: Scientometrics
 volume: '95'
 issue: '3'
-doi: ''
 pages: 1051-1070
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2012-chen-evolving-scientometrics.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2012-chen-evolving-scientometrics.pdf

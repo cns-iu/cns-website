@@ -1,15 +1,9 @@
 slug: ev-768
 type: conference
 title: 28th Conference on Intelligent Systems for Molecular Biology
-description: ''
-location: Webcast, ISMB Virtual Conference
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
-dateStart: '2020-07-13'
-dateEnd: '2020-07-16'
-tags: []
 link: >-
   https://www.iscb.org/ismb2020#:~:text=The%20annual%20International%20Conference%20on,largest%20bioinformatics%2Fcomputational%20biology%20conference.
+dateStart: '2020-07-13'
+dateEnd: '2020-07-16'
+location:
+  raw: Webcast, ISMB Virtual Conference

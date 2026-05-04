@@ -1,11 +1,11 @@
 slug: pres-61
 type: presentation
 title: 'Digital Data Preservation: A Schema Driven Model (Poster)'
-description: ''
-location: Faro, Portugal
-presenters:
-  - stacy-kowalczyk
+link: https://cns.iu.edu/docs/presentations/2005-kowalczyk-dgdatpre-poster.pdf
 dateStart: '2005-09-02'
 dateEnd: '2005-09-02'
+location:
+  raw: Faro, Portugal
+presenters:
+  - stacy-kowalczyk
 event: ev-149
-link: https://cns.iu.edu/docs/presentations/2005-kowalczyk-dgdatpre-poster.pdf

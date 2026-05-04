@@ -1,21 +1,18 @@
 slug: pub-20
-authors:
-  - katy-borner
-editors:
-  - vladimir-geroimenko
-  - chaomei-chen
 type: chapter
 title: >-
   Semantic Association Networks: Using Semantic Web Technology to Improve
   Scholarly Knowledge and Expertise Management
 date: '2006-01-01'
+authors:
+  - katy-borner
+editors:
+  - vladimir-geroimenko
+  - chaomei-chen
 publisher: 'London:  Springer-Verlag'
 venue: Visualizing the Semantic Web, 2nd Edition
-volume: ''
-issue: ''
-doi: ''
 pages: 183-198
 chapter: '11'
-links:
-  - https://cns.iu.edu/docs/publications/2006-borner-san.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-borner-san.pdf

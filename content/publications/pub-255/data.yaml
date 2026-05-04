@@ -1,19 +1,16 @@
 slug: pub-255
+type: article-journal
+title: Mixed-Indicators Model for Identifying Emerging Research Areas
+date: '2011-06-02'
 authors:
   - hanning-guo
   - scott-b-weingart
   - katy-borner
-editors: []
-type: article-journal
-title: Mixed-Indicators Model for Identifying Emerging Research Areas
-date: '2011-06-02'
 publisher: Springer-Verlag
 venue: Scientometrics
 volume: '89'
 issue: '1'
-doi: ''
 pages: 421-435
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-guo-mixed-indicators.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2011-guo-mixed-indicators.pdf

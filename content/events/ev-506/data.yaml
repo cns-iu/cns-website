@@ -1,15 +1,10 @@
 slug: ev-506
 type: meeting
 title: D.C. Art Science Evening Rendezvous (DASER)
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-370
-tutorials: []
+link: http://www.cpnas.org/events/daser-042513.html
 dateStart: '2013-04-25'
 dateEnd: '2013-04-25'
-tags: []
-link: http://www.cpnas.org/events/daser-042513.html
+location:
+  raw: Washington, DC
+presentations:
+  - pres-370

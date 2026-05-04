@@ -3,14 +3,14 @@ type: visit
 title: >-
   Visiting Professor at the Reporting Branch, Office of Extramural Research,
   NIH. (Robin Wagner, Chief, Reporting Branch, Division of Information Services)
-description: ''
-location: >-
-  Office of Research Information Systems, Office of Extramural Research/Office
-  of the Director, National Institutes of Health, 6705 Rockledge Drive, Suite
-  4090, Room 4176, Bethesda, MD, 20892
-organizers: []
-attendees: []
-publications: []
+link: http://grants.nih.gov/grants/oer.htm
+dateStart: '2010-07-05'
+dateEnd: '2010-07-28'
+location:
+  raw: >-
+    Office of Research Information Systems, Office of Extramural Research/Office
+    of the Director, National Institutes of Health, 6705 Rockledge Drive, Suite
+    4090, Room 4176, Bethesda, MD, 20892
 presentations:
   - pres-250
   - pres-251
@@ -25,8 +25,3 @@ presentations:
   - pres-260
   - pres-261
   - pres-262
-tutorials: []
-dateStart: '2010-07-05'
-dateEnd: '2010-07-28'
-tags: []
-link: http://grants.nih.gov/grants/oer.htm

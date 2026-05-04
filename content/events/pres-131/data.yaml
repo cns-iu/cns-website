@@ -1,11 +1,11 @@
 slug: pres-131
 type: presentation
 title: 'This History and Development of Domain Maps: With a Focus on the Topic of Law'
-description: ''
-location: Monroe County Public Library, Bloomington, Indiana, 47401
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2007-hook-histdommap-mcpl.pdf
 dateStart: '2007-05-11'
 dateEnd: '2007-05-11'
+location:
+  raw: Monroe County Public Library, Bloomington, Indiana, 47401
+presenters:
+  - peter-a-hook
 event: ev-205
-link: https://cns.iu.edu/docs/presentations/2007-hook-histdommap-mcpl.pdf

@@ -1,6 +1,7 @@
 slug: pub-11
-link: https://cns.iu.edu/docs/news/newsite.html
 title: Welcome to the new CNS, featuring a brand new look and easier navigation
+date: '2013-07-15'
+link: https://cns.iu.edu/docs/news/newsite.html
 description: >-
   We've spent the last few months completely transforming our website, and now
   we're proud to make it available to the public. In addition to updating the
@@ -27,13 +28,11 @@ description: >-
   Design Assistant Allie Gullett. Assistant Director of Information Technology
   for the Department of Information and Library Science, Mike Gallant, assisted
   CNS with automated service deployment.
-date: '2013-07-15'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/newsite.html
-caption: >-
-  The new CNS website offers a more welcoming user experience and lots more
-  imagery to showcase the Center's various pursuits in the fields of Network
-  Science and Data Visualization
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/newsite.html
+    description: >-
+      The new CNS website offers a more welcoming user experience and lots more
+      imagery to showcase the Center's various pursuits in the fields of Network
+      Science and Data Visualization

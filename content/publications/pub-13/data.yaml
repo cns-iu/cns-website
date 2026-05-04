@@ -1,20 +1,16 @@
 slug: pub-13
-authors:
-  - ketan-k-mane
-  - katy-borner
-editors: []
 type: article-journal
 title: Mapping Topics and Topic Bursts in PNAS
 date: '2004-01-01'
-publisher: ''
+authors:
+  - ketan-k-mane
+  - katy-borner
 venue: >-
   Proceedings of the National Academy of Sciences of the United States of
   America
 volume: '101'
 issue: Suppl. 1
-doi: ''
 pages: 5287-5290
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-mane-burstpnas.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-mane-burstpnas.pdf

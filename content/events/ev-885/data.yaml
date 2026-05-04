@@ -3,15 +3,10 @@ type: other
 title: >-
   Central Indiana Corporate Partnership Communities of Practice: Insightful and
   Actionable Visual Analytics
-description: ''
-location: Virtual
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-730
-tutorials: []
+link: https://analytixindiana.com/event/data-visualization-2/
 dateStart: '2024-07-18'
 dateEnd: '2024-07-18'
-tags: []
-link: https://analytixindiana.com/event/data-visualization-2/
+location:
+  raw: Virtual
+presentations:
+  - pres-730

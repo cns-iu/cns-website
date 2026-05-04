@@ -1,17 +1,10 @@
 slug: ev-266
 type: other
 title: 'Places and Spaces: Mapping Science'
-description: >-
-  The Chinese version of the Places and Spaces Exhibit begins touring in the
-  People's Republic of China
-location: National Science Library, Chinese Academy of Science, Beijing, China
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-170
-tutorials: []
+link: http://www.ict.ac.cn/news/channel/detail5523.asp
 dateStart: '2008-05-17'
 dateEnd: '2008-06-30'
-tags: []
-link: http://www.ict.ac.cn/news/channel/detail5523.asp
+location:
+  raw: National Science Library, Chinese Academy of Science, Beijing, China
+presentations:
+  - pres-170

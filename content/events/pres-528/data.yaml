@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Data Visualization Literacy: Research and Tools that Advance Public
   Understanding of Scientific Data
-description: ''
-location: Chicago, IL
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2017-borner-NAS-educ.pdf
 dateStart: '2017-10-20'
 dateEnd: '2017-10-20'
+location:
+  raw: Chicago, IL
+presenters:
+  - katy-borner
 event: ev-674
-link: https://cns.iu.edu/docs/presentations/2017-borner-NAS-educ.pdf

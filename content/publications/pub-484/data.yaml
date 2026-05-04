@@ -1,7 +1,10 @@
 slug: pub-484
 type: article-journal
-thumbnail: fig1-s41597-025-06383-w.png
-title: A general strategy for generating expert-guided, simplified views of ontologies
+title: >-
+  A general strategy for generating expert-guided, simplified views of
+  ontologies
+date: 2026-01-09T00:00:00.000Z
+doi: 10.1038/s41597-025-06383-w
 authors:
   - anita-r-caron
   - aleix-puig-barbe
@@ -18,20 +21,12 @@ authors:
   - james-a-mclaughlin
   - katy-borner
   - david-osumi-sutherland
-editors: []
-doi: 10.1038/s41597-025-06383-w
+thumbnail: fig1-s41597-025-06383-w.png
 pmid: PMC11702530
-date: 2026-01-09
 publisher: Nature
 venue: Nature Scientific Data
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.nature.com/articles/s41597-025-06383-w
-mediaUrl: fig1-s41597-025-06383-w.png
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.nature.com/articles/s41597-025-06383-w

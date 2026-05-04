@@ -1,15 +1,10 @@
 slug: ev-528
 type: workshop
 title: OECD-Experts Dialogue on Scientometrics
-description: ''
-location: Paris, France
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-394
-tutorials: []
+link: http://www.oecd.org/
 dateStart: '2014-03-25'
 dateEnd: '2014-03-25'
-tags: []
-link: http://www.oecd.org/
+location:
+  raw: Paris, France
+presentations:
+  - pres-394

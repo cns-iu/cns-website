@@ -1,11 +1,11 @@
 slug: pres-331
 type: presentation
 title: Mining, Mapping, and Accelerating Science and Technology
-description: ''
-location: KNAW, Amsterdam, The Netherlands
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2012-borner-knaw.pdf
 dateStart: '2012-06-06'
 dateEnd: '2012-06-06'
+location:
+  raw: KNAW, Amsterdam, The Netherlands
+presenters:
+  - katy-borner
 event: ev-479
-link: https://cns.iu.edu/docs/presentations/2012-borner-knaw.pdf

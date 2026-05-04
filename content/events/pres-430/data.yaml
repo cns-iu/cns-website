@@ -1,11 +1,11 @@
 slug: pres-430
 type: presentation
 title: Mapping Our Collective Scholarly Knowledge
-description: ''
-location: St. Louis, MO
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2015-borner-bruersymposium.pdf
 dateStart: '2015-05-29'
 dateEnd: '2015-05-29'
+location:
+  raw: St. Louis, MO
+presenters:
+  - katy-borner
 event: ev-562
-link: https://cns.iu.edu/docs/presentations/2015-borner-bruersymposium.pdf

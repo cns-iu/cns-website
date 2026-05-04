@@ -1,14 +1,14 @@
 slug: pres-257
 type: presentation
 title: '12 Tutorials in 12 Days at NIH: Network Analysis, 8/12'
-description: ''
-location: >-
-  Office of Research Information Systems, Office of Extramural Research/Office
-  of the Director, National Institutes of Health, 6705 Rockledge Drive, Suite
-  4090, Room 4176, Bethesda, MD, 20892
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/10-NIH-Tutorial-08.pdf
 dateStart: '2010-07-20'
 dateEnd: '2010-07-20'
+location:
+  raw: >-
+    Office of Research Information Systems, Office of Extramural Research/Office
+    of the Director, National Institutes of Health, 6705 Rockledge Drive, Suite
+    4090, Room 4176, Bethesda, MD, 20892
+presenters:
+  - katy-borner
 event: ev-419
-link: https://cns.iu.edu/docs/presentations/10-NIH-Tutorial-08.pdf

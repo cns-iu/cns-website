@@ -1,17 +1,12 @@
 slug: ev-432
 type: meeting
 title: VIVO 18 months review
-description: ''
-location: >-
-  Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
-  Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-276
-tutorials: []
+link: http://vivoweb.org/
 dateStart: '2011-03-03'
 dateEnd: '2011-03-03'
-tags: []
-link: http://vivoweb.org/
+location:
+  raw: >-
+    Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
+    Indiana, 47405
+presentations:
+  - pres-276

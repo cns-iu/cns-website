@@ -1,13 +1,13 @@
 slug: pres-328
 type: presentation
 title: Mining, Visualizing, and Accelerating Science and Technology
-description: ''
-location: |-
-  School of Information Sciences and Technology, Pennsylvania State University
-  , 001 Thomas Building, University Park, PA, 16802
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2012-borner-psu.pdf
 dateStart: '2012-04-26'
 dateEnd: '2012-04-26'
+location:
+  raw: |-
+    School of Information Sciences and Technology, Pennsylvania State University
+    , 001 Thomas Building, University Park, PA, 16802
+presenters:
+  - katy-borner
 event: ev-475
-link: https://cns.iu.edu/docs/presentations/2012-borner-psu.pdf

@@ -1,17 +1,11 @@
 slug: ev-631
 type: conference
 title: NetSci 2017
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications:
-  - pub-346
+link: http://netsci2017.net/
+dateStart: '2017-06-21'
+dateEnd: '2017-06-23'
+location:
+  raw: Indianapolis, Indiana
 presentations:
   - pres-507
   - pres-508
-tutorials: []
-dateStart: '2017-06-21'
-dateEnd: '2017-06-23'
-tags: []
-link: http://netsci2017.net/

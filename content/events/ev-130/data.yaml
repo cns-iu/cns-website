@@ -1,16 +1,11 @@
 slug: ev-130
 type: conference
 title: Cambridge Colloquium on Complexity and Social Networks
-description: null
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
+link: http://www.ksg.harvard.edu/netgov/html/news_cccsn_old.htm
+dateStart: '2006-09-21'
+dateEnd: '2006-09-21'
+location:
+  raw: Boston, MA
 presentations:
   - pres-95
   - pres-105
-tutorials: []
-dateStart: '2006-09-21'
-dateEnd: '2006-09-21'
-tags: []
-link: http://www.ksg.harvard.edu/netgov/html/news_cccsn_old.htm

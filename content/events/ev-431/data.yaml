@@ -3,15 +3,10 @@ type: other
 title: >-
   Center for Bioinformatics and Computational Biology, National Institute of
   General Medical Sciences, NIH
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-275
-tutorials: []
+link: http://www.nigms.nih.gov/About/Overview/cbcb.htm
 dateStart: '2011-02-17'
 dateEnd: '2011-02-17'
-tags: []
-link: http://www.nigms.nih.gov/About/Overview/cbcb.htm
+location:
+  raw: Washington, DC
+presentations:
+  - pres-275

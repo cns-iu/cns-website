@@ -1,17 +1,12 @@
 slug: ev-862
 type: workshop
 title: North American Vasculature Biology Organization (NAVBO) Special Workshop
-description: ''
-location: Germantown, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
+link: https://cns-iu.github.io/workshops/2021-08-31_navbo/
+dateStart: '2021-08-31'
+dateEnd: '2021-08-31'
+location:
+  raw: Germantown, MD (Virtual Event)
 presentations:
   - pres-702
   - pres-703
   - pres-704
-tutorials: []
-dateStart: '2021-08-31'
-dateEnd: '2021-08-31'
-tags: []
-link: https://cns-iu.github.io/workshops/2021-08-31_navbo/

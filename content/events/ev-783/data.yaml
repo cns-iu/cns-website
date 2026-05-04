@@ -3,14 +3,8 @@ type: meeting
 title: >-
   U.S. Department of Energy Webinar Series on Portfolio Analytics - Tools for
   R&D Decision Making
-description: ''
-location: Webinar, DOE Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://science.osti.gov/
 dateStart: '2020-08-18'
 dateEnd: '2020-08-18'
-tags: []
-link: https://science.osti.gov/
+location:
+  raw: Webinar, DOE Virtual Event

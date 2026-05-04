@@ -1,11 +1,11 @@
 slug: pres-304
 type: presentation
 title: Envisioning Scholarly Data
-description: ''
-location: New York, NY
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2011-borner-yaddo.pdf
 dateStart: '2011-09-23'
 dateEnd: '2011-09-23'
+location:
+  raw: New York, NY
+presenters:
+  - katy-borner
 event: ev-456
-link: https://cns.iu.edu/docs/presentations/2011-borner-yaddo.pdf

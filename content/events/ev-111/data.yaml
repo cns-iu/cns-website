@@ -1,17 +1,12 @@
 slug: ev-111
 type: workshop
 title: 'IVIRA: Information Visualization for Retrieval and Analysis'
-description: null
-location: |-
-  Duncan Hall, Rice University
-  , 6100 Main, Houston, TX, 77251
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-43
-tutorials: []
+link: http://vw.indiana.edu/ivira03/
 dateStart: '2003-05-31'
 dateEnd: '2003-05-31'
-tags: []
-link: http://vw.indiana.edu/ivira03/
+location:
+  raw: |-
+    Duncan Hall, Rice University
+    , 6100 Main, Houston, TX, 77251
+presentations:
+  - pres-43

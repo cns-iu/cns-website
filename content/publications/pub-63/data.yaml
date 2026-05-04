@@ -1,17 +1,13 @@
 slug: pub-63
-authors:
-  - katy-borner
-editors: []
 type: manuscript
 title: Building Social Digital Libraries
 date: '2003-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: 'Indiana Libraries: Recruiting and Retaining Librarians in Indiana'
 volume: '22'
 issue: '2'
-doi: ''
 pages: 20-22
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2003-borner-socdl.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2003-borner-socdl.pdf

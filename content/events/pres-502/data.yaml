@@ -1,11 +1,11 @@
 slug: pres-502
 type: presentation
 title: "Precision Health Initiative\_(PHI):  Impact Assessment\_& Strategic\_Foresight"
-description: ''
-location: Regenstrief Institute, Indianapolis, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2017-borner-phi.pdf
 dateStart: '2017-04-26'
 dateEnd: '2017-04-26'
+location:
+  raw: Regenstrief Institute, Indianapolis, Indiana
+presenters:
+  - katy-borner
 event: ev-647
-link: https://cns.iu.edu/docs/presentations/2017-borner-phi.pdf

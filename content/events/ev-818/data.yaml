@@ -1,15 +1,10 @@
 slug: ev-818
 type: meeting
 title: Gut Cell Atlas Annual Convening, Collaboration Week
-description: ''
-location: New York, NY (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-641
-tutorials: []
+link: https://www.gutcellatlas.helmsleytrust.org/
 dateStart: '2020-11-16'
 dateEnd: '2020-11-16'
-tags: []
-link: https://www.gutcellatlas.helmsleytrust.org/
+location:
+  raw: New York, NY (Virtual Event)
+presentations:
+  - pres-641

@@ -1,7 +1,10 @@
 slug: pub-443
 type: manuscript
-title: Generalized cell phenotyping for spatial proteomics with
-  language-informed vision models
+title: >-
+  Generalized cell phenotyping for spatial proteomics with language-informed
+  vision models
+date: 2024-11-17T00:00:00.000Z
+doi: 10.1101/2024.11.02.621624
 authors:
   - xuefei-julie-wang
   - rohit-dilip
@@ -17,18 +20,9 @@ authors:
   - yisong-yue
   - ross-barnowski
   - david-van-valen
-editors: []
-doi: 10.1101/2024.11.02.621624
-date: 2024-11-17
-publisher: ""
 venue: bioRxiv
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.biorxiv.org/content/10.1101/2024.11.02.621624v2
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.biorxiv.org/content/10.1101/2024.11.02.621624v2

@@ -1,14 +1,8 @@
 slug: ev-207
 type: conference
 title: Sunbelt XXVII:International Sunbelt Social Network Conference
-description: null
-location: Corfu, Greece
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.insna.org/2007/Sunbelt%202007.html
 dateStart: '2007-05-01'
 dateEnd: '2007-05-06'
-tags: []
-link: http://www.insna.org/2007/Sunbelt%202007.html
+location:
+  raw: Corfu, Greece

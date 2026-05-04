@@ -1,4 +1,7 @@
 slug: pub-114
+type: paper-conference
+title: Geographical Visualization of Technology Data in the US
+date: '2005-01-01'
 authors:
   - colin-murray
   - weimao-ke
@@ -6,17 +9,7 @@ authors:
   - mark-meiss
   - shravan-rajagopal
   - katy-borner
-editors: []
-type: paper-conference
-title: Geographical Visualization of Technology Data in the US
-date: '2005-01-01'
-publisher: ''
 venue: IEEE InfoVis 2005 Contest Entry, Minneapolis, MN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-murray-techdata.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-murray-techdata.pdf

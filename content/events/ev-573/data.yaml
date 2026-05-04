@@ -1,15 +1,10 @@
 slug: ev-573
 type: meeting
 title: Engineering Research Center Observatory Kick-Off Meeting
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-444
-tutorials: []
+link: https://engineering.purdue.edu/gekcogrp/
 dateStart: '2015-12-09'
 dateEnd: '2015-12-09'
-tags: []
-link: https://engineering.purdue.edu/gekcogrp/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-444

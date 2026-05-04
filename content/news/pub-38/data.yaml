@@ -1,8 +1,9 @@
 slug: pub-38
-link: https://cns.iu.edu/docs/news/20080925_CornellUniversityLibrary.html
 title: >-
   Mann Library Celebrates 20th Anniversary of Ans van Tienhoven Award (website
   accessed 9/25/08)
+date: '2008-09-25'
+link: https://cns.iu.edu/docs/news/20080925_CornellUniversityLibrary.pdf
 description: >-
   Kathy Chiang, who has worked in CUL since 1984, was selected to be the
   recipient of the Ans van Tienhoven Award on its twentieth anniversary. She
@@ -41,16 +42,13 @@ description: >-
   laboratory at Indiana University, to give a seminar at Cornell and speak to
   library staff as well as others from departments such as computer science and
   science and technology studies.
-date: '2008-09-25'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20080925_CornellUniversityLibrary.html
-caption: >-
-  The following is an article from the Cornell University Library. Read the
-  original article on the web
-  [here](http://www.library.cornell.edu/insidecul/200611/mannlibrary.html), or
-  download a PDF of the article
-  [here](/docs/news/20080925_CornellUniversityLibrary.pdf).
 publisher: 'Cornell University Library: InsideCUL'
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20080925_CornellUniversityLibrary.pdf
+    description: >-
+      The following is an article from the Cornell University Library. Read the
+      original article on the web
+      [here](http://www.library.cornell.edu/insidecul/200611/mannlibrary.html),
+      or download a PDF of the article
+      [here](/docs/news/20080925_CornellUniversityLibrary.pdf).

@@ -3,17 +3,12 @@ type: conference
 title: >-
   11th International Conference of the International Society for Scientometrics
   and Informetrics
-description: null
-location: Madrid, Spain
-organizers: []
-attendees: []
-publications: []
+link: http://issi2007.cindoc.csic.es/
+dateStart: '2007-06-25'
+dateEnd: '2007-06-27'
+location:
+  raw: Madrid, Spain
 presentations:
   - pres-114
   - pres-115
   - pres-118
-tutorials: []
-dateStart: '2007-06-25'
-dateEnd: '2007-06-27'
-tags: []
-link: http://issi2007.cindoc.csic.es/

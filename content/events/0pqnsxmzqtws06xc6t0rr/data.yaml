@@ -1,16 +1,12 @@
 slug: 0pqnsxmzqtws06xc6t0rr
 type: presentation
 title: Insightful and Actionable Visual Analytics Class
-link: ""
-dateStart: 2026-02-04
-dateEnd: 2026-02-04
-projects: []
-tags: []
-venue: Arizona State University
-city: Tempe
-state: AZ
+link: null
+dateStart: 2026-02-04T00:00:00.000Z
+dateEnd: 2026-02-04T00:00:00.000Z
+location:
+  venue: Arizona State University
+  city: Tempe
+  state: AZ
 presenters:
   - katy-borner
-instructors: []
-organizers: []
-attendees: []

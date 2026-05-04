@@ -1,13 +1,12 @@
 slug: fun-75
 type: research
-name: NCSE-1538763
 title: Measuring and visualizing STEM pathways
+name: NCSE-1538763
 funder: National Science Foundation
+amount: 149451
+dateStart: '2015-08-15'
+dateEnd: '2017-01-31'
 investigators:
   - adam-v-maltese
   - katy-borner
-amount: 149451
 receivedAmount: 149451
-dateStart: '2015-08-15'
-dateEnd: '2017-01-31'
-tags: []

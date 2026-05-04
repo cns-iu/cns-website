@@ -1,11 +1,11 @@
 slug: pres-129
 type: presentation
 title: Evolution of Subfields in Physics
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - robert-goldstone
+link: https://cns.iu.edu/docs/presentations/2006-goldstone-modsci.pdf
 dateStart: '2006-05-21'
 dateEnd: '2006-05-21'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - robert-goldstone
 event: ev-118
-link: https://cns.iu.edu/docs/presentations/2006-goldstone-modsci.pdf

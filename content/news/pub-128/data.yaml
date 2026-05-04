@@ -1,8 +1,9 @@
 slug: pub-128
-link: https://cns.iu.edu/docs/news/20140710_SoICNews.html
 title: >-
   Current and Former ILS Students Receive ‘Best Student Entry’ for Data
   Visualization Challenge at 2014 ACM Web Science conference
+date: '2014-07-10'
+link: https://cns.iu.edu/docs/news/20140710_SoICNews.pdf
 description: >2-
     
   **Click for larger version**  
@@ -64,15 +65,13 @@ description: >2-
   Inna Kouper  
 
   inkouper@iu.edu
-date: '2014-07-10'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140710_SoICNews.html
-caption: >-
-  The following article was originally published by SoIC News. Read the original
-  article
-  [here](http://www.soic.indiana.edu/news/story.html?story=Current-Former-ILS-Students-Receive-Best-Student-Entry-for-Data-Visualization-Challenge-2014-ACM-Web-Science-conference),
-  or download a PDF of the article [here](/docs/news/20140710_SoICNews.pdf).
 publisher: SoIC News
 reporter: Heather Edelblute
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20140710_SoICNews.pdf
+    description: >-
+      The following article was originally published by SoIC News. Read the
+      original article
+      [here](http://www.soic.indiana.edu/news/story.html?story=Current-Former-ILS-Students-Receive-Best-Student-Entry-for-Data-Visualization-Challenge-2014-ACM-Web-Science-conference),
+      or download a PDF of the article [here](/docs/news/20140710_SoICNews.pdf).

@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Human Reference Atlas: ASCT+B Tables, 3D Reference Library & CCF User
   Interfaces
-description: ''
-location: Bethesda, MD (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/21-HuBMAP-CFDE-Borner.pdf
 dateStart: '2021-04-06'
 dateEnd: '2021-04-06'
+location:
+  raw: Bethesda, MD (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-808
-link: https://cns.iu.edu/docs/presentations/21-HuBMAP-CFDE-Borner.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

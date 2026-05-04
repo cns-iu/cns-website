@@ -1,15 +1,10 @@
 slug: ev-701
 type: conference
 title: Innovation Growth Lab Global Conference
-description: ''
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-552
-tutorials: []
+link: https://www.innovationgrowthlab.org/igl2018-global-conference
 dateStart: '2018-06-12'
 dateEnd: '2018-06-14'
-tags: []
-link: https://www.innovationgrowthlab.org/igl2018-global-conference
+location:
+  raw: Boston, MA
+presentations:
+  - pres-552

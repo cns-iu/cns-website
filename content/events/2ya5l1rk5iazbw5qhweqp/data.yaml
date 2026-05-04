@@ -1,8 +1,8 @@
 slug: 2ya5l1rk5iazbw5qhweqp
 type: other
-link: https://www.makevention.org/
 title: Makevention 2017
-description: Amatria
-location: BloomingLabs, Bloomington, Indiana, USA
-dateStart: 2017-08-26
-tags: []
+link: https://www.makevention.org/
+dateStart: 2017-08-26T00:00:00.000Z
+dateEnd: null
+location:
+  raw: BloomingLabs, Bloomington, Indiana, USA

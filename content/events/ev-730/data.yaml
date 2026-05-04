@@ -1,15 +1,10 @@
 slug: ev-730
 type: workshop
 title: 'Scientific Visualization Workshop Series: Fall 2018'
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-581
-tutorials: []
+link: http://web.avl.indiana.edu/~shermanw/VisWorkshop/
 dateStart: '2018-11-14'
 dateEnd: null
-tags: []
-link: http://web.avl.indiana.edu/~shermanw/VisWorkshop/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-581

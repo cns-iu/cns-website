@@ -1,12 +1,12 @@
 slug: pres-503
 type: presentation
 title: 'Maps & Macroscopes:  Drawing Actionable Insights From Data'
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2017-borner-beesley.pdf
+dateStart: '2017-04-30'
+dateEnd: '2017-04-30'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
 presenters:
   - katy-borner
   - philip-beesley
-dateStart: '2017-04-30'
-dateEnd: '2017-04-30'
 event: ev-648
-link: https://cns.iu.edu/docs/presentations/2017-borner-beesley.pdf

@@ -1,9 +1,8 @@
 slug: ws-5
 type: workshop
 title: JSMF Workshop on Standards for Science Metrics, Classifications, and Mapping
-description: ''
-location: Bloomington, Indiana
+link: http://web.archive.org/web/20260108202022/https://cns.iu.edu/110810.html
 dateStart: '2011-08-11'
 dateEnd: '2011-08-12'
-tags: []
-link: http://web.archive.org/web/20260108202022/https://cns.iu.edu/110810.html
+location:
+  raw: Bloomington, Indiana

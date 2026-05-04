@@ -1,13 +1,13 @@
 slug: tut-10
 type: tutorial
 title: Network Workbench Workshop
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-instructors:
-  - weixia-bonnie-huang
+link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt
 dateStart: '2007-12-10'
 dateEnd: '2007-12-10'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+instructors:
+  - weixia-bonnie-huang
 event: ev-239
-link: https://cns.iu.edu/docs/presentations/2007-huang-nwb-ncs.ppt

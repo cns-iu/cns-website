@@ -1,6 +1,7 @@
 slug: pub-111
-link: https://cns.iu.edu/docs/news/20131203_IDSNews.html
 title: International map makers create maps of scientific data
+date: '2013-12-03'
+link: https://cns.iu.edu/docs/news/20131203_IDSNews.html
 description: >-
   Map makers around the world have created maps to analyze everything from
   character interactions in “Lord of the Rings” to the history of science
@@ -79,18 +80,17 @@ description: >-
     
   “This is a really nice resource for those who may not be specialists in
   science,” Theriault said.
-date: '2013-12-03'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20131203_IDSNews.html
-caption: >-
-  Exhibit curator Todd Theriault and Katy Börner, professor and director of the
-  IU Cyberinfrastructure for Network Science Center, presented the _Places and
-  Spaces: Mapping Science_ exhibit at Science Cafe Bloomington.  
-    
-  The following is an article from the IDS News. Read the original story on the
-  web [here](http://www.idsnews.com/news/story.aspx?id=95562), or download a PDF
-  of the article [here](/docs/news/20131203_IDSNews.pdf).
 publisher: IDS News
 reporter: Danielle Castonzo
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20131203_IDSNews.html
+    description: >-
+      Exhibit curator Todd Theriault and Katy Börner, professor and director of
+      the IU Cyberinfrastructure for Network Science Center, presented the
+      _Places and Spaces: Mapping Science_ exhibit at Science Cafe
+      Bloomington.  
+        
+      The following is an article from the IDS News. Read the original story on
+      the web [here](http://www.idsnews.com/news/story.aspx?id=95562), or
+      download a PDF of the article [here](/docs/news/20131203_IDSNews.pdf).

@@ -1,11 +1,11 @@
 slug: pres-335
 type: presentation
 title: A Semantic Landscape of the Last.fm Music Folksonomy
-description: ''
-location: Seattle, WA
-presenters:
-  - joseph-r-biberstine
+link: https://cns.iu.edu/docs/presentations/2011-biberstine-lastfm-aag.pdf
 dateStart: '2011-04-16'
 dateEnd: '2011-04-16'
+location:
+  raw: Seattle, WA
+presenters:
+  - joseph-r-biberstine
 event: ev-482
-link: https://cns.iu.edu/docs/presentations/2011-biberstine-lastfm-aag.pdf

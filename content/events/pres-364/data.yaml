@@ -1,13 +1,13 @@
 slug: pres-364
 type: presentation
 title: Topical Analysis and Visualization of (Network) Data Using Sci2
-description: ''
-location: >-
-  Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
-  Bloomington, Indiana, 47405
-presenters:
-  - david-e-polley
+link: https://cns.iu.edu/docs/presentations/2013-polley-netsci-tutorial4.pdf
 dateStart: '2013-02-04'
 dateEnd: '2013-02-04'
+location:
+  raw: >-
+    Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
+    Bloomington, Indiana, 47405
+presenters:
+  - david-e-polley
 event: ev-502
-link: https://cns.iu.edu/docs/presentations/2013-polley-netsci-tutorial4.pdf

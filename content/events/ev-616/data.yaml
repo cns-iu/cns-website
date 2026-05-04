@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Data and Modeling Workshop on Graduate Education Investments and STEM Career
   Experiences and Outcomes
-description: ''
-location: Arlington, VA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-480
-tutorials: []
+link: https://www.nsf.gov/
 dateStart: '2016-10-27'
 dateEnd: '2016-10-27'
-tags: []
-link: https://www.nsf.gov/
+location:
+  raw: Arlington, VA
+presentations:
+  - pres-480

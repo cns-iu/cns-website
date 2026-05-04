@@ -1,15 +1,15 @@
 slug: pres-44
 type: presentation
 title: 'From Ethology to Sexual Selection: Trends in Animal Behavior Research'
-description: ''
-location: Boise, ID
+link: https://cns.iu.edu/docs/presentations/2003-ord-ethol-unknown.ppt
+dateStart: '2003-07-19'
+dateEnd: '2003-07-19'
+location:
+  raw: Boise, ID
 presenters:
   - terry-j-ord
   - emilia-p-martins
   - sidharth-thakur
   - ketan-k-mane
   - katy-borner
-dateStart: '2003-07-19'
-dateEnd: '2003-07-19'
 event: ev-110
-link: https://cns.iu.edu/docs/presentations/2003-ord-ethol-unknown.ppt

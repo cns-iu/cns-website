@@ -1,12 +1,12 @@
 slug: pres-583
 type: presentation
 title: 'OurCS: Augmented Reality Visualizations of IoT'
-description: ''
-location: Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2018-borner-OurCS.pdf
+dateStart: '2018-10-26'
+dateEnd: '2018-10-26'
+location:
+  raw: Bloomington, Indiana
 presenters:
   - katy-borner
   - mike-hu
-dateStart: '2018-10-26'
-dateEnd: '2018-10-26'
 event: ev-732
-link: https://cns.iu.edu/docs/presentations/2018-borner-OurCS.pdf

@@ -1,17 +1,12 @@
 slug: ev-112
 type: other
 title: IV-Lab Open House 2004
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-49
-tutorials: []
+link: http://ella.slis.indiana.edu/%7Ekaty/gallery/04-openhouse/
 dateStart: '2004-09-10'
 dateEnd: '2004-09-10'
-tags: []
-link: http://ella.slis.indiana.edu/%7Ekaty/gallery/04-openhouse/
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-49

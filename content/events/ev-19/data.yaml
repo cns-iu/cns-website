@@ -3,14 +3,8 @@ type: conference
 title: >-
   SIGGRAPH 2005: The 32nd International Conference on Computer Graphics and
   Interactive Techniques
-description: null
-location: Los Angeles, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.siggraph.org/s2005/
 dateStart: '2005-07-31'
 dateEnd: '2005-08-04'
-tags: []
-link: http://www.siggraph.org/s2005/
+location:
+  raw: Los Angeles, CA

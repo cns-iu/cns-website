@@ -1,12 +1,11 @@
 slug: fun-19
 type: research
-name: AT&T (formerly SBC, formerly Ameritech) Fellow Grant
 title: Information Visualization Learning Modules
+name: AT&T (formerly SBC, formerly Ameritech) Fellow Grant
 funder: SBC (formerly Ameritech)
-investigators:
-  - katy-borner
 amount: 15000
-receivedAmount: 15000
 dateStart: '2003-05-01'
 dateEnd: '2004-06-30'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 15000

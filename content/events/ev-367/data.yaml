@@ -5,15 +5,10 @@ title: >
   Intelligence
 
   Dynamic Knowledge Networks:  Synthetic Minds 
-description: null
-location: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-220
-tutorials: []
+link: http://mediax.stanford.edu/WSI/convergence.html
 dateStart: '2009-08-12'
 dateEnd: '2009-08-12'
-tags: []
-link: http://mediax.stanford.edu/WSI/convergence.html
+location:
+  raw: Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055
+presentations:
+  - pres-220

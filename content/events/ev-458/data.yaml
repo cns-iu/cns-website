@@ -1,15 +1,10 @@
 slug: ev-458
 type: conference
 title: Taming Complexity
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-310
-tutorials: []
+link: http://www.ttivanguard.com/conference/2011/complexity.html
 dateStart: '2011-10-04'
 dateEnd: '2011-10-05'
-tags: []
-link: http://www.ttivanguard.com/conference/2011/complexity.html
+location:
+  raw: Washington, DC
+presentations:
+  - pres-310

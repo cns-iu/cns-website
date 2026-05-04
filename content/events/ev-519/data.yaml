@@ -1,15 +1,10 @@
 slug: ev-519
 type: conference
 title: 41st Annual LOEX Conference 2013
-description: ''
-location: Nashville, TN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-386
-tutorials: []
+link: http://www.loexconference.org/2013/index.html
 dateStart: '2013-05-03'
 dateEnd: '2013-05-04'
-tags: []
-link: http://www.loexconference.org/2013/index.html
+location:
+  raw: Nashville, TN
+presentations:
+  - pres-386

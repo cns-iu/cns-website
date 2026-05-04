@@ -1,4 +1,11 @@
 slug: pub-431
+type: article-journal
+title: >-
+  Opioid Prescriptions Prior to Emergency Department Dental Visits: A Comparison
+  of Dental Health Professional Shortage Areas (DPSAs) and Non-DPSAs Using
+  Electronic Health Records
+date: '2023-12-24'
+doi: 10.1177/00469580231218440
 authors:
   - mallory-dreyer
   - aunbhuti-shukla
@@ -7,20 +14,8 @@ authors:
   - katy-borner
   - thankam-thyvalikakath
   - kosali-simon
-editors: []
-type: article-journal
-title: >-
-  Opioid Prescriptions Prior to Emergency Department Dental Visits: A Comparison
-  of Dental Health Professional Shortage Areas (DPSAs) and Non-DPSAs Using
-  Electronic Health Records
-date: '2023-12-24'
-publisher: ''
 venue: Sage Journals
 volume: '60'
-issue: ''
-doi: 10.1177/00469580231218440
-pages: ''
-chapter: ''
-links:
-  - https://journals.sagepub.com/doi/full/10.1177/00469580231218440
-tags: []
+media:
+  - type: website
+    url: https://journals.sagepub.com/doi/full/10.1177/00469580231218440

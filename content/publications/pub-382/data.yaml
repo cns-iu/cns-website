@@ -1,4 +1,9 @@
 slug: pub-382
+type: manuscript
+title: >-
+  Hiring in the substance use disorder treatment related sector during the first
+  five years of Medicaid expansion
+date: '2019-08-01'
 authors:
   - olga-scrivner
   - thuy-nguyen
@@ -6,19 +11,8 @@ authors:
   - esme-middaugh
   - bledi-taska
   - katy-borner
-editors: []
-type: manuscript
-title: >-
-  Hiring in the substance use disorder treatment related sector during the first
-  five years of Medicaid expansion
-date: '2019-08-01'
-publisher: ''
 venue: ' arXiv:1908.00216v1 [econ.GN]'
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2019-scrivner-HiringInTheSubstance.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2019-scrivner-HiringInTheSubstance.pdf

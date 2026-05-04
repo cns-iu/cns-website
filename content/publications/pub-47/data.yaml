@@ -1,4 +1,9 @@
 slug: pub-47
+type: paper-conference
+title: >-
+  Unstructured Peer-to-Peer Networks: Topological Properties and Search
+  Performance
+date: '2005-01-01'
 authors:
   - george-fletcher
   - hardik-sheth
@@ -7,20 +12,11 @@ editors:
   - gianluca-moro
   - sonia-bergamaschi
   - karl-aberer
-type: paper-conference
-title: >-
-  Unstructured Peer-to-Peer Networks: Topological Properties and Search
-  Performance
-date: '2005-01-01'
 publisher: Springer-Verlag
 venue: >-
   Agents and Peer-to-Peer Computing: Third International Workshop, AP2PC 2004.
   New York, NY
-volume: ''
-issue: ''
-doi: ''
 pages: 14-27
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2004-fletcher-p2p.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2004-fletcher-p2p.pdf

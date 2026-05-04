@@ -1,14 +1,8 @@
 slug: ev-289
 type: other
 title: Summer School on the Analysis of Political and Managerial Networks (POLNET)
-description: null
-location: Konstanz, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.polnet-school.info/
 dateStart: '2008-08-31'
 dateEnd: '2008-09-05'
-tags: []
-link: http://www.polnet-school.info/
+location:
+  raw: Konstanz, Germany

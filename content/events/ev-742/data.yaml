@@ -1,15 +1,10 @@
 slug: ev-742
 type: conference
 title: Internet of Things Wearables in Motion Symposium
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-600
-tutorials: []
+link: https://iotw.cns.iu.edu/
 dateStart: '2019-04-25'
 dateEnd: '2019-04-26'
-tags: []
-link: https://iotw.cns.iu.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-600

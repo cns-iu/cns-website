@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Mapping the Evolving Interface of Mainstream Chemistry and the Fields of
   Biochemistry, Biology, and Bioengineering
-description: ''
-location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2007-borner-mapintfc.pdf
 dateStart: '2007-05-22'
 dateEnd: '2007-05-22'
+location:
+  raw: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
+presenters:
+  - katy-borner
 event: ev-144
-link: https://cns.iu.edu/docs/presentations/2007-borner-mapintfc.pdf

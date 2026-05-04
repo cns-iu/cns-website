@@ -1,15 +1,10 @@
 slug: ev-784
 type: meeting
 title: HuBMAP Y3:Q1 Demo Day (Virtual Event)
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
 dateStart: '2020-09-21'
 dateEnd: '2020-09-22'
-tags:
-  - hra
-link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
+location:
+  raw: Bloomington, Indiana
+projects:
+  - human-reference-atlas

@@ -1,17 +1,12 @@
 slug: ev-92
 type: conference
 title: International Workshop and Conference on Network Science 2006
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
+link: http://vw.indiana.edu/netsci06/
+dateStart: '2006-05-16'
+dateEnd: '2006-05-22'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
 presentations:
   - pres-75
   - pres-76
   - pres-154
-tutorials: []
-dateStart: '2006-05-16'
-dateEnd: '2006-05-22'
-tags: []
-link: http://vw.indiana.edu/netsci06/

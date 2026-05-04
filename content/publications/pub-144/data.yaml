@@ -1,21 +1,16 @@
 slug: pub-144
+type: paper-conference
+title: Conceptual Analogy
+date: '1995-01-01'
 authors:
   - katy-borner
 editors:
   - a-ram
   - david-w-aha
-type: paper-conference
-title: Conceptual Analogy
-date: '1995-01-01'
-publisher: ''
 venue: >-
   AAAI 1995 Fall Symposium Series: Adaptation of Knowledge for Reuse, Boston,
   MA, November 10-12
-volume: ''
-issue: ''
-doi: ''
 pages: 5-11
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1995-borner-cncptanlgy-aaai.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1995-borner-cncptanlgy-aaai.pdf

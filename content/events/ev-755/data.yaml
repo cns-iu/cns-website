@@ -1,15 +1,10 @@
 slug: ev-755
 type: other
 title: American Evaluation Association's 33rd Annual Conference
-description: ''
-location: Minneapolis, MN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-612
-tutorials: []
+link: https://www.evaluationconference.org/p/cm/ld/fid=705
 dateStart: '2019-11-11'
 dateEnd: '2019-11-16'
-tags: []
-link: https://www.evaluationconference.org/p/cm/ld/fid=705
+location:
+  raw: Minneapolis, MN
+presentations:
+  - pres-612

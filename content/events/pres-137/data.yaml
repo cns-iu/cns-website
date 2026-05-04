@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Mapping Science: Analyzing and Visualizing the Dynamics of Scholarly Knowledge
   and Innovations
-description: ''
-location: Tokyo, Japan
-presenters:
-  - katy-borner
+link: http://ella.slis.indiana.edu/%7Ekaty/events/07-nistep-tokyo.pdf
 dateStart: '2007-02-13'
 dateEnd: '2007-02-13'
+location:
+  raw: Tokyo, Japan
+presenters:
+  - katy-borner
 event: ev-216
-link: http://ella.slis.indiana.edu/%7Ekaty/events/07-nistep-tokyo.pdf

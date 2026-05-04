@@ -1,17 +1,12 @@
-organizers: []
-publications: []
 slug: ev-887
-title: CFDE Knowledge Center HRA v2.1
-dateStart: 2024-07-26
-dateEnd: 2024-07-26
-tutorials: []
 type: other
-location: Remote event
-projects:
-  - human-reference-atlas
-tags:
-  - hra
+title: CFDE Knowledge Center HRA v2.1
+link: null
+dateStart: 2024-07-26T00:00:00.000Z
+dateEnd: 2024-07-26T00:00:00.000Z
+location:
+  raw: Remote event
 presentations:
   - pres-732
-description: ""
-attendees: []
+projects:
+  - human-reference-atlas

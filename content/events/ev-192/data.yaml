@@ -3,14 +3,8 @@ type: conference
 title: >-
   Invited Panelist at "Flagship Projects in e-Social Science," Third
   International Conference on e-Social Science
-description: null
-location: Ann Arbor, MI
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://ess.si.umich.edu/index.htm
 dateStart: '2007-10-08'
 dateEnd: '2007-10-09'
-tags: []
-link: http://ess.si.umich.edu/index.htm
+location:
+  raw: Ann Arbor, MI

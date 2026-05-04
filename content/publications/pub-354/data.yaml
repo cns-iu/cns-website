@@ -1,4 +1,7 @@
 slug: pub-354
+type: paper-conference
+title: Engineering Research Center Observatory
+date: '2017-10-31'
 authors:
   - steve-snyder
   - katy-borner
@@ -8,17 +11,7 @@ authors:
   - gerhard-klimeck
   - michael-zentner
   - steve-snyder
-editors: []
-type: paper-conference
-title: Engineering Research Center Observatory
-date: '2017-10-31'
-publisher: ''
 venue: ERC Biennial Conference
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-hutcheson-erc.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-hutcheson-erc.pdf

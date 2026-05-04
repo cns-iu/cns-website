@@ -1,15 +1,10 @@
 slug: ev-466
 type: meeting
 title: Werklunch at DANS, KNAW
-description: null
-location: Kloveniersburgwal 48, Amsterdam, The Netherlands, 1012
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-318
-tutorials: []
+link: http://www.dans.knaw.nl/en
 dateStart: '2012-01-23'
 dateEnd: '2012-01-23'
-tags: []
-link: http://www.dans.knaw.nl/en
+location:
+  raw: Kloveniersburgwal 48, Amsterdam, The Netherlands, 1012
+presentations:
+  - pres-318

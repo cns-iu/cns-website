@@ -1,22 +1,18 @@
 slug: pub-64
+type: paper-conference
+title: Visual Interfaces to Digital Libraries
+date: '2002-01-01'
 authors:
   - katy-borner
   - chaomei-chen
 editors:
   - g-marchionini
   - w-hersh
-type: paper-conference
-title: Visual Interfaces to Digital Libraries
-date: '2002-01-01'
 publisher: ACM Press
 venue: >-
   JCDL Workshop: Visual Interfaces to Digital Libraries. In Second ACM+IEEE
   Joint Conference on Digital Libraries, Portland, OR
-volume: ''
-issue: ''
-doi: ''
 pages: '425'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-vislib.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-vislib.pdf

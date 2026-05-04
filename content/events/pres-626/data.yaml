@@ -1,11 +1,11 @@
 slug: pres-626
 type: presentation
 title: Modeling and Visualizing Complex Unifiable Systems
-description: ''
-location: Washington, DC (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/20-Borner-NAE-Complexity.pdf
 dateStart: '2020-04-28'
 dateEnd: '2020-04-28'
+location:
+  raw: Washington, DC (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-828
-link: https://cns.iu.edu/docs/presentations/20-Borner-NAE-Complexity.pdf

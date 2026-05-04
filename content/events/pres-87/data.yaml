@@ -1,14 +1,14 @@
 slug: pres-87
 type: presentation
 title: Data Modeling, Analysis, and Visualization
-description: ''
-location: >-
-  Department of Computer Science, Indiana University at Bloomington, Lindley
-  Hall, Bloomington, Indiana, 47405
+link: http://ella.slis.indiana.edu/~katy/events/05-jett/index.html
+dateStart: '2005-11-11'
+dateEnd: '2005-11-11'
+location:
+  raw: >-
+    Department of Computer Science, Indiana University at Bloomington, Lindley
+    Hall, Bloomington, Indiana, 47405
 presenters:
   - bruce-w-herr-ii
   - katy-borner
-dateStart: '2005-11-11'
-dateEnd: '2005-11-11'
 event: ev-29
-link: http://ella.slis.indiana.edu/~katy/events/05-jett/index.html

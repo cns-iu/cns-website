@@ -1,17 +1,10 @@
 slug: pub-204
-authors:
-  - katy-borner
-editors: []
 type: book
 title: 'Atlas of Science: Visualizing What We Know'
 date: '2010-01-10'
+authors:
+  - katy-borner
 publisher: 'Cambridge, MA: The MIT Press'
-venue: ''
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - http://scimaps.org/atlas/
-tags: []
+media:
+  - type: website
+    url: http://scimaps.org/atlas/

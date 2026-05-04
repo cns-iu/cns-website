@@ -1,15 +1,10 @@
 slug: ev-456
 type: meeting
 title: Compatible Data Initiative Meeting
-description: ''
-location: New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-304
-tutorials: []
+link: http://compdb.blogspot.com/2011/09/compatible-data-meeting-to-highlight.html
 dateStart: '2011-09-23'
 dateEnd: '2011-09-25'
-tags: []
-link: http://compdb.blogspot.com/2011/09/compatible-data-meeting-to-highlight.html
+location:
+  raw: New York, NY
+presentations:
+  - pres-304

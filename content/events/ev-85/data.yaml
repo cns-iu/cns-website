@@ -3,14 +3,8 @@ type: conference
 title: >-
   Symposium on Knowledge Domain Visualizations at IV 2005: Ninth International
   Conference on Information Visualization
-description: null
-location: London, UK
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.graphicslink.demon.co.uk/IV05/
 dateStart: '2005-07-06'
 dateEnd: '2005-07-08'
-tags: []
-link: http://www.graphicslink.demon.co.uk/IV05/
+location:
+  raw: London, UK

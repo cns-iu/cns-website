@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Atlas of Forecasts: Predicting and Broadcasting Science, Technology, and
   Innovation
-description: ''
-location: Tokyo, Japan (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/22-NISTEP-Seminar.pdf
 dateStart: '2022-12-13'
 dateEnd: '2022-12-13'
+location:
+  raw: Tokyo, Japan (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-869
-link: https://cns.iu.edu/docs/presentations/22-NISTEP-Seminar.pdf

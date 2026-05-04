@@ -1,12 +1,12 @@
 slug: pres-466
 type: presentation
 title: Healthcare System Dynamics
-description: ''
-location: Boston, MA
+link: https://cns.iu.edu/docs/presentations/2016-odonnell-i2b2.pdf
+dateStart: '2016-06-21'
+dateEnd: '2016-06-21'
+location:
+  raw: Boston, MA
 presenters:
   - griffin-weber
   - daniel-odonnell
-dateStart: '2016-06-21'
-dateEnd: '2016-06-21'
 event: ev-597
-link: https://cns.iu.edu/docs/presentations/2016-odonnell-i2b2.pdf

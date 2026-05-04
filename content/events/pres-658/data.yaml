@@ -1,11 +1,11 @@
 slug: pres-658
 type: presentation
 title: Maps & Macroscopes
-description: ''
-location: Lovain-la-Neuve, Belgium (Virtual Event)
-presenters:
-  - todd-theriault
+link: https://cns.iu.edu/docs/presentations/21-DS2-Maps&Macroscopes-Theriault.pdf
 dateStart: '2021-03-16'
 dateEnd: '2021-03-16'
+location:
+  raw: Lovain-la-Neuve, Belgium (Virtual Event)
+presenters:
+  - todd-theriault
 event: ev-812
-link: https://cns.iu.edu/docs/presentations/21-DS2-Maps&Macroscopes-Theriault.pdf

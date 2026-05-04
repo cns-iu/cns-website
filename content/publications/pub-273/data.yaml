@@ -1,23 +1,16 @@
 slug: pub-273
+type: paper-conference
+title: A Semantic Map of the last.fm Music Folksonomy
+date: '2012-09-11'
 authors:
   - joseph-r-biberstine
   - katy-borner
   - russell-jackson-duhon
   - elisha-f-allgood
   - andre-skupin
-editors: []
-type: paper-conference
-title: A Semantic Map of the last.fm Music Folksonomy
-date: '2012-09-11'
-publisher: ''
 venue: >-
   Seventh International Conference on Geographic Information Science (GIScience
   2012), Columbus, OH
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2012-biberstine-lastfm-giscience.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2012-biberstine-lastfm-giscience.pdf

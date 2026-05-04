@@ -1,13 +1,13 @@
 slug: pres-516
 type: presentation
 title: Reproducible Visual Analytics of Public Opioid Data
-description: ''
-location: Indiana Convention Center, 100 S Capitol Ave, Indianapolis, Indiana, 46225
+link: https://cns.iu.edu/docs/presentations/2017-CNS-Opioid-Vis-Challenge.pdf
+dateStart: '2017-09-14'
+dateEnd: '2017-09-14'
+location:
+  raw: Indiana Convention Center, 100 S Capitol Ave, Indianapolis, Indiana, 46225
 presenters:
   - katy-borner
   - olga-scrivner
   - jivitesh-poojary
-dateStart: '2017-09-14'
-dateEnd: '2017-09-14'
 event: ev-664
-link: https://cns.iu.edu/docs/presentations/2017-CNS-Opioid-Vis-Challenge.pdf

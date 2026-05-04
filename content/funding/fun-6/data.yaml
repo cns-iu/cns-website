@@ -1,16 +1,15 @@
 slug: fun-6
 type: research
-name: NSF SES-0527638 Award
 title: 2006 International Workshop and Conference
+name: NSF SES-0527638 Award
 funder: National Science Foundation
+amount: 99837
+dateStart: '2005-11-01'
+dateEnd: '2006-10-31'
 investigators:
   - stanley-wasserman
   - katy-borner
   - albert-laszlo-barabasi
   - alessandro-vespignani
   - noshir-s-contractor
-amount: 99837
 receivedAmount: 99837
-dateStart: '2005-11-01'
-dateEnd: '2006-10-31'
-tags: []

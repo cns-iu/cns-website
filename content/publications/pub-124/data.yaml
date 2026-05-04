@@ -1,19 +1,12 @@
 slug: pub-124
-authors:
-  - katy-borner
-editors: []
 type: manuscript
 title: Mapping Science
 date: '2006-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: >-
   International Conference and Workshop on Network Science, May 16 - 25,
   Bloomington, Indiana
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2006-borner-mapsci.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-borner-mapsci.pdf

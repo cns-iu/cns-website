@@ -1,4 +1,7 @@
 slug: pub-237
+type: chapter
+title: Mapping Interdisciplinary Research (sidebar, Systems Science Section)
+date: '2010-09-01'
 authors:
   - katy-borner
   - kevin-w-boyack
@@ -6,16 +9,10 @@ editors:
   - robert-frodeman
   - julie-thompson-klein
   - carl-mitcham
-type: chapter
-title: Mapping Interdisciplinary Research (sidebar, Systems Science Section)
-date: '2010-09-01'
 publisher: 'New York, NY: Oxford University Press'
 venue: Oxford Handbook of Interdisciplinarity
-volume: ''
-issue: ''
-doi: ''
 pages: 457-460
 chapter: '31'
-links:
-  - https://cns.iu.edu/docs/publications/2010-borner-boyack-map-inter.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-borner-boyack-map-inter.pdf

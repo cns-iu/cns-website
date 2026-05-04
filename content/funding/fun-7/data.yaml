@@ -1,10 +1,13 @@
 slug: fun-7
 type: research
-name: NSF IIS-0513650 Award
 title: >-
   SEI: NetWorkBench: A Large-Scale Network Analysis, Modeling and Visualization
   Toolkit for Biomedical, Social Science and Physics Research
+name: NSF IIS-0513650 Award
 funder: National Science Foundation
+amount: 1120926
+dateStart: '2005-09-01'
+dateEnd: '2009-08-31'
 investigators:
   - katy-borner
   - albert-laszlo-barabasi
@@ -12,8 +15,4 @@ investigators:
   - alessandro-vespignani
   - stanley-wasserman
   - eric-wernert
-amount: 1120926
 receivedAmount: 550000
-dateStart: '2005-09-01'
-dateEnd: '2009-08-31'
-tags: []

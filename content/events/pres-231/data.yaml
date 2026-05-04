@@ -1,14 +1,14 @@
 slug: pres-231
 type: presentation
 title: 'Data Harvesting: Intensive Session, Summer 2002'
-description: ''
-location: >-
-  Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
-  Indiana, 47405
+link: http://ivl.slis.indiana.edu/km/pres/2002-borner-cscl/
+dateStart: '2002-05-09'
+dateEnd: '2002-05-09'
+location:
+  raw: >-
+    Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
+    Indiana, 47405
 presenters:
   - javed-mostafa
   - katy-borner
-dateStart: '2002-05-09'
-dateEnd: '2002-05-09'
 event: ev-379
-link: http://ivl.slis.indiana.edu/km/pres/2002-borner-cscl/

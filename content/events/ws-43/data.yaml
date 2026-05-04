@@ -1,9 +1,8 @@
 slug: ws-43
 type: workshop
 title: 'Reproducible Scientometrics Research: Open Data, Code, and Education'
-description: ''
-location: Wuhan, China
+link: http://web.archive.org/web/20260108193157/https://cns.iu.edu/171017.html
 dateStart: '2017-10-17'
 dateEnd: '2017-10-17'
-tags: []
-link: http://web.archive.org/web/20260108193157/https://cns.iu.edu/171017.html
+location:
+  raw: Wuhan, China

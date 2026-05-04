@@ -1,17 +1,12 @@
 slug: ev-13
 type: other
 title: Summer Institute on Agent Based Modeling and Natural Resource Governance
-description: null
-location: >-
-  School of Library and Information Science, Wells Library 011, Indiana
-  University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-9
-tutorials: []
+link: http://www.cipec.org/
 dateStart: '2005-05-16'
 dateEnd: '2005-06-04'
-tags: []
-link: http://www.cipec.org/
+location:
+  raw: >-
+    School of Library and Information Science, Wells Library 011, Indiana
+    University at Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-9

@@ -3,14 +3,10 @@ type: conference
 title: >-
   Center for Computational Biomedicine (CCB) Seminar Series at Harvard Medical
   School
-description: ''
-location: Boston, MA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-680
-tutorials: []
+link: null
 dateStart: '2022-05-02'
 dateEnd: '2022-05-02'
-tags: []
+location:
+  raw: Boston, MA (Virtual Event)
+presentations:
+  - pres-680

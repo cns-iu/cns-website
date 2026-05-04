@@ -1,13 +1,13 @@
 slug: pres-102
 type: presentation
 title: 'The United States Supreme Court: Visualizations and Metrics (60 Years of Data)'
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.pdf
 dateStart: '2004-09-18'
 dateEnd: '2004-09-18'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - peter-a-hook
 event: ev-76
-link: https://cns.iu.edu/docs/presentations/2004-hook-supcourt-unknown.pdf

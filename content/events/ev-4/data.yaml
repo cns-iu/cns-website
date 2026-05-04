@@ -3,14 +3,8 @@ type: conference
 title: >-
   Sunbelt XXV: International Sunbelt Social Network Conference: International
   Network for Social Network Analysis
-description: null
-location: Redondo Beach, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.socsci.uci.edu/%7Essnconf/
 dateStart: '2005-02-16'
 dateEnd: '2005-02-20'
-tags: []
-link: http://www.socsci.uci.edu/%7Essnconf/
+location:
+  raw: Redondo Beach, CA

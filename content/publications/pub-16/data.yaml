@@ -1,17 +1,11 @@
 slug: pub-16
-authors:
-  - katy-borner
-editors: []
 type: article-journal
 title: 'VegoWelt: A Smart Virtual Playroom'
 date: '2000-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: International Journal of Design Computing
 volume: '2'
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2000-borner-vegowelt.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2000-borner-vegowelt.pdf

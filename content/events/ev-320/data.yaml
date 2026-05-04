@@ -1,15 +1,12 @@
 slug: ev-320
 type: conference
 title: IPlant Collaborative Cyberinfrastructure Workshop
-description: null
-location: University of Arizona-Biosphere 2, 32540 S. Biosphere Road, Oracle, AZ, 85623
-organizers: []
-attendees:
-  - timothy-kelley
-publications: []
-presentations: []
-tutorials: []
+link: http://iplantcollaborative.org/component/conferences/conference/6
 dateStart: '2009-01-06'
 dateEnd: '2009-01-09'
-tags: []
-link: http://iplantcollaborative.org/component/conferences/conference/6
+location:
+  raw: >-
+    University of Arizona-Biosphere 2, 32540 S. Biosphere Road, Oracle, AZ,
+    85623
+attendees:
+  - timothy-kelley

@@ -1,15 +1,10 @@
 slug: ev-263
 type: workshop
 title: Expert Panel Workshop on Cyberinfrastructure in Behavioral Medicine
-description: null
-location: San Diego, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-165
-tutorials: []
+link: http://cancercontrol.cancer.gov/hcirb/resources-conf.html
 dateStart: '2008-03-31'
 dateEnd: '2008-03-31'
-tags: []
-link: http://cancercontrol.cancer.gov/hcirb/resources-conf.html
+location:
+  raw: San Diego, CA
+presentations:
+  - pres-165

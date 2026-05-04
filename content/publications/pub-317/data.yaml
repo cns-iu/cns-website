@@ -1,22 +1,18 @@
 slug: pub-317
-authors:
-  - katy-borner
-  - joe-e-heimlich
-  - russell-balliet
-  - adam-v-maltese
-editors: []
 type: article-journal
 title: >-
   Investigating Aspects of Data Visualization Literacy Using 20 Information
   Visualizations and 273 Science Museum Visitors
 date: '2016-06-29'
-publisher: ''
+authors:
+  - katy-borner
+  - joe-e-heimlich
+  - russell-balliet
+  - adam-v-maltese
 venue: Information Visualization
 volume: '15'
 issue: '3'
-doi: ''
 pages: 198-213
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2015-borner-investigating.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2015-borner-investigating.pdf

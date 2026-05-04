@@ -1,17 +1,12 @@
 slug: ev-855
 type: conference
 title: Boston Lymphatic Symposium's NIH Clinical Pre-Conference
-description: ''
-location: Boston, MA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
+link: https://bostonlymphaticsymposium.org/pre-symposium/
+dateStart: '2021-11-04'
+dateEnd: '2021-11-04'
+location:
+  raw: Boston, MA (Virtual Event)
 presentations:
   - pres-691
   - pres-692
   - pres-693
-tutorials: []
-dateStart: '2021-11-04'
-dateEnd: '2021-11-04'
-tags: []
-link: https://bostonlymphaticsymposium.org/pre-symposium/

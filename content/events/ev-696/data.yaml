@@ -1,15 +1,10 @@
 slug: ev-696
 type: conference
 title: LuddyFest Research Horizons
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-548
-tutorials: []
+link: https://researchhorizons.soic.indiana.edu/
 dateStart: '2018-04-12'
 dateEnd: '2018-04-13'
-tags: []
-link: https://researchhorizons.soic.indiana.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-548

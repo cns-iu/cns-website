@@ -1,11 +1,11 @@
 slug: pres-610
 type: presentation
 title: Data Visualization Literacy
-description: ''
-location: Vancouver, Canada
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/19-IEEEVIS-Borner-Keynote.pdf
 dateStart: '2019-10-22'
 dateEnd: '2019-10-22'
+location:
+  raw: Vancouver, Canada
+presenters:
+  - katy-borner
 event: ev-753
-link: https://cns.iu.edu/docs/presentations/19-IEEEVIS-Borner-Keynote.pdf
