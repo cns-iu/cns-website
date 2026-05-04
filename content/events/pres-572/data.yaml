@@ -3,11 +3,11 @@ type: presentation
 title: >-
   The “In-Between:” How to Facilitate Interdepartmental Collaboration from the
   Institutional Middle
-description: ''
-location: Denver, CO
-presenters:
-  - lisel-record
+link: https://cns.iu.edu/docs/presentations/MCN_2018_TheInBetween.pdf
 dateStart: '2018-11-16'
 dateEnd: '2018-11-16'
+location:
+  raw: Denver, CO
+presenters:
+  - lisel-record
 event: ev-720
-link: https://cns.iu.edu/docs/presentations/MCN_2018_TheInBetween.pdf

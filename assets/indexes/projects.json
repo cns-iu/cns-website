@@ -15,6 +15,11 @@
     "description": "Places & Spaces exhibit showcasing interactive data visualizations"
   },
   {
+    "slug": "humanexus",
+    "name": "Humanexus",
+    "description": "Visualizing human communication from the Stone Age to today and beyond"
+  },
+  {
     "slug": "human-reference-atlas",
     "name": "Human Reference Atlas",
     "description": "Mapping organs, cells, and biomarkers of the healthy human body"

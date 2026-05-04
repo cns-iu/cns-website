@@ -1,12 +1,11 @@
 slug: fun-58
 type: research
-name: Google Inc.
 title: MOOC Extension in Support of Student-Client Projects
+name: Google Inc.
 funder: Google Inc.
-investigators:
-  - katy-borner
 amount: 50000
-receivedAmount: 50000
 dateStart: '2013-01-01'
 dateEnd: '2013-12-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 50000

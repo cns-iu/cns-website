@@ -1,22 +1,19 @@
 slug: pub-69
+type: chapter
+title: >-
+  Visual Interfaces to Digital Libraries: Motivation, Utilization and
+  Socio-Technical Challenges
+date: '2002-01-01'
 authors:
   - katy-borner
   - chaomei-chen
 editors:
   - katy-borner
   - chaomei-chen
-type: chapter
-title: >-
-  Visual Interfaces to Digital Libraries: Motivation, Utilization and
-  Socio-Technical Challenges
-date: '2002-01-01'
 publisher: 'Berlin: Springer-Verlag'
 venue: 'Lecture Notes in Computer Science: Visual Interfaces to Digital Libraries'
 volume: '2539'
-issue: ''
-doi: ''
 pages: 1-9
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-visinter.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-visinter.pdf

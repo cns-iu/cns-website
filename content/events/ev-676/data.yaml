@@ -1,15 +1,10 @@
 slug: ev-676
 type: conference
 title: Open Science Forum
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-530
-tutorials: []
+link: https://iuni.iu.edu/news/event/20
 dateStart: '2017-11-01'
 dateEnd: '2017-11-01'
-tags: []
-link: https://iuni.iu.edu/news/event/20
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-530

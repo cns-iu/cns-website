@@ -1,11 +1,11 @@
 slug: pres-213
 type: presentation
 title: Envisioning and Communicating Science
-description: ''
-location: Magdalen College, Oxford University, Oxford, UK
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2009-borner-comm-sci-oxford.pdf
 dateStart: '2009-07-27'
 dateEnd: '2009-07-27'
+location:
+  raw: Magdalen College, Oxford University, Oxford, UK
+presenters:
+  - katy-borner
 event: ev-361
-link: https://cns.iu.edu/docs/presentations/2009-borner-comm-sci-oxford.pdf

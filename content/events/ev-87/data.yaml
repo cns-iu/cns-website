@@ -1,15 +1,10 @@
 slug: ev-87
 type: conference
 title: 'Sunbelt XXVI: International Sunbelt Social Network Conference'
-description: null
-location: Vancouver, BC, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-66
-tutorials: []
+link: http://www.insna.org/2006/sunbelt2006.html
 dateStart: '2006-04-24'
 dateEnd: '2006-04-30'
-tags: []
-link: http://www.insna.org/2006/sunbelt2006.html
+location:
+  raw: Vancouver, BC, Canada
+presentations:
+  - pres-66

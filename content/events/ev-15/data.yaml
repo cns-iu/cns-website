@@ -3,14 +3,10 @@ type: other
 title: >-
   Talk at the School of Computing and Information Technology, University of
   Wolverhampton
-description: null
-location: Wolverhampton, UK
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-10
-tutorials: []
+link: null
 dateStart: '2005-07-04'
 dateEnd: '2005-07-04'
-tags: []
+location:
+  raw: Wolverhampton, UK
+presentations:
+  - pres-10

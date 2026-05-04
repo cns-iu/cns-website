@@ -3,14 +3,8 @@ type: workshop
 title: >-
   NIMH Workshop on Advanced Statistical Methods and Dynamic Data Visualizations
   for Mental Health Studies
-description: ''
-location: Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.didvizandstats.org/
 dateStart: '2021-06-28'
 dateEnd: '2021-06-30'
-tags: []
-link: https://www.didvizandstats.org/
+location:
+  raw: Virtual Event

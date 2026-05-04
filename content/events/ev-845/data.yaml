@@ -1,15 +1,10 @@
 slug: ev-845
 type: workshop
 title: 'CIFAR Proposal Development Workshop: Mapping the Human Body Across Scales'
-description: ''
-location: Toronto, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-679
-tutorials: []
+link: https://events.cifar.ca/website/38943/home/
 dateStart: '2022-05-24'
 dateEnd: '2022-05-25'
-tags: []
-link: https://events.cifar.ca/website/38943/home/
+location:
+  raw: Toronto, Canada
+presentations:
+  - pres-679

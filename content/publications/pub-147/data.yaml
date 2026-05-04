@@ -1,22 +1,16 @@
 slug: pub-147
+type: paper-conference
+title: Task-Oriented Knowledge Acquisition and Reasoning for Design Support Systems
+date: '1994-01-01'
 authors:
   - dietmar-janetzko
   - katy-borner
   - oliver-jschke
   - gerhard-strube
-editors: []
-type: paper-conference
-title: Task-Oriented Knowledge Acquisition and Reasoning for Design Support Systems
-date: '1994-01-01'
-publisher: ''
 venue: >-
   Proceedings of the European Conference on Cognitive Science in Industry, 
   Luxembourg
-volume: ''
-issue: ''
-doi: ''
 pages: 153-184
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1994-borner-kacq-cogsci.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1994-borner-kacq-cogsci.pdf

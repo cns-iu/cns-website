@@ -1,4 +1,9 @@
 slug: pub-396
+type: manuscript
+title: >-
+  Interactive Network Visualization of Opioid Crisis Related Data- Policy,
+  Pharmaceutical, Training, and More
+date: '2021-02-10'
 authors:
   - olga-scrivner
   - elizabeth-mcavoy
@@ -6,20 +11,8 @@ authors:
   - tenzin-choeden
   - kosali-simon
   - katy-borner
-editors: []
-type: manuscript
-title: >-
-  Interactive Network Visualization of Opioid Crisis Related Data- Policy,
-  Pharmaceutical, Training, and More
-date: '2021-02-10'
-publisher: ''
 venue: arXiv:2102.05596v1 [econ.EM]
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2021-Scrivner-Interactive-Network-Vis.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2021-Scrivner-Interactive-Network-Vis.pdf

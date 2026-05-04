@@ -1,14 +1,10 @@
 slug: ev-161
 type: workshop
 title: 'Office of Intergovernmental Solutions, NSF Collaborative Expedition #64'
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-120
-tutorials: []
+link: null
 dateStart: '2007-08-14'
 dateEnd: '2007-08-14'
-tags: []
+location:
+  raw: Washington, DC
+presentations:
+  - pres-120

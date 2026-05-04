@@ -1,17 +1,12 @@
 slug: ev-661
 type: meeting
 title: ISE Student Orientation
-description: ''
-location: >-
-  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
-  47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-513
-tutorials: []
+link: https://www.engineering.indiana.edu/
 dateStart: '2017-08-17'
 dateEnd: '2017-08-17'
-tags: []
-link: https://www.engineering.indiana.edu/
+location:
+  raw: >-
+    Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
+    47405
+presentations:
+  - pres-513

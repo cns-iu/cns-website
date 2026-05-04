@@ -1,20 +1,14 @@
 slug: pub-257
-authors:
-  - stacy-kowalczyk
-editors: []
 type: thesis
 title: 'e-Science Data Environments: A View from the Lab Floor'
 date: '2011-12-01'
+authors:
+  - stacy-kowalczyk
 publisher: Indiana University, Bloomington
 venue: >-
   Thesis, Doctor of Philosophy in Library and Information Science: Katy Börner
   (Chair), Debora Shaw, Alan Dennis, Stasa Milojevic, Beth Plale. Indiana
   University, Bloomington, IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-kowalczyk-phd-thesis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2011-kowalczyk-phd-thesis.pdf

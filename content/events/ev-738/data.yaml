@@ -1,13 +1,8 @@
 slug: ev-738
 type: conference
 title: Envisioning the Internet of Things
-description: ''
-location: Toronto, Canada
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2019-03-01'
 dateEnd: '2019-03-03'
-tags: []
+location:
+  raw: Toronto, Canada

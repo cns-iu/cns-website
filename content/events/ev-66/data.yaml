@@ -1,16 +1,10 @@
 slug: ev-66
 type: conference
 title: IEEE Information Visualization Conference
-description: Austin, TX (1st Prize!)
-location: Austin, TX
-organizers: []
-attendees: []
-publications:
-  - pub-48
-presentations:
-  - pres-31
-tutorials: []
+link: http://infovis.org/infovis2004/
 dateStart: '2004-10-10'
 dateEnd: '2004-10-15'
-tags: []
-link: http://infovis.org/infovis2004/
+location:
+  raw: Austin, TX
+presentations:
+  - pres-31

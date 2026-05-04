@@ -3,14 +3,8 @@ type: conference
 title: >-
   Conference on Patent Statistics for Decision Makers "Patenting, Innovation,
   Valuation"
-description: null
-location: Vienna, Austria
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.epo.org/about-us/events/patent-statistics2008.html
 dateStart: '2008-09-03'
 dateEnd: '2008-09-04'
-tags: []
-link: http://www.epo.org/about-us/events/patent-statistics2008.html
+location:
+  raw: Vienna, Austria

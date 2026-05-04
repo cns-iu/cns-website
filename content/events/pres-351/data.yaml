@@ -1,13 +1,13 @@
 slug: pres-351
 type: presentation
 title: 'Faculty Profiling Systems at IU: VIVO et al.'
-description: ''
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-presenters:
-  - chin-hua-kong
+link: https://cns.iu.edu/docs/presentations/2012-Kong-StatewideIT-VIVO.pdf
 dateStart: '2012-09-25'
 dateEnd: '2012-09-25'
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+presenters:
+  - chin-hua-kong
 event: ev-492
-link: https://cns.iu.edu/docs/presentations/2012-Kong-StatewideIT-VIVO.pdf

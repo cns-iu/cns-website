@@ -1,22 +1,16 @@
 slug: pub-359
-authors:
-  - angela-zoss
-  - adam-v-maltese
-  - stephen-miles-uzzo
-  - katy-borner
-editors: []
 type: chapter
 title: >-
   Network visualization literacy: Novel approaches to measurement and
   instruction
 date: '2018-01-23'
+authors:
+  - angela-zoss
+  - adam-v-maltese
+  - stephen-miles-uzzo
+  - katy-borner
 publisher: Springer
 venue: Network Science in Education
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2018-NetSci-Zoss.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2018-NetSci-Zoss.pdf

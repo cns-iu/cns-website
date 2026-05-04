@@ -1,15 +1,10 @@
 slug: ev-560
 type: conference
 title: Computational Social Science Summit
-description: ''
-location: Northwestern University, Evanston, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-428
-tutorials: []
+link: http://www.kellogg.northwestern.edu/news-events/conference/csss/2015.aspx
 dateStart: '2015-05-15'
 dateEnd: '2015-05-17'
-tags: []
-link: http://www.kellogg.northwestern.edu/news-events/conference/csss/2015.aspx
+location:
+  raw: Northwestern University, Evanston, IL
+presentations:
+  - pres-428

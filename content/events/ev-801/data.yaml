@@ -1,15 +1,10 @@
 slug: ev-801
 type: meeting
 title: LungMAP Spring 2021 Bi-Annual Meeting
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-656
-tutorials: []
+link: https://lungmap.net/
 dateStart: '2021-04-19'
 dateEnd: '2021-04-20'
-tags: []
-link: https://lungmap.net/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-656

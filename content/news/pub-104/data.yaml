@@ -1,6 +1,7 @@
 slug: pub-104
-link: https://cns.iu.edu/docs/news/012313_IUNews.html
 title: IU information visualization professor takes expertise to World Economic Forum
+date: '2013-01-23'
+link: https://cns.iu.edu/docs/news/012313_IUNews.html
 description: >-
   BLOOMINGTON, Ind. -- Indiana University's Katy Börner began offering what is
   currently the university's only massive open [online
@@ -77,14 +78,12 @@ description: >-
     
   For more information or to speak Börner, please contact Steve Chaplin, IU
   Communications, at 812-856-1896 or stjchap@iu.edu.
-date: '2013-01-23'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/012313_IUNews.html
-caption: >-
-  The following is an article from the IU Newsroom. [Click
-  here](http://newsinfo.iu.edu/web/page/normal/23727.html) to read the original
-  article on the web, or [click here](/docs/news/20130123_IUNews.pdf) to
-  download a PDF of the article.
 publisher: Indiana University Media Relations
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/012313_IUNews.html
+    description: >-
+      The following is an article from the IU Newsroom. [Click
+      here](http://newsinfo.iu.edu/web/page/normal/23727.html) to read the
+      original article on the web, or [click
+      here](/docs/news/20130123_IUNews.pdf) to download a PDF of the article.

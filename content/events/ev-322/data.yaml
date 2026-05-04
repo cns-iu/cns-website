@@ -1,13 +1,8 @@
 slug: ev-322
 type: workshop
 title: NSF Workshop on Geo-Spatial and Geo-Temporal Informatics (GSTI)
-description: null
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-01-08'
 dateEnd: '2009-01-09'
-tags: []
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230

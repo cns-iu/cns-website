@@ -3,15 +3,10 @@ type: meeting
 title: >-
   National Science Foundation (NSF) Convergence Accelerator (C-Accel) All-Hands
   Meeting
-description: ''
-location: Alexandria, VA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-684
-tutorials: []
+link: https://beta.nsf.gov/funding/initiatives/convergence-accelerator
 dateStart: '2022-04-22'
 dateEnd: '2022-04-22'
-tags: []
-link: https://beta.nsf.gov/funding/initiatives/convergence-accelerator
+location:
+  raw: Alexandria, VA (Virtual Event)
+presentations:
+  - pres-684

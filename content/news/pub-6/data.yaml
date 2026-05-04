@@ -1,8 +1,9 @@
 slug: pub-6
-link: https://cns.iu.edu/docs/news/daser_04252013.html
 title: >-
   Katy Börner attends DASER at the National Academy of Sciences in Washington,
   D.C.
+date: '2013-04-25'
+link: https://cns.iu.edu/docs/news/daser_04252013.html
 description: >-
   On Thursday, April 25 in Washington D.C., SLIS professor Katy Börner sat down
   with colleagues from the fields of psychology, fine art, and academic
@@ -41,15 +42,13 @@ description: >-
   case you missed it, Thursday’s forum will be available on the [Cultural
   Programs of the NAS YouTube
   channel](https://www.youtube.com/user/CPNAS?feature) in the near future.
-date: '2013-04-25'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/daser_04252013.html
-caption: >-
-  Standing in front of the newly installed _AcademyScope_ (custom designed for
-  the National Academy of Sciences by the CNS center) are (left to right) DASER
-  talk organizer Alana Quinn, forum moderator Ivan Amato, and forum participants
-  Katy Börner, Stephen Mautner, and Ward Shelley (not pictured: Gary
-  Berg-Cross).
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/daser_04252013.html
+    description: >-
+      Standing in front of the newly installed _AcademyScope_ (custom designed
+      for the National Academy of Sciences by the CNS center) are (left to
+      right) DASER talk organizer Alana Quinn, forum moderator Ivan Amato, and
+      forum participants Katy Börner, Stephen Mautner, and Ward Shelley (not
+      pictured: Gary Berg-Cross).

@@ -3,15 +3,10 @@ type: meeting
 title: >-
   Indiana University Melvin and Bren Simon Comprehensive Cancer Center (IUSCCC)
   Grand Rounds
-description: ''
-location: Indianapolis, Indiana (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-705
-tutorials: []
+link: https://cancer.iu.edu/education/grand-rounds.html
 dateStart: '2021-03-12'
 dateEnd: '2021-03-12'
-tags: []
-link: https://cancer.iu.edu/education/grand-rounds.html
+location:
+  raw: Indianapolis, Indiana (Virtual Event)
+presentations:
+  - pres-705

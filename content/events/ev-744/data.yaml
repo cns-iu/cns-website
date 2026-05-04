@@ -1,15 +1,10 @@
 slug: ev-744
 type: other
 title: 'VISUALISE: Visualization for Informal Science Education'
-description: ''
-location: San Francisco, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-601
-tutorials: []
+link: https://www.exploratorium.edu/visualise
 dateStart: '2019-05-08'
 dateEnd: '2019-05-09'
-tags: []
-link: https://www.exploratorium.edu/visualise
+location:
+  raw: San Francisco, CA
+presentations:
+  - pres-601

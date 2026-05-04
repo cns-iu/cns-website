@@ -1,6 +1,7 @@
 slug: pub-26
-link: https://cns.iu.edu/docs/news/20100430_SmathersLibraryNews.html
 title: 'Exhibits: Places and Spaces'
+date: '2010-04-30'
+link: https://cns.iu.edu/docs/news/20100430_SmathersLibraryNews.pdf
 description: >-
   Marston Science Library  
 
@@ -58,14 +59,12 @@ description: >-
   The online counterpart at [http:// scimaps.org](http://scimaps.org) provides
   links to a selected series of maps and their makers along with detailed
   explanations of why these maps work.
-date: '2010-04-30'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20100430_SmathersLibraryNews.html
-caption: >-
-  The following is an article from the George A. Smathers Library News. Download
-  a PDF of the original article
-  [here](/docs/news/20100430_SmathersLibraryNews.pdf).
 publisher: 'George A. Smathers Libraries: Library News'
 reporter: Kerry Britt
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20100430_SmathersLibraryNews.pdf
+    description: >-
+      The following is an article from the George A. Smathers Library News.
+      Download a PDF of the original article
+      [here](/docs/news/20100430_SmathersLibraryNews.pdf).

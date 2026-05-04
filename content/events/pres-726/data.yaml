@@ -3,16 +3,16 @@ type: presentation
 title: >-
   Quality Control/Quality Assurance for the Human Reference Atlas and On-Ramping
   to the HuBMAP Portal Using the HRA Organ Gallery in Virtual Reality
-description: ''
-location: Rockville, MD
-presenters:
-  - andreas-bueckle
-  - lu-chen
-dateStart: '2023-10-18'
-dateEnd: '2023-10-18'
-event: ev-881
 link: >-
   https://cns.iu.edu/docs/presentations/2023.10.31_Presentation_to_HuBMAP_WG
   (1).pdf
-tags:
-  - hra
+dateStart: '2023-10-18'
+dateEnd: '2023-10-18'
+location:
+  raw: Rockville, MD
+presenters:
+  - andreas-bueckle
+  - lu-chen
+event: ev-881
+projects:
+  - human-reference-atlas

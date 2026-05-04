@@ -1,14 +1,10 @@
 slug: ev-155
 type: conference
 title: Understanding Complex Systems 2007
-description: null
-location: Urbana, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-109
-tutorials: []
+link: null
 dateStart: '2007-05-14'
 dateEnd: '2007-05-17'
-tags: []
+location:
+  raw: Urbana, IL
+presentations:
+  - pres-109

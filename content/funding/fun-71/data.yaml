@@ -1,13 +1,12 @@
 slug: fun-71
 type: research
-name: NIH 1U01CA198934-01
 title: Visualizing healthcare system dynamics in biomedical Big Data
+name: NIH 1U01CA198934-01
 funder: National Institutes of Health
+amount: 537387
+dateStart: '2015-06-01'
+dateEnd: '2018-05-31'
 investigators:
   - griffin-weber
   - katy-borner
-amount: 537387
 receivedAmount: 537387
-dateStart: '2015-06-01'
-dateEnd: '2018-05-31'
-tags: []

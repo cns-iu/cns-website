@@ -3,14 +3,8 @@ type: workshop
 title: >-
   The New Cognitive Sciences, Workshop at the Konrad Lorenz Institute for
   Evolution and Cognition
-description: null
-location: Altenberg, Austria
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.kli.ac.at/workshops-c.html
 dateStart: '2006-06-15'
 dateEnd: '2006-06-18'
-tags: []
-link: http://www.kli.ac.at/workshops-c.html
+location:
+  raw: Altenberg, Austria

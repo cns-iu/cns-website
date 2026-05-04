@@ -1,15 +1,10 @@
 slug: ev-760
 type: other
 title: Knowledge Network Talk, The Boeing Company (webcast from Bloomington, IN)
-description: ''
-location: Seattle, WA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-621
-tutorials: []
+link: https://boeing.cns.iu.edu/
 dateStart: '2020-02-04'
 dateEnd: '2020-02-04'
-tags: []
-link: https://boeing.cns.iu.edu/
+location:
+  raw: Seattle, WA
+presentations:
+  - pres-621

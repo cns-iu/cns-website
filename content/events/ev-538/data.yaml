@@ -1,16 +1,11 @@
 slug: ev-538
 type: conference
 title: Fifth Annual VIVO Conference
-description: ''
-location: Austin, TX
-organizers: []
-attendees: []
-publications: []
+link: http://vivoconference.org/
+dateStart: '2014-08-06'
+dateEnd: '2014-08-08'
+location:
+  raw: Austin, TX
 presentations:
   - pres-404
   - pres-406
-tutorials: []
-dateStart: '2014-08-06'
-dateEnd: '2014-08-08'
-tags: []
-link: http://vivoconference.org/

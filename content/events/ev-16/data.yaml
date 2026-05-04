@@ -1,14 +1,10 @@
 slug: ev-16
 type: other
 title: Talk at Center for Advanced Spatial Analysis, University College
-description: null
-location: London, UK
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-11
-tutorials: []
+link: null
 dateStart: '2005-07-07'
 dateEnd: '2005-07-07'
-tags: []
+location:
+  raw: London, UK
+presentations:
+  - pres-11

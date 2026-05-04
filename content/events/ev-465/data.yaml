@@ -1,15 +1,10 @@
 slug: ev-465
 type: conference
 title: GIS Day at Indiana University
-description: ''
-location: Wells Media Room E174, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-317
-tutorials: []
+link: http://www.indianactsi.org/IUBretreat
 dateStart: '2011-11-16'
 dateEnd: '2011-11-16'
-tags: []
-link: http://www.indianactsi.org/IUBretreat
+location:
+  raw: Wells Media Room E174, Bloomington, Indiana, 47405
+presentations:
+  - pres-317

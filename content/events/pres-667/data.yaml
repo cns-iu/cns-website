@@ -3,19 +3,19 @@ type: presentation
 title: >-
   Cloud-Based Common Coordinate Framework to Enable Integration and Analyses
   Across GTEx and HuBMAP Data
-description: ''
-location: Bethesda, MD (Virtual Event)
+link: >-
+  https://cns.iu.edu/docs/presentations/22-GTEx-Cross-Consortium Presentation
+  03.01.22.pdf
+dateStart: '2022-03-01'
+dateEnd: '2022-03-01'
+location:
+  raw: Bethesda, MD (Virtual Event)
 presenters:
   - bruce-w-herr-ii
   - katy-borner
   - andreas-bueckle
   - kristin-ardlie
   - jared-nedzel
-dateStart: '2022-03-01'
-dateEnd: '2022-03-01'
 event: ev-833
-link: >-
-  https://cns.iu.edu/docs/presentations/22-GTEx-Cross-Consortium Presentation
-  03.01.22.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

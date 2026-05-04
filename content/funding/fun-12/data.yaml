@@ -1,8 +1,11 @@
 slug: fun-12
 type: research
-name: 21st Century Grant
 title: Center of Excellence for Computational Diagnostics
+name: 21st Century Grant
 funder: 21th Century
+amount: 1994951
+dateStart: '2004-09-01'
+dateEnd: '2008-08-31'
 investigators:
   - susanne-ragg
   - david-e-clemmer
@@ -13,8 +16,4 @@ investigators:
   - munro-peacock
   - zina-ben-miled
   - katy-borner
-amount: 1994951
 receivedAmount: 133985
-dateStart: '2004-09-01'
-dateEnd: '2008-08-31'
-tags: []

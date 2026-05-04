@@ -1,9 +1,8 @@
 slug: ws-37
 type: workshop
 title: Modeling Science, Technology & Innovation Conference
-description: ''
-location: Washington DC
+link: http://modsti.cns.iu.edu/
 dateStart: '2016-05-17'
 dateEnd: '2016-05-18'
-tags: []
-link: http://modsti.cns.iu.edu/
+location:
+  raw: Washington DC

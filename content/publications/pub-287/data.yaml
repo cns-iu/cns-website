@@ -1,21 +1,15 @@
 slug: pub-287
-authors:
-  - michael-conover
-editors: []
 type: thesis
 title: >-
   Digital Democracy The Structure and Dynamics of Political Communication in a
   Large Scale Social Media Stream
 date: '2013-02-04'
+authors:
+  - michael-conover
 publisher: Indiana University, Bloomington
 venue: >-
   Thesis, Doctor of Philosophy (Ph.D.), Informatics (Complex Systems Analysis).
   Indiana University, Bloomington, IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2013-conover-phd-thesis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2013-conover-phd-thesis.pdf

@@ -3,14 +3,14 @@ type: presentation
 title: >-
   Setting the Stage: Modelling and Visualizing  Science and Technology
   Developments
-description: ''
-location: Irvine, CA
+link: https://cns.iu.edu/docs/presentations/2017-borner-sackler-opening.pdf
+dateStart: '2017-12-04'
+dateEnd: '2017-12-04'
+location:
+  raw: Irvine, CA
 presenters:
   - katy-borner
   - william-rouse
   - h-eugene-stanley
   - paul-trunfio
-dateStart: '2017-12-04'
-dateEnd: '2017-12-04'
 event: ev-680
-link: https://cns.iu.edu/docs/presentations/2017-borner-sackler-opening.pdf

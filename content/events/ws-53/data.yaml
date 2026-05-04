@@ -1,9 +1,8 @@
 slug: ws-53
 type: workshop
 title: Internet of Things Wearables in Motion Symposium
-description: ''
-location: Bloomington, Indiana, USA
+link: https://iotw.cns.iu.edu
 dateStart: '2019-04-25'
 dateEnd: '2019-04-26'
-tags: []
-link: https://iotw.cns.iu.edu
+location:
+  raw: Bloomington, Indiana, USA

@@ -1,4 +1,7 @@
 slug: pub-75
+type: paper-conference
+title: 'Visible Threads: A Smart VR Interface to Digital Libraries'
+date: '2000-01-01'
 authors:
   - katy-borner
 editors:
@@ -6,16 +9,8 @@ editors:
   - philip-c-chen
   - jonathan-c-roberts
   - craig-m-wittenbrink
-type: paper-conference
-title: 'Visible Threads: A Smart VR Interface to Digital Libraries'
-date: '2000-01-01'
-publisher: ''
 venue: 'Proceedings of SPIE 2000: Visual Data Exploration and Analysis, San Jose, CA'
-volume: ''
-issue: ''
-doi: ''
 pages: 228-237
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2000-borner-vrdl.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2000-borner-vrdl.pdf

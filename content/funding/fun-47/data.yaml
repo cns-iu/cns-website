@@ -1,12 +1,11 @@
 slug: fun-47
 type: research
-name: 'Data Visualization and Knowledge Management: Putting USDA Science on the Map'
 title: USDA Contract Phase I
+name: 'Data Visualization and Knowledge Management: Putting USDA Science on the Map'
 funder: United States Department of Agriculture
-investigators:
-  - katy-borner
 amount: 16425
-receivedAmount: 16425
 dateStart: '2010-04-19'
 dateEnd: '2010-08-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 16425

@@ -1,9 +1,8 @@
 slug: ws-57
 type: workshop
 title: 'IU Health Team: Dashboards/Visualization Meeting'
-description: ''
-location: Bloomington, Indiana, US
+link: https://cns-iu.github.io/workshops/2019-07-29_iu-health-team/
 dateStart: '2019-07-29'
 dateEnd: '2019-07-29'
-tags: []
-link: https://cns-iu.github.io/workshops/2019-07-29_iu-health-team/
+location:
+  raw: Bloomington, Indiana, US

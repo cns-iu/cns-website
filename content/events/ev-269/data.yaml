@@ -1,17 +1,12 @@
 slug: ev-269
 type: visit
 title: Meetings at the National Research Council
-description: null
-location: >-
-  National Research Council Canada, 1200 Montreal Road, Ottawa, Ontario, Canada,
-  K1A 0R6
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-173
-tutorials: []
+link: http://www.nrc-cnrc.gc.ca/newsroom/news/2008_e.html
 dateStart: '2008-07-07'
 dateEnd: '2008-07-07'
-tags: []
-link: http://www.nrc-cnrc.gc.ca/newsroom/news/2008_e.html
+location:
+  raw: >-
+    National Research Council Canada, 1200 Montreal Road, Ottawa, Ontario,
+    Canada, K1A 0R6
+presentations:
+  - pres-173

@@ -1,16 +1,12 @@
 slug: ev-256
 type: workshop
 title: Talk at NCI
-description: null
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-160
-tutorials: []
+link: null
 dateStart: '2008-03-12'
 dateEnd: '2008-03-12'
-tags: []
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
+presentations:
+  - pres-160

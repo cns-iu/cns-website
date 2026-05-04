@@ -1,17 +1,12 @@
 slug: ev-143
 type: conference
 title: 11th International Conference on Information Visualization
-description: null
-location: Zürich, Switzerland
-organizers: []
-attendees: []
-publications: []
+link: http://www.graphicslink.co.uk/IV07/
+dateStart: '2007-07-04'
+dateEnd: '2007-07-06'
+location:
+  raw: Zürich, Switzerland
 presentations:
   - pres-116
   - pres-117
   - pres-125
-tutorials: []
-dateStart: '2007-07-04'
-dateEnd: '2007-07-06'
-tags: []
-link: http://www.graphicslink.co.uk/IV07/

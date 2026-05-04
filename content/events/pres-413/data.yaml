@@ -1,14 +1,14 @@
 slug: pres-413
 type: presentation
 title: Improving Data Visualization Literacy
-description: ''
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
-dateStart: '2014-11-03'
-dateEnd: '2014-11-03'
-event: ev-547
 link: >-
   https://cns.iu.edu/docs/presentations/2014-Macroscope-VisualLiteracy-Borner.pdf
+dateStart: '2014-11-03'
+dateEnd: '2014-11-03'
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
+event: ev-547

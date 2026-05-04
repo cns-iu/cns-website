@@ -1,20 +1,17 @@
 slug: pub-340
+type: article-journal
+title: Analysis of Network Clustering Algorithms and Cluster Quality Metrics at Scale
+date: '2016-07-08'
+doi: 10.1371/journal.pone.0159161
 authors:
   - scott-emmons
   - stephen-kobourov
   - mike-gallant
   - katy-borner
-editors: []
-type: article-journal
-title: Analysis of Network Clustering Algorithms and Cluster Quality Metrics at Scale
-date: '2016-07-08'
-publisher: ''
 venue: PLoS ONE
 volume: '11'
 issue: '7'
-doi: 10.1371/journal.pone.0159161
 pages: e0159161.
-chapter: ''
-links:
-  - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159161
-tags: []
+media:
+  - type: website
+    url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159161

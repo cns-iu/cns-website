@@ -3,15 +3,10 @@ type: conference
 title: >-
   Visualization Literacy for General Audiences - Can We Make A Difference? Panel
   at IEEE VIS 2021 Conference
-description: ''
-location: New Orleans, LA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-694
-tutorials: []
+link: https://ieeevis.org/year/2021/welcome
 dateStart: '2021-10-24'
 dateEnd: '2021-10-29'
-tags: []
-link: https://ieeevis.org/year/2021/welcome
+location:
+  raw: New Orleans, LA (Virtual Event)
+presentations:
+  - pres-694

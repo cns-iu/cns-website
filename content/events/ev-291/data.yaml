@@ -3,13 +3,8 @@ type: meeting
 title: >-
   Panel on Modernizing the Infrastructure of the National Science Foundation
   Federal Funds Survey
-description: null
-location: Keck Center of the National Academies, 500 Fifth St. N.W., Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-06-12'
 dateEnd: '2008-06-13'
-tags: []
+location:
+  raw: Keck Center of the National Academies, 500 Fifth St. N.W., Washington, DC

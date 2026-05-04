@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Network Derived Domain Maps of the United States Supreme Court: 50 Years of
   Co-Voting Data and a Case Study on Abortion
-description: ''
-location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2007-hook-netderdm-nyhsci.pdf
 dateStart: '2007-05-22'
 dateEnd: '2007-05-22'
+location:
+  raw: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
+presenters:
+  - peter-a-hook
 event: ev-144
-link: https://cns.iu.edu/docs/presentations/2007-hook-netderdm-nyhsci.pdf

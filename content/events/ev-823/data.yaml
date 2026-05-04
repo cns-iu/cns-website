@@ -1,16 +1,11 @@
 slug: ev-823
 type: meeting
 title: Indiana University Department of Physics Virtual Colloquium Series
-description: ''
-location: Bloomington, Indiana (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-636
-tutorials: []
-dateStart: '2020-09-30'
-dateEnd: '2020-09-30'
-tags: []
 link: >-
   https://physics.indiana.edu/news-events/events/past-events/2020-09-30-cseries-katy-borner.html
+dateStart: '2020-09-30'
+dateEnd: '2020-09-30'
+location:
+  raw: Bloomington, Indiana (Virtual Event)
+presentations:
+  - pres-636

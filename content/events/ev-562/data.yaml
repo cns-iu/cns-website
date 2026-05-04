@@ -1,15 +1,10 @@
 slug: ev-562
 type: meeting
 title: Symposium Honoring John T. Bruer
-description: ''
-location: St. Louis, MO
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-430
-tutorials: []
+link: https://www.jsmf.org/meetings/2015/may/
 dateStart: '2015-05-29'
 dateEnd: '2015-05-29'
-tags: []
-link: https://www.jsmf.org/meetings/2015/may/
+location:
+  raw: St. Louis, MO
+presentations:
+  - pres-430

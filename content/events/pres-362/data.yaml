@@ -1,11 +1,11 @@
 slug: pres-362
 type: presentation
 title: 'Dangerous Visualization: BIG Data is Watching You - IdeasLab'
-description: ''
-location: Davos-Klosters, Switzerland
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2013-borner-davos-cyber.pdf
 dateStart: '2013-01-24'
 dateEnd: '2013-01-24'
+location:
+  raw: Davos-Klosters, Switzerland
+presenters:
+  - katy-borner
 event: ev-501
-link: https://cns.iu.edu/docs/presentations/2013-borner-davos-cyber.pdf

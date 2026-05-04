@@ -1,14 +1,8 @@
 slug: ev-777
 type: meeting
 title: HTAN All-hands Virtual Meeting, Cross-Consortium Presentation
-description: ''
-location: Rockville, MD
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://humantumoratlas.org/
 dateStart: '2020-11-13'
 dateEnd: '2020-11-13'
-tags: []
-link: https://humantumoratlas.org/
+location:
+  raw: Rockville, MD

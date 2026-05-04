@@ -1,8 +1,10 @@
 slug: pub-434
 type: article-journal
-thumbnail: marker-fig1.png
-title: "Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
-  Construction and Usage"
+title: >-
+  Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
+  Construction and Usage
+date: 2025-03-13T00:00:00.000Z
+doi: 10.1038/s41592-024-02563-5
 authors:
   - katy-borner
   - philip-blood
@@ -24,20 +26,11 @@ authors:
   - hra-team
   - andreas-bueckle
   - bruce-w-herr-ii
-editors: []
-doi: 10.1038/s41592-024-02563-5
+thumbnail: marker-fig1.png
 pmid: PMC11978508
-date: 2025-03-13
-publisher: ""
 venue: Nature Methods
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.nature.com/articles/s41592-024-02563-5
-mediaUrl: marker-fig1.png
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.nature.com/articles/s41592-024-02563-5

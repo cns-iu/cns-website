@@ -1,17 +1,16 @@
 slug: pres-707
 type: presentation
-title: "Mapping the Human Body at Single-Cell Resolution: Developing the Human
-  Reference Atlas"
+title: >-
+  Mapping the Human Body at Single-Cell Resolution: Developing the Human
+  Reference Atlas
 link: https://cns.iu.edu/docs/presentations/22-AAA-Bajema-Schlehlein.pdf
-dateStart: 2022-10-07
-dateEnd: 2022-10-07
-location: Iowa City, Iowa, USA
-projects:
-  - human-reference-atlas
-tags:
-  - hra
+dateStart: 2022-10-07T00:00:00.000Z
+dateEnd: 2022-10-07T00:00:00.000Z
+location:
+  raw: Iowa City, Iowa, USA
 presenters:
   - heidi-schlehlein
   - rachel-bajema
 event: ev-865
-description: ""
+projects:
+  - human-reference-atlas

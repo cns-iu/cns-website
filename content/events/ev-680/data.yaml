@@ -3,18 +3,13 @@ type: other
 title: >-
   Modeling and Visualizing Science and Technology Developments Sackler
   Colloquium
-description: ''
-location: Irvine, CA
-organizers: []
-attendees: []
-publications: []
+link: >-
+  http://www.cvent.com/events/modeling-and-visualizing-science-and-technology-developments/event-summary-27b341fc9c0b4852b326d30a5b38c4b9.aspx
+dateStart: '2017-12-04'
+dateEnd: '2017-12-05'
+location:
+  raw: Irvine, CA
 presentations:
   - pres-534
   - pres-535
   - pres-537
-tutorials: []
-dateStart: '2017-12-04'
-dateEnd: '2017-12-05'
-tags: []
-link: >-
-  http://www.cvent.com/events/modeling-and-visualizing-science-and-technology-developments/event-summary-27b341fc9c0b4852b326d30a5b38c4b9.aspx

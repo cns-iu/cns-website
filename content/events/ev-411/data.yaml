@@ -3,17 +3,12 @@ type: other
 title: >-
   Ph.D. Thesis Defense, Department of Informatics, Indiana University,
   Bloomington
-description: null
-location: >-
-  School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-242
-tutorials: []
+link: http://steinbeck.ucs.indiana.edu/~mmeiss/
 dateStart: '2010-04-30'
 dateEnd: '2010-04-30'
-tags: []
-link: http://steinbeck.ucs.indiana.edu/~mmeiss/
+location:
+  raw: >-
+    School of Informatics, Indiana University at Bloomington, 901 E. 10th St.,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-242

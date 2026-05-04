@@ -3,14 +3,8 @@ type: meeting
 title: >-
   UCSD Institute for Genomic Medicine Virtual Symposium on Spatial Omics, Poster
   Session
-description: ''
-location: La Jolla, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://igmsymposium.weebly.com/posters.html
 dateStart: '2020-10-26'
 dateEnd: '2020-10-26'
-tags: []
-link: https://igmsymposium.weebly.com/posters.html
+location:
+  raw: La Jolla, CA

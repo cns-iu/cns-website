@@ -1,15 +1,10 @@
 slug: ev-503
 type: conference
 title: TEDx Bloomington
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-366
-tutorials: []
+link: http://www.tedxbloomington.org
 dateStart: '2013-03-22'
 dateEnd: '2013-03-22'
-tags: []
-link: http://www.tedxbloomington.org
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-366

@@ -1,15 +1,10 @@
 slug: ev-244
 type: other
 title: Places & Spaces Exhibit at NRC
-description: null
-location: >-
-  National Research Council Canada, 1200 Montreal Road, Ottawa, Ontario, Canada,
-  K1A 0R6
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-04-03'
 dateEnd: '2008-06-27'
-tags: []
+location:
+  raw: >-
+    National Research Council Canada, 1200 Montreal Road, Ottawa, Ontario,
+    Canada, K1A 0R6

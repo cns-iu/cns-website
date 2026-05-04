@@ -1,13 +1,14 @@
 slug: vis-7
 title: Mendeley's Evolving Network of Expertise and Knowledge
-date: 2012-10-01
-link: https://cns.iu.edu/docs/research/visualizations/2011_Mendeley_Binary_Battle_entry.pdf
-description: for the [2011 Mendeley Binary
+date: '2012-10-01'
+link: >-
+  https://cns.iu.edu/docs/research/visualizations/2011_Mendeley_Binary_Battle_entry.pdf
+description: >-
+  for the [2011 Mendeley Binary
   Battle](http://dev.mendeley.com/api-binary-battle), by Chin Hua Kong, Katy
   Börner, and Michael J. Stamper. Shortlisted submission in the 2011
   International Institute for Information Design (IIID) Awards in the Didactics
   category.
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/Mendeley_400W.png
-tags: []
-type: visualization
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/Mendeley_400W.png

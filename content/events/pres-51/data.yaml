@@ -1,13 +1,13 @@
 slug: pres-51
 type: presentation
 title: Instructional Visualizations of the Work of the United States Supreme Court
-description: ''
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2005-hook-instrvis-unknown.pdf
 dateStart: '2005-09-24'
 dateEnd: '2005-09-24'
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presenters:
+  - peter-a-hook
 event: ev-22
-link: https://cns.iu.edu/docs/presentations/2005-hook-instrvis-unknown.pdf

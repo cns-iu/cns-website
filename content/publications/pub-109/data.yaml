@@ -1,5 +1,9 @@
 slug: pub-109
-authors: []
+type: paper-conference
+title: >-
+  Proceedings of the Seventh International Conference on Information
+  Visualization
+date: '2003-01-01'
 editors:
   - jonathan-c-roberts
   - ebad-banissi
@@ -11,19 +15,7 @@ editors:
   - amy-lobben
   - carsten-maple
   - chris-moore
-type: paper-conference
-title: >-
-  Proceedings of the Seventh International Conference on Information
-  Visualization
-date: '2003-01-01'
 publisher: 'London, UK:  IEEE Computer Society'
 venue: >-
   Seventh International Conference on Information Visualization - IV 2003, July
   16-18
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links: []
-tags: []

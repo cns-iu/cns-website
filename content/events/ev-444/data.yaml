@@ -1,17 +1,12 @@
 slug: ev-444
 type: meeting
 title: FuturICT's Living Earth Platform and Interactive Observatories Meeting
-description: ''
-location: >-
-  Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50, Z&#252;rich,
-  Switzerland, 8092
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-289
-tutorials: []
+link: http://www.futurict.ethz.ch/LEPCOMDefineMeeting
 dateStart: '2011-06-14'
 dateEnd: '2011-06-15'
-tags: []
-link: http://www.futurict.ethz.ch/LEPCOMDefineMeeting
+location:
+  raw: >-
+    Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50,
+    Z&#252;rich, Switzerland, 8092
+presentations:
+  - pres-289

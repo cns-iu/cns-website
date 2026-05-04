@@ -1,20 +1,15 @@
 slug: ev-492
 type: conference
 title: Statewide IT Conference 2012
-description: ''
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
+link: http://www.statewideit.iu.edu/
+dateStart: '2012-09-24'
+dateEnd: '2012-09-25'
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
 presentations:
   - pres-345
   - pres-349
   - pres-350
   - pres-351
-tutorials: []
-dateStart: '2012-09-24'
-dateEnd: '2012-09-25'
-tags: []
-link: http://www.statewideit.iu.edu/

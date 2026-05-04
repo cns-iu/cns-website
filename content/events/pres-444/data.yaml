@@ -1,13 +1,13 @@
 slug: pres-444
 type: presentation
 title: Engineering Research Center Observatory
-description: ''
-location: Washington, DC
+link: https://cns.iu.edu/docs/presentations/2015-borner-erc-kick-off.pdf
+dateStart: '2015-12-09'
+dateEnd: '2015-12-09'
+location:
+  raw: Washington, DC
 presenters:
   - katy-borner
   - gerhard-kilmeck
   - michael-zentner
-dateStart: '2015-12-09'
-dateEnd: '2015-12-09'
 event: ev-573
-link: https://cns.iu.edu/docs/presentations/2015-borner-erc-kick-off.pdf

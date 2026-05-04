@@ -3,14 +3,8 @@ type: workshop
 title: >-
   Image and Meaning 2: A Collaborative Exploration to Discover New Visual
   Expressions in Science and Technology
-description: null
-location: Los Angeles, CA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://web.mit.edu/i-m/program2005.htm
 dateStart: '2005-06-23'
 dateEnd: '2005-06-25'
-tags: []
-link: http://web.mit.edu/i-m/program2005.htm
+location:
+  raw: Los Angeles, CA

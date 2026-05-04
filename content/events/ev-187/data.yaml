@@ -1,14 +1,8 @@
 slug: ev-187
 type: conference
 title: International Conference on Complex Systems
-description: null
-location: Boston, MA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.necsi.org/events/iccs7/
 dateStart: '2007-10-28'
 dateEnd: '2007-11-02'
-tags: []
-link: http://www.necsi.org/events/iccs7/
+location:
+  raw: Boston, MA

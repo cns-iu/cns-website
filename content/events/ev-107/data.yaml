@@ -1,14 +1,8 @@
 slug: ev-107
 type: workshop
 title: IM2.2 Workshop
-description: null
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.sigmaxi.org/programs/public/im2-2.shtml
 dateStart: '2006-09-07'
 dateEnd: '2006-09-08'
-tags: []
-link: http://www.sigmaxi.org/programs/public/im2-2.shtml
+location:
+  raw: Chicago, IL

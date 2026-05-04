@@ -1,18 +1,12 @@
-organizers: []
-publications: []
 slug: ev-886
-title: Association of Medical Illustrators (AMI) 2024
-dateStart: 2024-07-23
-dateEnd: 2024-07-27
-tutorials: []
 type: conference
+title: Association of Medical Illustrators (AMI) 2024
 link: https://ami.org/
-location: Rochester, New York, USA
-projects:
-  - human-reference-atlas
-tags:
-  - hra
+dateStart: 2024-07-23T00:00:00.000Z
+dateEnd: 2024-07-27T00:00:00.000Z
+location:
+  raw: Rochester, New York, USA
 presentations:
   - pres-731
-description: ""
-attendees: []
+projects:
+  - human-reference-atlas

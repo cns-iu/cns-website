@@ -1,14 +1,8 @@
 slug: ev-626
 type: conference
 title: Visualizing Nanoscience and Technology
-description: ''
-location: Arlington, VA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.nseresearch.org/2016/
 dateStart: '2016-12-12'
 dateEnd: null
-tags: []
-link: http://www.nseresearch.org/2016/
+location:
+  raw: Arlington, VA

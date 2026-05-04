@@ -1,20 +1,13 @@
 slug: pub-45
-authors:
-  - jason-baumgartner
-  - katy-borner
-editors: []
 type: paper-conference
 title: >-
   Towards an XML Toolkit for a Software Repository Supporting Information
   Visualization Education. Interactive Poster
 date: '2002-01-01'
-publisher: ''
+authors:
+  - jason-baumgartner
+  - katy-borner
 venue: IEEE Information Visualization Conference, Boston, MA
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-baumgartner-xmltool.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-baumgartner-xmltool.pdf

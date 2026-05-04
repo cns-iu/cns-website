@@ -3,11 +3,11 @@ type: presentation
 title: >-
   From Funding Agencies to Scientific Agency: Collective Allocation of Science
   Funding as an Alternative to Peer Review
-description: ''
-location: Istanbul, Turkey
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2015-borner-issi-fundrank.pdf
 dateStart: '2015-06-30'
 dateEnd: '2015-06-30'
+location:
+  raw: Istanbul, Turkey
+presenters:
+  - katy-borner
 event: ev-563
-link: https://cns.iu.edu/docs/presentations/2015-borner-issi-fundrank.pdf

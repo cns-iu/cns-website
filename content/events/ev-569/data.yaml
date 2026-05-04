@@ -1,16 +1,11 @@
 slug: ev-569
 type: meeting
 title: Commerce Data Advisory Council (CDAC) Meeting
-description: ''
-location: Boulder, CO
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-439
-tutorials: []
-dateStart: '2015-10-29'
-dateEnd: '2015-10-30'
-tags: []
 link: >-
   http://www.esa.doc.gov/sites/default/files/cdac/november-2015/cdac-agenda-october-2015.pdf
+dateStart: '2015-10-29'
+dateEnd: '2015-10-30'
+location:
+  raw: Boulder, CO
+presentations:
+  - pres-439

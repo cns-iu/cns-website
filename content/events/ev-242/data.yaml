@@ -1,17 +1,12 @@
 slug: ev-242
 type: workshop
 title: Talk at NSF National Evolutionary Synthesis Center
-description: null
-location: >-
-  National Evolutionary Synthesis Center, 2024 W. Main Street, Suite A200,
-  Durham, NC, 27705
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-155
-tutorials: []
+link: http://www.nescent.org/cal/calendar_detail.php?id=355
 dateStart: '2008-02-29'
 dateEnd: '2008-02-29'
-tags: []
-link: http://www.nescent.org/cal/calendar_detail.php?id=355
+location:
+  raw: >-
+    National Evolutionary Synthesis Center, 2024 W. Main Street, Suite A200,
+    Durham, NC, 27705
+presentations:
+  - pres-155

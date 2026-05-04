@@ -1,15 +1,10 @@
 slug: ev-817
 type: meeting
 title: Human Cell Atlas (HCA) Metadata Call
-description: ''
-location: Cobham, Gravesend, UK (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-642
-tutorials: []
+link: https://data.humancellatlas.org/metadata/structure
 dateStart: '2020-11-16'
 dateEnd: '2020-11-16'
-tags: []
-link: https://data.humancellatlas.org/metadata/structure
+location:
+  raw: Cobham, Gravesend, UK (Virtual Event)
+presentations:
+  - pres-642

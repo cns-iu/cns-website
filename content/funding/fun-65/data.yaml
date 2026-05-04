@@ -1,16 +1,15 @@
 slug: fun-65
 type: research
-name: 'NSF OCI-0940824 DataNet award '
 title: SEAD Sustainable Environment Through Actionable Data
+name: 'NSF OCI-0940824 DataNet award '
 funder: National Science Foundation
+amount: 188432
+dateStart: '2011-10-01'
+dateEnd: '2015-03-31'
 investigators:
   - margaret-hedstrom
   - myron-p-gutmann
   - praveen-kumar
   - jim-myers
   - beth-plale
-amount: 188432
 receivedAmount: 8000000
-dateStart: '2011-10-01'
-dateEnd: '2015-03-31'
-tags: []

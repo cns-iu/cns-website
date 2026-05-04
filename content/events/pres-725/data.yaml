@@ -1,13 +1,13 @@
 slug: pres-725
 type: presentation
 title: Hacking the Human Vasculature in 3D - A Kaggle Challenge
-description: ''
-location: Virtual
-presenters:
-  - yashvardhan-jain
-dateStart: '2024-05-23'
-dateEnd: '2024-05-23'
-event: ev-880
 link: >-
   https://cns.iu.edu/docs/presentations/HOAHub AI Workshop - Kaggle Presentation
   by Yash.pdf
+dateStart: '2024-05-23'
+dateEnd: '2024-05-23'
+location:
+  raw: Virtual
+presenters:
+  - yashvardhan-jain
+event: ev-880

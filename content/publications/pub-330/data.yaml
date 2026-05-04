@@ -1,4 +1,10 @@
 slug: pub-330
+type: article-journal
+title: >-
+  Topical, Geospatial, and Temporal Diffusion of the 2015 North American
+  Menopause Society Position Statement on Non-hormonal Management of Vasomotor
+  Symptoms
+date: '2017-05-15'
 authors:
   - janet-s-carpenter
   - tei-laine
@@ -6,21 +12,11 @@ authors:
   - meghan-lepage
   - nathan-hoteling
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  Topical, Geospatial, and Temporal Diffusion of the 2015 North American
-  Menopause Society Position Statement on Non-hormonal Management of Vasomotor
-  Symptoms
-date: '2017-05-15'
-publisher: ''
 venue: 'Menopause: Journal of the North American Menopause Society'
 volume: '24'
 issue: '10'
-doi: ''
 pages: 1154-1159
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2017-carpenter-topical-geospatial-temporal-diffusion.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2017-carpenter-topical-geospatial-temporal-diffusion.pdf

@@ -1,22 +1,18 @@
 slug: pub-302
+type: paper-conference
+title: 'Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation'
+date: '2014-11-09'
 authors:
   - bahador-saket
   - paolo-simonetto
   - stephen-kobourov
   - katy-borner
-editors: []
-type: paper-conference
-title: 'Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation'
-date: '2014-11-09'
-publisher: ''
 venue: >-
   IEEE Visual Analytics Science and Technology, IEEE Information Visualization,
   and IEEE Scientific Visualization, Paris, France
 volume: '20'
 issue: '12'
-doi: ''
 pages: 2231-2240
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2014-saket-ieee.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2014-saket-ieee.pdf

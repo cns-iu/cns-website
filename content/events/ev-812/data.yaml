@@ -1,15 +1,10 @@
 slug: ev-812
 type: meeting
 title: Digital Studies of Digital Science (DS2 2021) at UCLouvain
-description: ''
-location: Lovain-la-Neuve, Belgium (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-658
-tutorials: []
+link: https://pencelab.be/events/ds2-2021/
 dateStart: '2021-03-15'
 dateEnd: '2021-03-18'
-tags: []
-link: https://pencelab.be/events/ds2-2021/
+location:
+  raw: Lovain-la-Neuve, Belgium (Virtual Event)
+presentations:
+  - pres-658

@@ -1,15 +1,10 @@
 slug: ev-693
 type: meeting
 title: HUBzero Community Meeting
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-545
-tutorials: []
+link: https://hubzero.org/events/details/1470
 dateStart: '2018-03-28'
 dateEnd: '2018-03-28'
-tags: []
-link: https://hubzero.org/events/details/1470
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-545

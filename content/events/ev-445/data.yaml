@@ -1,17 +1,12 @@
 slug: ev-445
 type: meeting
 title: Brownbag Talk, Sara Irina Fabrikant Team
-description: ''
-location: >-
-  Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50, Z&#252;rich,
-  Switzerland, 8092
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-290
-tutorials: []
+link: http://www.geo.uzh.ch/en/units/giscience-giva/about-us/staff/sara-fabrikant/
 dateStart: '2011-06-23'
 dateEnd: '2011-06-23'
-tags: []
-link: http://www.geo.uzh.ch/en/units/giscience-giva/about-us/staff/sara-fabrikant/
+location:
+  raw: >-
+    Eidgenössische Technische Hochschule Zürich, Clausiusstrasse 50,
+    Z&#252;rich, Switzerland, 8092
+presentations:
+  - pres-290

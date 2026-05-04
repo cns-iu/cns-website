@@ -1,15 +1,10 @@
 slug: ev-582
 type: meeting
 title: New Science Roadmaps for Global Research Panel, AAAS 2016
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-453
-tutorials: []
+link: https://aaas.confex.com/aaas/2016/webprogram/
 dateStart: '2016-02-11'
 dateEnd: '2016-02-15'
-tags: []
-link: https://aaas.confex.com/aaas/2016/webprogram/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-453

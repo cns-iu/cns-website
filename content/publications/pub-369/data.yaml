@@ -1,6 +1,7 @@
 slug: pub-369
 type: article-journal
 title: Toward a More Scientific Science
+date: 2018-09-21T00:00:00.000Z
 authors:
   - pierre-azoulay
   - joshua-graff-zivin
@@ -15,16 +16,11 @@ authors:
   - karim-r-lakhani
   - kevin-j-boudreau
   - eva-c-guinan
-editors: []
-doi: ""
-date: 2018-09-21
 publisher: American Association for the Advancement of Science
 venue: Science
-volume: "361"
-issue: "6408"
+volume: '361'
+issue: '6408'
 pages: 1194-1197
-chapter: ""
-links:
-  - sciencemagazine2018.pdf
-mediaUrl: ""
-tags: []
+media:
+  - type: pdf
+    url: sciencemagazine2018.pdf

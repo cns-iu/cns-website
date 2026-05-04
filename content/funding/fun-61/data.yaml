@@ -1,8 +1,11 @@
 slug: fun-61
 type: research
-name: NSF ISE DRL-1223698 Award
 title: 'Pathways: Sense-Making of Big Data'
+name: NSF ISE DRL-1223698 Award
 funder: National Science Foundation
+amount: 250000
+dateStart: '2012-07-01'
+dateEnd: '2015-06-30'
 investigators:
   - katy-borner
   - adam-v-maltese
@@ -10,8 +13,3 @@ investigators:
   - stephen-miles-uzzo
   - paul-martin
   - sasha-palmquist
-amount: 250000
-receivedAmount: null
-dateStart: '2012-07-01'
-dateEnd: '2015-06-30'
-tags: []

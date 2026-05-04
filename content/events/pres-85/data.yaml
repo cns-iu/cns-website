@@ -1,11 +1,11 @@
 slug: pres-85
 type: presentation
 title: Towards a Macroscope for Decision Support in Science & Technology Policy
-description: ''
-location: Helsinki, Finland
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2006-borner-macroscp-helsinki.pdf
 dateStart: '2006-07-12'
 dateEnd: '2006-07-12'
+location:
+  raw: Helsinki, Finland
+presenters:
+  - katy-borner
 event: ev-100
-link: https://cns.iu.edu/docs/presentations/2006-borner-macroscp-helsinki.pdf

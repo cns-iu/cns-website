@@ -1,15 +1,11 @@
 slug: ev-271
 type: workshop
 title: 'The Grand Challenge Workshop: Mechanistic Basis of Plant Adaptation'
-description: null
-location: University of Arizona-Biosphere 2, 32540 S. Biosphere Road, Oracle, AZ, 85623
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
-dateStart: '2008-10-01'
-dateEnd: '2008-10-02'
-tags: []
 link: >-
   http://www.iplantcollaborative.org/component/content/article/49-public/113-grand-challenge-workshops-in-2008
+dateStart: '2008-10-01'
+dateEnd: '2008-10-02'
+location:
+  raw: >-
+    University of Arizona-Biosphere 2, 32540 S. Biosphere Road, Oracle, AZ,
+    85623

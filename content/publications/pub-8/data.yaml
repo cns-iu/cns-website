@@ -1,19 +1,15 @@
 slug: pub-8
+type: article-journal
+title: Mapping the Backbone of Science
+date: '2005-01-01'
 authors:
   - kevin-w-boyack
   - richard-klavans
   - katy-borner
-editors: []
-type: article-journal
-title: Mapping the Backbone of Science
-date: '2005-01-01'
-publisher: ''
 venue: Scientometrics
 volume: '64'
 issue: '3'
-doi: ''
 pages: 351-374
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-boyack-mapbckbn.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-boyack-mapbckbn.pdf

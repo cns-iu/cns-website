@@ -3,17 +3,12 @@ type: workshop
 title: >-
   Lecturer at the Abdus Salam International Centre for Theoretical Physics
   (ICTP)
-description: null
-location: >-
-  Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste,
-  Italy, Italy
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-249
-tutorials: []
+link: http://www.ictp.it/
 dateStart: '2005-05-15'
 dateEnd: '2005-05-27'
-tags: []
-link: http://www.ictp.it/
+location:
+  raw: >-
+    Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste,
+    Italy, Italy
+presentations:
+  - pres-249

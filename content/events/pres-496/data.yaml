@@ -1,15 +1,15 @@
 slug: pres-496
 type: presentation
 title: Enter a Job, Get Course Recommendations!
-description: ''
-location: Wuhan, China
+link: https://cns.iu.edu/docs/presentations/2017-liu-iconference.pdf
+dateStart: '2017-03-24'
+dateEnd: '2017-03-24'
+location:
+  raw: Wuhan, China
 presenters:
   - katy-borner
   - zeyuan-liu
   - naren-suri
   - nan-li
   - zheng-gao
-dateStart: '2017-03-24'
-dateEnd: '2017-03-24'
 event: ev-637
-link: https://cns.iu.edu/docs/presentations/2017-liu-iconference.pdf

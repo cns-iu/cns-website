@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Self-Portraits of the Brain: Cognitive Science, Data Visualization, and
   Communicating Brain Structure and Function 
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2017-borner-TICS-Neuro.pdf
+dateStart: '2017-03-04'
+dateEnd: '2017-03-04'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
 presenters:
   - robert-goldstone
   - katy-borner
   - franco-pestilli
-dateStart: '2017-03-04'
-dateEnd: '2017-03-04'
 event: ev-635
-link: https://cns.iu.edu/docs/presentations/2017-borner-TICS-Neuro.pdf

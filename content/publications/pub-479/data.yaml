@@ -1,7 +1,10 @@
 slug: pub-479
 type: article-journal
-thumbnail: hrapop-fig2.png
-title: Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas
+title: >-
+  Cell Type Populations for 3D Anatomical Structures of the Human Reference
+  Atlas
+date: 2026-03-19T00:00:00.000Z
+doi: 10.1038/s41597-026-06642-4
 authors:
   - andreas-bueckle
   - bruce-w-herr-ii
@@ -14,21 +17,10 @@ authors:
   - kristin-ardlie
   - fusheng-wang
   - katy-borner
-editors: []
-doi: 10.1038/s41597-026-06642-4
+thumbnail: hrapop-fig2.png
 pmid: PMC12393406
-date: 2026-03-19
 publisher: Nature
 venue: Nature Scientific Data
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links: []
-mediaUrl: hrapop-fig2.png
 featured: true
 projects:
   - human-reference-atlas
-tags:
-  - hra
-  - featured

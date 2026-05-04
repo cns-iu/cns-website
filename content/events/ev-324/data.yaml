@@ -1,16 +1,11 @@
 slug: ev-324
 type: conference
 title: SPIE Conference on Visualization and Data Analysis
-description: null
-location: San Jose, CA
-organizers: []
-attendees: []
-publications: []
+link: http://vw.indiana.edu/vda2009/
+dateStart: '2009-01-19'
+dateEnd: '2009-01-20'
+location:
+  raw: San Jose, CA
 presentations:
   - pres-198
   - pres-201
-tutorials: []
-dateStart: '2009-01-19'
-dateEnd: '2009-01-20'
-tags: []
-link: http://vw.indiana.edu/vda2009/

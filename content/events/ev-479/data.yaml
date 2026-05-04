@@ -1,15 +1,10 @@
 slug: ev-479
 type: meeting
 title: KNAW, Het Trippenhuis
-description: ''
-location: KNAW, Amsterdam, The Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-331
-tutorials: []
+link: http://www.knaw.nl/
 dateStart: '2012-06-06'
 dateEnd: '2012-06-06'
-tags: []
-link: http://www.knaw.nl/
+location:
+  raw: KNAW, Amsterdam, The Netherlands
+presentations:
+  - pres-331

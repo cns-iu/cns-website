@@ -1,9 +1,8 @@
 slug: ws-1
 type: workshop
 title: JSMF Workshop on Exploiting Big Data Semantics for Translational Medicine
-description: ''
-location: Bloomington, Indiana
+link: https://web.archive.org/web/20260000000000*/https://cns.iu.edu/130325.html
 dateStart: '2013-03-25'
 dateEnd: '2013-03-26'
-tags: []
-link: https://web.archive.org/web/20260000000000*/https://cns.iu.edu/130325.html
+location:
+  raw: Bloomington, Indiana

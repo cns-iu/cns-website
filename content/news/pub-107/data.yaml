@@ -1,6 +1,7 @@
 slug: pub-107
-link: https://cns.iu.edu/docs/news/humanexus.html
 title: Humanexus Film Receives Accolades Worldwide
+date: '2013-09-12'
+link: https://cns.iu.edu/docs/news/humanexus.html
 description: >-
   Ying-Fang Shen’s animated film _Humanexus: Knowledge and Communication through
   the Ages_ depicts the ever-accelerating spread of information and
@@ -49,12 +50,10 @@ description: >-
   YouTube](http://www.youtube.com/watch?v=qltUjL3Pb4M). You can also learn more
   about the production by visiting the [film’s official
   website](http://yfshen.info/humanexus).
-date: '2013-09-12'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/humanexus.html
-caption: >-
-  From left to right: _Humanexus_ creators Norbert Herber, Ying-Fang Shen, and
-  Katy Börner
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/humanexus.html
+    description: >-
+      From left to right: _Humanexus_ creators Norbert Herber, Ying-Fang Shen,
+      and Katy Börner

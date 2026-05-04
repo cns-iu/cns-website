@@ -1,7 +1,10 @@
 slug: pub-420
 type: article-journal
-title: Anatomical structures, cell types, and biomarkers of the healthy human
-  blood vasculature
+title: >-
+  Anatomical structures, cell types, and biomarkers of the healthy human blood
+  vasculature
+date: 2023-07-19T00:00:00.000Z
+doi: 10.1038/s41597-023-02018-0
 authors:
   - avinash-boppana
   - sujin-lee
@@ -12,18 +15,11 @@ authors:
   - bruce-w-herr-ii
   - katy-borner
   - griffin-m-weber
-editors: []
-doi: 10.1038/s41597-023-02018-0
-date: 2023-07-19
-publisher: ""
 venue: Nature Scientific Data
-volume: "10"
-issue: ""
+volume: '10'
 pages: 452 (2023).
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2023-Boppana_ASCT+Bs.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2023-Boppana_ASCT+Bs.pdf

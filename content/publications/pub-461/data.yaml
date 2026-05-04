@@ -1,7 +1,10 @@
 slug: pub-461
 type: article-journal
-title: "Deep learning for 3D vascular segmentation in hierarchical phase
-  contrast tomography: a case study on kidney"
+title: >-
+  Deep learning for 3D vascular segmentation in hierarchical phase contrast
+  tomography: a case study on kidney
+date: 2024-11-08T00:00:00.000Z
+doi: 10.1038/s41598-024-77582-5
 authors:
   - ekin-yagis
   - shahab-aslani
@@ -16,19 +19,12 @@ authors:
   - paul-tafforeau
   - peter-d-lee
   - claire-l-walsh
-editors: []
-doi: 10.1038/s41598-024-77582-5
 pmid: PMC11549215
-date: 2024-11-08
-publisher: ""
 venue: Nature Scientific Reports
-volume: "14"
-issue: "27258"
-pages: ""
-chapter: ""
-links:
-  - https://www.nature.com/articles/s41598-024-77582-5
+volume: '14'
+issue: '27258'
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.nature.com/articles/s41598-024-77582-5

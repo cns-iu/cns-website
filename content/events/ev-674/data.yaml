@@ -1,15 +1,10 @@
 slug: ev-674
 type: conference
 title: Data Science Post-Secondary Education Roundtable
-description: ''
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-528
-tutorials: []
+link: http://sites.nationalacademies.org/DEPS/BMSA/DEPS_180066
 dateStart: '2017-10-20'
 dateEnd: '2017-10-20'
-tags: []
-link: http://sites.nationalacademies.org/DEPS/BMSA/DEPS_180066
+location:
+  raw: Chicago, IL
+presentations:
+  - pres-528

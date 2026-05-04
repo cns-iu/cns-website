@@ -1,21 +1,18 @@
 slug: pub-370
-authors:
-  - adam-ploszaj
-  - xiaoran-yan
-  - katy-borner
-editors: []
 type: article-journal
 title: >-
   The impact of air transport availability on research collaboration: A case
   study of four universities
 date: '2020-09-04'
-publisher: ''
+doi: 10.1371/journal.pone.0238360
+authors:
+  - adam-ploszaj
+  - xiaoran-yan
+  - katy-borner
 venue: PLOS One
 volume: '15'
 issue: '9'
-doi: 10.1371/journal.pone.0238360
 pages: e0238360.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2020-Borner-Air-Transport.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2020-Borner-Air-Transport.pdf

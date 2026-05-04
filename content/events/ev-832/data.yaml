@@ -3,15 +3,10 @@ type: conference
 title: >-
   Michigan Institute for Data Science (MIDAS) September 2022 Colloquium at the
   University of Michigan
-description: ''
-location: Ann Arbor, MI
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-665
-tutorials: []
+link: https://midas.umich.edu/datatopia/
 dateStart: '2022-09-29'
 dateEnd: '2022-09-30'
-tags: []
-link: https://midas.umich.edu/datatopia/
+location:
+  raw: Ann Arbor, MI
+presentations:
+  - pres-665

@@ -1,14 +1,8 @@
 slug: ev-102
 type: conference
 title: 'Symposium on Visualization: Joint Eurographics - IEEE TCVG'
-description: null
-location: Konstanz, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.inf.uni-konstanz.de/cgip/vissym04/index.shtml
 dateStart: '2004-05-19'
 dateEnd: '2004-05-21'
-tags: []
-link: http://www.inf.uni-konstanz.de/cgip/vissym04/index.shtml
+location:
+  raw: Konstanz, Germany

@@ -1,15 +1,10 @@
 slug: ev-554
 type: workshop
 title: The Fields Institute
-description: ''
-location: Toronto, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-420
-tutorials: []
+link: http://www.fields.utoronto.ca
 dateStart: '2015-02-23'
 dateEnd: '2015-02-27'
-tags: []
-link: http://www.fields.utoronto.ca
+location:
+  raw: Toronto, Canada
+presentations:
+  - pres-420

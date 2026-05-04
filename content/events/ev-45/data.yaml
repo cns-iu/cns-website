@@ -1,15 +1,10 @@
 slug: ev-45
 type: other
 title: Guest Lecture in Noriko Hara's L643 Evaluation of Information Systems
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2004-02-23'
 dateEnd: '2004-02-23'
-tags: []
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405

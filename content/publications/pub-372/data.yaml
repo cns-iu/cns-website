@@ -1,4 +1,10 @@
 slug: pub-372
+type: article-journal
+title: >-
+  Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical
+  Need to Supply Soft Skills for the Data Economy
+date: '2018-12-11'
+doi: 10.1073/pnas.1804247115
 authors:
   - katy-borner
   - olga-scrivner
@@ -8,19 +14,10 @@ authors:
   - keith-chewning
   - lingfei-wu
   - james-evans
-editors: []
-type: article-journal
-title: >-
-  Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical
-  Need to Supply Soft Skills for the Data Economy
-date: '2018-12-11'
-publisher: ''
 venue: PNAS
 volume: '115'
 issue: '50'
-doi: 10.1073/pnas.1804247115
 pages: 12630-12637.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2018-borner-skill-discrepancies.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2018-borner-skill-discrepancies.pdf

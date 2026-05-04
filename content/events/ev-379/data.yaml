@@ -3,17 +3,12 @@ type: other
 title: >-
   Summer Intensive Session, 2002, School of Library and Information Science,
   Indiana University, Bloomington
-description: null
-location: >-
-  Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
-  Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-231
-tutorials: []
+link: http://www.slis.indiana.edu/
 dateStart: '2002-05-01'
 dateEnd: '2002-05-31'
-tags: []
-link: http://www.slis.indiana.edu/
+location:
+  raw: >-
+    Herman B. Wells Library, Indiana University at Bloomington, Bloomington,
+    Indiana, 47405
+presentations:
+  - pres-231

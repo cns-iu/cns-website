@@ -1,4 +1,7 @@
 slug: pub-32
+type: chapter
+title: CBR for Design
+date: '1998-01-01'
 authors:
   - katy-borner
 editors:
@@ -6,18 +9,13 @@ editors:
   - s-wess
   - hans-dieter-burkhard
   - martin-lenz
-type: chapter
-title: CBR for Design
-date: '1998-01-01'
 publisher: 'Berlin:  Springer-Verlag'
 venue: >-
   Case Based Reasoning Technology: From Foundations to Applications, Lecture
   Notes in Computer Science
 volume: '1400'
-issue: ''
-doi: ''
 pages: 201-234
 chapter: '8'
-links:
-  - https://cns.iu.edu/docs/publications/1998-borner-cbr.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1998-borner-cbr.pdf

@@ -1,8 +1,9 @@
 slug: pub-25
-link: https://cns.iu.edu/docs/news/20100526_ScientificAmerican.html
 title: >-
   Science Maps Explore New Ways of Displaying Information (website accessed
   7/27/10)
+date: '2010-05-26'
+link: https://cns.iu.edu/docs/news/20100526_ScientificAmerican.pdf
 description: >-
   Data visualization is something of a cottage industry these days—witness
   Edward Tufte, an emeritus professor of political science at Yale University,
@@ -36,16 +37,14 @@ description: >-
   and informative. "These maps are not designed to be eye candy; they are
   designed to convey information," Börner says. "The point is to engage the
   viewer's eyes and minds."
-date: '2010-05-26'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20100526_ScientificAmerican.html
-caption: >-
-  The following is an article from Scientific American. Read the original
-  article on the web
-  [here](http://www.scientificamerican.com/article.cfm?id=scimaps-exhibit), or
-  download a PDF of the article
-  [here](/docs/news/20100526_ScientificAmerican.pdf).
 publisher: Scientific American
 reporter: John Matson
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20100526_ScientificAmerican.pdf
+    description: >-
+      The following is an article from Scientific American. Read the original
+      article on the web
+      [here](http://www.scientificamerican.com/article.cfm?id=scimaps-exhibit),
+      or download a PDF of the article
+      [here](/docs/news/20100526_ScientificAmerican.pdf).

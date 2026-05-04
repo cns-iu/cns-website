@@ -1,15 +1,10 @@
 slug: ev-572
 type: conference
 title: Supercomputing 2015
-description: ''
-location: Austin, TX
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-443
-tutorials: []
+link: http://sc15.supercomputing.org/
 dateStart: '2015-11-15'
 dateEnd: '2015-11-20'
-tags: []
-link: http://sc15.supercomputing.org/
+location:
+  raw: Austin, TX
+presentations:
+  - pres-443

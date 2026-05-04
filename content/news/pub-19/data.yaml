@@ -1,16 +1,15 @@
 slug: pub-19
-link: https://cns.iu.edu/docs/news/20110408_ISSUES.html
 title: >-
   Special feature featuring maps from Katy Börner's Atlas of Science -
   Visualizing What We Know
-description: ''
 date: '2011-04-08'
-mediaType: document
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20110408_ISSUES.html
-caption: >-
-  Cover of the Spring 2011 issue of Issues in Science and Technology, featuring
-  maps from Katy Börner's _Atlas of Science – Visualizing What We Know_.
-  Download a PDF of the whole issue [here](/docs/news/20110408_ISSUES.pdf).
+link: https://cns.iu.edu/docs/news/20110408_ISSUES.pdf
 publisher: Issues in Science and Technology
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20110408_ISSUES.pdf
+    description: >-
+      Cover of the Spring 2011 issue of Issues in Science and Technology,
+      featuring maps from Katy Börner's _Atlas of Science – Visualizing What We
+      Know_. Download a PDF of the whole issue
+      [here](/docs/news/20110408_ISSUES.pdf).

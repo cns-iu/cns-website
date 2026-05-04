@@ -1,11 +1,11 @@
 slug: pres-403
 type: presentation
 title: Open Source Data and Tools for Global Science Decision-Making
-description: ''
-location: Washington, DC
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2014-borner-pegascis.pdf
 dateStart: '2014-07-21'
 dateEnd: '2014-07-21'
+location:
+  raw: Washington, DC
+presenters:
+  - katy-borner
 event: ev-537
-link: https://cns.iu.edu/docs/presentations/2014-borner-pegascis.pdf

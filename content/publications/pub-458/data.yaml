@@ -1,19 +1,12 @@
 slug: pub-458
-authors:
-  - carrie-longley
-  - katy-borner
-editors: []
 type: broadcast
 title: 'Broad & High: Janae Smith, Carrie Longley, and The Detroit Vision Ensemble'
 date: '2017-01-12'
+authors:
+  - carrie-longley
+  - katy-borner
 publisher: WOSU Columbus
-venue: ''
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://www.pbs.org/video/broad-and-high-janae-smith-carrie-longley-detroit-vision-ensemble/
-tags: []
+media:
+  - type: website
+    url: >-
+      https://www.pbs.org/video/broad-and-high-janae-smith-carrie-longley-detroit-vision-ensemble/

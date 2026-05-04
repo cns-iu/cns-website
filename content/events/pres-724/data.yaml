@@ -2,12 +2,11 @@ slug: pres-724
 type: presentation
 title: Macroscopes for a Global Future
 link: https://cns.iu.edu/docs/presentations/20th_debut_slides.pdf
-dateStart: 2024-06-06
-dateEnd: 2024-06-06
-venue: University Collections at McCalla, 525 East 9th Street
-location: Bloomington, Indiana, 47408, USA
-projects:
-  - macroscopes
+dateStart: 2024-06-06T00:00:00.000Z
+dateEnd: 2024-06-06T00:00:00.000Z
+location:
+  venue: University Collections at McCalla, 525 East 9th Street
+  raw: Bloomington, Indiana, 47408, USA
 presenters:
   - katy-borner
   - elizabeth-record
@@ -16,4 +15,5 @@ presenters:
   - beatriz-malveiro
   - rita-costa
 event: ev-879
-description: ""
+projects:
+  - macroscopes

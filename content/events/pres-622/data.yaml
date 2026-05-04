@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Harmonizing KPMP/HuBMAP Data: Developing Novel Common Coordinate Framework
   User Interfaces
-description: ''
-location: Washington, DC (Virtual Event)
-presenters:
-  - bruce-w-herr-ii
+link: https://cns.iu.edu/docs/presentations/2020.03.17-MC-IU.KPMP-Talk.pdf
 dateStart: '2020-03-17'
 dateEnd: '2020-03-17'
+location:
+  raw: Washington, DC (Virtual Event)
+presenters:
+  - bruce-w-herr-ii
 event: ev-830
-link: https://cns.iu.edu/docs/presentations/2020.03.17-MC-IU.KPMP-Talk.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

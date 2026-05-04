@@ -1,4 +1,8 @@
 slug: pub-447
+type: article-journal
+title: Uncertainty in humanities network visualization
+date: '2024-01-11'
+doi: 10.3389/fcomm.2023.1305137
 authors:
   - melanie-conroy
   - christina-gillmann
@@ -20,18 +24,9 @@ authors:
   - oyvind-eide
   - stephen-kobourov
   - gregor-betz
-editors: []
-type: article-journal
-title: Uncertainty in humanities network visualization
-date: '2024-01-11'
 publisher: Frontiers In Communication
-venue: ''
-volume: ''
-issue: ''
-doi: 10.3389/fcomm.2023.1305137
 pages: '10'
-chapter: ''
-links:
-  - >-
-    https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1305137/full
-tags: []
+media:
+  - type: website
+    url: >-
+      https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2023.1305137/full

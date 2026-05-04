@@ -1,15 +1,10 @@
 slug: ev-811
 type: meeting
 title: UCSB Center for Spatial Studies Lightning Talks
-description: ''
-location: Santa Barbara, CA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-647
-tutorials: []
+link: http://spatial.ucsb.edu/lightning-talks/
 dateStart: '2021-03-16'
 dateEnd: '2021-03-16'
-tags: []
-link: http://spatial.ucsb.edu/lightning-talks/
+location:
+  raw: Santa Barbara, CA (Virtual Event)
+presentations:
+  - pres-647

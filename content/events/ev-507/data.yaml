@@ -3,15 +3,10 @@ type: workshop
 title: >-
   Dagstuhl Seminar on Information Visualization–Towards Multivariate Network
   Visualization
-description: ''
-location: Dagstuhl, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-371
-tutorials: []
+link: http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13201
 dateStart: '2013-05-12'
 dateEnd: '2013-05-17'
-tags: []
-link: http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13201
+location:
+  raw: Dagstuhl, Germany
+presentations:
+  - pres-371

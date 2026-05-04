@@ -1,12 +1,12 @@
 slug: pres-519
 type: presentation
 title: 'Breathing Life into Things: Sentient Architecture & Augmented Reality'
-description: ''
-location: New York, NY
+link: https://cns.iu.edu/docs/presentations/2017-bueckle-nyu-fashion.pdf
+dateStart: '2017-09-19'
+dateEnd: '2017-09-19'
+location:
+  raw: New York, NY
 presenters:
   - andreas-bueckle
   - yingnan-ju
-dateStart: '2017-09-19'
-dateEnd: '2017-09-19'
 event: ev-666
-link: https://cns.iu.edu/docs/presentations/2017-bueckle-nyu-fashion.pdf

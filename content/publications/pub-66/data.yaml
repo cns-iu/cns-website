@@ -1,18 +1,13 @@
 slug: pub-66
-authors:
-  - katy-borner
-  - chaomei-chen
-editors: []
 type: manuscript
 title: 'Workshop Report: Visual Interfaces to Digital Libraries at JCDL ''02'
 date: '2002-01-01'
-publisher: ''
+authors:
+  - katy-borner
+  - chaomei-chen
 venue: D-Lib Magazine, July/August
 volume: '8'
 issue: '10'
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-jcdl.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-jcdl.pdf

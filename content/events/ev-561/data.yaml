@@ -1,15 +1,10 @@
 slug: ev-561
 type: visit
 title: Northwestern University
-description: ''
-location: Chicago, IL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-429
-tutorials: []
+link: http://scimaps.org/northwestern2015.html
 dateStart: '2015-05-14'
 dateEnd: '2015-05-14'
-tags: []
-link: http://scimaps.org/northwestern2015.html
+location:
+  raw: Chicago, IL
+presentations:
+  - pres-429

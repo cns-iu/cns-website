@@ -1,14 +1,8 @@
 slug: ev-89
 type: conference
 title: GEL 2006
-description: null
-location: New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.gelconference.com/c/gel06.php
 dateStart: '2006-05-04'
 dateEnd: '2006-05-04'
-tags: []
-link: http://www.gelconference.com/c/gel06.php
+location:
+  raw: New York, NY

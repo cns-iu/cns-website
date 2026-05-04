@@ -3,11 +3,11 @@ type: presentation
 title: >-
   STEAM Observatory:  Data Mining, Modeling, and Visualization in Support of 
   Smart Decision Making
-description: ''
-location: Alexandria, VA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2018-borner-nsf-nsci.pdf
 dateStart: '2018-01-16'
 dateEnd: '2018-01-16'
+location:
+  raw: Alexandria, VA
+presenters:
+  - katy-borner
 event: ev-684
-link: https://cns.iu.edu/docs/presentations/2018-borner-nsf-nsci.pdf

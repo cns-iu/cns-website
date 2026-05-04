@@ -1,11 +1,11 @@
 slug: pres-209
 type: presentation
 title: Mapping the Structure and Evolution of World Wide Science
-description: ''
-location: S&#227;o Paulo, Brazil
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2009-borner-fapesp-brazil.pdf
 dateStart: '2009-07-20'
 dateEnd: '2009-07-20'
+location:
+  raw: S&#227;o Paulo, Brazil
+presenters:
+  - katy-borner
 event: ev-358
-link: https://cns.iu.edu/docs/presentations/2009-borner-fapesp-brazil.pdf

@@ -1,15 +1,10 @@
 slug: ev-567
 type: other
 title: CyberBridges Workshop
-description: ''
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-437
-tutorials: []
+link: https://www.rit.edu/gccis/cyberbridges/program
 dateStart: '2015-08-31'
 dateEnd: '2015-08-31'
-tags: []
-link: https://www.rit.edu/gccis/cyberbridges/program
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+presentations:
+  - pres-437

@@ -1,15 +1,10 @@
 slug: ev-527
 type: conference
 title: Science Centre World Summit
-description: ''
-location: Mechelen, Belgium
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-393
-tutorials: []
+link: http://www.scws2014.org/home/scws-2014/
 dateStart: '2014-03-17'
 dateEnd: '2014-03-19'
-tags: []
-link: http://www.scws2014.org/home/scws-2014/
+location:
+  raw: Mechelen, Belgium
+presentations:
+  - pres-393

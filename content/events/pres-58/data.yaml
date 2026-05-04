@@ -1,11 +1,11 @@
 slug: pres-58
 type: presentation
 title: Doctoral Research Agenda
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2006-hook-phdrsrch-unknown.ppt
 dateStart: '2006-03-22'
 dateEnd: '2006-03-22'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - peter-a-hook
 event: ev-229
-link: https://cns.iu.edu/docs/presentations/2006-hook-phdrsrch-unknown.ppt

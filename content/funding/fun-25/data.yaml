@@ -1,12 +1,11 @@
 slug: fun-25
 type: research
-name: Indiana University's High Performance Network Applications Program
 title: 'iUniverse: Creating a Collaborative Information Universe for IU'
+name: Indiana University's High Performance Network Applications Program
 funder: Indiana University's High Performance Network Applications Program
-investigators:
-  - katy-borner
 amount: 20000
-receivedAmount: 20000
 dateStart: '2000-09-01'
 dateEnd: '2001-08-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 20000

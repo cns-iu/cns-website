@@ -1,9 +1,8 @@
 slug: ws-24
 type: workshop
 title: Science Mapping Standards Workshop
-description: ''
-location: Bloomington, Indiana
+link: http://web.archive.org/web/20260108192015/https://cns.iu.edu/131104.html
 dateStart: '2013-11-04'
 dateEnd: '2013-11-05'
-tags: []
-link: http://web.archive.org/web/20260108192015/https://cns.iu.edu/131104.html
+location:
+  raw: Bloomington, Indiana

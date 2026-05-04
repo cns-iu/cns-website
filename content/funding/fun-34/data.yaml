@@ -1,14 +1,13 @@
 slug: fun-34
 type: research
-name: NSF CHE-0723989 Award
 title: >-
   Mapping Science Exhibit at the 233rd National Meeting & Exposition of the
   American Chemical Society, Chicago
+name: NSF CHE-0723989 Award
 funder: National Science Foundation
-investigators:
-  - katy-borner
 amount: 75708
-receivedAmount: 75708
 dateStart: '2007-03-15'
 dateEnd: '2008-03-14'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 75708

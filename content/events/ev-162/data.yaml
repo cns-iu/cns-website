@@ -1,14 +1,10 @@
 slug: ev-162
 type: workshop
 title: Trey Ideker's Group Talk at UCSD
-description: null
-location: San Diego, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-121
-tutorials: []
+link: null
 dateStart: '2007-08-06'
 dateEnd: '2007-08-06'
-tags: []
+location:
+  raw: San Diego, CA
+presentations:
+  - pres-121

@@ -1,8 +1,11 @@
 slug: fun-53
 type: research
-name: NIH 5R01MH079068-02 award
 title: Informatics Infrastructure for Vector-Based Neuroanatomical Atlases
+name: NIH 5R01MH079068-02 award
 funder: National Institutes of Health
+amount: 245736
+dateStart: '2009-06-01'
+dateEnd: '2014-01-31'
 investigators:
   - gully-apc-burns
   - richard-thompson
@@ -10,8 +13,4 @@ investigators:
   - david-newman
   - seth-ruffins
   - katy-borner
-amount: 245736
 receivedAmount: 1629141
-dateStart: '2009-06-01'
-dateEnd: '2014-01-31'
-tags: []

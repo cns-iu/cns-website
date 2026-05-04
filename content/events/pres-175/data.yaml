@@ -1,11 +1,11 @@
 slug: pres-175
 type: presentation
 title: Computational Scientometrics-Studying Science by Scientific Means
-description: ''
-location: Bethesda, MD
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2008-borner-nih-soms.pdf
 dateStart: '2008-10-02'
 dateEnd: '2008-10-02'
+location:
+  raw: Bethesda, MD
+presenters:
+  - katy-borner
 event: ev-272
-link: https://cns.iu.edu/docs/presentations/2008-borner-nih-soms.pdf

@@ -1,15 +1,10 @@
 slug: ev-380
 type: conference
 title: 'SC2000: High Performance Networking and Computing Conference'
-description: null
-location: Dallas, Texas, 75270
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-232
-tutorials: []
+link: http://www.sc2000.org/
 dateStart: '2000-11-04'
 dateEnd: '2000-11-10'
-tags: []
-link: http://www.sc2000.org/
+location:
+  raw: Dallas, Texas, 75270
+presentations:
+  - pres-232

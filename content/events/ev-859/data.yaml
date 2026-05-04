@@ -3,15 +3,10 @@ type: conference
 title: >-
   11th International Conference on Geographic Information Science (GIScience
   2021)
-description: ''
-location: Poznań, Poland (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-699
-tutorials: []
+link: https://giscience2021.netlify.app/
 dateStart: '2021-09-27'
 dateEnd: '2021-09-30'
-tags: []
-link: https://giscience2021.netlify.app/
+location:
+  raw: Poznań, Poland (Virtual Event)
+presentations:
+  - pres-699

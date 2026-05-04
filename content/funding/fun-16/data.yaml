@@ -1,14 +1,13 @@
 slug: fun-16
 type: research
-name: Pervasive Technology Labs Fellowship
 title: >-
   Data-Code-Computing Infrastructure for Data Mining, Modeling, and
   Visualization Research and Education
+name: Pervasive Technology Labs Fellowship
 funder: Pervasive Technology Labs
-investigators:
-  - katy-borner
 amount: 48750
-receivedAmount: 48750
 dateStart: '2003-09-01'
 dateEnd: '2004-08-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 48750

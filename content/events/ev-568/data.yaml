@@ -3,15 +3,10 @@ type: conference
 title: >-
   European Food Safety Authority (EFSA) Scientific Conference: Shaping the
   Future of Food Safety, Together
-description: ''
-location: Milan, Italy
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-438
-tutorials: []
+link: http://www.efsaexpo2015.eu/
 dateStart: '2015-10-14'
 dateEnd: '2015-10-16'
-tags: []
-link: http://www.efsaexpo2015.eu/
+location:
+  raw: Milan, Italy
+presentations:
+  - pres-438

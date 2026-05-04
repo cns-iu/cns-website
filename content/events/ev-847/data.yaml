@@ -1,15 +1,10 @@
 slug: ev-847
 type: meeting
 title: Trusted AI Project Meeting at IUPUI
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-681
-tutorials: []
+link: https://in3indiana.com/trusted-ai-project-meeting/
 dateStart: '2022-04-29'
 dateEnd: '2022-04-29'
-tags: []
-link: https://in3indiana.com/trusted-ai-project-meeting/
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-681

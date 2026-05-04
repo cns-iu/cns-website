@@ -2,12 +2,10 @@ slug: ws-88
 type: 24hour
 title: 24 Hour Multiscale Human Event
 link: https://humanatlas.io/events/2024-24h/
+dateStart: 2024-12-14T00:00:00.000Z
+dateEnd: 2024-12-15T00:00:00.000Z
 thumbnail: hra-human2024.png
-dateStart: 2024-12-14
-dateEnd: 2024-12-15
-location: Remote event
-tags:
-  - hra
-description: ""
-mediaType: image
-mediaUrl: hra-human2024.png
+location:
+  raw: Remote event
+projects:
+  - human-reference-atlas

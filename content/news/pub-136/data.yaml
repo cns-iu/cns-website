@@ -1,6 +1,7 @@
 slug: pub-136
-link: https://cns.iu.edu/docs/news/20141119_SoICNews.html
 title: 'New Book: Scholarly Metrics under the Microscope'
+date: '2014-11-19'
+link: https://cns.iu.edu/docs/news/20141119_SoICNews.html
 description: >-
   ILS faculty members Dr. Cassidy R. Sugimoto and Dr. Blaise Cronin (emeritus)
   recently co-edited a book published by Information Today, Inc. Below is an
@@ -47,14 +48,11 @@ description: >-
 
   —Christine L. Borgman, Professor and Presidential Chair in Information
   Studies, University of California at Los Angeles
-date: '2014-11-19'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20141119_SoICNews.html
-caption: >-
-  The following is an article from SoIC News. Read the original article
-  [here](http://www.soic.indiana.edu/news/story.html?story=New-Book-Scholarly-Metrics-under-Microscope),
-  or download a PDF of the article [here](20141119_SoICNews.pdf).
 publisher: SoIC News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20141119_SoICNews.html
+    description: >-
+      The following is an article from SoIC News. Read the original article
+      [here](http://www.soic.indiana.edu/news/story.html?story=New-Book-Scholarly-Metrics-under-Microscope),
+      or download a PDF of the article [here](20141119_SoICNews.pdf).

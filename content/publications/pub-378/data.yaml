@@ -1,22 +1,20 @@
 slug: pub-378
+type: article-journal
+title: Learning-accelerated discovery of immune-tumour interactions
+date: '2019-06-07'
+doi: 10.1039/c9me00036d
 authors:
   - jonathan-ozik
   - nicholson-collier
   - randy-heiland
   - gary-an
   - paul-macklin
-editors: []
-type: article-journal
-title: Learning-accelerated discovery of immune-tumour interactions
-date: '2019-06-07'
 publisher: The Royal Society of Chemistry
 venue: Molecular Systems Design & Engineering
 volume: '2019'
 issue: '4'
-doi: 10.1039/c9me00036d
 pages: 747-760.
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2019-Ozik_Learning-accelerated-discovery.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2019-Ozik_Learning-accelerated-discovery.pdf

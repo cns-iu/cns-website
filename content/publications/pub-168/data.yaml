@@ -1,17 +1,11 @@
 slug: pub-168
-authors:
-  - soma-sanyal
-editors: []
 type: manuscript
 title: Effect of Citation Patterns on Network Structure
 date: '2006-11-15'
-publisher: ''
+authors:
+  - soma-sanyal
 venue: arXiv.org
-volume: ''
-issue: ''
-doi: ''
 pages: arXiv:physics/0611139v
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2006-sanyal-effctcit.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2006-sanyal-effctcit.pdf

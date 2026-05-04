@@ -3,11 +3,11 @@ type: presentation
 title: >-
   User-Friendly Cyberinfrastructures and Their Utility for Scholarly Knowledge
   Management
-description: ''
-location: Washington, DC
-presenters:
-  - katy-borner
+link: http://ella.slis.indiana.edu/~katy/events/06-nsf-oci.pdf
 dateStart: '2006-12-13'
 dateEnd: '2006-12-13'
+location:
+  raw: Washington, DC
+presenters:
+  - katy-borner
 event: ev-226
-link: http://ella.slis.indiana.edu/~katy/events/06-nsf-oci.pdf

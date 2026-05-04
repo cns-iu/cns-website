@@ -1,4 +1,8 @@
 slug: pub-263
+type: article-journal
+title: 'Design and Update of a Classification System: The UCSD Map of Science'
+date: '2012-07-13'
+doi: 10.1371/journal.pone.0039464
 authors:
   - katy-borner
   - richard-klavans
@@ -8,17 +12,10 @@ authors:
   - robert-light
   - vincent-lariviere
   - kevin-w-boyack
-editors: []
-type: article-journal
-title: 'Design and Update of a Classification System: The UCSD Map of Science'
-date: '2012-07-13'
-publisher: ''
 venue: PLoS One
 volume: '7'
 issue: '7'
-doi: 10.1371/journal.pone.0039464
 pages: e39464.
-chapter: ''
-links:
-  - http://cns.iu.edu/2012-UCSDMap.html
-tags: []
+media:
+  - type: website
+    url: http://cns.iu.edu/2012-UCSDMap.html

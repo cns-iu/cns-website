@@ -1,15 +1,10 @@
 slug: ev-697
 type: conference
 title: Learning Analytics Summit
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-549
-tutorials: []
+link: https://lasummit.indiana.edu/
 dateStart: '2018-04-11'
 dateEnd: '2018-04-13'
-tags: []
-link: https://lasummit.indiana.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-549

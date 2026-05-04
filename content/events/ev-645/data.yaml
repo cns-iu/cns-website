@@ -1,17 +1,12 @@
 slug: ev-645
 type: conference
 title: Third Annual IUB Innovation  Conference & Reception
-description: ''
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-500
-tutorials: []
+link: http://jceb.indiana.edu/events.shtml
 dateStart: '2017-04-06'
 dateEnd: '2017-04-06'
-tags: []
-link: http://jceb.indiana.edu/events.shtml
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+presentations:
+  - pres-500

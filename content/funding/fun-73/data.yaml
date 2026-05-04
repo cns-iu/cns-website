@@ -1,12 +1,10 @@
 slug: fun-73
 type: research
-name: Tides Foundation 066656-00002B
 title: MOOC Visual Analytics
+name: Tides Foundation 066656-00002B
 funder: Tides Foundation
-investigators:
-  - katy-borner
 amount: 50000
-receivedAmount: null
 dateStart: '2015-04-03'
 dateEnd: '2016-08-31'
-tags: []
+investigators:
+  - katy-borner

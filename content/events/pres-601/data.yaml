@@ -1,10 +1,9 @@
 slug: pres-601
 type: presentation
 title: Make-a-Vis & Tavola
-description: ''
-location: San Francisco, CA
-presenters: []
+link: https://cns.iu.edu/docs/presentations/2019-Bueckle-Make-a-Vis.pdf
 dateStart: '2019-05-08'
 dateEnd: '2019-05-08'
+location:
+  raw: San Francisco, CA
 event: ev-744
-link: https://cns.iu.edu/docs/presentations/2019-Bueckle-Make-a-Vis.pdf

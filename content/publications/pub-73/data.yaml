@@ -1,19 +1,13 @@
 slug: pub-73
-authors:
-  - katy-borner
-editors: []
 type: paper-conference
 title: >-
   Searching for the Perfect Match: A Comparison of Free Sorting Results for
   Images by Human Subjects and by Latent Semantic Analysis Techniques
 date: '2000-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: Information Visualisation 2000, Symposium on Digital Libraries, London, UK
-volume: ''
-issue: ''
-doi: ''
 pages: 192-197
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2000-borner-perfmatch.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2000-borner-perfmatch.pdf

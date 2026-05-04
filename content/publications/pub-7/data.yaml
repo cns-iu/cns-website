@@ -1,21 +1,14 @@
 slug: pub-7
-authors:
-  - susan-c-herring
-  - katy-borner
-  - maggie-b-swan
-editors: []
 type: article-journal
 title: >-
   When Rich Media are Opaque: Spatial Reference in a 3-D Virtual World.
   Submitted to Computer Supported Cooperative Work
 date: '2003-01-01'
-publisher: ''
+authors:
+  - susan-c-herring
+  - katy-borner
+  - maggie-b-swan
 venue: The Journal of Collaborative Computing
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2003-herring-whenrich.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2003-herring-whenrich.pdf

@@ -1,6 +1,7 @@
 slug: pub-157
-link: https://cns.iu.edu/docs/news/20170908-SICEnews.html
 title: SICE students shine at Indy Big Data Visualization Challenge
+date: '2017-09-28'
+link: https://cns.iu.edu/docs/news/20170908-SICEnews.html
 description: >-
   Solving the opioid addiction crisis is one of the critical priorities for the
   state of Indiana. Students from the [School of Informatics, Computing, and
@@ -86,13 +87,10 @@ description: >-
 
   For more information on the CNS, visit the center’s
   [website](http://cns.iu.edu/).
-date: '2017-09-28'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20170908-SICEnews.html
-caption: >-
-  View the original story at [SICE
-  News](https://www.soic.indiana.edu/news/story.html?story=SICE-students-shine-at-Indy-Big-Data-Visualization-Challenge).
-publisher: ''
 reporter: SICE News
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20170908-SICEnews.html
+    description: >-
+      View the original story at [SICE
+      News](https://www.soic.indiana.edu/news/story.html?story=SICE-students-shine-at-Indy-Big-Data-Visualization-Challenge).

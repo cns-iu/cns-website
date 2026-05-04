@@ -3,13 +3,13 @@ type: presentation
 title: >-
   Analysis and Modelling of the Demographic Cohorts in the Population of PhD
   Recipients in Science and Engineering
-description: ''
-location: >-
-  National Institutes of Health, 6130 Executive Boulevard, Executive Plaza North
-  (EPN), Bethesda, MD
-presenters:
-  - dr-dowman-p-varn
+link: https://cns.iu.edu/docs/presentations/2012-dowman-modsci-nih-jan.pdf
 dateStart: '2012-01-26'
 dateEnd: '2012-01-26'
+location:
+  raw: >-
+    National Institutes of Health, 6130 Executive Boulevard, Executive Plaza
+    North (EPN), Bethesda, MD
+presenters:
+  - dr-dowman-p-varn
 event: ev-481
-link: https://cns.iu.edu/docs/presentations/2012-dowman-modsci-nih-jan.pdf

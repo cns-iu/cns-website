@@ -1,9 +1,8 @@
 slug: ws-50
 type: workshop
 title: Vis Lab Demos - Luddy Fest Week
-description: ''
-location: Bloomington, Indiana, USA
+link: http://web.archive.org/web/20260108193743/https://cns.iu.edu/180411.html
 dateStart: '2018-04-11'
 dateEnd: '2018-04-11'
-tags: []
-link: http://web.archive.org/web/20260108193743/https://cns.iu.edu/180411.html
+location:
+  raw: Bloomington, Indiana, USA

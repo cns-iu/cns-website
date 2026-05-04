@@ -1,8 +1,9 @@
 slug: pub-141
-link: https://cns.iu.edu/docs/news/20150226_DeptOfPsych.html
 title: >-
   Speed-Networking: A study on the formation of academic partnerships and the
   best ways to ignite them
+date: '2015-02-26'
+link: https://cns.iu.edu/docs/news/20150226_DeptOfPsych.html
 description: >-
   The electricity in the room was humming, and not just on account of the
   state-of-the-art digital technology. At each table a pair of scientists and/or
@@ -76,11 +77,8 @@ description: >-
     
 
   ### Learn more about Peter Todd's work on mate choice
-date: '2015-02-26'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20150226_DeptOfPsych.html
-caption: Peter Todd, Samantha Cohen, and Meryl Bertenthal
 publisher: Indiana University Department of Psychological and Brain Sciences
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20150226_DeptOfPsych.html
+    description: Peter Todd, Samantha Cohen, and Meryl Bertenthal

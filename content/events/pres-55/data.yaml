@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Network Derived Educational Visualizations of the Work of the United States
   Supreme Court (Poster)
-description: ''
-location: Urbana, IL
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2006-hook-edvis-poster.pdf
 dateStart: '2006-03-10'
 dateEnd: '2006-03-10'
+location:
+  raw: Urbana, IL
+presenters:
+  - peter-a-hook
 event: ev-81
-link: https://cns.iu.edu/docs/presentations/2006-hook-edvis-poster.pdf

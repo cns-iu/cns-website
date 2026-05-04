@@ -1,18 +1,12 @@
 slug: pub-46
-authors:
-  - katy-borner
-  - yuezheng-zhou
-editors: []
 type: paper-conference
 title: A Software Repository for Education and Research in Information Visualization
 date: '2001-01-01'
-publisher: ''
+authors:
+  - katy-borner
+  - yuezheng-zhou
 venue: Information Visualisation Conference, London, UK
-volume: ''
-issue: ''
-doi: ''
 pages: 257-262
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2001-borner-zhou-software-repos.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2001-borner-zhou-software-repos.pdf

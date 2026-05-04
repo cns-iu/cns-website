@@ -1,14 +1,8 @@
-organizers: []
-publications:
-  - pub-476
 slug: ev-896
 type: meeting
 title: 2025 Human Cell Atlas General Meeting
-dateStart: 2025-01-01
-dateEnd: 2025-01-01
-tutorials: []
-location: Singapore
-tags: []
-presentations: []
-description: ""
-attendees: []
+link: null
+dateStart: 2025-01-01T00:00:00.000Z
+dateEnd: 2025-01-01T00:00:00.000Z
+location:
+  raw: Singapore

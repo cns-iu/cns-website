@@ -2,18 +2,17 @@ slug: pres-632
 type: celebration
 title: Amatria's 2nd Birthday Celebration
 link: https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf
-dateStart: 2020-04-13
-dateEnd: 2020-04-13
-projects:
-  - amatria
-tags:
-  - amatria
-location: Bloomington, Indiana (Virtual Event)
-description: ""
-mediaType: video
-mediaUrl: https://www.youtube.com/watch?v=w3wIoIAkjL0
+dateStart: 2020-04-13T00:00:00.000Z
+dateEnd: 2020-04-13T00:00:00.000Z
+location:
+  raw: Bloomington, Indiana (Virtual Event)
 presenters:
   - katy-borner
   - philip-beesley
   - gabriel-lubell
 event: ev-829
+projects:
+  - amatria
+media:
+  - type: video
+    url: https://www.youtube.com/watch?v=w3wIoIAkjL0

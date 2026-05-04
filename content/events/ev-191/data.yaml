@@ -1,16 +1,10 @@
 slug: ev-191
 type: conference
 title: Third Annual Conference on Topic Maps Research and Applications
-description: null
-location: >-
-  School of Library and Information Science, Wells Library 011, Indiana
-  University at Bloomington, Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.informatik.uni-leipzig.de/%7Etmra/2007/
 dateStart: '2007-10-11'
 dateEnd: '2007-10-12'
-tags: []
-link: http://www.informatik.uni-leipzig.de/%7Etmra/2007/
+location:
+  raw: >-
+    School of Library and Information Science, Wells Library 011, Indiana
+    University at Bloomington, Bloomington, Indiana, 47405

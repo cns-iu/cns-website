@@ -3,12 +3,12 @@ type: presentation
 title: >-
   Using An Enterprise Research Management System to Maintain Accurate and
   Up-to-date Scholarly Data For Campus Re-use
-description: ''
-location: Austin, TX
+link: https://cns.iu.edu/docs/presentations/2014-borner-vivo-reuters.pdf
+dateStart: '2014-08-08'
+dateEnd: '2014-08-08'
+location:
+  raw: Austin, TX
 presenters:
   - katy-borner
   - ann-beynon
-dateStart: '2014-08-08'
-dateEnd: '2014-08-08'
 event: ev-538
-link: https://cns.iu.edu/docs/presentations/2014-borner-vivo-reuters.pdf

@@ -1,13 +1,8 @@
 slug: ev-342
 type: workshop
 title: History of Science Workshop
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-06-01'
 dateEnd: '2009-06-30'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana

@@ -1,14 +1,8 @@
 slug: ev-775
 type: meeting
 title: Human Cell Atlas (HCA) Asia Meeting 2020
-description: ''
-location: Beijing, China
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://db.cngb.org/HCL/meeting.html
 dateStart: '2020-10-22'
 dateEnd: '2020-10-23'
-tags: []
-link: https://db.cngb.org/HCL/meeting.html
+location:
+  raw: Beijing, China

@@ -1,16 +1,10 @@
 slug: ev-601
 type: workshop
 title: Center for Disease Control
-description: ''
-location: Atlanta, GA
-organizers:
-  - michael-ginda
-attendees: []
-publications: []
-presentations: []
-tutorials:
-  - tut-22
+link: http://www.cdc.gov/
 dateStart: '2016-06-14'
 dateEnd: '2016-06-15'
-tags: []
-link: http://www.cdc.gov/
+location:
+  raw: Atlanta, GA
+organizers:
+  - michael-ginda

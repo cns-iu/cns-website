@@ -1,8 +1,9 @@
 slug: pub-156
-link: https://cns.iu.edu/docs/news/20170823-IUnews.html
 title: >-
   NSF awards IU $3 million to train researchers 'fluent' in complex networks and
   data
+date: '2017-08-23'
+link: https://cns.iu.edu/docs/news/20170823-IUnews.html
 description: >-
   BLOOMINGTON, Ind. -- The National Science Foundation has awarded Indiana
   University [nearly $3
@@ -120,12 +121,10 @@ description: >-
   The first year of the dual Ph.D. program will be limited to graduate students
   currently enrolled at IU. Next year's class will include students beyond the
   university. The application deadline for the fall 2018 semester is December.
-date: '2017-08-23'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20170823-IUnews.html
-caption: >-
-  View the orginial story at [IU
-  News](https://news.iu.edu/stories/2017/08/iub/releases/23-nsf-research-traineeship-award.html).
-publisher: ''
 reporter: IU News
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20170823-IUnews.html
+    description: >-
+      View the orginial story at [IU
+      News](https://news.iu.edu/stories/2017/08/iub/releases/23-nsf-research-traineeship-award.html).

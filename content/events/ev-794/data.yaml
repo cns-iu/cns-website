@@ -1,14 +1,8 @@
 slug: ev-794
 type: meeting
 title: LungMAP Spring 2021 Bi-Annual Meeting
-description: ''
-location: Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://lungmap.net/
 dateStart: '2021-04-19'
 dateEnd: '2021-04-20'
-tags: []
-link: https://lungmap.net/
+location:
+  raw: Virtual Event

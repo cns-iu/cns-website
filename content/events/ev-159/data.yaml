@@ -1,14 +1,10 @@
 slug: ev-159
 type: meeting
 title: Meeting on the National Science Board (NSB) "Transformational Research" Study
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-80
-tutorials: []
+link: null
 dateStart: '2005-04-26'
 dateEnd: '2005-04-26'
-tags: []
+location:
+  raw: Washington, DC
+presentations:
+  - pres-80

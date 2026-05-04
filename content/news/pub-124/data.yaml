@@ -1,8 +1,9 @@
 slug: pub-124
-link: https://cns.iu.edu/docs/news/20140514_WorldNewsNetwork.html
 title: >-
   IU collaborators screening 'Humanexus' at Cannes Film Festival (Indiana
   University Bloomington)
+date: '2014-05-14'
+link: https://cns.iu.edu/docs/news/20140514_WorldNewsNetwork.pdf
 description: >-
   BLOOMINGTON, Ind. -- An information scientist, an artist and a musician at
   Indiana University got together to create a short film about the ways humans
@@ -81,16 +82,13 @@ description: >-
 
   [Meet the animator: Ying-Fang
   Shen](https://www.youtube.com/watch?v=yZ_bYc9tLrc)
-date: '2014-05-14'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140514_WorldNewsNetwork.html
-caption: >-
-  The following is an article from [wn.com](http://wn.com). Read the original
-  article
-  [here](http://article.wn.com/view/2014/05/14/IU_collaborators_screening_Humanexus_at_Cannes_Film_Festival/),
-  or download a PDF of the article
-  [here](/docs/news/20140514_WorldNewsNetwork.pdf).
 publisher: World News Network
-reporter: ''
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20140514_WorldNewsNetwork.pdf
+    description: >-
+      The following is an article from [wn.com](http://wn.com). Read the
+      original article
+      [here](http://article.wn.com/view/2014/05/14/IU_collaborators_screening_Humanexus_at_Cannes_Film_Festival/),
+      or download a PDF of the article
+      [here](/docs/news/20140514_WorldNewsNetwork.pdf).

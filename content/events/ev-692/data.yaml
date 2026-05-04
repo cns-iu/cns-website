@@ -1,15 +1,10 @@
 slug: ev-692
 type: conference
 title: CEWIT Summit 2018
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-544
-tutorials: []
+link: http://www.indiana.edu/~cewit/summit2018/index.html
 dateStart: '2018-03-23'
 dateEnd: '2018-03-24'
-tags: []
-link: http://www.indiana.edu/~cewit/summit2018/index.html
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-544

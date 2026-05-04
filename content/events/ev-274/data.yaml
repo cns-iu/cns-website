@@ -1,13 +1,8 @@
 slug: ev-274
 type: workshop
 title: 'SNAP: Systematic Network Analysis of Pathophysiology'
-description: null
-location: Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-09-23'
 dateEnd: '2008-09-24'
-tags: []
+location:
+  raw: Bethesda, MD

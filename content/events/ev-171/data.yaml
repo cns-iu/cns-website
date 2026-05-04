@@ -1,13 +1,8 @@
 slug: ev-171
 type: conference
 title: Visualization Summit
-description: null
-location: Zürich, Switzerland
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-09-01'
 dateEnd: '2008-09-30'
-tags: []
+location:
+  raw: Zürich, Switzerland

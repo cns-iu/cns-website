@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Studying and Supporting the Emerging Global Brain, as part of the Joint
   4S/ISSI Panel on Mapping Science
-description: ''
-location: Pasadena, CA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2005-borner-panel.doc
 dateStart: '2005-10-22'
 dateEnd: '2005-10-22'
+location:
+  raw: Pasadena, CA
+presenters:
+  - katy-borner
 event: ev-25
-link: https://cns.iu.edu/docs/presentations/2005-borner-panel.doc

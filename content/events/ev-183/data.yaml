@@ -1,15 +1,10 @@
 slug: ev-183
 type: conference
 title: 'Sunbelt XXVIII: International Sunbelt Social Network Conference'
-description: null
-location: St. Pete Beach, FL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-158
-tutorials: []
+link: http://www.insna.org/2008/sunbelt2008.html
 dateStart: '2008-01-22'
 dateEnd: '2008-01-28'
-tags: []
-link: http://www.insna.org/2008/sunbelt2008.html
+location:
+  raw: St. Pete Beach, FL
+presentations:
+  - pres-158

@@ -1,19 +1,14 @@
 slug: pub-188
-authors: []
-editors:
-  - katy-borner
-  - chaomei-chen
 type: book
 title: 'Lecture Notes in Computer Science: Visual Interfaces to Digital Libraries'
 date: '2002-01-01'
+editors:
+  - katy-borner
+  - chaomei-chen
 publisher: Springer-Verlag
-venue: ''
 volume: '2539'
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-vidl.pdf
-  - http://www.springerlink.com/content/qyak9f4ecpgl/
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-vidl.pdf
+  - type: website
+    url: http://www.springerlink.com/content/qyak9f4ecpgl/

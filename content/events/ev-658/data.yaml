@@ -1,15 +1,10 @@
 slug: ev-658
 type: conference
 title: Association of Midwest Museums
-description: ''
-location: Des Moines, IA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-510
-tutorials: []
+link: https://www.midwestmuseums.org/
 dateStart: '2017-07-12'
 dateEnd: '2017-07-14'
-tags: []
-link: https://www.midwestmuseums.org/
+location:
+  raw: Des Moines, IA
+presentations:
+  - pres-510

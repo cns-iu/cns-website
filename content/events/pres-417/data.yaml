@@ -1,11 +1,11 @@
 slug: pres-417
 type: presentation
 title: 'Building a Science Observatory: Research, Tools, and Maps'
-description: ''
-location: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2014-borner-netscitalk.pdf
 dateStart: '2014-12-08'
 dateEnd: '2014-12-08'
+location:
+  raw: Woodburn Hall, Indiana University at Bloomington, Bloomington, Indiana
+presenters:
+  - katy-borner
 event: ev-551
-link: https://cns.iu.edu/docs/presentations/2014-borner-netscitalk.pdf

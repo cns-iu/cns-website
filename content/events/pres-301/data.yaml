@@ -1,11 +1,11 @@
 slug: pres-301
 type: presentation
 title: Analyzing, Visualizing, and Navigating the Republic of Letters
-description: ''
-location: Oxford, UK
-presenters:
-  - scott-b-weingart
+link: https://cns.iu.edu/docs/presentations/2011-weingart-oxford.pdf
 dateStart: '2011-07-11'
 dateEnd: '2011-07-11'
+location:
+  raw: Oxford, UK
+presenters:
+  - scott-b-weingart
 event: ev-453
-link: https://cns.iu.edu/docs/presentations/2011-weingart-oxford.pdf

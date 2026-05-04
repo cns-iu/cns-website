@@ -1,8 +1,9 @@
 slug: pub-2
-link: https://cns.iu.edu/docs/news/tedx_03222013.html
 title: >-
   Katy Börner Presents "Maps & Macroscopes: Gaining Insights from BIG Data" at
   TEDxBloomington
+date: '2013-03-22'
+link: https://cns.iu.edu/docs/news/tedx_03222013.html
 description: >-
   TED is a nonprofit devoted to “Ideas Worth Spreading.” It started as a
   conference bringing together people from three worlds: Technology,
@@ -32,10 +33,8 @@ description: >-
     
   Video of Katy's talk will be available soon at
   [tedxbloomington.org/2013](http://www.tedxbloomington.org/2013/).
-date: '2013-03-22'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/tedx_03222013.html
-caption: Katy Börner on stage at TEDxBloomington.
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/tedx_03222013.html
+    description: Katy Börner on stage at TEDxBloomington.

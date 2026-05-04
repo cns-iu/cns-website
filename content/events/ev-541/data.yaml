@@ -1,15 +1,10 @@
 slug: ev-541
 type: visit
 title: 10th Iteration University of Miami Opening
-description: ''
-location: Miami, FL
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-408
-tutorials: []
+link: http://www.miami.edu/
 dateStart: '2014-09-04'
 dateEnd: '2014-09-04'
-tags: []
-link: http://www.miami.edu/
+location:
+  raw: Miami, FL
+presentations:
+  - pres-408

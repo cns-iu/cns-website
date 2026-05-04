@@ -1,4 +1,7 @@
 slug: pub-240
+type: article-journal
+title: A Multi-Level Systems Perspective for the Science of Team Science
+date: '2010-09-15'
 authors:
   - katy-borner
   - noshir-s-contractor
@@ -10,18 +13,11 @@ authors:
   - daniel-stokols
   - william-trochim
   - brian-uzzi
-editors: []
-type: article-journal
-title: A Multi-Level Systems Perspective for the Science of Team Science
-date: '2010-09-15'
-publisher: ''
 venue: Science Translational Medicine
 volume: '2'
 issue: '49'
-doi: ''
 pages: 49(cm)24
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2010-borner-et-al-multi-level-teamsci.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2010-borner-et-al-multi-level-teamsci.pdf

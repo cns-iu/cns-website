@@ -1,199 +1,277 @@
+x-shared-field-definitions:
+  dates:
+    date: &date
+      name: date
+      label: Date
+      widget: datetime
+      date_format: 'YYYY-MM-DD'
+    dateStart: &dateStart
+      name: dateStart
+      label: Start date
+      widget: datetime
+      date_format: 'YYYY-MM-DD'
+    dateEnd: &dateEnd
+      name: dateEnd
+      label: End date
+      widget: datetime
+      date_format: 'YYYY-MM-DD'
+      required: false
+  files:
+    image: &image
+      name: image
+      label: Image
+      widget: image
+    link: &link
+      name: link
+      label: Link
+      widget: file
+    media: &media
+      name: media
+      label: Media
+      widget: list
+      summary: '{{fields.type}} - {{fields.url}}'
+      required: false
+      fields:
+        - name: type
+          label: Media type
+          widget: select
+          options:
+            - { label: Image, value: image }
+            - { label: PDF, value: pdf }
+            - { label: Photo gallery, value: photo-gallery }
+            - { label: Poster, value: poster }
+            - { label: Slides, value: slides }
+            - { label: Website, value: website }
+            - { label: Video, value: video }
+            - { label: Video playlist, value: video-playlist }
+            - { label: Other, value: other }
+        - name: url
+          label: File
+          widget: file
+        - name: description
+          label: Description
+          widget: string
+          hint: 'Short description of the media for display on the website'
+          required: false
+    thumbnail: &thumbnail
+      name: thumbnail
+      label: Thumbnail image
+      widget: file
+      required: false
+  misc:
+    featured: &featured
+      name: featured
+      label: Featured
+      widget: boolean
+      hint: 'Whether to feature this item on the homepage'
+      required: false
+  primitives:
+    nonNegativeInt: &nonNegativeInt
+      widget: number
+      value_type: int
+      min: 0
+  relations:
+    people: &people
+      name: people
+      label: People
+      widget: relation
+      collection: people
+      multiple: true
+      search_fields: [name, lastName]
+      value_field: slug
+      display_fields: [name]
+      required: false
+    projects: &projects
+      name: projects
+      label: Associated projects
+      widget: relation
+      collection: project
+      multiple: true
+      search_fields: [name]
+      value_field: slug
+      display_fields: [name]
+      required: false
+  slugs:
+    slugAuto: &slugAuto
+      name: slug
+      default: EMPTY
+      widget: hidden
+    slugNamed: &slugNamed
+      name: slug
+      default: '{{fields.name}}'
+      widget: hidden
+  text:
+    description: &description
+      name: description
+      label: Long description
+      widget: markdown
+    title: &title
+      name: title
+      label: Title
+      widget: string
+
 collections:
   - name: funding
     label: Funding
     folder: content/funding
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: funding/{{fields.slug}}/data.yaml
+    preview_path: 'funding/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
     sortable_fields: [dateStart, title, funder]
     fields:
-      - { name: slug, default: 'EMPTY', widget: hidden }
+      - *slugAuto
       - name: type
         label: Funding type
         widget: select
         options:
-          - { label: Research funding, value: "research" }
-          - { label: Teaching funding, value: "teaching" }
-          - { label: Workshop funding, value: "workshop" }
-      - { name: title, label: Award title, widget: string }
+          - { label: Research funding, value: research }
+          - { label: Teaching funding, value: teaching }
+          - { label: Workshop funding, value: workshop }
+      - <<: *title
+        label: Award title
       - { name: name, label: Award number, widget: string }
       - { name: funder, label: Funding agency, widget: string }
-      - { name: amount, label: Funding amount, widget: number, value_type: int, min: 0 }
-      - &dateStart { name: dateStart, label: Start date, widget: datetime, date_format: "YYYY-MM-DD" }
-      - &dateEnd { name: dateEnd, label: End date, widget: datetime, date_format: "YYYY-MM-DD", required: false }
-      - &thumbnail { name: thumbnail, label: Thumbnail image, widget: file, required: false }
-      - &link
-        name: link
-        label: Link
-        widget: file
+      - <<: *nonNegativeInt
+        name: amount
+        label: Funding amount
+      - *dateStart
+      - *dateEnd
+      - *thumbnail
+      - <<: *link
+        hint: Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page)
         required: false
-        hint: "Optional. Link to the official funding or project page (e.g., NIH RePORTER or CIFAR About the Project page)"
-      - &featured
-        name: featured
-        label: Featured
-        widget: boolean
-        required: false
-        hint: "Whether to feature this item on the homepage"
-      - &projects
-        name: projects
-        label: Associated projects
-        widget: relation
-        collection: project
-        multiple: true
-        default: []
-        search_fields: [name]
-        value_field: slug
-        display_fields: [name]
-        required: false
-      - &tags
-        name: tags
-        label: Tags
-        widget: relation
-        collection: tag
-        multiple: true
-        default: []
-        search_fields: [name]
-        value_field: slug
-        display_fields: [name]
-        required: false
-      - &people
+      - *featured
+      - *projects
+      - <<: *people
         name: investigators
         label: Primary investigators
-        widget: relation
-        collection: people
-        multiple: true
-        default: []
-        search_fields: [name, lastName]
-        value_field: slug
-        display_fields: [name]
-        required: false
-      - name: receivedAmount
+      - <<: *nonNegativeInt
+        name: receivedAmount
         label: Funding amount received
-        widget: number
-        value_type: int
-        min: 0
         required: false
-      - &mediaUrl
-        name: mediaUrl
-        label: Media URL
-        widget: file
-        required: false
-        hint: "URL of the image, video, or document"
 
   - name: people
     label: People
     label_singular: Person
     folder: content/people
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: people/{{fields.slug}}/data.yaml
+    preview_path: 'people/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{name}}'
     sortable_fields: [name, lastName]
     fields:
-      - { name: slug, default: '{{fields.name}}', widget: hidden }
-      - { name: name, label: Full Name }
-      - { name: lastName, label: Last Name (for sorting) }
-      - { name: image, label: Image, widget: image, required: false }
+      - *slugNamed
+      - { name: name, label: Full Name, widget: string }
+      - { name: lastName, label: Last Name (for sorting), widget: string }
+      - <<: *image
+        required: false
 
       - name: roles
         label: Roles
         label_singular: Role
         widget: list
-        hint: "Add all roles this person has had. Leave End Date blank if still active."
-        default: []
+        hint: Add all roles this person has had. Leave End Date blank if still active.
+        required: false
         types:
-          - label: "CNS Member"
-            name: "member"
-            widget: "object"
-            summary: "{{fields.title}} — {{fields.displayOrder}}"
+          - label: CNS Member
+            name: member
+            widget: object
+            summary: '{{fields.title}} - {{fields.displayOrder}}'
             fields:
-              - { name: title, label: "Title / Position" }
+              - { name: title, label: Title / Position, widget: string }
               - name: status
                 label: Status
                 widget: select
                 required: true
                 options:
-                  - { label: Leadership, value: "leadership" }
-                  - { label: Full-Time Staff, value: "full-time" }
-                  - { label: Part-Time, value: "part-time" }
-                  - { label: Contractor, value: "contractor" }
-              - { name: displayOrder, label: Display Order, widget: number, value_type: int, min: 0, required: false }
+                  - { label: Leadership, value: leadership }
+                  - { label: Full-Time Staff, value: full-time }
+                  - { label: Part-Time, value: part-time }
+                  - { label: Contractor, value: contractor }
+              - <<: *nonNegativeInt
+                name: displayOrder
+                label: Display Order
+                required: false
 
-              - { name: office, label: "Office", hint: "Luddy Hall 40xx", required: false }
-              - { name: phone, label: "Office Phone Number", required: false }
-              - { name: fax, label: "Office Fax Number", required: false }
-              - { name: email, label: "Office Email", hint: "xx@iu.edu", required: false }
+              - { name: office, label: Office, widget: string, hint: Luddy Hall 40xx, required: false }
+              - { name: phone, label: Office Phone Number, widget: string, required: false }
+              - { name: fax, label: Office Fax Number, widget: string, required: false }
+              - { name: email, label: Office Email, widget: string, hint: 'xx@iu.edu', required: false }
 
               - { name: education, label: Education, widget: markdown, required: false }
               - { name: background, label: Background, widget: markdown, required: false }
               - { name: interests, label: Interests, widget: markdown, required: false }
-              
+
               - *dateStart
               - *dateEnd
 
-          - label: "CNS Student"
-            name: "student"
-            widget: "object"
-            summary: "{{fields.topic}} — {{fields.degree}}"
+          - label: CNS Student
+            name: student
+            widget: object
+            summary: '{{fields.topic}} - {{fields.degree}}'
             fields:
-              - { name: topic, label: "Research Topic" }
-              - { name: degree, label: "Degree", widget: select, options: ["Ph.D.", "Masters"], required: true }
-              - { name: department, label: Department }
+              - { name: topic, label: Research Topic, widget: string }
+              - { name: degree, label: Degree, widget: select, options: ['Ph.D.', 'Masters'] }
+              - { name: department, label: Department, widget: string }
               - *dateStart
               - *dateEnd
 
-          - label: "Collaborator"
-            name: "collaborator"
-            widget: "object"
-            summary: "{{fields.project}}"
+          - label: Collaborator
+            name: collaborator
+            widget: object
+            summary: '{{fields.project}}'
             fields:
-              - { name: project, label: "Project" }
+              - { name: project, label: Project, widget: string }
               - *dateStart
               - *dateEnd
 
   - name: publication
     label: Publications
     folder: content/publications
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: publications/{{fields.slug}}/data.yaml
+    preview_path: 'publications/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
     sortable_fields: [date, title, type, publisher]
     fields:
-      - { name: slug, csl_name: id, default: 'EMPTY', widget: hidden }
+      - <<: *slugAuto
+        csl_name: id
       - name: type
         csl_name: type
         label: Publication type
         widget: select
         options:
-          - { label: Edited journal, value: "periodical" }
-          - { label: Journal article, value: "article-journal" }
-          - { label: Book, value: "book" }
-          - { label: Book chapter, value: "chapter" }
-          - { label: Conference proceeding, value: "paper-conference" }
-          - { label: Patent, value: "patent" }
-          - { label: Audio/Video, value: "broadcast" }
-          - { label: Tech report, value: "report" }
-          - { label: Preprint, value: "manuscript" }
-          - { label: Thesis, value: "thesis" }
-      - *thumbnail
-      - { name: title, csl_name: title, label: Title, widget: string, required: false }
+          - { label: Edited journal, value: periodical }
+          - { label: Journal article, value: article-journal }
+          - { label: Book, value: book }
+          - { label: Book chapter, value: chapter }
+          - { label: Conference proceeding, value: paper-conference }
+          - { label: Patent, value: patent }
+          - { label: Audio/Video, value: broadcast }
+          - { label: Tech report, value: report }
+          - { label: Preprint, value: manuscript }
+          - { label: Thesis, value: thesis }
+      - <<: *title
+        csl_name: title
+      - <<: *date
+        csl_name: issued
+      - { name: doi, csl_name: DOI, label: DOI, widget: string, required: false }
       - <<: *people
         name: authors
         csl_name: author
@@ -202,139 +280,156 @@ collections:
         name: editors
         csl_name: editor
         label: Editors
-      - { name: doi, csl_name: DOI, label: DOI, widget: string, required: false }
+      - *thumbnail
       - { name: pmid, csl_name: PMID, label: PMID, widget: string, required: false }
-      - { name: date, csl_name: issued, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
       - { name: publisher, csl_name: publisher, label: Publisher, widget: string, required: false }
       - { name: venue, csl_name: container-title, label: Publication Venue, widget: string, required: false }
       - { name: volume, csl_name: volume, label: Venue Volume, widget: string, required: false }
       - { name: issue, csl_name: issue, label: Venue Number, widget: string, required: false }
       - { name: pages, csl_name: page, label: Venue Pages, widget: string, required: false }
       - { name: chapter, csl_name: chapter-number, label: Venue Chapter, widget: string, required: false }
-      - name: links
-        csl_name: URL
-        label: Associated Media
-        widget: list
-        summary: '{{fields.media}}'
-        field: { name: media, label: Media, widget: file }
-        required: false
-      - *mediaUrl
       - *featured
       - *projects
-      - *tags
+      - *media
 
   - name: news
     label: News
     folder: content/news
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: news/{{fields.slug}}/data.yaml
+    preview_path: 'news/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
     sortable_fields: [date, title, publisher]
     fields:
-      - { name: slug, default: 'EMPTY', widget: hidden }
-      - { name: title, label: Title, widget: string, required: true }
+      - *slugAuto
+      - *title
+      - *date
       - <<: *link
-        hint: "Add a file or link to the news page"
-      - &date { name: date, label: Date, widget: datetime, date_format: "YYYY-MM-DD", required: true }
+        hint: Add a file or link to the news page
       - *thumbnail
       - *featured
       - *projects
-      - *tags
-      - { name: description, label: Long description, widget: markdown, required: false }
-      - &mediaType
-        name: mediaType
-        label: Media Type
-        widget: select
+      - <<: *description
         required: false
-        options:
-          - { label: Image, value: image }
-          - { label: Video, value: video }
-          - { label: Document, value: document }
-      - *mediaUrl
-      - { name: caption, label: Caption, widget: text, required: false, hint: "The caption to be placed under the image" }
       - { name: publisher, label: Publisher, widget: string, required: false }
       - { name: reporter, label: Reporter, widget: string, required: false }
+      - *media
 
   - name: visualization
     label: Visualizations
     folder: content/visualizations
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: visualizations/{{fields.slug}}/data.yaml
+    preview_path: 'visualizations/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
     sortable_fields: [date, title, publisher]
     fields:
-      - { name: slug, default: 'EMPTY', widget: hidden }
-      - { name: title, label: Visualization title, widget: string, required: true }
+      - *slugAuto
+      - *title
       - *date
-      - *thumbnail
       - <<: *link
-        hint: "Add a file or link to the visualization page"
+        hint: Add a file or link to the visualization page
+      - *thumbnail
       - <<: *people
         name: authors
         label: Authors
-      - { name: description, label: Long description, widget: markdown, required: false }
-      - *mediaType
-      - *mediaUrl
+      - <<: *description
+        required: false
       - *featured
       - *projects
-      - *tags
+      - *media
 
   - name: event
     label: Events
     folder: content/events
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: events/{{fields.slug}}/data.yaml
+    preview_path: 'events/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{title}}'
     sortable_fields: [dateStart, title, type]
     fields:
-      - { name: slug, csl_name: id, default: 'EMPTY', widget: hidden }
+      - *slugAuto
       - name: type
         label: Event type
         widget: select
         options:
-          - { label: 24-hour event, value: "24hour" }
-          - { label: Celebration, value: "celebration" }
-          - { label: Conference, value: "conference" }
-          - { label: Exhibit, value: "exhibit" }
-          - { label: Meeting, value: "meeting" }
-          - { label: Other, value: "other" }
-          - { label: Presentation, value: "presentation" }
-          - { label: Tutorial, value: "tutorial" }
-          - { label: Visit, value: "visit" }
-          - { label: Workshop, value: "workshop" }
-      - { name: title, label: Event type title, widget: string, required: true, hint: "The title of the event type, i.e., the title of the event, presentation, workshop, etc." }
+          - { label: 24-hour event, value: '24hour' }
+          - { label: Celebration, value: 'celebration' }
+          - { label: Conference, value: 'conference' }
+          - { label: Exhibit, value: 'exhibit' }
+          - { label: Meeting, value: 'meeting' }
+          - { label: Other, value: 'other' }
+          - { label: Presentation, value: 'presentation' }
+          - { label: Tutorial, value: 'tutorial' }
+          - { label: Visit, value: 'visit' }
+          - { label: Workshop, value: 'workshop' }
+      - <<: *title
+        label: Event type title
+        hint: The title of the event type, i.e., the title of the event, presentation, workshop, etc.
       - <<: *link
-        hint: "This link embeds in the Event title"
+        hint: This link embeds in the Event title
       - *dateStart
       - *dateEnd
       - *thumbnail
-      - *featured
-      - *projects
-      - *tags
-      - { name: venue, label: "Venue name", widget: string, required: false, hint: "The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is online, use 'Virtual event'" }
-      - { name: street, label: "Street", widget: string, required: false, hint: "The street address from Google Maps and add a room number if applicable, e.g., '700 N Woodlawn Ave'" }
-      - { name: city, label: "City", widget: string, required: false, hint: "The city name, e.g., 'Bloomington'" }
-      - { name: state, label: "State", widget: string, required: false, hint: "The country's state, e.g., 'Indiana'" }
-      - { name: country, label: "Country", widget: string, required: false, hint: "The country, e.g., 'USA', 'Germany', or 'Canada'" }
-      - { name: postcode, label: "ZIP code or postal code", widget: string, required: false, hint: "The city's ZIP code or international postal code, e.g., '47405'" }
+
+      - name: location
+        label: Location
+        widget: object
+        summary: '{{fields.venue}}, {{fields.street}}, {{fields.city}}, {{fields.state}}, {{fields.country}}'
+        collapsed: true
+        required: false
+        fields:
+          - name: venue
+            label: Venue name
+            widget: string
+            hint: The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is remote, use 'Remote event'
+            required: false
+          - name: street
+            label: Street
+            widget: string
+            hint: The street address from Google Maps and add a room number if applicable, e.g., '700 N Woodlawn Ave'
+            required: false
+          - name: city
+            label: City
+            widget: string
+            hint: The city name, e.g., 'Bloomington'
+            required: false
+          - name: state
+            label: State
+            widget: string
+            hint: The country's state, e.g., 'Indiana'
+            required: false
+          - name: postcode
+            label: ZIP code or postal code
+            widget: string
+            hint: The city's ZIP code or international postal code, e.g., '47405'
+            required: false
+          - name: country
+            label: Country
+            widget: string
+            hint: The country, e.g., 'USA', 'Germany', or 'Canada'
+            required: false
+          - name: raw
+            label: Old location entry
+            widget: string
+            hint: Old location entry in varying formats. DO NOT USE.
+            required: false
+
       - <<: *people
         name: presenters
         label: Presenters
@@ -347,51 +442,37 @@ collections:
       - <<: *people
         name: attendees
         label: Attendees
-      - name: location
-        label: "Location"
-        widget: string
+      - name: presentations
+        widget: hidden
+        hint: List of event slugs for conference events. DO NOT USE.
         required: false
-        hint: "Old input for location: Do not use"
-      - { name: description, label: Short description, widget: string, required: false }
-      - *mediaType
-      - *mediaUrl
+      - name: event
+        widget: hidden
+        hint: Parent event slug for workshop, presentation, tutorial, or other sub-events. DO NOT USE.
+        required: false
+
+      - *featured
+      - *projects
+      - *media
 
   - name: project
     label: Projects
     folder: content/projects
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
+    path: '{{slug}}/data'
+    format: yaml
+    extension: yaml
     create: true
     identifier_field: slug
-    preview_path: projects/{{fields.slug}}/data.yaml
+    preview_path: 'projects/{{fields.slug}}/data.yaml'
     media_folder: ''
     public_folder: ''
     summary: '{{name}}'
     sortable_fields: [name]
     fields:
-      - { name: slug, default: '{{fields.name}}', widget: hidden }
+      - *slugNamed
       - { name: name, label: Project name, widget: string }
-      - { name: description, label: Description, widget: string, hint: "Short description of the project for display on the website" }
-
-  - name: tag
-    label: Tags
-    folder: content/tags
-    path: "{{slug}}/data"
-    format: "yaml"
-    extension: "yaml"
-    create: true
-    identifier_field: slug
-    preview_path: tags/{{fields.slug}}/data.yaml
-    media_folder: ''
-    public_folder: ''
-    summary: '{{name}}'
-    sortable_fields: [name]
-    fields:
-      - { name: slug, default: '{{fields.name}}', widget: hidden }
-      - { name: name, label: Short Tag, widget: string }
-      - { name: description, label: Description, widget: string, hint: "Short description of the tag for display on the website" }
-      - { name: hidden, label: Hidden, widget: boolean, required: false, hint: "Whether the tag is hidden on the website" }
+      - <<: *description
+        hint: Short description of the project for display on the website
 
 backend:
   name: github
@@ -402,9 +483,9 @@ backend:
 # publish_mode: editorial_workflow
 
 slug:
-  encoding: "ascii"
+  encoding: ascii
   clean_accents: true
-  sanitize_replacement: "-"
+  sanitize_replacement: '-'
 
 i18n:
   structure: single_file
@@ -421,4 +502,5 @@ show_preview_links: true
 # Set local_backend to true when testing locally
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ## Basically run `npx decap-server` and launch the angular site
+# local_backend: true
 local_backend: false

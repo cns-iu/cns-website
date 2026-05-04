@@ -1,11 +1,11 @@
 slug: pres-497
 type: presentation
 title: Visualizing What We Know
-description: ''
-location: Bloomington, Indiana
-presenters:
-  - lisel-record
+link: https://cns.iu.edu/docs/presentations/2017-record-lifelong-learning.pdf
 dateStart: '2017-02-22'
 dateEnd: '2017-02-22'
+location:
+  raw: Bloomington, Indiana
+presenters:
+  - lisel-record
 event: ev-638
-link: https://cns.iu.edu/docs/presentations/2017-record-lifelong-learning.pdf

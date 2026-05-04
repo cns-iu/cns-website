@@ -3,15 +3,10 @@ type: workshop
 title: |-
   NSF Workshop on A Deeper Look at the Visualization of Scientific 
   Discovery in the Federal Context
-description: null
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-174
-tutorials: []
+link: http://www.tpac.gatech.edu/nsfvw.php
 dateStart: '2008-09-11'
 dateEnd: '2008-09-12'
-tags: []
-link: http://www.tpac.gatech.edu/nsfvw.php
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+presentations:
+  - pres-174

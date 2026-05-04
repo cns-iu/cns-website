@@ -3,14 +3,8 @@ type: conference
 title: >-
   4th International Conference on Webometrics, Informetrics and Scientometrics &
   9th COLLNET Meeting
-description: null
-location: Humboldt-University Berlin, Berlin, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.ib.hu-berlin.de/~fhavem/SecondAnnouncement-Berlin-2008.pdf
 dateStart: '2008-07-29'
 dateEnd: '2008-08-01'
-tags: []
-link: http://www.ib.hu-berlin.de/~fhavem/SecondAnnouncement-Berlin-2008.pdf
+location:
+  raw: Humboldt-University Berlin, Berlin, Germany

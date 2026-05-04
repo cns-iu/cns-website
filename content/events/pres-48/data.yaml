@@ -1,12 +1,12 @@
 slug: pres-48
 type: presentation
 title: Content Coverage of PNAS in 1995 and 2001
-description: ''
-location: Irvine, CA
+link: https://cns.iu.edu/docs/presentations/2003-mane-pnas0105-unknown.pdf
+dateStart: '2003-09-10'
+dateEnd: '2003-09-10'
+location:
+  raw: Irvine, CA
 presenters:
   - ketan-k-mane
   - katy-borner
-dateStart: '2003-09-10'
-dateEnd: '2003-09-10'
 event: ev-75
-link: https://cns.iu.edu/docs/presentations/2003-mane-pnas0105-unknown.pdf

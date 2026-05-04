@@ -3,15 +3,10 @@ type: conference
 title: >-
   3rd Annual Johns Hopkins University Applied Physics Laboratory (APL) XR
   Symposium
-description: ''
-location: Laurel, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-669
-tutorials: []
+link: https://secwww.jhuapl.edu/EventLink/Event/142
 dateStart: '2022-07-27'
 dateEnd: '2022-07-28'
-tags: []
-link: https://secwww.jhuapl.edu/EventLink/Event/142
+location:
+  raw: Laurel, MD
+presentations:
+  - pres-669

@@ -1,15 +1,10 @@
 slug: ev-711
 type: conference
 title: Round-Table Conversation on Innovative Thinking
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-564
-tutorials: []
+link: https://cns.iu.edu/amatria.html
 dateStart: '2018-09-08'
 dateEnd: '2018-09-08'
-tags: []
-link: https://cns.iu.edu/amatria.html
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-564

@@ -3,12 +3,12 @@ type: presentation
 title: >-
   The Information Visualization (IVMOOC):  Precision Education for Students from
   100+ Countries
-description: ''
-location: Indianapolis, Indiana
+link: https://cns.iu.edu/docs/presentations/2016-IUOnline-IVMOOCPreEd.pdf
+dateStart: '2016-11-11'
+dateEnd: '2016-11-11'
+location:
+  raw: Indianapolis, Indiana
 presenters:
   - katy-borner
   - michael-ginda
-dateStart: '2016-11-11'
-dateEnd: '2016-11-11'
 event: ev-621
-link: https://cns.iu.edu/docs/presentations/2016-IUOnline-IVMOOCPreEd.pdf

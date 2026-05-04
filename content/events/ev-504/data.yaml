@@ -1,18 +1,14 @@
 slug: ev-504
 type: workshop
 title: Exploiting Big Data Semantics for Translational Medicine
-description: ''
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers:
-  - katy-borner
-attendees: []
-publications: []
-presentations:
-  - pres-368
-tutorials: []
+link: http://scimaps.org/meeting/130325/
 dateStart: '2013-03-25'
 dateEnd: '2013-03-26'
-tags: []
-link: http://scimaps.org/meeting/130325/
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+organizers:
+  - katy-borner
+presentations:
+  - pres-368

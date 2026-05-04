@@ -1,15 +1,15 @@
 slug: pres-501
 type: presentation
 title: CNS Web Visualization Framework
-description: ''
-location: >-
-  Scholars' Commons IQ-Wall, Wells Library, Indiana University Bloomington,
-  Bloomington, Indiana, 47405
+link: https://cns.iu.edu/docs/presentations/2017-simpson-wvf-demos.pdf
+dateStart: '2017-04-21'
+dateEnd: '2017-04-21'
+location:
+  raw: >-
+    Scholars' Commons IQ-Wall, Wells Library, Indiana University Bloomington,
+    Bloomington, Indiana, 47405
 presenters:
   - katy-borner
   - adam-simpson
   - gagandeep-singh
-dateStart: '2017-04-21'
-dateEnd: '2017-04-21'
 event: ev-646
-link: https://cns.iu.edu/docs/presentations/2017-simpson-wvf-demos.pdf

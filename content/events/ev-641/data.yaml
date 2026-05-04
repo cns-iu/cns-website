@@ -1,14 +1,8 @@
 slug: ev-641
 type: conference
 title: Practice & Experience in Advanced Research Computing 2017
-description: ''
-location: New Orleans, LA
-organizers: []
-attendees: []
-publications:
-  - pub-348
-presentations: []
-tutorials: []
+link: null
 dateStart: '2017-07-09'
 dateEnd: '2017-07-13'
-tags: []
+location:
+  raw: New Orleans, LA

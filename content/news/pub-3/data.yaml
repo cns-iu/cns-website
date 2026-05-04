@@ -1,8 +1,9 @@
 slug: pub-3
-link: https://cns.iu.edu/docs/news/AcademyScope.html
 title: >-
   AcademyScope Interactive Touch-Screen Visualization Now On Display at the
   National Academy of Sciences in Washington, D.C.
+date: '2013-03-01'
+link: https://cns.iu.edu/docs/news/AcademyScope.html
 description: >-
   During the second half of 2012 and into this year, CNS was lucky enough to be
   part of an extremely productive collaboration with the National Academy of
@@ -36,13 +37,12 @@ description: >-
   [Click
   here](http://www.youtube.com/watch?feature=player_embedded&v=pdqKBna1Fos) to
   watch a video detailing the design and programming of _AcademyScope_.
-date: '2013-03-01'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/AcademyScope.html
-caption: >-
-  The CNS and NAS teams meet to discuss the final round of edits to
-  _AcademyScope_. From left to right: Chin Hua Kong (CNS), Katy Börner (CNS),
-  Samuel Mills (CNS), Alphonse MacDonald (NAS), Stephen Mautner (NAS).
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/AcademyScope.html
+    description: >-
+      The CNS and NAS teams meet to discuss the final round of edits to
+      _AcademyScope_. From left to right: Chin Hua Kong (CNS), Katy Börner
+      (CNS), Samuel Mills (CNS), Alphonse MacDonald (NAS), Stephen Mautner
+      (NAS).

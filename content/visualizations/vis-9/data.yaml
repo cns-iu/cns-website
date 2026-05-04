@@ -1,9 +1,8 @@
 slug: vis-9
-type: visualization
-link: https://cns.iu.edu/docs/research/visualizations/09-Bibsomony.jpg
 title: Bibsonomy Anatomy
-description: 2009, By Nianli Ma, Russell J. Duhon, Elisha F. Hardy, Katy Börner
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/Bibsomony_400W.png
 date: '2012-01-22'
-tags: []
+link: https://cns.iu.edu/docs/research/visualizations/09-Bibsomony.jpg
+description: 2009, By Nianli Ma, Russell J. Duhon, Elisha F. Hardy, Katy Börner
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/Bibsomony_400W.png

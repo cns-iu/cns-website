@@ -1,16 +1,12 @@
 slug: ev-227
 type: other
 title: 2004 SLIS PhD Research Forum
-description: null
-location: >-
-  School of Library and Information Science, Indiana University at Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-56
-tutorials: []
+link: null
 dateStart: '2004-12-16'
 dateEnd: '2004-12-16'
-tags: []
+location:
+  raw: >-
+    School of Library and Information Science, Indiana University at
+    Bloomington, Bloomington, Indiana, 47405
+presentations:
+  - pres-56

@@ -2,14 +2,11 @@ slug: lourtd5f31xocxs11g5qh
 type: celebration
 title: Amatria's 8th Birthday Party
 link: https://cns.iu.edu/amatria#8th-birthday-party
-dateStart: 2026-04-17
-dateEnd: 2026-04-17
+dateStart: 2026-04-17T00:00:00.000Z
+dateEnd: 2026-04-17T00:00:00.000Z
 thumbnail: amatria-7th-2025.png
+location:
+  raw: Bloomington, Indiana, USA
 featured: false
 projects:
   - amatria
-tags:
-  - amatria
-location: Bloomington, Indiana, USA
-mediaType: image
-mediaUrl: amatria-7th-2025.png

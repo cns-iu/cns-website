@@ -3,14 +3,8 @@ type: conference
 title: >-
   Fifth Triple Helix Conference: The Capitalization of Knowledge: Cognitive,
   Economic, Social and Cultural Aspects
-description: null
-location: Turin, Italy
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.triplehelix5.com/programme.htm
 dateStart: '2005-05-18'
 dateEnd: '2005-05-21'
-tags: []
-link: http://www.triplehelix5.com/programme.htm
+location:
+  raw: Turin, Italy

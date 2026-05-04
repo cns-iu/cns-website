@@ -1,24 +1,20 @@
 slug: pub-293
+type: article-journal
+title: >-
+  ‘Seed+Expand’: A General Methodology for Detecting Publication Oeuvres of
+  Individual Researchers
+date: '2014-01-02'
 authors:
   - linda-reijnhoudt
   - rodrigo-costas
   - ed-noyons
   - katy-borner
   - andrea-scharnhorst
-editors: []
-type: article-journal
-title: >-
-  ‘Seed+Expand’: A General Methodology for Detecting Publication Oeuvres of
-  Individual Researchers
-date: '2014-01-02'
-publisher: ''
 venue: Scientometrics
 volume: '101'
 issue: '2'
-doi: ''
 pages: 1403-1417
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2013-reijnhoudt-seed-expand-scientometrics.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2013-reijnhoudt-seed-expand-scientometrics.pdf

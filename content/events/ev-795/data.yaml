@@ -1,14 +1,8 @@
 slug: ev-795
 type: meeting
 title: Common Fund Data Ecosystem (CFDE) Anatomy Working Group
-description: ''
-location: Virtual Event
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.nih-cfde.org/engagement_page/events-and-helpdesks/
 dateStart: '2021-04-20'
 dateEnd: '2021-04-20'
-tags: []
-link: https://www.nih-cfde.org/engagement_page/events-and-helpdesks/
+location:
+  raw: Virtual Event

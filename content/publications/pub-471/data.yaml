@@ -1,4 +1,10 @@
 slug: pub-471
+type: article-journal
+title: >-
+  The Growth and Impact of ADNI Genetics Publications as Measured by Science
+  Mapping
+date: '2016-07-01'
+doi: 10.1016/j.jalz.2016.06.1427
 authors:
   - xiaohui-yao
   - jingwen-yan
@@ -15,19 +21,10 @@ authors:
   - andy-j-saykin
   - li-shen
   - for-the-alzheimers-disease-neuroimaging-initiative
-editors: []
-type: article-journal
-title: >-
-  The Growth and Impact of ADNI Genetics Publications as Measured by Science
-  Mapping
-date: '2016-07-01'
-publisher: ''
 venue: Alzheimer's & Dementia
 volume: '12'
 issue: (7SPart15)
-doi: 10.1016/j.jalz.2016.06.1427
-pages: ''
-chapter: ''
-links:
-  - https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.06.1427
-tags: []
+media:
+  - type: website
+    url: >-
+      https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2016.06.1427

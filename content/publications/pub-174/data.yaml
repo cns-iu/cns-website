@@ -1,4 +1,7 @@
 slug: pub-174
+type: paper-conference
+title: The Scholarly Database and Its Utility for Scientometrics Research
+date: '2007-06-25'
 authors:
   - gavin-larowe
   - sumeet-adinath-ambre
@@ -8,18 +11,10 @@ authors:
 editors:
   - d-torres-salinas
   - h-f-moed
-type: paper-conference
-title: The Scholarly Database and Its Utility for Scientometrics Research
-date: '2007-06-25'
-publisher: ''
 venue: >-
   Proceedings of the 11th International Conference on Scientometrics and
   Informetrics, Madrid, Spain
-volume: ''
-issue: ''
-doi: ''
 pages: 457-462
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-larowe-sdb-issi-1.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-larowe-sdb-issi-1.pdf

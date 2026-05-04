@@ -1,7 +1,9 @@
 slug: pub-393
 type: manuscript
-title: Construction and Usage of a Human Body Common Coordinate Framework
-  Comprising Clinical, Semantic, and Spatial Ontologies
+title: >-
+  Construction and Usage of a Human Body Common Coordinate Framework Comprising
+  Clinical, Semantic, and Spatial Ontologies
+date: 2020-07-28T00:00:00.000Z
 authors:
   - katy-borner
   - ellen-m-quardokus
@@ -19,18 +21,9 @@ authors:
   - nathan-h-patterson
   - mark-a-musen
   - griffin-m-weber
-editors: []
-doi: ""
-date: 2020-07-28
-publisher: ""
 venue: arXiv:2007.14474v1 [q-bio.QM]
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/2020-Borner-Human-Body-CCF.pdf
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2020-Borner-Human-Body-CCF.pdf

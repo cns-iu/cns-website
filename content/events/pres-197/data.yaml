@@ -1,11 +1,11 @@
 slug: pres-197
 type: presentation
 title: 'Network Workbench: A Toolkit for Network Scientists'
-description: ''
-location: San Diego, CA
-presenters:
-  - ann-l-mccranie
+link: https://cns.iu.edu/docs/presentations/2009-mccranie-nwb-sunbelt.pdf
 dateStart: '2009-03-10'
 dateEnd: '2009-03-10'
+location:
+  raw: San Diego, CA
+presenters:
+  - ann-l-mccranie
 event: ev-321
-link: https://cns.iu.edu/docs/presentations/2009-mccranie-nwb-sunbelt.pdf

@@ -1,4 +1,9 @@
 slug: pub-391
+type: manuscript
+title: >-
+  Key principles for workforce upskilling via online learning: a learning
+  analytics study of a professional course in addictive manufacturing
+date: '2020-08-15'
 authors:
   - kylie-peppler
   - joey-huang
@@ -7,19 +12,7 @@ authors:
   - katy-borner
   - haden-quinlan
   - a-john-hart
-editors: []
-type: manuscript
-title: >-
-  Key principles for workforce upskilling via online learning: a learning
-  analytics study of a professional course in addictive manufacturing
-date: '2020-08-15'
-publisher: ''
 venue: arXiv:2008.06610v1 [cs.HC]
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2020-Peppler-Key-Principles.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2020-Peppler-Key-Principles.pdf

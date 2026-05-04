@@ -1,15 +1,10 @@
 slug: ev-710
 type: workshop
 title: Precision Health Initiative SICE Meeting
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-563
-tutorials: []
+link: https://grandchallenges.iu.edu/precision-health/index.html
 dateStart: '2018-08-24'
 dateEnd: '2018-08-24'
-tags: []
-link: https://grandchallenges.iu.edu/precision-health/index.html
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presentations:
+  - pres-563

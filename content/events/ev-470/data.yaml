@@ -1,15 +1,10 @@
 slug: ev-470
 type: meeting
 title: 3rd International Meeting on Visualizing Biological Data (VIZBI 2012)
-description: null
-location: European Molecular Biology Laboratory, Heidelberg, Germany, D 6900
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-322
-tutorials: []
+link: http://vizbi.org/2012
 dateStart: '2012-03-08'
 dateEnd: '2012-03-08'
-tags: []
-link: http://vizbi.org/2012
+location:
+  raw: European Molecular Biology Laboratory, Heidelberg, Germany, D 6900
+presentations:
+  - pres-322

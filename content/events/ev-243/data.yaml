@@ -3,14 +3,8 @@ type: workshop
 title: >-
   NSF Workshop on Knowledge Management and Visualization Tools in Support of
   Discovery (II)
-description: null
-location: New York Hall of Science, 47-01 111th Street, Queens, New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://vw.slis.indiana.edu/cdi2008/workshop2.html
 dateStart: '2008-04-07'
 dateEnd: '2008-04-08'
-tags: []
-link: http://vw.slis.indiana.edu/cdi2008/workshop2.html
+location:
+  raw: New York Hall of Science, 47-01 111th Street, Queens, New York, NY

@@ -1,18 +1,13 @@
 slug: ev-54
 type: other
 title: SBC Fellows Summer Leadership Forum
-description: null
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
+link: http://sbcf.iu.edu/events.html
+dateStart: '2004-05-21'
+dateEnd: '2003-05-21'
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
 presentations:
   - pres-23
   - pres-93
-tutorials: []
-dateStart: '2004-05-21'
-dateEnd: '2003-05-21'
-tags: []
-link: http://sbcf.iu.edu/events.html

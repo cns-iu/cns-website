@@ -1,15 +1,10 @@
 slug: ev-25
 type: conference
 title: 2005 Annual Meeting of the Society for Social Studies of Sciences
-description: null
-location: Pasadena, CA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-90
-tutorials: []
+link: http://www.4sonline.org/meeting05.htm
 dateStart: '2005-10-20'
 dateEnd: '2005-10-22'
-tags: []
-link: http://www.4sonline.org/meeting05.htm
+location:
+  raw: Pasadena, CA
+presentations:
+  - pres-90

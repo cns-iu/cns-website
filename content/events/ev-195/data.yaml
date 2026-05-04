@@ -1,14 +1,8 @@
 slug: ev-195
 type: conference
 title: Microsoft Research Faculty Summit
-description: null
-location: Microsoft Research, One Microsoft Way, Redmond, WA, 98052
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://research.microsoft.com/workshops/FS2007/
 dateStart: '2007-07-15'
 dateEnd: '2007-07-17'
-tags: []
-link: http://research.microsoft.com/workshops/FS2007/
+location:
+  raw: Microsoft Research, One Microsoft Way, Redmond, WA, 98052

@@ -1,13 +1,11 @@
 slug: fun-72
 type: research
-name: NSF 1546824 Award
 title: Conference on Modelling Science, Technology, and Innovation, May 2016
+name: NSF 1546824 Award
 funder: National Science Foundation
+amount: 48750
+dateStart: '2015-09-01'
+dateEnd: '2016-08-31'
 investigators:
   - katy-borner
   - stasa-milojevic
-amount: 48750
-receivedAmount: null
-dateStart: '2015-09-01'
-dateEnd: '2016-08-31'
-tags: []

@@ -3,16 +3,11 @@ type: meeting
 title: >-
   Data Science Upskilling Program/Data Modernization Initiative, United States
   Centers for Disease Control and Prevention
-description: ''
-location: Atlanta, GA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-654
-tutorials: []
-dateStart: '2021-04-02'
-dateEnd: '2021-04-02'
-tags: []
 link: >-
   https://www.cdc.gov/surveillance/surveillance-data-strategies/data-IT-transformation.html
+dateStart: '2021-04-02'
+dateEnd: '2021-04-02'
+location:
+  raw: Atlanta, GA (Virtual Event)
+presentations:
+  - pres-654

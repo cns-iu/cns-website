@@ -1,15 +1,10 @@
 slug: ev-704
 type: other
 title: The European Summer University in Digital Humanities  Leipzig, Germany
-description: ''
-location: Leipzig, Germany
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-558
-tutorials: []
+link: http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97
 dateStart: '2018-07-17'
 dateEnd: '2018-07-17'
-tags: []
-link: http://www.culingtec.uni-leipzig.de/ESU_C_T/node/97
+location:
+  raw: Leipzig, Germany
+presentations:
+  - pres-558

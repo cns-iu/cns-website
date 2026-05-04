@@ -1,19 +1,16 @@
 slug: pub-318
+type: article-journal
+title: Long-Distance Interdisciplinarity Leads to Higher Scientific Impact
+date: '2015-03-30'
+doi: 10.1371/journal.pone.0122565
 authors:
   - vincent-lariviere
   - stefanie-haustein
   - katy-borner
-editors: []
-type: article-journal
-title: Long-Distance Interdisciplinarity Leads to Higher Scientific Impact
-date: '2015-03-30'
-publisher: ''
 venue: PLoS ONE
 volume: '10'
 issue: '3'
-doi: 10.1371/journal.pone.0122565
 pages: e0122565.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2015-lariviere-long-distance.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2015-lariviere-long-distance.pdf

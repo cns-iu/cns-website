@@ -1,15 +1,10 @@
 slug: ev-486
 type: conference
 title: European Summer School for Scientometrics (ESSS)
-description: ''
-location: Leuven, Belgium
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-339
-tutorials: []
+link: http://www.scientometrics-school.eu/index.html
 dateStart: '2012-07-01'
 dateEnd: '2012-07-07'
-tags: []
-link: http://www.scientometrics-school.eu/index.html
+location:
+  raw: Leuven, Belgium
+presentations:
+  - pres-339

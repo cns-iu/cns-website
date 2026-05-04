@@ -1,4 +1,9 @@
 slug: pub-380
+type: manuscript
+title: >-
+  Mapping the Human Body at Cellular Resolution -- The NIH Common Fund Human
+  BioMolecular Atlas Program
+date: '2019-03-18'
 authors:
   - michael-p-snyder
   - shin-lin
@@ -25,19 +30,7 @@ authors:
   - ajay-pillai
   - marishka-brown
   - zorina-s-galis
-editors: []
-type: manuscript
-title: >-
-  Mapping the Human Body at Cellular Resolution -- The NIH Common Fund Human
-  BioMolecular Atlas Program
-date: '2019-03-18'
-publisher: ''
 venue: arXiv:1903.07231
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2019-Snyder-MappingTheHumanBody.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2019-Snyder-MappingTheHumanBody.pdf

@@ -1,15 +1,10 @@
 slug: ev-455
 type: workshop
 title: EERE and ARPA-E Workshop on Measuring and Communicating Program Impacts
-description: ''
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-303
-tutorials: []
+link: http://www.eere.energy.gov/
 dateStart: '2011-09-14'
 dateEnd: '2011-09-14'
-tags: []
-link: http://www.eere.energy.gov/
+location:
+  raw: Washington, DC
+presentations:
+  - pres-303

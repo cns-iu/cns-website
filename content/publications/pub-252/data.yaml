@@ -1,4 +1,9 @@
 slug: pub-252
+type: paper-conference
+title: >-
+  Mapping Interactions Within the Evolving Science of Science and Innovation
+  Policy Community
+date: '2011-07-06'
 authors:
   - angela-zoss
   - katy-borner
@@ -6,20 +11,12 @@ editors:
   - ed-noyons
   - le-kim-liwag-nguyen
   - jacqueline-leta
-type: paper-conference
-title: >-
-  Mapping Interactions Within the Evolving Science of Science and Innovation
-  Policy Community
-date: '2011-07-06'
 publisher: Leiden University and University of Zululand
 venue: >-
   Proceedings of the 13th International Conference of the International Society
   for Scientometrics and Informetrics, Durban, South Africa
 volume: '2'
-issue: ''
-doi: ''
 pages: 924-935
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2011-zoss-borner-scisip-issi.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2011-zoss-borner-scisip-issi.pdf

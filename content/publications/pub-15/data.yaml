@@ -1,18 +1,14 @@
 slug: pub-15
-authors:
-  - katy-borner
-  - shashikant-penumarthy
-editors: []
 type: article-journal
 title: Social Diffusion Patterns in Three-Dimensional Virtual Worlds
 date: '2003-01-01'
-publisher: ''
+authors:
+  - katy-borner
+  - shashikant-penumarthy
 venue: Information Visualization
 volume: '2'
 issue: '3'
-doi: ''
 pages: 182-198
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2003-borner-socdif.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2003-borner-socdif.pdf

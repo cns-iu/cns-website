@@ -9,7 +9,7 @@ export function writeFeaturedIndex() {
   const news = readIndex('app-news').sort(reverseDateSort);
   const publications = readIndex('app-publications').sort(reverseDateSort);
   const research = readIndex('app-research').sort(reverseDateSort);
-  const featured = research.filter((item) => item.tags?.includes('featured')).sort(reverseDateSort);
+  const featured = research.filter((item) => item.featured).sort(reverseDateSort);
 
   const index = {
     featured: [...featured, ...research].slice(0, 8),

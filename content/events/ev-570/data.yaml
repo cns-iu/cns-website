@@ -1,16 +1,11 @@
 slug: ev-570
 type: conference
 title: Association of Science – Technology Centers Annual Conference
-description: ''
-location: Montreal, Quebec, Canada
-organizers: []
-attendees: []
-publications: []
+link: http://www.astc.org/conference/
+dateStart: '2015-10-17'
+dateEnd: '2015-10-20'
+location:
+  raw: Montreal, Quebec, Canada
 presentations:
   - pres-440
   - pres-441
-tutorials: []
-dateStart: '2015-10-17'
-dateEnd: '2015-10-20'
-tags: []
-link: http://www.astc.org/conference/

@@ -1,11 +1,11 @@
 slug: pres-73
 type: presentation
 title: Project Management
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - stacy-kowalczyk
+link: https://cns.iu.edu/docs/presentations/2005-kowalczyk-wictech-unknown.pdf
 dateStart: '2005-03-30'
 dateEnd: '2005-03-30'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - stacy-kowalczyk
 event: ev-109
-link: https://cns.iu.edu/docs/presentations/2005-kowalczyk-wictech-unknown.pdf

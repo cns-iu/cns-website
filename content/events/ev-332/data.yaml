@@ -1,15 +1,10 @@
 slug: ev-332
 type: meeting
 title: NSF CreativeIT Program PI Meeting
-description: null
-location: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-199
-tutorials: []
+link: http://swiki.cs.colorado.edu/CreativeIT/263
 dateStart: '2009-01-15'
 dateEnd: '2009-01-16'
-tags: []
-link: http://swiki.cs.colorado.edu/CreativeIT/263
+location:
+  raw: National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230
+presentations:
+  - pres-199

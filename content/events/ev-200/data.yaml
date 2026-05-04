@@ -3,13 +3,8 @@ type: meeting
 title: >-
   Presentation of Mapping Science Exhibit to University Research Magazine
   Association
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2007-05-17'
 dateEnd: '2007-05-17'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana

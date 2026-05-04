@@ -3,11 +3,11 @@ type: presentation
 title: >-
   CIShell - A Plug-in Based Architecture for the Integration of Algorithms and
   Data Models
-description: ''
-location: Indiana University Bloomington, Bloomington, Indiana
-presenters:
-  - weixia-bonnie-huang
+link: https://cns.iu.edu/docs/presentations/2006-huang-cishell-netsci.pdf
 dateStart: '2006-05-24'
 dateEnd: '2006-05-24'
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana
+presenters:
+  - weixia-bonnie-huang
 event: ev-92
-link: https://cns.iu.edu/docs/presentations/2006-huang-cishell-netsci.pdf

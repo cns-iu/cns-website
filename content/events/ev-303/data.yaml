@@ -1,13 +1,8 @@
 slug: ev-303
 type: other
 title: Talk and Exhibit at the Foresight Tagung
-description: null
-location: Bonn, Germany
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-12-11'
 dateEnd: '2008-12-12'
-tags: []
+location:
+  raw: Bonn, Germany

@@ -1,15 +1,10 @@
 slug: ev-484
 type: workshop
 title: Institut für Forschungsinformation und Qualitätssicherung
-description: ''
-location: Schützenstrasse 6a, Berlin, Germany, D-10117
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-337
-tutorials: []
+link: http://www.forschungsinfo.de/
 dateStart: '2012-06-28'
 dateEnd: '2012-06-28'
-tags: []
-link: http://www.forschungsinfo.de/
+location:
+  raw: Schützenstrasse 6a, Berlin, Germany, D-10117
+presentations:
+  - pres-337

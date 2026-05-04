@@ -1,17 +1,10 @@
 slug: ev-312
 type: workshop
 title: Workshop on Network Workbench
-description: >-
-  Katy Borner presents Network Workbench in association with talks on
-  visualization and visual analytics at Cornell University
-location: Albert R. Mann Library, Tower Road Cornell University, Ithaca, NY, 14853
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-190
-tutorials: []
+link: http://host.evanced.info/cornell/evanced/eventsignup.asp?ID=1050
 dateStart: '2008-11-13'
 dateEnd: '2008-11-13'
-tags: []
-link: http://host.evanced.info/cornell/evanced/eventsignup.asp?ID=1050
+location:
+  raw: Albert R. Mann Library, Tower Road Cornell University, Ithaca, NY, 14853
+presentations:
+  - pres-190

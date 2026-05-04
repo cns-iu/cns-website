@@ -1,18 +1,15 @@
 slug: pub-180
-authors:
-  - andre-skupin
-  - katy-borner
-editors: []
 type: article-journal
 title: Guest Editorial
 date: '2007-07-03'
+authors:
+  - andre-skupin
+  - katy-borner
 publisher: Pion
 venue: 'Environment and Planning B: Planning and Design'
 volume: '34'
 issue: '5'
-doi: ''
 pages: 765-766
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2007-skupin-intro-epb.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2007-skupin-intro-epb.pdf

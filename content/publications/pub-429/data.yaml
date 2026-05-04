@@ -1,8 +1,11 @@
 slug: pub-429
 type: article-journal
-title: "Mapping the lymphatic system across body scales and expertise domains: A
+title: >-
+  Mapping the lymphatic system across body scales and expertise domains: A
   report from the 2021 National Heart, Lung, and Blood Institute workshop at the
-  Boston Lymphatic Symposium"
+  Boston Lymphatic Symposium
+date: 2023-02-06T00:00:00.000Z
+doi: 10.3389/fphys.2023.1099403
 authors:
   - dhruv-singhal
   - katy-borner
@@ -21,18 +24,10 @@ authors:
   - ilsa-i-rovira
   - selen-c-muratoglu
   - zorina-s-galis
-editors: []
-doi: 10.3389/fphys.2023.1099403
-date: 2023-02-06
-publisher: ""
 venue: Frontiers in Physiology
 volume: 14 - 2023
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.frontiersin.org/articles/10.3389/fphys.2023.1099403/full
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.frontiersin.org/articles/10.3389/fphys.2023.1099403/full

@@ -1,11 +1,11 @@
 slug: pres-556
 type: presentation
 title: Visual Analytics & Learning Analytics
-description: ''
-location: Dresden, Germany
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2018-borner-Dresden-educ.pdf
 dateStart: '2018-07-05'
 dateEnd: '2018-07-05'
+location:
+  raw: Dresden, Germany
+presenters:
+  - katy-borner
 event: ev-707
-link: https://cns.iu.edu/docs/presentations/2018-borner-Dresden-educ.pdf

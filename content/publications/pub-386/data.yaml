@@ -1,4 +1,10 @@
 slug: pub-386
+type: article-journal
+title: >-
+  Job postings in the substance use disorder treatment related sector during the
+  first five years of Medicaid expansion
+date: '2020-01-30'
+doi: 10.1371/journal.pone.0228394
 authors:
   - olga-scrivner
   - thuy-nguyen
@@ -6,19 +12,10 @@ authors:
   - esme-middaugh
   - bledi-taska
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  Job postings in the substance use disorder treatment related sector during the
-  first five years of Medicaid expansion
-date: '2020-01-30'
-publisher: ''
 venue: PLOS One
 volume: '15'
 issue: '1'
-doi: 10.1371/journal.pone.0228394
 pages: e0228394.
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2020-Scrivner-JobPostings.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2020-Scrivner-JobPostings.pdf

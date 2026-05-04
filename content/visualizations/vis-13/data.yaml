@@ -1,9 +1,8 @@
 slug: vis-13
-type: visualization
-link: http://scimaps.org/web/maps/wikipedia/index-new.html
 title: An Emergent Mosaic of Wikipedian Activity
-description: by Bruce W. Herr II, Todd Holloway, Katy Börner
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/Wikipedia_400W.png
 date: '2012-01-16'
-tags: []
+link: http://scimaps.org/web/maps/wikipedia/index-new.html
+description: by Bruce W. Herr II, Todd Holloway, Katy Börner
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/Wikipedia_400W.png

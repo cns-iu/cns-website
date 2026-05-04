@@ -1,4 +1,7 @@
 slug: pub-353
+type: paper-conference
+title: Web of Science™ as a Research Dataset
+date: '2017-10-17'
 authors:
   - katy-borner
   - valentin-pentchev
@@ -7,17 +10,7 @@ authors:
   - jason-rollins
   - yadu-n-babuji
   - eamon-duede
-editors: []
-type: paper-conference
-title: Web of Science™ as a Research Dataset
-date: '2017-10-17'
-publisher: ''
 venue: 16th International Conference on Scientometrics and Informetrics, Wuhan, China
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2017-borner-issi.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2017-borner-issi.pdf

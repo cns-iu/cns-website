@@ -3,15 +3,10 @@ type: other
 title: >-
   Department of Intelligent Systems Engineering (ISE) at Indiana University
   School of Informatics, Computing, and Engineering (E500 Course)
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-579
-tutorials: []
+link: https://engineering.indiana.edu/
 dateStart: '2019-02-21'
 dateEnd: null
-tags: []
-link: https://engineering.indiana.edu/
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-579

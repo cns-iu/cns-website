@@ -1,12 +1,11 @@
 slug: fun-23
 type: research
-name: NIH Demo Fund
 title: Mapping Aging Research
+name: NIH Demo Fund
 funder: National Institutes of Health
-investigators:
-  - katy-borner
 amount: 11400
-receivedAmount: 11400
 dateStart: '2001-08-01'
 dateEnd: '2002-12-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 11400

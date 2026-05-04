@@ -1,4 +1,9 @@
 slug: pub-239
+type: report
+title: >-
+  Introducing the Science of Science (Sci2) Tool to the Reporting Branch, Office
+  of Extramural Research/Office of the Director, National Institutes of Health
+date: '2010-12-02'
 authors:
   - katy-borner
   - robin-m-wagner
@@ -9,19 +14,7 @@ authors:
   - susan-e-ivey
   - katrina-pearson
   - carl-mccabe
-editors: []
-type: report
-title: >-
-  Introducing the Science of Science (Sci2) Tool to the Reporting Branch, Office
-  of Extramural Research/Office of the Director, National Institutes of Health
-date: '2010-12-02'
-publisher: ''
 venue: Workshop on the Science of Science Measurement, December 2-3, Washington D.C
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-borner-wagner-sosp.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-borner-wagner-sosp.pdf

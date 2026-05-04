@@ -1,12 +1,11 @@
 slug: fun-10
 type: research
-name: Equipment Grant by 21st Century
 title: Mapping Indiana's Intellectual Space
+name: Equipment Grant by 21st Century
 funder: 21th Century
-investigators:
-  - katy-borner
 amount: 95000
-receivedAmount: 95000
 dateStart: '2005-04-01'
 dateEnd: '2005-04-30'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 95000

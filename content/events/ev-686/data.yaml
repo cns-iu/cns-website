@@ -1,14 +1,8 @@
 slug: ev-686
 type: conference
 title: 16th International Conference on Scientometrics and Informetrics
-description: ''
-location: Wuhan, China
-organizers: []
-attendees: []
-publications:
-  - pub-353
-presentations: []
-tutorials: []
+link: null
 dateStart: '2017-10-16'
 dateEnd: '2017-10-20'
-tags: []
+location:
+  raw: Wuhan, China

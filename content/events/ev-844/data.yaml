@@ -1,14 +1,10 @@
 slug: ev-844
 type: meeting
 title: Akoya Biosciences Webinar
-description: ''
-location: Marlborough, MA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-678
-tutorials: []
+link: null
 dateStart: '2022-05-25'
 dateEnd: '2022-05-25'
-tags: []
+location:
+  raw: Marlborough, MA
+presentations:
+  - pres-678

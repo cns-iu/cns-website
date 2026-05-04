@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Instructional Visualiations of the Work of the United States Supreme Court
   (Poster)
-description: ''
-location: San Antonio, TX
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2005-hook-instrvis-poster.ppt
 dateStart: '2006-01-17'
 dateEnd: '2006-01-17'
+location:
+  raw: San Antonio, TX
+presenters:
+  - peter-a-hook
 event: ev-77
-link: https://cns.iu.edu/docs/presentations/2005-hook-instrvis-poster.ppt

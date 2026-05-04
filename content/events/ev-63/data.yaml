@@ -1,15 +1,10 @@
 slug: ev-63
 type: conference
 title: Symposium on Graph Drawing
-description: null
-location: New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-28
-tutorials: []
+link: http://www.gd2004.org/
 dateStart: '2004-09-29'
 dateEnd: '2004-10-02'
-tags: []
-link: http://www.gd2004.org/
+location:
+  raw: New York, NY
+presentations:
+  - pres-28

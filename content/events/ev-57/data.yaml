@@ -1,14 +1,10 @@
 slug: ev-57
 type: other
 title: Parmenides Center for the Study of Thinking
-description: null
-location: Elba, Italy
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-26
-tutorials: []
+link: null
 dateStart: '2004-06-26'
 dateEnd: '2004-06-26'
-tags: []
+location:
+  raw: Elba, Italy
+presentations:
+  - pres-26

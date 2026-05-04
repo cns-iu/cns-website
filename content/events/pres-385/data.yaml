@@ -1,11 +1,11 @@
 slug: pres-385
 type: presentation
 title: Supporting International Research Networking
-description: ''
-location: S&#227;o Paulo, Brazil
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2013-borner-scielo.pdf
 dateStart: '2013-10-24'
 dateEnd: '2013-10-24'
+location:
+  raw: S&#227;o Paulo, Brazil
+presenters:
+  - katy-borner
 event: ev-518
-link: https://cns.iu.edu/docs/presentations/2013-borner-scielo.pdf

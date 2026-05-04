@@ -1,12 +1,11 @@
 slug: oefo7c9sis21usrvv8ppr
 type: other
-title: "Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration"
+title: 'Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration'
 link: luddy-tech-fest-2026.pdf
+dateStart: 2026-04-11T00:00:00.000Z
+dateEnd: null
 thumbnail: luddytechfest2026.png
-dateStart: 2026-04-11
-location: Bloomington, Indiana, USA
-tags:
-  - hra
-description: ""
-mediaType: image
-mediaUrl: luddytechfest2026.png
+location:
+  raw: Bloomington, Indiana, USA
+projects:
+  - human-reference-atlas

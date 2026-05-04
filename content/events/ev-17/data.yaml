@@ -1,14 +1,10 @@
 slug: ev-17
 type: other
 title: IUs Technology Transfer Office
-description: null
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-12
-tutorials: []
+link: null
 dateStart: '2005-07-12'
 dateEnd: '2005-07-12'
-tags: []
+location:
+  raw: Indianapolis, Indiana
+presentations:
+  - pres-12

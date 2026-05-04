@@ -3,14 +3,8 @@ type: conference
 title: >-
   ALIFE X: Tenth International Conference on the Simulation and Synthesis of
   Living Systems
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.alifex.org/
 dateStart: '2006-06-02'
 dateEnd: '2006-06-07'
-tags: []
-link: http://www.alifex.org/
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana

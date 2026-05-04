@@ -1,6 +1,7 @@
 slug: pub-127
-link: https://cns.iu.edu/docs/news/20140804_CNSNews.html
 title: Katy Börner invited to speak at 2014 VIVO Conference
+date: '2014-08-04'
+link: https://cns.iu.edu/docs/news/20140804_CNSNews.html
 description: >-
   Katy Börner will appear as a guest speaker at the 5th Annual VIVO Conference
   in Austin, Texas, on Friday, August 8, 2014. See her presentation
@@ -48,13 +49,10 @@ description: >-
   content of any webpage to search for relevant VIVO profiles, and the
   Inter-Institutional Collaboration Explorer, an application which allows
   visualization of collaborative institutional partners, among others.
-date: '2014-08-04'
-mediaType: image
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20140804_CNSNews.html
-caption: >-
-  Katy Börner with Ann Beynon of Thomson Reuters at the 2014 VIVO Conference in
-  Austin, TX
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/20140804_CNSNews.html
+    description: >-
+      Katy Börner with Ann Beynon of Thomson Reuters at the 2014 VIVO Conference
+      in Austin, TX

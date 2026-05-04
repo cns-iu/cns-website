@@ -1,14 +1,8 @@
 slug: ev-97
 type: conference
 title: 2006 TeraGrid Conference
-description: null
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://teragrid.org/events/2006conference/
 dateStart: '2006-06-12'
 dateEnd: '2006-06-15'
-tags: []
-link: http://teragrid.org/events/2006conference/
+location:
+  raw: Indianapolis, Indiana

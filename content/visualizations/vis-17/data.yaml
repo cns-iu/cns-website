@@ -1,30 +1,31 @@
 slug: vis-17
-title: Who Really Matters in the World—Leadership Networks in Different-Language
+title: >-
+  Who Really Matters in the World—Leadership Networks in Different-Language
   Wikipedias
-date: 2015-02-03
+date: 2015-02-03T00:00:00.000Z
 link: https://scimaps.org/map/9/8/detail
-description: "Articles about people in Wikipedia include many social cues about
-  a particular person. In the English Wikipedia there is a category called
-  “Living People” which includes articles of people currently alive. To
-  construct the social network of living people, computer scientists Peter A.
-  Gloor and Keiichi Nemoto collected each article’s contents and extracted the
-  internal links to other living people articles. Similar to the Google page
-  rank algorithm, this linking structure reveals which person is more prominent
-  from the Wikipedians’ perspective. The ratio between in-degree and out-degree
-  was used as a metric of importance for the popularity, power, or importance of
-  the person described in the article. Shown here are networks from eight
-  different-language Wikipedias of people who were still living as of 2011. The
-  geospatial regions where these languages are spoken are color-coded (see world
-  map, table, and networks). Because the size of the original networks was too
-  large, only people articles having more than a predefined number of incoming
-  links are included, in addition to peripheral articles that have a direct link
-  to them. To animate the evolution of the English Wikipedia network, living
-  people articles were collected and analysed for different points in time.
-  CNS's contribution: Research Assistant Ted Polley generated the networks from
-  Gloor's data, and Senior UX Designer Samuel Mills designed the map."
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/gloor_wikipedia_400W.jpg
+description: >-
+  Articles about people in Wikipedia include many social cues about a particular
+  person. In the English Wikipedia there is a category called “Living People”
+  which includes articles of people currently alive. To construct the social
+  network of living people, computer scientists Peter A. Gloor and Keiichi
+  Nemoto collected each article’s contents and extracted the internal links to
+  other living people articles. Similar to the Google page rank algorithm, this
+  linking structure reveals which person is more prominent from the Wikipedians’
+  perspective. The ratio between in-degree and out-degree was used as a metric
+  of importance for the popularity, power, or importance of the person described
+  in the article. Shown here are networks from eight different-language
+  Wikipedias of people who were still living as of 2011. The geospatial regions
+  where these languages are spoken are color-coded (see world map, table, and
+  networks). Because the size of the original networks was too large, only
+  people articles having more than a predefined number of incoming links are
+  included, in addition to peripheral articles that have a direct link to them.
+  To animate the evolution of the English Wikipedia network, living people
+  articles were collected and analysed for different points in time. CNS's
+  contribution: Research Assistant Ted Polley generated the networks from
+  Gloor's data, and Senior UX Designer Samuel Mills designed the map.
 projects:
   - maps
-tags: []
-type: visualization
+media:
+  - type: image
+    url: https://cns.iu.edu/images/research/visualizations/gloor_wikipedia_400W.jpg

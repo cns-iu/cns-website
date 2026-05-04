@@ -1,14 +1,8 @@
-organizers: []
-publications: []
 slug: ev-736
 type: conference
-link: https://livingarchitecturesystems.com/symposium-2019/
 title: Living Architecture Systems Group (LASG) Symposium 2019
-description: ""
-location: Toronto, Canada
-attendees: []
-dateStart: 2019-03-01
-dateEnd: 2019-03-03
-tutorials: []
-tags: []
-presentations: []
+link: https://livingarchitecturesystems.com/symposium-2019/
+dateStart: 2019-03-01T00:00:00.000Z
+dateEnd: 2019-03-03T00:00:00.000Z
+location:
+  raw: Toronto, Canada

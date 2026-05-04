@@ -3,16 +3,11 @@ type: workshop
 title: >-
   NSW NCSES: Can Network Measures Serve as Indicators of Knowledge Creation and
   Flow?
-description: ''
-location: Washington D.C.
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-490
-tutorials: []
-dateStart: '2016-12-14'
-dateEnd: null
-tags: []
 link: >-
   https://cistp.elliott.gwu.edu/nsw-ncses-can-network-measures-serve-indicators-knowledge-creation-and-flow
+dateStart: '2016-12-14'
+dateEnd: null
+location:
+  raw: Washington D.C.
+presentations:
+  - pres-490

@@ -1,8 +1,10 @@
 slug: pub-482
 type: manuscript
-thumbnail: fig1-cde.png
-title: Exploring endothelial cell environments across organs in spatially
-  resolved omics data
+title: >-
+  Exploring endothelial cell environments across organs in spatially resolved
+  omics data
+date: 2025-09-25T00:00:00.000Z
+doi: 10.1101/2025.09.23.678129
 authors:
   - yashvardhan-jain
   - jodie-jepson
@@ -33,20 +35,11 @@ authors:
   - kevin-m-byrd
   - john-w-hickey
   - katy-borner
-editors: []
-doi: 10.1101/2025.09.23.678129
+thumbnail: fig1-cde.png
 pmid: PMC12485928
-date: 2025-09-25
-publisher: ""
 venue: bioRxiv
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://www.biorxiv.org/content/10.1101/2025.09.23.678129v1
-mediaUrl: fig1-cde.png
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://www.biorxiv.org/content/10.1101/2025.09.23.678129v1

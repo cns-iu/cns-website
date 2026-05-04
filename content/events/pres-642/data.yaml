@@ -1,11 +1,11 @@
 slug: pres-642
 type: presentation
 title: Human Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables
-description: ''
-location: Cobham, Gravesend, UK (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2020.11.16-Metadata-WG.pdf
 dateStart: '2020-11-16'
 dateEnd: '2020-11-16'
+location:
+  raw: Cobham, Gravesend, UK (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-817
-link: https://cns.iu.edu/docs/presentations/2020.11.16-Metadata-WG.pdf

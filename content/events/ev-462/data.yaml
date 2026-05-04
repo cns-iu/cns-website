@@ -1,15 +1,10 @@
 slug: ev-462
 type: meeting
 title: iSchool Faculty Lecture University of Pittsburgh
-description: ''
-location: Pittsburgh, PA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-314
-tutorials: []
+link: http://www.pitt.edu/
 dateStart: '2011-11-10'
 dateEnd: '2011-11-10'
-tags: []
-link: http://www.pitt.edu/
+location:
+  raw: Pittsburgh, PA
+presentations:
+  - pres-314

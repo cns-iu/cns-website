@@ -1,15 +1,10 @@
 slug: ev-30
 type: conference
 title: 'SC/05: Gateway to Discovery'
-description: null
-location: Seattle, WA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-89
-tutorials: []
+link: http://sc05.supercomputing.org/
 dateStart: '2005-11-12'
 dateEnd: '2005-11-18'
-tags: []
-link: http://sc05.supercomputing.org/
+location:
+  raw: Seattle, WA
+presentations:
+  - pres-89

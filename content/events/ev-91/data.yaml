@@ -3,14 +3,8 @@ type: conference
 title: >-
   6th Understanding Complex Systems Symposium: Molecular Origin of Life and
   Dynamics of Information, Energy and Water Flows on Evolving Networks
-description: null
-location: Urbana, IL
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.how-why.com/ucs2006/index.html
 dateStart: '2006-05-15'
 dateEnd: '2006-05-18'
-tags: []
-link: http://www.how-why.com/ucs2006/index.html
+location:
+  raw: Urbana, IL

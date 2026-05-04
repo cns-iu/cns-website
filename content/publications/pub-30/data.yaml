@@ -1,24 +1,20 @@
 slug: pub-30
+type: chapter
+title: >-
+  Twin Worlds: Augmenting, Evaluating, and Studying Three-Dimensional Digital
+  Cities and Their Evolving Communities
+date: '2002-01-01'
 authors:
   - katy-borner
 editors:
   - makoto-tanabe
   - peter-van-den-besselaar
   - toru-ishida
-type: chapter
-title: >-
-  Twin Worlds: Augmenting, Evaluating, and Studying Three-Dimensional Digital
-  Cities and Their Evolving Communities
-date: '2002-01-01'
 publisher: 'Berlin:  Springer-Verlag'
 venue: >-
   Digital Cities II: Computational and Sociological Approaches, Lecture Notes in
   Computer Science 2362
-volume: ''
-issue: ''
-doi: ''
 pages: 256-269
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-borner-twnwrlds.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-borner-twnwrlds.pdf

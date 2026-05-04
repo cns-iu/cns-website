@@ -1,13 +1,13 @@
 slug: pres-643
 type: presentation
 title: 'Human Reference Atlas: Anatomical Structures, Cell Types & Biomarkers'
-description: ''
-location: Redwood City, CA (Virtual Event)
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2020.11.18-CZI-Borner.pdf
 dateStart: '2020-11-18'
 dateEnd: '2020-11-18'
+location:
+  raw: Redwood City, CA (Virtual Event)
+presenters:
+  - katy-borner
 event: ev-815
-link: https://cns.iu.edu/docs/presentations/2020.11.18-CZI-Borner.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

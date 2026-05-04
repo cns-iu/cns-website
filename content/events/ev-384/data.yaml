@@ -1,14 +1,10 @@
 slug: ev-384
 type: conference
 title: Information Visualization Conference (IV2001)
-description: ''
-location: London South Bank University, London, UK, SE1 6LN
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-236
-tutorials: []
+link: null
 dateStart: '2001-07-25'
 dateEnd: '2001-07-27'
-tags: []
+location:
+  raw: London South Bank University, London, UK, SE1 6LN
+presentations:
+  - pres-236

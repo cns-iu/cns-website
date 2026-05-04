@@ -1,14 +1,8 @@
 slug: ev-678
 type: other
 title: ERC Biennial Conference
-description: ''
-location: Arlington, VA
-organizers: []
-attendees: []
-publications:
-  - pub-354
-presentations: []
-tutorials: []
+link: null
 dateStart: '2017-10-31'
 dateEnd: '2017-11-01'
-tags: []
+location:
+  raw: Arlington, VA

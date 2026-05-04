@@ -1,13 +1,8 @@
 slug: ev-123
 type: workshop
 title: Workshop on Information Visualization Software Infrastructures
-description: null
-location: Austin, TX
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2004-10-09'
 dateEnd: '2004-10-09'
-tags: []
+location:
+  raw: Austin, TX

@@ -3,13 +3,8 @@ type: workshop
 title: >-
   Topological Methods in Data Analysis and Visualization: Theory, Algorithms,
   and Applications
-description: null
-location: Snowbird, UT
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-02-23'
 dateEnd: '2009-02-24'
-tags: []
+location:
+  raw: Snowbird, UT

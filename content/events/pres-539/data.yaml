@@ -1,11 +1,11 @@
 slug: pres-539
 type: presentation
 title: 'Connecting the Dots: Museum Visitors and Data Visualization Literacy'
-description: ''
-location: San Francisco, CA
-presenters:
-  - lisel-record
+link: https://cns.iu.edu/docs/presentations/2018-record-exploratorium.pdf
 dateStart: '2018-01-25'
 dateEnd: '2018-01-25'
+location:
+  raw: San Francisco, CA
+presenters:
+  - lisel-record
 event: ev-687
-link: https://cns.iu.edu/docs/presentations/2018-record-exploratorium.pdf

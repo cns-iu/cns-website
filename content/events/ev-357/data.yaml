@@ -1,17 +1,12 @@
 slug: ev-357
 type: conference
 title: 'NA-CAP@IU 2009: Networks and Their Philosophical Implications'
-description: null
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-208
-tutorials: []
+link: http://ia-cap.org/na-cap09/index.htm
 dateStart: '2009-06-14'
 dateEnd: '2009-06-16'
-tags: []
-link: http://ia-cap.org/na-cap09/index.htm
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+presentations:
+  - pres-208

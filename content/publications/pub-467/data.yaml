@@ -1,20 +1,13 @@
 slug: pub-467
 type: article-journal
 title: Building a Human Reference Atlas
+date: 2023-12-21T00:00:00.000Z
+doi: 10.1093/geroni/igad104.1556
 authors:
   - andreas-bueckle
-editors: []
-doi: 10.1093/geroni/igad104.1556
-date: 2023-12-21
-publisher: ""
-venue: "Innovation in Aging 7(Supplement_1): 473 "
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://academic.oup.com/innovateage/article/7/Supplement_1/473/7488074
+venue: 'Innovation in Aging 7(Supplement_1): 473 '
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: website
+    url: https://academic.oup.com/innovateage/article/7/Supplement_1/473/7488074

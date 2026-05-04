@@ -1,15 +1,10 @@
 slug: ev-664
 type: conference
 title: Indy Big Data Visualization Challenge
-description: ''
-location: Indiana Convention Center, 100 S Capitol Ave, Indianapolis, Indiana, 46225
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-516
-tutorials: []
+link: http://indybigdata.com/
 dateStart: '2017-09-14'
 dateEnd: '2017-09-14'
-tags: []
-link: http://indybigdata.com/
+location:
+  raw: Indiana Convention Center, 100 S Capitol Ave, Indianapolis, Indiana, 46225
+presentations:
+  - pres-516

@@ -1,17 +1,12 @@
 slug: ev-547
 type: workshop
 title: CNS Plug-and-Play Macroscopes Workshop
-description: ''
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-413
-tutorials: []
+link: http://cns.iu.edu/workshops/event/141103.html
 dateStart: '2014-11-02'
 dateEnd: '2014-11-02'
-tags: []
-link: http://cns.iu.edu/workshops/event/141103.html
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
+presentations:
+  - pres-413

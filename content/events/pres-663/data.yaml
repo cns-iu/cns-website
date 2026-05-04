@@ -1,14 +1,14 @@
 slug: pres-663
 type: presentation
 title: The GTEx-HuBMAP tissue mapping Collaboration (for the CFDE)
-description: ''
-location: Bethesda, MD (Virtual Event)
+link: https://cns.iu.edu/docs/presentations/2022-Ardlie_Borner_GTEx-HuBMAP.pdf
+dateStart: '2022-10-04'
+dateEnd: '2022-10-04'
+location:
+  raw: Bethesda, MD (Virtual Event)
 presenters:
   - katy-borner
   - kristin-ardlie
-dateStart: '2022-10-04'
-dateEnd: '2022-10-04'
 event: ev-831
-link: https://cns.iu.edu/docs/presentations/2022-Ardlie_Borner_GTEx-HuBMAP.pdf
-tags:
-  - hra
+projects:
+  - human-reference-atlas

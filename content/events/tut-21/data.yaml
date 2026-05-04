@@ -1,13 +1,13 @@
 slug: tut-21
 type: tutorial
 title: Hierarchical Networks using Sci2 and OSLOM
-description: ''
-location: >-
-  Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
-  Bloomington, Indiana, 47405
-instructors:
-  - david-e-polley
+link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial5.pdf
 dateStart: '2013-01-28'
 dateEnd: '2013-04-29'
+location:
+  raw: >-
+    Wells Library W501, Indiana University at Bloomington, 1320 E Tenth St.,
+    Bloomington, Indiana, 47405
+instructors:
+  - david-e-polley
 event: ev-502
-link: https://cns.iu.edu/docs/presentations/2012-polley-netsci-tutorial5.pdf

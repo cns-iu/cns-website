@@ -1,17 +1,12 @@
 slug: ev-646
 type: workshop
 title: Web Visualization Demonstration to Advanced Visualization Lab
-description: ''
-location: >-
-  Scholars' Commons IQ-Wall, Wells Library, Indiana University Bloomington,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-501
-tutorials: []
+link: https://rt.uits.iu.edu/visualization/avl/
 dateStart: '2017-04-21'
 dateEnd: '2017-04-21'
-tags: []
-link: https://rt.uits.iu.edu/visualization/avl/
+location:
+  raw: >-
+    Scholars' Commons IQ-Wall, Wells Library, Indiana University Bloomington,
+    Bloomington, Indiana, 47405
+presentations:
+  - pres-501

@@ -1,13 +1,8 @@
 slug: ev-340
 type: conference
 title: Society for  Philosophy and Psychology Annual Conference
-description: null
-location: Indiana University Bloomington, Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2009-06-12'
 dateEnd: '2009-06-14'
-tags: []
+location:
+  raw: Indiana University Bloomington, Bloomington, Indiana

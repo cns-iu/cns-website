@@ -1,9 +1,9 @@
 slug: vis-14
-type: visualization
-link: http://nwb.slis.indiana.edu/papers/2007-herr-movieact.pdf
 title: 'Movies and Actors: Mapping the Internet Movie Database'
-description: by Bruce Herr, Weimao Ke, Elisha Hardy, Katy Börner
-mediaType: image
-mediaUrl: https://cns.iu.edu/images/research/visualizations/Movies_and_Actors_400W.png
 date: '2012-01-11'
-tags: []
+link: http://nwb.slis.indiana.edu/papers/2007-herr-movieact.pdf
+description: by Bruce Herr, Weimao Ke, Elisha Hardy, Katy Börner
+media:
+  - type: image
+    url: >-
+      https://cns.iu.edu/images/research/visualizations/Movies_and_Actors_400W.png

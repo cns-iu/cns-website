@@ -1,13 +1,13 @@
 slug: pres-327
 type: presentation
 title: Visual Analytics in Support of Education
-description: ''
-location: >-
-  Westin Bayshore, 1601 Bayshore Drive, Vancouver, British Columbia, Canada, V6G
-  2V4
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2012-borner-lak.pdf
 dateStart: '2012-05-01'
 dateEnd: '2012-05-01'
+location:
+  raw: >-
+    Westin Bayshore, 1601 Bayshore Drive, Vancouver, British Columbia, Canada,
+    V6G 2V4
+presenters:
+  - katy-borner
 event: ev-474
-link: https://cns.iu.edu/docs/presentations/2012-borner-lak.pdf

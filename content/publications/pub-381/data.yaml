@@ -1,23 +1,16 @@
 slug: pub-381
-authors:
-  - felice-deluca
-  - iqbal-hossain
-  - stephen-kobourov
-  - katy-borner
-editors: []
 type: manuscript
 title: >-
   Multi-level tree based approach for interactive graph visualization with
   semantic zoom
 date: '2019-06-14'
-publisher: ''
+authors:
+  - felice-deluca
+  - iqbal-hossain
+  - stephen-kobourov
+  - katy-borner
 venue: arXiv:1906.05996v1 [cs.CG]
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2019-DeLuca-Multi-levelTreeBasedApproach.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2019-DeLuca-Multi-levelTreeBasedApproach.pdf

@@ -2,14 +2,10 @@ slug: ws-91
 type: workshop
 title: HuBMAP Human Reference Atlas Workshop
 link: https://cns-iu.github.io/workshops/2025-06-23_hra_workshop
+dateStart: 2025-06-23T00:00:00.000Z
+dateEnd: 2025-06-24T00:00:00.000Z
 thumbnail: workshop-june2025.png
-dateStart: 2025-06-23
-dateEnd: 2025-06-24
-location: Bloomington, Indiana, USA
+location:
+  raw: Bloomington, Indiana, USA
 projects:
   - human-reference-atlas
-tags:
-  - hra
-description: ""
-mediaType: image
-mediaUrl: workshop-june2025.png

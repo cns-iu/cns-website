@@ -1,15 +1,12 @@
 slug: ev-877
 type: meeting
 title: IU School of Optometry HRA Organ Gallery Demo
-description: ''
-location: Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-721
-tutorials: []
+link: null
 dateStart: '2023-12-01'
 dateEnd: '2023-12-01'
-tags:
-  - hra
+location:
+  raw: Bloomington, Indiana, 47405
+presentations:
+  - pres-721
+projects:
+  - human-reference-atlas

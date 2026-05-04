@@ -1,14 +1,8 @@
 slug: ev-594
 type: other
 title: Library of Congress
-description: ''
-location: Library of Congress, Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: https://www.loc.gov/
 dateStart: '2016-06-15'
 dateEnd: '2016-06-15'
-tags: []
-link: https://www.loc.gov/
+location:
+  raw: Library of Congress, Washington, DC

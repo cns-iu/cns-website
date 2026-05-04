@@ -1,14 +1,14 @@
 slug: pres-455
 type: presentation
 title: 'Workshop: Information Visualization'
-description: ''
-location: >-
-  Cyberinfrastructure for Network Science Center, Indiana University at
-  Bloomington, Bloomington, Indiana
+link: https://cns.iu.edu/docs/presentations/2016-shendure-cewit.pdf
+dateStart: '2016-02-26'
+dateEnd: '2016-02-26'
+location:
+  raw: >-
+    Cyberinfrastructure for Network Science Center, Indiana University at
+    Bloomington, Bloomington, Indiana
 presenters:
   - katy-borner
   - ashish-shendure
-dateStart: '2016-02-26'
-dateEnd: '2016-02-26'
 event: ev-584
-link: https://cns.iu.edu/docs/presentations/2016-shendure-cewit.pdf

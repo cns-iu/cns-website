@@ -1,14 +1,8 @@
 slug: ev-24
 type: other
 title: NY Hall of Science Meetings
-description: null
-location: New York, NY
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: http://www.nyhallsci.org/
 dateStart: '2005-10-06'
 dateEnd: '2005-10-07'
-tags: []
-link: http://www.nyhallsci.org/
+location:
+  raw: New York, NY

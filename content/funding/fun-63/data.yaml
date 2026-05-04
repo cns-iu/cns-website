@@ -1,16 +1,15 @@
 slug: fun-63
 type: research
-name: Digging Into Data - NSF, NEH, JISC Award
 title: 'Digging by Debating: Linking Massive Datasets to Specific Arguments'
+name: Digging Into Data - NSF, NEH, JISC Award
 funder: National Science Foundation
+amount: 62500
+dateStart: '2012-04-01'
+dateEnd: '2014-01-31'
 investigators:
   - colin-allen
   - katy-borner
   - chris-reed
   - andrew-ravenscroft
   - david-bourget
-amount: 62500
 receivedAmount: 150000
-dateStart: '2012-04-01'
-dateEnd: '2014-01-31'
-tags: []

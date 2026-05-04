@@ -1,4 +1,9 @@
 slug: pub-214
+type: paper-conference
+title: >-
+  Rete-Netzwerk-Red: Analyzing and Visualizing Scholarly Networks Using the
+  Scholarly Database and the Network Workbench Tool
+date: '2009-07-14'
 authors:
   - katy-borner
   - weixia-bonnie-huang
@@ -9,21 +14,12 @@ authors:
   - angela-zoss
   - hanning-guo
   - mark-price
-editors: []
-type: paper-conference
-title: >-
-  Rete-Netzwerk-Red: Analyzing and Visualizing Scholarly Networks Using the
-  Scholarly Database and the Network Workbench Tool
-date: '2009-07-14'
 publisher: Bireme/PAHO/WHO and the Federal University of Rio de Janeiro
 venue: >-
   Proceedings of 12th International Conference on Scientometrics and
   Informetrics, Rio de Janeiro, Brazil
 volume: '2'
-issue: ''
-doi: ''
 pages: 619-630
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2009-borner-issi.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2009-borner-issi.pdf

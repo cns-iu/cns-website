@@ -1,4 +1,9 @@
 slug: pub-116
+type: paper-conference
+title: >-
+  International Workshop on Information Visualization Interfaces for Retrieval
+  and Analysis (IVIRA) at the Joint Conference on Digital Libraries 2003
+date: '2003-01-01'
 authors:
   - javed-mostafa
   - katy-borner
@@ -6,18 +11,9 @@ editors:
   - chatherine-c-marshall
   - geneva-henry
   - lois-delcambre
-type: paper-conference
-title: >-
-  International Workshop on Information Visualization Interfaces for Retrieval
-  and Analysis (IVIRA) at the Joint Conference on Digital Libraries 2003
-date: '2003-01-01'
 publisher: IEEE Computer Society
 venue: Third ACM+IEEE Joint Conference on Digital Libraries, Houston, TX
-volume: ''
-issue: ''
-doi: ''
 pages: '416'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2003-mostafa-ivira.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2003-mostafa-ivira.pdf

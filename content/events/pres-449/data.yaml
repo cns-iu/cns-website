@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Improving Data Visualization Literacy: Empowering Anyone to Read and Make
   Visualizations
-description: ''
-location: Redlands, CA
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2016-borner-esri.pdf
 dateStart: '2016-02-08'
 dateEnd: '2016-02-08'
+location:
+  raw: Redlands, CA
+presenters:
+  - katy-borner
 event: ev-578
-link: https://cns.iu.edu/docs/presentations/2016-borner-esri.pdf

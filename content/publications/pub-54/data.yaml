@@ -1,4 +1,7 @@
 slug: pub-54
+type: paper-conference
+title: Using Semantic Treemaps to Categorize and Visualize Bookmark Files
+date: '2002-01-01'
 authors:
   - ying-feng
   - katy-borner
@@ -8,16 +11,9 @@ editors:
   - matti-grohn
   - jonathan-c-roberts
   - craig-m-wittenbrink
-type: paper-conference
-title: Using Semantic Treemaps to Categorize and Visualize Bookmark Files
-date: '2002-01-01'
-publisher: ''
 venue: SPIE Conference on Visualization and Data Analysis, San Jose, CA
 volume: '4665'
-issue: ''
-doi: ''
 pages: 218-227
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2002-feng-semtree.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2002-feng-semtree.pdf

@@ -1,16 +1,12 @@
-organizers: []
-publications: []
 slug: ev-747
 type: workshop
-link: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html
 title: HuBMAP HIVE Q3 Demo Day at Harvard Medical School
-description: ""
-location: Boston, MA
-attendees: []
-dateStart: 2022-09-17
+link: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-18-001.html
+dateStart: 2022-09-17T00:00:00.000Z
 dateEnd: null
-tutorials: []
-tags:
-  - hra
+location:
+  raw: Boston, MA
 presentations:
   - pres-605
+projects:
+  - human-reference-atlas

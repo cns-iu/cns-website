@@ -1,13 +1,8 @@
 slug: ev-683
 type: other
 title: NSF NSCI Lecture Series
-description: ''
-location: Alexandria, VA
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2018-01-16'
 dateEnd: '2018-01-16'
-tags: []
+location:
+  raw: Alexandria, VA

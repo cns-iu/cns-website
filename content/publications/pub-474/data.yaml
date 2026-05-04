@@ -1,5 +1,10 @@
 slug: pub-474
-authors: []
+type: paper-conference
+title: >-
+  Proceedings of SPIE - The International Society for Optical Engineering:
+  Introduction
+date: '2011-01-24'
+doi: 10.1117/12.888995
 editors:
   - pak-chung-wong
   - jinah-park
@@ -8,19 +13,9 @@ editors:
   - katy-borner
   - david-l-kao
   - jonathan-c-roberts
-type: paper-conference
-title: >-
-  Proceedings of SPIE - The International Society for Optical Engineering:
-  Introduction
-date: '2011-01-24'
-publisher: ''
 venue: Proceedings of SPIE - The International Society for Optical Engineering
 volume: '7868'
-issue: ''
-doi: 10.1117/12.888995
-pages: ''
-chapter: ''
-links:
-  - >-
-    https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7868/1/Front-Matter-Volume-7868/10.1117/12.888995.full
-tags: []
+media:
+  - type: website
+    url: >-
+      https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7868/1/Front-Matter-Volume-7868/10.1117/12.888995.full

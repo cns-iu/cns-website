@@ -1,9 +1,8 @@
 slug: ws-38
 type: workshop
 title: 'Workshop II: Culture Analytics and User Experience Design'
-description: ''
-location: Los Angeles, California
+link: http://web.archive.org/web/20260108192933/https://cns.iu.edu/160412.html
 dateStart: '2016-04-11'
 dateEnd: '2016-04-15'
-tags: []
-link: http://web.archive.org/web/20260108192933/https://cns.iu.edu/160412.html
+location:
+  raw: Los Angeles, California

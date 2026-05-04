@@ -1,15 +1,10 @@
 slug: ev-535
 type: workshop
 title: Summer School in Cognitive Sciences on Web Science and The Mind
-description: ''
-location: Universiti du Quibec, Montreal, QC, Canada
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-401
-tutorials: []
+link: http://www.summer14.isc.uqam.ca/page/programme.php?lang_id=2
 dateStart: '2014-07-08'
 dateEnd: '2014-07-18'
-tags: []
-link: http://www.summer14.isc.uqam.ca/page/programme.php?lang_id=2
+location:
+  raw: Universiti du Quibec, Montreal, QC, Canada
+presentations:
+  - pres-401

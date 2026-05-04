@@ -1,22 +1,16 @@
 slug: pub-71
-authors:
-  - katy-borner
-  - chaomei-chen
-editors: []
 type: paper-conference
 title: >-
   JCDL Workshop: Visual Interfaces to Digital Libraries - Its Past, Present, and
   Future
 date: '2001-01-01'
-publisher: ''
+authors:
+  - katy-borner
+  - chaomei-chen
 venue: >-
   Proceedings of the First ACM-IEEE Joint Conference on Digital Libraries,
   Roanoke, VA
-volume: ''
-issue: ''
-doi: ''
 pages: '482'
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2001-borner-vidlws.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2001-borner-vidlws.pdf

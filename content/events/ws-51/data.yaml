@@ -1,9 +1,8 @@
 slug: ws-51
 type: workshop
 title: Network Visualization in the Humanities
-description: ''
-location: Dagstuhl, Germany
+link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482
 dateStart: '2018-11-25'
 dateEnd: '2018-11-30'
-tags: []
-link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482
+location:
+  raw: Dagstuhl, Germany

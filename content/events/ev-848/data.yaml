@@ -3,15 +3,12 @@ type: meeting
 title: >-
   Cellular Senescence Network (SenNet) Consorsium Organization and Data
   Coordinating Center (CODCC) Monthly Science Talk Series
-description: ''
-location: Pittsburgh, PA (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-683
-tutorials: []
+link: null
 dateStart: '2022-04-27'
 dateEnd: '2022-04-27'
-tags:
-  - hra
+location:
+  raw: Pittsburgh, PA (Virtual Event)
+presentations:
+  - pres-683
+projects:
+  - human-reference-atlas

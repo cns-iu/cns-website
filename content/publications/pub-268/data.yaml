@@ -1,4 +1,7 @@
 slug: pub-268
+type: chapter
+title: Analyzing and Visualizing VIVO
+date: '2012-06-19'
 authors:
   - chintan-tank
   - micah-linnemeier
@@ -9,16 +12,9 @@ editors:
   - mike-conlon
   - jon-corson-rikert
   - ying-ding
-type: chapter
-title: Analyzing and Visualizing VIVO
-date: '2012-06-19'
 publisher: 'Williston, VT:  Morgan & Claypool Publishers'
 venue: 'VIVO: A Semantic Approach to Scholarly Networking and Discovery'
-volume: ''
-issue: ''
-doi: ''
-pages: ''
 chapter: '7'
-links:
-  - https://cns.iu.edu/docs/publications/2012-borner-vivobook.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2012-borner-vivobook.pdf

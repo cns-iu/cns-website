@@ -1,15 +1,10 @@
 slug: ev-371
 type: conference
 title: 'Workshop on STEM Enterprise: Measures for Innovation and Competitiveness'
-description: null
-location: George Washington University, Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-223
-tutorials: []
+link: http://www.ieeeusa.org/calendar/conferences/STEM/
 dateStart: '2009-10-21'
 dateEnd: '2009-10-21'
-tags: []
-link: http://www.ieeeusa.org/calendar/conferences/STEM/
+location:
+  raw: George Washington University, Washington, DC
+presentations:
+  - pres-223

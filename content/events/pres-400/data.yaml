@@ -3,11 +3,11 @@ type: presentation
 title: >-
   Open Tool Development and  Physics Career Trajectories across Geo and Science
   Space
-description: ''
-location: Bethesda, MD
-presenters:
-  - robert-light
+link: https://cns.iu.edu/docs/presentations/2014-light-modsw-dc.pdf
 dateStart: '2014-06-16'
 dateEnd: '2014-06-16'
+location:
+  raw: Bethesda, MD
+presenters:
+  - robert-light
 event: ev-534
-link: https://cns.iu.edu/docs/presentations/2014-light-modsw-dc.pdf

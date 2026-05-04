@@ -1,15 +1,10 @@
 slug: ev-539
 type: conference
 title: 5th Annual International Science of Team Science (SciTS) Conference
-description: ''
-location: Austin, TX
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-405
-tutorials: []
+link: http://www.scienceofteamscience.org/
 dateStart: '2014-08-06'
 dateEnd: '2014-08-08'
-tags: []
-link: http://www.scienceofteamscience.org/
+location:
+  raw: Austin, TX
+presentations:
+  - pres-405

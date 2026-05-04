@@ -1,14 +1,10 @@
 slug: ev-205
 type: visit
 title: Places and Spaces Talk Series
-description: null
-location: Monroe County Public Library, Bloomington, Indiana, 47401
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-131
-tutorials: []
+link: null
 dateStart: '2007-05-11'
 dateEnd: '2007-05-11'
-tags: []
+location:
+  raw: Monroe County Public Library, Bloomington, Indiana, 47401
+presentations:
+  - pres-131

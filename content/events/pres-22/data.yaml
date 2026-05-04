@@ -1,11 +1,11 @@
 slug: pres-22
 type: presentation
 title: Mapping and Modeling Scientific Network Ecologies
-description: ''
-location: Champaign, IL
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2004-borner-ntwrkeco-unknown.pdf
 dateStart: '2005-05-18'
 dateEnd: '2005-05-18'
+location:
+  raw: Champaign, IL
+presenters:
+  - katy-borner
 event: ev-53
-link: https://cns.iu.edu/docs/presentations/2004-borner-ntwrkeco-unknown.pdf

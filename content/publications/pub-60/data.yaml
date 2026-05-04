@@ -1,19 +1,13 @@
 slug: pub-60
-authors:
-  - katy-borner
-editors: []
 type: paper-conference
 title: >-
   Adaptation and Evaluation of 3-Dimensional Collaborative Information
   Visualizations
 date: '2001-01-01'
-publisher: ''
+authors:
+  - katy-borner
 venue: 8th International Conference on User Modeling, Bavaria, Germany
-volume: ''
-issue: ''
-doi: ''
 pages: 33-40
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2001-borner-adapt-eval.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2001-borner-adapt-eval.pdf

@@ -1,13 +1,8 @@
 slug: ev-653
 type: conference
 title: NetSci Conference
-description: ''
-location: Indianapolis, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2017-06-20'
 dateEnd: '2017-06-20'
-tags: []
+location:
+  raw: Indianapolis, Indiana

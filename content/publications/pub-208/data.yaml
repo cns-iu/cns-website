@@ -1,18 +1,13 @@
 slug: pub-208
+type: chapter
+title: Digital Preservation by Design
+date: '2007-12-01'
 authors:
   - stacy-kowalczyk
 editors:
   - mahesh-s-raisinghani
-type: chapter
-title: Digital Preservation by Design
-date: '2007-12-01'
 publisher: 'New York, NY: IGI Publishing'
 venue: Handbook of Research on Global Information Technology
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2008-kowalczyk-digpres.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2008-kowalczyk-digpres.pdf

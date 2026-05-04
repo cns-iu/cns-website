@@ -1,4 +1,9 @@
 slug: pub-142
+type: paper-conference
+title: >-
+  Conceptual Analogy: Conceptual Clustering for Informed and Efficient
+  Analogical Reasoning
+date: '1996-01-01'
 authors:
   - katy-borner
   - roland-fassauer
@@ -6,20 +11,11 @@ authors:
 editors:
   - martin-lenz
   - hans-dieter-burkhard
-type: paper-conference
-title: >-
-  Conceptual Analogy: Conceptual Clustering for Informed and Efficient
-  Analogical Reasoning
-date: '1996-01-01'
 publisher: Berlin
 venue: >-
   4th German Workshop on Case-Based Reasoning (System Development and
   Evaluation)
-volume: ''
-issue: ''
-doi: ''
 pages: 78-86
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/1996-borner-concepclust.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/1996-borner-concepclust.pdf

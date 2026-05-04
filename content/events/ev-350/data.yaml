@@ -1,15 +1,10 @@
 slug: ev-350
 type: conference
 title: The 12th SANKEN International Symposium
-description: null
-location: 1-1 Yamadaoka, Osaka, Japan, 565-0871
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-202
-tutorials: []
+link: https://www.netroom.sanken.osaka-u.ac.jp/SYMPO2009/
 dateStart: '2009-01-22'
 dateEnd: '2009-01-22'
-tags: []
-link: https://www.netroom.sanken.osaka-u.ac.jp/SYMPO2009/
+location:
+  raw: 1-1 Yamadaoka, Osaka, Japan, 565-0871
+presentations:
+  - pres-202

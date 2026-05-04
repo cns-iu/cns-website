@@ -1,17 +1,12 @@
 slug: ev-46
 type: other
 title: Women in Science Research Day
-description: null
-location: >-
-  Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St.,
-  Bloomington, Indiana, 47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-19
-tutorials: []
+link: http://www.indiana.edu/%7Eowa/wispResearchDay.pdf
 dateStart: '2004-03-03'
 dateEnd: '2004-03-03'
-tags: []
-link: http://www.indiana.edu/%7Eowa/wispResearchDay.pdf
+location:
+  raw: >-
+    Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh
+    St., Bloomington, Indiana, 47405
+presentations:
+  - pres-19

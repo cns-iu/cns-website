@@ -1,22 +1,17 @@
 slug: pub-401
 type: article-journal
-title: Optimizing Performance and Satisfaction in Virtual Reality Environments
-  with Interventions using the Data Visualization Literacy Framework
+title: >-
+  Optimizing Performance and Satisfaction in Virtual Reality Environments with
+  Interventions using the Data Visualization Literacy Framework
+date: 2021-07-30T00:00:00.000Z
+doi: 10.13140/RG.2.2.33214.00328
 authors:
   - andreas-bueckle
-editors: []
-doi: 10.13140/RG.2.2.33214.00328
-date: 2021-07-30
-publisher: ""
-venue: "Thesis, Doctor of Philosophy: Katy Börner, Patrick Shih, John Walsh, Rob
-  Montoya. Indiana University, Bloomington, IN."
-volume: ""
-issue: ""
-pages: ""
-chapter: ""
-links:
-  - https://cns.iu.edu/docs/publications/07-16-2021_bueckle_dissertation.pdf
+venue: >-
+  Thesis, Doctor of Philosophy: Katy Börner, Patrick Shih, John Walsh, Rob
+  Montoya. Indiana University, Bloomington, IN.
 projects:
   - human-reference-atlas
-tags:
-  - hra
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/07-16-2021_bueckle_dissertation.pdf

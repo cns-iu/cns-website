@@ -1,14 +1,12 @@
 slug: pub-63
-link: https://cns.iu.edu/docs/news/20070412_RyderMagazine.html
 title: Places and Spaces Science Exhibit at MCPL
-description: ''
 date: '2007-04-12'
-mediaType: document
-mediaUrl: >-
-  https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/20070412_RyderMagazine.html
-caption: >-
-  Download a PDF of the original article
-  [here](/docs/news/20070412_RyderMagazine.pdf).
+link: https://cns.iu.edu/docs/news/20070412_RyderMagazine.pdf
 publisher: Ryder
 reporter: Julie Smith and Bryan Hook
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/news/20070412_RyderMagazine.pdf
+    description: >-
+      Download a PDF of the original article
+      [here](/docs/news/20070412_RyderMagazine.pdf).

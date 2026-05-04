@@ -1,12 +1,12 @@
 slug: pres-66
 type: presentation
 title: IMDB Movie Database Visualization
-description: ''
-location: Vancouver, BC, Canada
+link: http://scimaps.org/maps/movieactors
+dateStart: '2006-04-28'
+dateEnd: '2006-04-28'
+location:
+  raw: Vancouver, BC, Canada
 presenters:
   - bruce-w-herr-ii
   - katy-borner
-dateStart: '2006-04-28'
-dateEnd: '2006-04-28'
 event: ev-87
-link: http://scimaps.org/maps/movieactors

@@ -1,23 +1,18 @@
 slug: pub-229
-authors:
-  - angela-zoss
-  - michael-conover
-  - katy-borner
-editors: []
 type: paper-conference
 title: >-
   Where Are the Academic Jobs? Interactive Exploration of Job Advertisements in
   Geospatial and Topical Space
 date: '2010-05-01'
+authors:
+  - angela-zoss
+  - michael-conover
+  - katy-borner
 publisher: Springer
 venue: >-
   Advances in Social Computing: Third International Conference on Social
   Computing, Behavioral Modeling and Prediction, Bethesda, MD
-volume: ''
-issue: ''
-doi: ''
 pages: 238-247
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2010-zoss-et-al-jobmaps.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2010-zoss-et-al-jobmaps.pdf

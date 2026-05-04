@@ -1,24 +1,21 @@
 slug: pub-331
+type: article-journal
+title: >-
+  An Efficient System to Fund Science: From Proposal Review to Peer-to-Peer
+  Distributions
+date: '2016-09-03'
 authors:
   - johan-bollen
   - david-crandall
   - damion-junk
   - ying-ding
   - katy-borner
-editors: []
-type: article-journal
-title: >-
-  An Efficient System to Fund Science: From Proposal Review to Peer-to-Peer
-  Distributions
-date: '2016-09-03'
 publisher: Springer
 venue: Scientometrics
 volume: '110'
 issue: '1'
-doi: ''
 pages: 521-528
-chapter: ''
-links:
-  - >-
-    https://cns.iu.edu/docs/publications/2016-bollen-efficient-system-to-fund.pdf
-tags: []
+media:
+  - type: pdf
+    url: >-
+      https://cns.iu.edu/docs/publications/2016-bollen-efficient-system-to-fund.pdf

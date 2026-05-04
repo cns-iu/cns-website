@@ -1,18 +1,13 @@
 slug: ev-673
 type: workshop
 title: E599 Lecture
-description: ''
-location: >-
-  Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
-  47405
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-527
-tutorials: []
-dateStart: '2017-10-15'
-dateEnd: '2017-10-15'
-tags: []
 link: >-
   https://www.sice.indiana.edu/graduate/courses/index.html?number=e599&department=ISE
+dateStart: '2017-10-15'
+dateEnd: '2017-10-15'
+location:
+  raw: >-
+    Intelligent Systems Engineering, Indiana University, Bloomington, Indiana,
+    47405
+presentations:
+  - pres-527

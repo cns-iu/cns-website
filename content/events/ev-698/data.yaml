@@ -1,16 +1,11 @@
 slug: ev-698
 type: workshop
 title: Computer Vision Poster Session
-description: ''
-location: Bloomington, Indiana
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-551
-tutorials: []
-dateStart: '2018-04-25'
-dateEnd: '2018-04-25'
-tags: []
 link: >-
   https://www.sice.indiana.edu/graduate/courses/index.html?number=b657&department=CSCI
+dateStart: '2018-04-25'
+dateEnd: '2018-04-25'
+location:
+  raw: Bloomington, Indiana
+presentations:
+  - pres-551

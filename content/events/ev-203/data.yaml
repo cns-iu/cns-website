@@ -3,13 +3,8 @@ type: other
 title: >-
   Mapping Chemistry and the Places & Spaces Exhibit, Complexity and Emergent
   Phenomena in Chemical Systems Workshop
-description: null
-location: Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2007-05-14'
 dateEnd: '2007-05-14'
-tags: []
+location:
+  raw: Washington, DC

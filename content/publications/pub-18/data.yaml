@@ -1,4 +1,7 @@
 slug: pub-18
+type: chapter
+title: Semantic Correspondence in Federated Life Science Data Integration Systems
+date: '2005-01-01'
 authors:
   - malika-mahoui
   - harshad-kulkarni
@@ -8,16 +11,10 @@ authors:
 editors:
   - bertram-ludscher
   - louiqa-raschid
-type: chapter
-title: Semantic Correspondence in Federated Life Science Data Integration Systems
-date: '2005-01-01'
 publisher: 'Berlin:  Springer-Verlag'
 venue: Data Integration in the Life Sciences, Lecture Notes in Computer Science
 volume: '3615'
-issue: ''
-doi: ''
 pages: 137-144
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2005-mahoui-semcor.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2005-mahoui-semcor.pdf

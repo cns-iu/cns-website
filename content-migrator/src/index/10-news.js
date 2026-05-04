@@ -1,47 +1,63 @@
 import { join } from 'path';
-import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import {
+  formatDate,
+  formatMarkdownLink,
+  formatUrl,
+  index,
+  INDEXES,
+  readIndex,
+  removeNullishProps,
+  writeMinifiedJSON,
+} from './utils.js';
 
-const IMAGE_EXTENSIONS = new Set(['jpg', 'jpeg', 'png']);
-function isImageUrl(url) {
-  const extension = url?.split('.').slice(-1)[0].toLowerCase();
-  return IMAGE_EXTENSIONS.has(extension);
+function buildDescription(item) {
+  const { slug, title, link, date, reporter, publisher, media } = item;
+  const linkUrl = formatUrl(slug, 'news', link);
+  const mediaEntry = media?.find((m) => m.type !== 'image' && m.url !== link);
+  const mediaUrl = mediaEntry ? formatUrl(slug, 'news', mediaEntry.url) : undefined;
+
+  const description = [
+    reporter ? [reporter, '. '] : '',
+    formatDate(date.split('-')[0]),
+    '. “',
+    formatMarkdownLink(title, linkUrl),
+    '.” ',
+    publisher ? ['_', publisher, '_. '] : '',
+    mediaUrl ? ['(', formatMarkdownLink('archive', mediaUrl), ')'] : '',
+  ];
+
+  return description.flat(10).join('').trim();
 }
 
 export function writeNewsIndex() {
   const news = readIndex('news');
   const entries = news.map((item) => {
-    if (item.mediaUrl && !item.mediaUrl?.startsWith('http')) {
-      item.mediaUrl = `${BASE_URL}/news/${item.slug}/${item.mediaUrl}`;
-    }
-    if (item.link && !item.link?.startsWith('http')) {
-      item.link = `${BASE_URL}/news/${item.slug}/${item.link}`;
+    if (!item.date) {
+      return undefined;
     }
 
-    const description = [
-      item.reporter ? `${item.reporter}.` : '',
-      `${formatDate(item.date.split('-')[0])}\\.`,
-      item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
-      item.publisher ? `_${item.publisher}_.` : '',
-      item.mediaType?.toLowerCase() !== 'image' && item.mediaUrl !== item.link ? `([archive](${item.mediaUrl}))` : '',
-    ]
-      .filter((s) => s?.trim().length > 0)
-      .join(' ');
+    const { slug, title, link, date, thumbnail, featured, projects, media } = item;
+    const image = media?.find((m) => m.type === 'image');
 
-    return {
-      slug: item.slug,
+    return removeNullishProps({
+      slug,
       category: 'news',
       type: 'news',
-      people: item.people || [],
-      image: item.mediaUrl && item.mediaType?.toLowerCase() === 'image' && isImageUrl(item.mediaUrl) ? item.mediaUrl : undefined,
-      link: item.link,
-      title: item.title,
-      description,
-      tags: item.tags ?? [],
-      dateStart: formatDate(item.date),
-      dateEnd: formatDate(item.date),
-    };
+      title,
+      link: formatUrl(slug, 'news', link) || undefined,
+      dateStart: formatDate(date),
+      dateEnd: formatDate(date),
+      thumbnail: formatUrl(slug, 'news', thumbnail ?? image?.url) || undefined,
+      description: buildDescription(item),
+      featured,
+      projects,
+    });
   });
-  writeMinifiedJSON(join(INDEXES, 'app-news.json'), entries);
+
+  writeMinifiedJSON(
+    join(INDEXES, 'app-news.json'),
+    entries.filter((item) => !!item),
+  );
 }
 
 index('news/**/data.yaml', 'news.json');

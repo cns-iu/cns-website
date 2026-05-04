@@ -1,15 +1,10 @@
 slug: ev-799
 type: meeting
 title: (Re)Building a Kidney (RBK) Community 2021 Spring Meeting, Poster Session
-description: ''
-location: Bethesda, MD (Virtual Event)
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-650
-tutorials: []
+link: https://www.rebuildingakidney.org/
 dateStart: '2021-04-27'
 dateEnd: '2021-04-29'
-tags: []
-link: https://www.rebuildingakidney.org/
+location:
+  raw: Bethesda, MD (Virtual Event)
+presentations:
+  - pres-650

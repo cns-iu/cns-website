@@ -1,13 +1,13 @@
 slug: pres-336
 type: presentation
 title: 'NWB/Sci2: A Tool for Science of Science Research and Practice'
-description: ''
-location: Northwestern University, Evanston, IL
+link: >-
+  https://cns.iu.edu/docs/presentations/2012-biberstine-coe-sci2tutorial-netsci.pdf
+dateStart: '2012-06-19'
+dateEnd: '2012-06-19'
+location:
+  raw: Northwestern University, Evanston, IL
 presenters:
   - david-m-coe
   - joseph-r-biberstine
-dateStart: '2012-06-19'
-dateEnd: '2012-06-19'
 event: ev-483
-link: >-
-  https://cns.iu.edu/docs/presentations/2012-biberstine-coe-sci2tutorial-netsci.pdf

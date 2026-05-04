@@ -1,11 +1,11 @@
 slug: pres-512
 type: presentation
 title: How to NOT Lie with Maps
-description: ''
-location: Alpbach, Austria
-presenters:
-  - katy-borner
+link: https://cns.iu.edu/docs/presentations/2017-borner-Alpbach.pdf
 dateStart: '2017-08-25'
 dateEnd: '2017-08-25'
+location:
+  raw: Alpbach, Austria
+presenters:
+  - katy-borner
 event: ev-660
-link: https://cns.iu.edu/docs/presentations/2017-borner-Alpbach.pdf

@@ -1,6 +1,7 @@
 slug: pub-69
-link: https://cns.iu.edu/docs/news/katy_issi2.html
 title: 'ISSI 2013: Börner teaches tutorial, organizes workshop, presents two papers'
+date: '2013-07-16'
+link: https://cns.iu.edu/docs/news/katy_issi2.html
 description: >-
   On Monday, July 15, 2013, Katy Börner taught a Sci2 tutorial and organized a
   workshop at the 14th ISSI Conference in Vienna, Austria, in addition to
@@ -47,12 +48,10 @@ description: >-
   quality publication oeuvres of individual
   researchers"](http://stage.cns.iu.edu/docs/publications/2013-reijnhoudt-seed-expand-issi.pdf).
   ISSI 2013.
-date: '2013-07-16'
-mediaType: image
-mediaUrl: https://cns.iu.edu/docs/news/https://cns.iu.edu/docs/news/katy_issi2.html
-caption: >-
-  Katy Börner, Victor H. Yngve Professor of Information Science, Department of
-  Information and Library Science, Indiana University
 publisher: CNS News
-reporter: ''
-tags: []
+media:
+  - type: image
+    url: https://cns.iu.edu/docs/news/katy_issi2.html
+    description: >-
+      Katy Börner, Victor H. Yngve Professor of Information Science, Department
+      of Information and Library Science, Indiana University

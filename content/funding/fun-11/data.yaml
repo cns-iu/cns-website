@@ -1,12 +1,11 @@
 slug: fun-11
 type: research
-name: Equipment Grant by UITS
 title: Cyberinfrastructure for Network Analysis
+name: Equipment Grant by UITS
 funder: UITS, Indiana University
-investigators:
-  - katy-borner
 amount: 157925
-receivedAmount: 15925
 dateStart: '2005-01-01'
 dateEnd: '2005-01-31'
-tags: []
+investigators:
+  - katy-borner
+receivedAmount: 15925

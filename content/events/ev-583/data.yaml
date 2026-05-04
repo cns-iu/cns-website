@@ -1,15 +1,10 @@
 slug: ev-583
 type: visit
 title: NHLBI Division of Cardiovascular Sciences
-description: ''
-location: Bethesda, MD
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-454
-tutorials: []
+link: http://www.nhlbi.nih.gov/about/org/dcvs
 dateStart: '2016-02-11'
 dateEnd: '2016-02-11'
-tags: []
-link: http://www.nhlbi.nih.gov/about/org/dcvs
+location:
+  raw: Bethesda, MD
+presentations:
+  - pres-454

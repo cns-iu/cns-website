@@ -1,15 +1,10 @@
 slug: ev-898
 type: conference
 title: NetSci 2025
-description: ''
-location: Maastricht, Netherlands
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-742
-tutorials: []
+link: https://netsci2025.github.io/
 dateStart: '2025-06-02'
 dateEnd: '2025-06-02'
-tags: []
-link: https://netsci2025.github.io/
+location:
+  raw: Maastricht, Netherlands
+presentations:
+  - pres-742

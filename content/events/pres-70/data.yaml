@@ -1,11 +1,11 @@
 slug: pres-70
 type: presentation
 title: 'Knowledge Domain Visualizations: Research Interests'
-description: ''
-location: Philadelphia, PA
-presenters:
-  - peter-a-hook
+link: https://cns.iu.edu/docs/presentations/2005-hook-knwdmvis-philly.pdf
 dateStart: '2005-12-01'
 dateEnd: '2005-12-01'
+location:
+  raw: Philadelphia, PA
+presenters:
+  - peter-a-hook
 event: ev-31
-link: https://cns.iu.edu/docs/presentations/2005-hook-knwdmvis-philly.pdf

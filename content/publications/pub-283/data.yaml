@@ -1,20 +1,14 @@
 slug: pub-283
-authors:
-  - katy-borner
-editors:
-  - reda-alhajj
-  - jon-rokne
 type: chapter
 title: >-
   Plug-and-Play Macroscopes: Network Workbench (NWB), Science of Science Tool
   (Sci2), and Epidemiology Tool (Epic)
 date: '2018-01-01'
+authors:
+  - katy-borner
+editors:
+  - reda-alhajj
+  - jon-rokne
 publisher: 'New York, NY:  Springer-Verlag'
 venue: Encyclopedia of Social Network Analysis and Mining
-volume: ''
-issue: ''
-doi: ''
 pages: 1280-1290
-chapter: ''
-links: []
-tags: []

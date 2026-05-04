@@ -1,37 +1,58 @@
 import { join } from 'path';
-import { BASE_URL, formatDate, index, INDEXES, readIndex, writeMinifiedJSON } from './utils.js';
+import {
+  formatDate,
+  formatMarkdownLink,
+  formatUrl,
+  index,
+  INDEXES,
+  readIndex,
+  removeNullishProps,
+  writeMinifiedJSON,
+} from './utils.js';
+
+function buildDescription(item) {
+  const { slug, title, link, date, description: itemDescription } = item;
+  const linkUrl = formatUrl(slug, 'visualizations', link);
+  const description = [
+    formatDate(date.split('-')[0]),
+    '. “',
+    formatMarkdownLink(title, linkUrl),
+    '.” ',
+    itemDescription,
+  ];
+
+  return description.flat(10).join('').trim();
+}
 
 export function writeVisualizationsIndex() {
   const visualizations = readIndex('visualizations');
   const entries = visualizations.map((item) => {
-    item.category = 'visualizations';
-    if (item.image && !item.image.startsWith('http')) {
-      item.image = `${BASE_URL}/visualizations/${item.slug}/${item.image}`;
+    if (!item.date) {
+      return undefined;
     }
 
-    const description = [
-      item.date !== '1979-01-01' ? `${formatDate(item.date.split('-')[0])}.` : '',
-      item.link ? `“[${item.title}](${item.link.replaceAll(' ', '%20')}).”` : `“${item.title}.”`,
-      item.description,
-    ]
-      .filter((s) => s?.trim().length > 0)
-      .join(' ');
+    const { slug, title, link, date, thumbnail, people, featured, projects } = item;
 
-    return {
-      slug: item.slug,
+    return removeNullishProps({
+      slug,
       category: 'visualization',
       type: 'visualization',
-      people: item.authors || [],
-      image: item.mediaUrl && item.mediaType === 'image' ? item.mediaUrl : undefined,
-      link: item.link,
-      title: item.title,
-      description,
-      tags: item.tags ?? [],
-      dateStart: formatDate(item.date),
-      dateEnd: formatDate(item.date),
-    };
+      title,
+      link: formatUrl(slug, 'visualizations', link) || undefined,
+      dateStart: formatDate(date),
+      dateEnd: formatDate(date),
+      thumbnail: formatUrl(slug, 'visualizations', thumbnail) || undefined,
+      description: buildDescription(item),
+      people,
+      featured,
+      projects,
+    });
   });
-  writeMinifiedJSON(join(INDEXES, 'app-visualizations.json'), entries);
+
+  writeMinifiedJSON(
+    join(INDEXES, 'app-visualizations.json'),
+    entries.filter((item) => !!item),
+  );
 }
 
 index('visualizations/**/data.yaml', 'visualizations.json');

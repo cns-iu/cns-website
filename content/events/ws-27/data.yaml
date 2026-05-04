@@ -1,9 +1,8 @@
 slug: ws-27
 type: workshop
 title: Pathways Workshop
-description: ''
-location: Minneapolis, MN, USA
+link: http://web.archive.org/web/20260109195849/https://cns.iu.edu/131113.html
 dateStart: '2013-11-13'
 dateEnd: '2013-11-13'
-tags: []
-link: http://web.archive.org/web/20260109195849/https://cns.iu.edu/131113.html
+location:
+  raw: Minneapolis, MN, USA

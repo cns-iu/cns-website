@@ -1,15 +1,10 @@
 slug: ev-596
 type: workshop
 title: Identifying Key Areas in a Human BioMolecular Atlas
-description: ''
-location: NIH, Washington, DC
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-464
-tutorials: []
+link: https://www.nih.gov
 dateStart: '2016-06-15'
 dateEnd: '2016-06-15'
-tags: []
-link: https://www.nih.gov
+location:
+  raw: NIH, Washington, DC
+presentations:
+  - pres-464

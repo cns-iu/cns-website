@@ -1,14 +1,10 @@
 slug: ev-31
 type: other
 title: Places & Spaces; Mapping Science Meeting
-description: null
-location: Philadelphia, PA
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-70
-tutorials: []
+link: null
 dateStart: '2005-12-01'
 dateEnd: '2005-12-02'
-tags: []
+location:
+  raw: Philadelphia, PA
+presentations:
+  - pres-70

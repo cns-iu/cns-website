@@ -4,17 +4,12 @@ title: >-
   The Research Center for Grid and Service Computing (VEGA Center) at the
   Institute of Computing Technology (ICT) of the Chinese Academy of Sciences
   (CAS)
-description: null
-location: >-
-  Research Center for Grid and Service Computing, Institute of Computing
-  Technology, Chinese Academey of Sciences, Beijing, China
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-128
-tutorials: []
+link: http://vega.ict.ac.cn/en/vega.jsp?id=dir8
 dateStart: '2007-07-20'
 dateEnd: '2007-07-20'
-tags: []
-link: http://vega.ict.ac.cn/en/vega.jsp?id=dir8
+location:
+  raw: >-
+    Research Center for Grid and Service Computing, Institute of Computing
+    Technology, Chinese Academey of Sciences, Beijing, China
+presentations:
+  - pres-128

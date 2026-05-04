@@ -1,13 +1,8 @@
 slug: ev-307
 type: meeting
 title: Talk & NWB Workshop on Life Sciences and Specialized Services
-description: null
-location: Cornell University, Ithaca, NY, 14853
-organizers: []
-attendees: []
-publications: []
-presentations: []
-tutorials: []
+link: null
 dateStart: '2008-11-12'
 dateEnd: '2008-11-14'
-tags: []
+location:
+  raw: Cornell University, Ithaca, NY, 14853

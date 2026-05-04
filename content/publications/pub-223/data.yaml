@@ -1,20 +1,14 @@
 slug: pub-223
-authors:
-  - ben-markines
-editors: []
 type: thesis
 title: Socially Induced Semantic Networks and Applications
 date: '2009-05-05'
+authors:
+  - ben-markines
 publisher: Indiana University, Bloomington
 venue: >-
   Thesis, Doctor of Philosophy in Computer Science: Filippo Menczer (Chair),
   Katy Börner, Randall Bramley, Dr. Dennis Groth. Indiana University,
   Bloomington, IN
-volume: ''
-issue: ''
-doi: ''
-pages: ''
-chapter: ''
-links:
-  - https://cns.iu.edu/docs/publications/2009-markines-phd-thesis.pdf
-tags: []
+media:
+  - type: pdf
+    url: https://cns.iu.edu/docs/publications/2009-markines-phd-thesis.pdf

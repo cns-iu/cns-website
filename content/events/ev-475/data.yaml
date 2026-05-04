@@ -1,17 +1,12 @@
 slug: ev-475
 type: other
 title: College of Information Sciences and Technology
-description: null
-location: |-
-  School of Information Sciences and Technology, Pennsylvania State University
-  , 001 Thomas Building, University Park, PA, 16802
-organizers: []
-attendees: []
-publications: []
-presentations:
-  - pres-328
-tutorials: []
+link: http://ist.psu.edu/
 dateStart: '2012-04-26'
 dateEnd: '2012-04-26'
-tags: []
-link: http://ist.psu.edu/
+location:
+  raw: |-
+    School of Information Sciences and Technology, Pennsylvania State University
+    , 001 Thomas Building, University Park, PA, 16802
+presentations:
+  - pres-328
