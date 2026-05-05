@@ -1279,16 +1279,11 @@
   {
     "slug": "pub-173",
     "title": "Science and Culture: Sentient architecture promises insight into our evolving relationship with AI",
-    "date": "2018-07-24",
-    "link": "https://www.pnas.org",
+    "date": "2018-07-24T00:00:00.000Z",
+    "link": "https://doi.org/10.1073/pnas.1809390115",
     "publisher": "PNAS",
     "reporter": "Carolyn Beans",
-    "media": [
-      {
-        "type": "image",
-        "url": "https://cns.iu.edu/docs/news/https://www.pnas.org"
-      }
-    ]
+    "media": []
   },
   {
     "slug": "pub-172",
