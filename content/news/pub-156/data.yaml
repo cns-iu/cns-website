@@ -122,8 +122,9 @@ description: >-
   currently enrolled at IU. Next year's class will include students beyond the
   university. The application deadline for the fall 2018 semester is December.
 reporter: IU News
+thumbnail: https://cns.iu.edu/images/news/20170823-IUnews.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20170823-IUnews.html
     description: >-
       View the orginial story at [IU

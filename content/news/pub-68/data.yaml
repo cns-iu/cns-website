@@ -1,7 +1,7 @@
 slug: pub-68
 title: Katy Börner published in Credit Suisse's _Global Investor_
 date: '2013-07-10'
-link: https://cns.iu.edu/docs/news/katy_globalinvestor.html
+link: https://cns.iu.edu/docs/news/20130710_GlobalInvestor.pdf
 description: >-
   Across the spectrum of human activity, decision making increasingly means
   fathoming the complex systems described by Big Data. Examples include traffic
@@ -103,11 +103,4 @@ description: >-
   collective knowledge of science and technology to enable anyone to explore
   complex technical, social and economic issues and to make better decisions.
 publisher: Global Investor
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/katy_globalinvestor.html
-    description: >-
-      The following is an article on Big Data by Katy Börner that was featured
-      in Global Investor Magazine. [Click
-      here](/docs/news/20130710_GlobalInvestor.pdf) to download a PDF of the
-      original article.
+thumbnail: https://cns.iu.edu/images/news/katy_globalinvestor.png

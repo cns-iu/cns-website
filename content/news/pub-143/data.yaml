@@ -1,7 +1,7 @@
 slug: pub-143
 title: Modelling science, technology and innovation
 date: '2016-02-02'
-link: https://cns.iu.edu/docs/news/20160202_RSA.html
+link: https://modsti.cns.iu.edu/
 description: >-
   On May 17-18 2016, the National Academies of Sciences building in Washington,
   DC will be hosting a pioneering conference “Modeling Science, Technology &
@@ -43,12 +43,4 @@ description: >-
   Find the original article
   [here](https://www.thersa.org/fellowship/fellowship-news/fellowship-news/modeling-science-technology-and-innovation/).
 reporter: Royal Society for the encouragement of Arts, Manufactures and Commerce
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20160202_RSA.html
-    description: >-
-      The mission of the RSA (Royal Society for the encouragement of Arts,
-      Manufactures and Commerce) is to enrich society through ideas and action.
-      [View the original article at the Royal Society for the encouragement of
-      Arts, Manfactures, and Commerce
-      website](https://www.thersa.org/fellowship/fellowship-news/fellowship-news/modeling-science-technology-and-innovation/).
+thumbnail: https://cns.iu.edu/images/news/20160202_RSA.png

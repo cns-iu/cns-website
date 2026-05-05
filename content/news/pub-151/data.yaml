@@ -193,8 +193,9 @@ description: >-
   Ye](https://www.soic.indiana.edu/all-people/profile.html?profile_id=325),
   associate professor of informatics and computing
 reporter: SoIC News
+thumbnail: https://cns.iu.edu/images/news/20160928_grandchallenge.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20160928_grandchallenge.html
     description: >-
       View the original story at [SoIC

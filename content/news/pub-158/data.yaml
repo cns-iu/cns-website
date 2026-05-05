@@ -190,8 +190,9 @@ description: >-
   For more information on LuddyFest, visit our
   [website](https://www.sice.indiana.edu/luddyfest/).
 reporter: SICE News
+thumbnail: https://cns.iu.edu/images/research/workshops/amatria/amatria-unveiling.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20080411-amatria-unveiling-luddy-fest.html
     description: >-
       View the original story at [SICE
