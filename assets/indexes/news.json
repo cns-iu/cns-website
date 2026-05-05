@@ -1321,16 +1321,15 @@
   {
     "slug": "pub-170",
     "title": "IU Luddy Hall celebration Friday includes chance to see interactive sculpture",
-    "date": "2018-04-12",
+    "date": "2018-04-12T00:00:00.000Z",
     "link": "https://www.heraldtimesonline.com/story/news/local/2018/04/12/iu-luddy-hall-celebration-friday-includes-chance-to-see-interactive-sculpture/46835745/",
+    "thumbnail": "amatria-by-chris-howell.png",
+    "projects": [
+      "amatria"
+    ],
     "publisher": "Herald Times Online",
     "reporter": "Michael Reschke",
-    "media": [
-      {
-        "type": "image",
-        "url": "https://www.heraldtimesonline.com/story/news/local/2018/04/12/iu-luddy-hall-celebration-friday-includes-chance-to-see-interactive-sculpture/46835745/https://www.heraldtimesonline.com/story/news/local/2018/04/12/iu-luddy-hall-celebration-friday-includes-ch"
-      }
-    ]
+    "media": []
   },
   {
     "slug": "pub-17",
