@@ -52,4 +52,13 @@ description: >-
   From top: The audience begins to fill in before the unveiling of "Amatria," a piece of "living art" designed by world-renowned Canadian architect Philip Beesley; a student speaks with an alumnus after a roundtable discussion; Toronto artists Luke Kimmerer, left, and Richard Mui work on the installation of "Amatria" leading up to LuddyFest. Photos by Amelia Herrick and James Brosher, IU Communications.
 publisher: IU News
 reporter: Brooklyn Chance
-media: []
+media:
+  - type: website
+    url: >-
+      https://cns.iu.edu/docs/news/take-a-look-inside-the-luddyfest-celebration-honoring-luddy-hall
+    description: >-
+      The audience begins to fill in before the unveiling of "Amatria," a piece
+      of "living art" designed by world-renowned Canadian architect Philip
+      Beesley. [Read the original
+      story.](https://news.iu.edu/stories/2018/04/iub/20-take-a-look-inside-the-luddyfest-celebration.html
+      "Take a look inside the LuddyFest celebration honoring Luddy Hall")
