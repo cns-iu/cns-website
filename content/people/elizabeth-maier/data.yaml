@@ -1,4 +1,10 @@
 slug: elizabeth-maier
 name: Elizabeth Maier
 lastName: Maier
-roles: []
+roles:
+  - type: member
+    title: User Experience Designer
+    status: full-time
+    displayOrder: 11
+    email: ecmaier@iu.edu
+    dateStart: 2022-01-03

@@ -9171,27 +9171,6 @@
     "roles": []
   },
   {
-    "slug": "libby-maier",
-    "name": "Libby Maier",
-    "lastName": "Maier",
-    "roles": [
-      {
-        "type": "member",
-        "title": "User Experience Designer",
-        "displayOrder": 11,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "ecmaier@iu.edu",
-        "education": "",
-        "background": "",
-        "interests": "",
-        "dateStart": "2022-01-03",
-        "dateEnd": null
-      }
-    ]
-  },
-  {
     "slug": "li-shen",
     "name": "Li Shen",
     "lastName": "Shen",
@@ -13910,7 +13889,16 @@
     "slug": "elizabeth-maier",
     "name": "Elizabeth Maier",
     "lastName": "Maier",
-    "roles": []
+    "roles": [
+      {
+        "type": "member",
+        "title": "User Experience Designer",
+        "status": "full-time",
+        "displayOrder": 11,
+        "email": "ecmaier@iu.edu",
+        "dateStart": "2022-01-03T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "elizabeth-lyons",
