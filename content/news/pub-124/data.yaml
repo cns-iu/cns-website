@@ -38,11 +38,4 @@ description: >-
 
   [Meet the animator: Ying-Fang Shen](https://www.youtube.com/watch?v=yZ_bYc9tLrc)
 publisher: World News Network
-media:
-  - type: pdf
-    url: https://cns.iu.edu/docs/news/20140514_WorldNewsNetwork.pdf
-    description: The following is an article from [wn.com](http://wn.com). Read the
-      original article
-      [here](http://article.wn.com/view/2014/05/14/IU_collaborators_screening_Humanexus_at_Cannes_Film_Festival/),
-      or download a PDF of the article
-      [here](/docs/news/20140514_WorldNewsNetwork.pdf).
+media: []
