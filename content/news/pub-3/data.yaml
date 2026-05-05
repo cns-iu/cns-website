@@ -1,48 +1,29 @@
 slug: pub-3
-title: >-
-  AcademyScope Interactive Touch-Screen Visualization Now On Display at the
+title: AcademyScope Interactive Touch-Screen Visualization Now On Display at the
   National Academy of Sciences in Washington, D.C.
-date: '2013-03-01'
-link: https://cns.iu.edu/docs/news/AcademyScope.html
+date: 2013-03-01
+link: https://nap.nationalacademies.org/academy-scope/
+thumbnail: https://cns.iu.edu/images/news/20141027_CNSNews.jpg
 description: >-
   During the second half of 2012 and into this year, CNS was lucky enough to be
   part of an extremely productive collaboration with the National Academy of
   Sciences in Washington, DC, that resulted in a state-of-the-art, interactive
   touch-screen visualization called _AcademyScope_.  
     
-  Using a 55-inch, multi-touch screen, viewers can explore all reports published
-  by the National Academy of Sciences, National Academy of Engineering,
-  Institute of Medicine, and National Research Council—from twenty years ago to
-  today.  
+  Using a 55-inch, multi-touch screen, viewers can explore all reports published by the National Academy of Sciences, National Academy of Engineering, Institute of Medicine, and National Research Council—from twenty years ago to today.  
     
-  The Automatic Mode of the visualization shows the 100 most frequently
-  downloaded reports of the previous seven days as well as newly released
-  reports. Displayed downloads, including download totals, are current within
-  the minute.  
+  The Automatic Mode of the visualization shows the 100 most frequently downloaded reports of the previous seven days as well as newly released reports. Displayed downloads, including download totals, are current within the minute.  
     
-  The Interactive Mode supports browsing and exploration by topic, subtopic, and
-  individual report. Users can select a topic on the right to reveal all of its
-  subtopics, and touch one of the subtopics to display all reports in that area
-  and their relatedness to each other. (Links between reports are automatically
-  generated based on the incidence of shared key terms and phrases.) Touching
-  any report brings up detailed information on the right side of the display.
-  There's also a QR code that allows users to download a PDF of the report to
-  their smart device.  
+  The Interactive Mode supports browsing and exploration by topic, subtopic, and individual report. Users can select a topic on the right to reveal all of its subtopics, and touch one of the subtopics to display all reports in that area and their relatedness to each other. (Links between reports are automatically generated based on the incidence of shared key terms and phrases.) Touching any report brings up detailed information on the right side of the display. There's also a QR code that allows users to download a PDF of the report to their smart device.  
     
-  Acknowledgements: Katy Börner (initial concept, design & interactivity
-  consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic
-  design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar
-  (programming).  
+  Acknowledgements: Katy Börner (initial concept, design & interactivity consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar (programming).  
     
-  [Click
-  here](http://www.youtube.com/watch?feature=player_embedded&v=pdqKBna1Fos) to
-  watch a video detailing the design and programming of _AcademyScope_.
+  [Click here](http://www.youtube.com/watch?feature=player_embedded&v=pdqKBna1Fos) to watch a video detailing the design and programming of _AcademyScope_.
 publisher: CNS News
 media:
-  - type: image
+  - type: other
     url: https://cns.iu.edu/docs/news/AcademyScope.html
-    description: >-
-      The CNS and NAS teams meet to discuss the final round of edits to
+    description: "The CNS and NAS teams meet to discuss the final round of edits to
       _AcademyScope_. From left to right: Chin Hua Kong (CNS), Katy Börner
       (CNS), Samuel Mills (CNS), Alphonse MacDonald (NAS), Stephen Mautner
-      (NAS).
+      (NAS)."
