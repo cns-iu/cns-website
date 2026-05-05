@@ -81,9 +81,4 @@ description: >-
   productivity and collaboration in support of data-driven decision making by
   resource providers and consumers.”
 reporter: IT News & Events
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20160525_itsnewsandevents.html
-    description: >-
-      [View the originial
-      story.](https://itnews.iu.edu/articles/2016/iu-receives-nsf-grant-to-develop-tool-to-measure-impact-of-campus-based-cyberinfrastructure.php)
+thumbnail: https://cns.iu.edu/images/news/20160525_itsnewsandevents.jpg

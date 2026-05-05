@@ -82,8 +82,9 @@ description: >-
   Wissenschaftler von der Hochschule Mittweida und der TU Dresden ihre
   Forschungsthemen.
 reporter: HSMW News
+thumbnail: https://cns.iu.edu/images/news/20170727-hsmw.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20170727-hsmw.html
     description: >-
       View the original story at

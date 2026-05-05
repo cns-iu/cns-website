@@ -65,4 +65,9 @@ description: >-
   Katy Börner, an information science and engineering professor at IU, says the massive piece senses people as they walk past and even greets and interacts with them. (Lindsey Wright/WFIU-WTIU News)
 publisher: wfyi
 reporter: Lindsey Wright
-media: []
+media:
+  - type: website
+    url: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
+    description: >-
+      It took about 200 volunteers including students from several different IU
+      schools to put the massive piece together (Lindsey Wright/WTIU-WFIU News).

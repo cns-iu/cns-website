@@ -65,8 +65,9 @@ description: >-
   late Barry M. Goldwater of Arizona who served in the U.S. Senate for 30 years.
   The first awards were given in 1989.
 reporter: UNC News
+thumbnail: https://cns.iu.edu/images/news/20170703-scott.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20170703-scott.html
     description: >-
       View the original story at [UNC

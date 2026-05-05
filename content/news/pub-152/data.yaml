@@ -1,7 +1,7 @@
 slug: pub-152
 title: Börner, Sugimoto present at OECD Blue Sky Forum
 date: '2016-10-04'
-link: https://cns.iu.edu/docs/news/20161004_bluesky.html
+link: https://cns.iu.edu/docs/presentations/2016-borner-bluesky.pdf
 description: >-
   [Katy Börner](https://cns-iu.github.io/katy/), the Victor H. Yngve
   distinguished professor of information science at the School of Informatics
@@ -93,8 +93,9 @@ description: >-
   research with a community that is empowered to make changes to improve the way
   science is monitored and rewarded.”
 reporter: SoIC News
+thumbnail: https://cns.iu.edu/images/news/20161004_bluesky.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20161004_bluesky.html
     description: >-
       View the original story at [SoIC

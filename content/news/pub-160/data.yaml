@@ -176,4 +176,10 @@ description: >-2
   "IU Bloomington is a leader in arts and humanities education, and the IU School of Informatics, Computing and Engineering is inventing, implementing and optimizing the next generation of intelligent systems, such as smart cars, health devices and brain interfaces," Börner said. "We hope the magnificent architecture of Luddy Hall, in combination with 'Amatria,' will inspire arts and humanities scholars from campus and beyond to visit our school, and fully engage with its faculty, staff and students."
 publisher: IU News
 reporter: Kevin Fryling
-media: []
+media:
+  - type: website
+    url: https://cns.iu.edu/docs/news/massive-work-of-sentient-art.html
+    description: >-
+      Philip Beesley, center, reaches up to activate sensors in "Amatria" before
+      the crowd gathered at the official unveiling. [Read original
+      article](https://news.iu.edu/stories/2018/04/iub/inside/17-sentient-art-unveiled-at-luddy-hall.html)

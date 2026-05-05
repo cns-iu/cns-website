@@ -89,7 +89,7 @@ description: >-
   [website](http://cns.iu.edu/).
 reporter: SICE News
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20170908-SICEnews.html
     description: >-
       View the original story at [SICE
