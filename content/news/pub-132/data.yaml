@@ -3,7 +3,7 @@ title: >-
   Online version of _AcademyScope_ now available on the National Academies Press
   website
 date: '2014-10-27'
-link: https://cns.iu.edu/docs/news/20141027_CNSNews.html
+link: https://nap.nationalacademies.org/academy-scope/
 description: >-
   The state-of-the-art, interactive touch-screen visualization developed by CNS
   is now available on the web.  
@@ -34,11 +34,4 @@ description: >-
   Bhumi Patel, and Rohit Alekar. It was adapted for the web by [Juan
   Thomassie](http://data-visual.net/).
 publisher: CNS News
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20141027_CNSNews.html
-    description: >-
-      _AcademyScope_ was originally designed as a stand-alone touch-screen
-      application for exploration on the museum floor. The new web application
-      integrates this exploratory aspect into the existing NAP website, adding a
-      unique layer to the conventional browsing experience.
+thumbnail: https://cns.iu.edu/images/news/20141027_CNSNews.jpg

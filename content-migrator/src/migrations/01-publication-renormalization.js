@@ -3,6 +3,7 @@ import {
   CONTENT,
   copyFields,
   deleteEmptyFields,
+  linkTypeFromUrl,
   normalizeOptionalString,
   normalizeStringFields,
   readYaml,
@@ -36,46 +37,6 @@ const DEFAULT_FIELD_VALUE_GENERATORS = {
 };
 
 const FIELDS = Object.keys(DEFAULT_FIELD_VALUE_GENERATORS);
-
-function linkTypeFromUrl(url) {
-  const cleanUrl = url.split(/[?#]/, 1)[0];
-  const basename = cleanUrl.split('/').pop() ?? '';
-  const dotIndex = basename.lastIndexOf('.');
-  const suffix = dotIndex >= 0 ? basename.slice(dotIndex + 1).toLowerCase() : '';
-
-  switch (suffix) {
-    case 'png':
-    case 'jpg':
-    case 'jpeg':
-    case 'gif':
-    case 'webp':
-    case 'svg':
-    case 'bmp':
-    case 'tif':
-    case 'tiff':
-      return 'image';
-
-    case 'pdf':
-      return 'pdf';
-
-    case 'ppt':
-    case 'pptx':
-    case 'key':
-    case 'odp':
-      return 'slides';
-
-    case 'mp4':
-    case 'mov':
-    case 'avi':
-    case 'mkv':
-    case 'webm':
-    case 'm4v':
-      return 'video';
-
-    default:
-      return /^https?:\/\//i.test(cleanUrl) ? 'website' : 'other';
-  }
-}
 
 function normalizeLinkList(content) {
   const links = content.links ?? [];

@@ -71,12 +71,75 @@ export async function writeYaml(path, data) {
   return await writeFile(path, dumpYaml(data), 'utf8');
 }
 
+export function linkTypeFromUrl(url) {
+  const cleanUrl = url.split(/[?#]/, 1)[0];
+  const basename = cleanUrl.split('/').pop() ?? '';
+  const dotIndex = basename.lastIndexOf('.');
+  const suffix = dotIndex >= 0 ? basename.slice(dotIndex + 1).toLowerCase() : '';
+
+  switch (suffix) {
+    case 'png':
+    case 'jpg':
+    case 'jpeg':
+    case 'gif':
+    case 'webp':
+    case 'svg':
+    case 'bmp':
+    case 'tif':
+    case 'tiff':
+      return 'image';
+
+    case 'pdf':
+      return 'pdf';
+
+    case 'ppt':
+    case 'pptx':
+    case 'key':
+    case 'odp':
+      return 'slides';
+
+    case 'mp4':
+    case 'mov':
+    case 'avi':
+    case 'mkv':
+    case 'webm':
+    case 'm4v':
+      return 'video';
+
+    default:
+      return /^https?:\/\//i.test(cleanUrl) ? 'website' : 'other';
+  }
+}
+
+export function tryFixBadMediaUrlType(url, type) {
+  const inferredType = linkTypeFromUrl(url);
+  if (type === 'other') {
+    return type;
+  } else if (type !== inferredType) {
+    console.warn(`Type mismatch for URL: ${url}. Original type: ${type}, inferred type: ${inferredType}`);
+  }
+
+  return inferredType;
+}
+
 const FIX_CACHE = new Map();
 
 export async function tryFixBadMediaUrl(url, type, subdir) {
   const BASE_URL = 'https://cns.iu.edu/docs/';
   if (typeof url !== 'string') {
     return undefined;
+  } else if (FIX_CACHE.has(url)) {
+    return {
+      type: tryFixBadMediaUrlType(url, type),
+      ...FIX_CACHE.get(url),
+    };
+  }
+
+  if (url.startsWith(BASE_URL)) {
+    const index = url.indexOf('http', BASE_URL.length);
+    if (index !== -1) {
+      url = url.slice(index);
+    }
   }
 
   let fullUrl = url;
@@ -85,18 +148,15 @@ export async function tryFixBadMediaUrl(url, type, subdir) {
   }
 
   if (!fullUrl.startsWith(BASE_URL) || !fullUrl.endsWith('.html')) {
+    FIX_CACHE.set(url, { url });
     return { url, type };
-  }
-
-  if (FIX_CACHE.has(fullUrl)) {
-    return { type, ...FIX_CACHE.get(fullUrl) };
   }
 
   try {
     const response = await fetch(fullUrl, { method: 'HEAD' });
     if (response.ok) {
       FIX_CACHE.set(fullUrl, { url: fullUrl });
-      return { url: fullUrl, type };
+      return { url: fullUrl, type: tryFixBadMediaUrlType(url, type) };
     }
 
     fullUrl = fullUrl.replace(/\.html$/, '.pdf');
@@ -110,5 +170,5 @@ export async function tryFixBadMediaUrl(url, type, subdir) {
   }
 
   FIX_CACHE.set(url, { url });
-  return { url, type };
+  return { url, type: tryFixBadMediaUrlType(url, type) };
 }

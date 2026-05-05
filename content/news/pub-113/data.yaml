@@ -1,7 +1,7 @@
 slug: pub-113
 title: The 2014 Information Visualization MOOC is open for registration
 date: '2013-12-19'
-link: https://cns.iu.edu/docs/news/ivmooc2014open.html
+link: https://ivmooc.cns.iu.edu/
 description: >-
   [Click here to register for the course »](http://ivmooc.cns.iu.edu)  
     
@@ -61,8 +61,9 @@ description: >-
   humanities and statistics, for those interested in exploring their data
   further.
 publisher: CNS News
+thumbnail: https://cns.iu.edu/images/home/banners/ivmooc2014_banner.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/ivmooc2014open.html
     description: >-
       The 2014 IVMOOC features a companion textbook and the opportunity for

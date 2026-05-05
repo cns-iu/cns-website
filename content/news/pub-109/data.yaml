@@ -64,7 +64,4 @@ description: >-
   North Carolina State University’s Hunt Library:
   [lib.ncsu.edu/huntlibrary](http://www.lib.ncsu.edu/huntlibrary)
 publisher: CNS News
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/ncstate.html
-    description: Students interact with the _Places & Spaces_ digital display
+thumbnail: https://cns.iu.edu/images/home/banners/ncstate_banner.jpg
