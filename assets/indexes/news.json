@@ -1199,16 +1199,12 @@
   {
     "slug": "pub-181",
     "title": "Why adding a road can increase traffic and other modelling delights",
-    "date": "2021-08-18",
+    "date": "2021-08-18T00:00:00.000Z",
     "link": "https://institutions.newscientist.com/article/mg25133480-400-why-adding-a-road-can-increase-traffic-and-other-modelling-delights/",
+    "thumbnail": "atlas-forecasts.png",
     "publisher": "NewScientist",
     "reporter": "Simon Ings",
-    "media": [
-      {
-        "type": "image",
-        "url": "https://cns.iu.edu/docs/news/https://institutions.newscientist.com/article/mg25133480-400-why-adding-a-road-can-increase-traffic-and-other-modelling-delights/"
-      }
-    ]
+    "media": []
   },
   {
     "slug": "pub-180",
