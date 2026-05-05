@@ -1,7 +1,7 @@
 slug: pub-121
 title: SOIC Professor Börner Co-Organizes Conference on International Collaboration
 date: '2014-05-13'
-link: https://cns.iu.edu/docs/news/20140513_CNSNews.html
+link: https://cns.iu.edu/docs/research/workshops/140514/PEGASCIS-May2014-Summary.pdf
 description: >-
   This week, [School of Informatics and Computing](http://www.soic.indiana.edu/)
   Professor [Katy Börner](http://info.slis.indiana.edu/~katy/) will participate
@@ -36,7 +36,4 @@ description: >-
   College, Duke University, and elsewhere.
 publisher: CNS News
 reporter: Todd Theriault
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/20140513_CNSNews.html
-    description: The National Science Foundation building in Arlington, VA
+thumbnail: https://cns.iu.edu/images/news/20140513_CNSNews.jpg

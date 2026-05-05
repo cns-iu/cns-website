@@ -82,8 +82,9 @@ description: >-
   science,” Theriault said.
 publisher: IDS News
 reporter: Danielle Castonzo
+thumbnail: https://cns.iu.edu/images/news/20131203_IDSNews.jpg
 media:
-  - type: image
+  - type: website
     url: https://cns.iu.edu/docs/news/20131203_IDSNews.html
     description: >-
       Exhibit curator Todd Theriault and Katy Börner, professor and director of

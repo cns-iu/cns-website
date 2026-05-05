@@ -1,7 +1,7 @@
 slug: pub-110
 title: Interactive open house shows SOIC tools
 date: '2013-11-11'
-link: https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
+link: https://cns.iu.edu/docs/news/20131111_IDSNews.pdf
 description: >-
   Students and professors trickled into Woodburn Hall, looking around at the
   screens lining the front of the room and the rows of empty tables, serving as
@@ -85,11 +85,4 @@ description: >-
   anyone can cook, anyone can map and visualize data and make sense of it.”
 publisher: IDS News
 reporter: Danielle Castonzo
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/OpenHouse2013_IDS.html
-    description: >-
-      The following is an article from IDS News. [Click
-      here](http://idsnews.com/news/story.aspx?id=95234) to see the original
-      article on the web, or download a PDF of the original article
-      [here](/docs/news/20131111_IDSNews.pdf).
+thumbnail: https://cns.iu.edu/images/home/2013_OpenHouse_IDS.jpg
