@@ -1,17 +1,19 @@
 slug: pub-159
 title: IU Bloomington Art Sculpture Learns From Its Interactions With People
-date: '2018-04-20'
-link: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
+date: 2018-04-20
+link: https://www.wfyi.org/arts-and-culture/2018-04-20/iu-bloomington-art-sculpture-learns-from-its-interactions-with-people
+thumbnail: amatria-by-lindsey-wright.png
+projects:
+  - amatria
 description: >-
   [Read original
   article](https://www.wfyi.org/news/articles/iu-bloomington-art-sculpture-learns-from-its-interactions-with-people).
 
     
+
     
 
-  Indiana University’s new School of Informatics, Computing and Engineering
-  building, Luddy Hall, is officially open [after last week’s dedication
-  ceremony](https://indianapublicmedia.org/news/luddy-hall-dedication-home-iu-departments-145315/).
+  Indiana University’s new School of Informatics, Computing and Engineering building, Luddy Hall, is officially open [after last week’s dedication ceremony](https://indianapublicmedia.org/news/luddy-hall-dedication-home-iu-departments-145315/).
 
     
 
@@ -19,57 +21,38 @@ description: >-
 
     
 
-  “Amatria” is the name of the new “sentient” art sculpture, and it’s located in
-  a glass atrium space on the building’s fourth floor.
+  “Amatria” is the name of the new “sentient” art sculpture, and it’s located in a glass atrium space on the building’s fourth floor.
 
     
 
-  Katy Börner, an information science and engineering professor at IU, says the
-  massive piece senses people as they walk past and even greets and interacts
-  with them.
+  Katy Börner, an information science and engineering professor at IU, says the massive piece senses people as they walk past and even greets and interacts with them.
 
     
 
-  “Amatria is made out of many different types of materials,” Börner says. “You
-  might see many plastic pieces, you see scaffolds made out of metal, you also
-  see glass vessels filled with vinegar serving as vinegar batteries.”
+  “Amatria is made out of many different types of materials,” Börner says. “You might see many plastic pieces, you see scaffolds made out of metal, you also see glass vessels filled with vinegar serving as vinegar batteries.”
 
     
 
-    
-
-  Phillip Beesley, a Canadian architect and artist, created the massive
-  sculpture. There are sensors throughout and even microphones that sense audio
-  levels. It senses you as you walk past and processes the information. As it
-  reacts, parts of the piece start to vibrate, light up, or make a zapping
-  sound.
 
     
 
-  Amatria then processes those interactions and ultimately learns new ways to
-  communicate with folks over time. Börner says some PhD students are analyzing
-  the data received from the sculpture to learn what those changes look like, so
-  this is just the beginning.
+  Phillip Beesley, a Canadian architect and artist, created the massive sculpture. There are sensors throughout and even microphones that sense audio levels. It senses you as you walk past and processes the information. As it reacts, parts of the piece start to vibrate, light up, or make a zapping sound.
 
     
 
-  “We want arts and humanities scholars to interact with Amatria and to help us
-  all understand how to design these smarter environments, how to implement
-  artificial intelligence systems and ultimately how to use them so we all have
-  a much more desirable future,” Börner says. “So we hope just like the Sample
-  Gates, an icon for Indiana University Bloomington, I think Amatria could be a
-  symbol for renaissance engineering here at Indiana University.”
+  Amatria then processes those interactions and ultimately learns new ways to communicate with folks over time. Börner says some PhD students are analyzing the data received from the sculpture to learn what those changes look like, so this is just the beginning.
 
     
 
-  There’s even an opportunity for middle and high school students to learn about
-  this kind of technology.
+  “We want arts and humanities scholars to interact with Amatria and to help us all understand how to design these smarter environments, how to implement artificial intelligence systems and ultimately how to use them so we all have a much more desirable future,” Börner says. “So we hope just like the Sample Gates, an icon for Indiana University Bloomington, I think Amatria could be a symbol for renaissance engineering here at Indiana University.”
 
     
 
-  The Department of Intelligent Systems Engineering is hosting summer camps
-  where students can learn about artificial intelligence. They’ll be able to
-  build small form versions of Amatria.
+  There’s even an opportunity for middle and high school students to learn about this kind of technology.
+
+    
+
+  The Department of Intelligent Systems Engineering is hosting summer camps where students can learn about artificial intelligence. They’ll be able to build small form versions of Amatria.
 
     
 
@@ -79,14 +62,7 @@ description: >-
 
   ###### ![](/images/news/20180420_katy-with-art-pic.jpg)  
 
-  Katy Börner, an information science and engineering professor at IU, says the
-  massive piece senses people as they walk past and even greets and interacts
-  with them. (Lindsey Wright/WFIU-WTIU News)
+  Katy Börner, an information science and engineering professor at IU, says the massive piece senses people as they walk past and even greets and interacts with them. (Lindsey Wright/WFIU-WTIU News)
 publisher: wfyi
 reporter: Lindsey Wright
-media:
-  - type: image
-    url: https://cns.iu.edu/docs/news/iu-bloomington-art-sculpture-learns
-    description: >-
-      It took about 200 volunteers including students from several different IU
-      schools to put the massive piece together (Lindsey Wright/WTIU-WFIU News).
+media: []
