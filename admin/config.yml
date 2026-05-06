@@ -56,7 +56,7 @@ x-shared-field-definitions:
     thumbnail: &thumbnail
       name: thumbnail
       label: Thumbnail image
-      widget: file
+      widget: image
       required: false
   misc:
     featured: &featured
