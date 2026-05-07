@@ -187,8 +187,9 @@
   {
     "slug": "vis-14",
     "title": "Movies and Actors: Mapping the Internet Movie Database",
-    "date": "2012-01-11",
+    "date": "2012-01-11T00:00:00.000Z",
     "link": "http://nwb.slis.indiana.edu/papers/2007-herr-movieact.pdf",
+    "thumbnail": "movies_and_actors_400w.png",
     "description": "by Bruce Herr, Weimao Ke, Elisha Hardy, Katy Börner",
     "media": [
       {
