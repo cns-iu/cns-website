@@ -95,8 +95,9 @@
   {
     "slug": "vis-20",
     "title": "i2b2 Ontology Visualization",
-    "date": "2017-07-20",
+    "date": "2017-07-20T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2017_i2b2_ontology.pdf",
+    "thumbnail": "visualization-i2b2ontology.png",
     "description": "Informatics for Integrating Biology and the Bedside (i2b2) data is organized by the i2b2 ontology. The SCILHS public i2b2 ontology has 490,484 concepts under root path \\\\PCORI and is 11 levels deep. The interactive ontology visualization enables i2b2 administrators and others to see the overall structure of the ontology, to examine (in)activate paths, hide branches that are not relevant, and it will soon support ontology comparisons. The visualization also enables investigators to locate specific codes/diagnosis, determine how broad the data is.",
     "media": [
       {
