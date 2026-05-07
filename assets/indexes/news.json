@@ -1913,8 +1913,12 @@
   {
     "slug": "pub-126",
     "title": "UM to host ‘Places & Spaces: Mapping Science’ visualization exhibit",
-    "date": "2014-05-01",
+    "date": "2014-05-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/news/20140501_UofMiami.pdf",
+    "thumbnail": "maps2.png",
+    "projects": [
+      "maps"
+    ],
     "description": "Starting on September 4th, the University of Miami will host [Places & Spaces: Mapping Science](http://scimaps.org/), an exhibit of 100 visualizations intended to “inspire cross-disciplinary discussion on how to best track and communicate human activity and scientific progress on a global scale.”  \n  \nThis unique and innovative exhibit is brought to UM by the [Center for Computational Science](http://ccs.miami.edu/), the [College of Arts and Sciences](http://www.as.miami.edu/), and the [School of Communication](https://com.miami.edu/). Half of the 100 visualizations will be displayed at the Stanley and Jewell Glasgow Hall on the first floor of the [School of Architecture](http://www.arc.miami.edu/). The other half, and all the 3D and interactive elements, will be on the first and second floors of the [Richter Library](http://library.miami.edu/). Other temporary displays and events will be held all over campus, including at the [Cox Science Building](http://www.as.miami.edu/biology/) and the [Lowe Art Museum](http://www6.miami.edu/lowe/).",
     "publisher": "University of Miami",
     "reporter": "Alberto Cairo",
