@@ -1,7 +1,8 @@
 slug: vis-4
 title: AcademyScope
 date: 2013-06-12T00:00:00.000Z
-link: https://cns.iu.edu//interactive_displays.html
+link: https://nap.nationalacademies.org/academy-scope/#topic=284
+thumbnail: academyscope.png
 description: >-
   *AcademyScope* is the product of a collaboration between CNS and the National
   Academy of Sciences in Washington, DC. It offers viewers a means to explore
@@ -26,10 +27,7 @@ description: >-
   [www.nap.edu/academy-scope](http://www.nap.edu/academy-scope).
 
 
-  Acknowledgements: Katy Börner (initial concept, design & interactivity
-  consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic
-  design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar
-  (programming).
+  Acknowledgements: Katy Börner (initial concept, design & interactivity consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar (programming).
 media:
   - type: image
     url: https://cns.iu.edu/images/research/visualizations/AcademyScope_400W.png
