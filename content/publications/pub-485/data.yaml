@@ -1,9 +1,8 @@
 slug: pub-485
 type: article-journal
-title: >-
-  Preparing the next generation of Complex Networks and Systems scientists:
-  Evaluation results for the Complex Networks and Systems NSF research training
-  program at Indiana University
+title: "Preparing the next generation of Complex Networks and Systems
+  scientists: Evaluation results for the Complex Networks and Systems NSF
+  research training program at Indiana University"
 date: 2026-01-27T00:00:00.000Z
 doi: 10.1371/journal.pone.0334779
 authors:
@@ -16,6 +15,8 @@ authors:
 thumbnail: pub1.26.2026.png
 publisher: PLOS
 venue: PLOS One
+volume: "21"
+issue: "1"
 featured: true
 media:
   - type: website
