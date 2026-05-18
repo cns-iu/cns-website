@@ -1,8 +1,6 @@
 slug: pub-484
 type: article-journal
-title: >-
-  A general strategy for generating expert-guided, simplified views of
-  ontologies
+title: A general strategy for generating expert-guided, simplified views of ontologies
 date: 2026-01-09T00:00:00.000Z
 doi: 10.1038/s41597-025-06383-w
 authors:
@@ -25,6 +23,8 @@ thumbnail: fig1-s41597-025-06383-w.png
 pmid: PMC11702530
 publisher: Nature
 venue: Nature Scientific Data
+volume: "13"
+issue: ""
 projects:
   - human-reference-atlas
 media:
