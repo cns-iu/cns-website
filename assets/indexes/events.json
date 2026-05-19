@@ -22,7 +22,10 @@
     "dateEnd": "2026-06-01T00:00:00.000Z",
     "thumbnail": "netsciboston2026.png",
     "location": {
-      "raw": "Boston, MA, USA"
+      "raw": "Boston, MA, USA",
+      "venue": "Hyatt Regency Boston/Cambridge",
+      "city": "Boston",
+      "state": "MA"
     }
   },
   {
