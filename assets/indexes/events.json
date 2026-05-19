@@ -32,12 +32,13 @@
     "slug": "ws-96",
     "type": "24hour",
     "title": "24 Hour Human Physiology Event",
-    "link": null,
+    "link": "https://www.youtube.com/watch?v=x3Y2bhltXZ8&list=PL-CUnYVIy7DPbiDhpt0M233PeVV9WVyDv",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
     "thumbnail": "wpp-thumbnail-blue.png",
     "location": {
-      "raw": "Remote event"
+      "raw": "",
+      "venue": "Virtual"
     },
     "projects": [
       "whole-person-physiome"
