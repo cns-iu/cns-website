@@ -10768,7 +10768,8 @@
     "dateEnd": "2026-05-12T00:00:00.000Z",
     "location": {
       "city": "Crete",
-      "postcode": "Greece"
+      "postcode": "",
+      "country": "Greece"
     }
   },
   {
