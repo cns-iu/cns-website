@@ -1189,7 +1189,8 @@
     "dateEnd": null,
     "thumbnail": "luddytechfest2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "Bloomington, Indiana, USA",
+      "venue": "Luddy School of Informatics, Computing, and Engineering"
     },
     "projects": [
       "maps",
