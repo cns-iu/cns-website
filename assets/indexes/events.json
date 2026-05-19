@@ -10572,6 +10572,11 @@
     "dateStart": "2026-08-03T00:00:00.000Z",
     "dateEnd": "2026-08-05T00:00:00.000Z",
     "thumbnail": "hra-wpp.png",
+    "location": {
+      "venue": "Luddy School for Informatics, Computing, and Engineering",
+      "city": "Bloomington",
+      "state": "IN"
+    },
     "featured": true,
     "projects": [
       "human-reference-atlas",
