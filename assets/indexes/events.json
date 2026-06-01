@@ -21696,6 +21696,22 @@
     ]
   },
   {
+    "slug": "eakzd74wpcyxiukh4f0mk",
+    "type": "conference",
+    "title": "Slush 2026",
+    "link": "https://slush.org/",
+    "dateStart": "2026-11-18T00:00:00.000Z",
+    "dateEnd": "2026-11-19T00:00:00.000Z",
+    "thumbnail": "slush-2026.jpg",
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    "presenters": [
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "amoezmwszre7k1wa0wcvq",
     "type": "presentation",
     "title": "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease",
