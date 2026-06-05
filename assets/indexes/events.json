@@ -21971,5 +21971,21 @@
     "presenters": [
       "katy-borner"
     ]
+  },
+  {
+    "slug": "0lahrp0apqgaj4ylghs3u",
+    "type": "conference",
+    "title": "Future Technologies Conference (FTC) 2017",
+    "link": "https://saiconference.com/Conferences/FTC2017",
+    "dateStart": "2017-11-29T00:00:00.000Z",
+    "dateEnd": "2017-11-30T00:00:00.000Z",
+    "location": {
+      "state": "British Columbia",
+      "country": "Canada",
+      "city": "Vancouver"
+    },
+    "projects": [
+      "amatria"
+    ]
   }
 ]
