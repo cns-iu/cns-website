@@ -10634,6 +10634,22 @@
     "event": "ev-76"
   },
   {
+    "slug": "pk0pnjmbkptonq5p3gruz",
+    "type": "other",
+    "title": "Amatria Public Tour (4:00pm–5:00pm)",
+    "dateStart": "2018-09-10T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "postcode": "",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "ogvtset6j7mbthptzexn8",
     "type": "other",
     "title": "Amatria Tour for IU Alumni",
