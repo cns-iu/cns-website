@@ -22037,6 +22037,21 @@
     ]
   },
   {
+    "slug": "a5i11miea6j86atmypdhe",
+    "type": "other",
+    "title": "Amatria Reserved Tour (10:30am)",
+    "dateStart": "2018-05-01T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "8snan10yw3k2wm60wqrot",
     "type": "presentation",
     "title": "SenNet RUI Registration Demo",
