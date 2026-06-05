@@ -10604,6 +10604,19 @@
     ]
   },
   {
+    "slug": "m58rsmu16d3dfjtvmjoea",
+    "type": "workshop",
+    "title": "HON-H 241 Dendrite Building Session 1",
+    "dateStart": "2018-04-24T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "street": "",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "country": "USA"
+    }
+  },
+  {
     "slug": "lourtd5f31xocxs11g5qh",
     "type": "celebration",
     "title": "Amatria's 8th Birthday Party",
