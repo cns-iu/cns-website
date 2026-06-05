@@ -10706,6 +10706,22 @@
     "featured": true
   },
   {
+    "slug": "n1lq7tfcorf9vn14b8ttf",
+    "type": "other",
+    "title": "IU Bloomington Tech Petting Zoo (11:00am–2:00pm)",
+    "link": "https://depi.iu.edu/events/tech-petting-zoo/index.html",
+    "dateStart": "2022-09-29T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana Memorial Union",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "mvhw769umuppbp9ul8o3r",
     "type": "other",
     "title": "Science Fest 2017",
