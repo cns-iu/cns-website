@@ -1214,6 +1214,20 @@
     ]
   },
   {
+    "slug": "s2vzs02yqkzzz3695a5vd",
+    "type": "workshop",
+    "title": "Dendrite Building Session 2",
+    "dateStart": "2017-10-12T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
