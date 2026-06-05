@@ -1065,6 +1065,21 @@
     }
   },
   {
+    "slug": "tzub66ceadq14exzhzgdr",
+    "type": "workshop",
+    "title": "Meet Amatria's Creator Philip Beesley",
+    "dateStart": "2017-11-03T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "tut-23",
     "type": "tutorial",
     "title": "Free 'R' Crash Course: Oct. 4, 11, 35 and Nov. 15",
