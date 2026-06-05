@@ -10561,6 +10561,22 @@
     "event": "ev-76"
   },
   {
+    "slug": "ogvtset6j7mbthptzexn8",
+    "type": "other",
+    "title": "Amatria Tour for IU Alumni",
+    "dateStart": "2024-06-21T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "oefo7c9sis21usrvv8ppr",
     "type": "other",
     "title": "Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration",
