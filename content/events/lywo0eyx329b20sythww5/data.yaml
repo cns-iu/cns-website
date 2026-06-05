@@ -3,5 +3,10 @@ type: other
 title: Amatria Tour for attendees of the ISSI Conference 2023
 link: https://cns-iu.github.io/workshops/2023-07-02_issi/
 dateStart: 2023-07-05
+location:
+  venue: Luddy Hall, 4th floor
+  state: Indiana
+  city: Bloomington
+  country: USA
 projects:
   - amatria

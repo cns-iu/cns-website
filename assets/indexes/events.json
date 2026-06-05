@@ -1072,11 +1072,11 @@
     "dateStart": "2023-04-11T00:00:00.000Z",
     "thumbnail": "amatria-04112023.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "projects": [
@@ -10595,8 +10595,8 @@
     "title": "Amatria Tour for IU Alumni",
     "dateStart": "2024-06-21T00:00:00.000Z",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
       "country": "USA"
@@ -10671,6 +10671,12 @@
     "title": "Amatria Tour for attendees of the ISSI Conference 2023",
     "link": "https://cns-iu.github.io/workshops/2023-07-02_issi/",
     "dateStart": "2023-07-05T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "country": "USA"
+    },
     "projects": [
       "amatria"
     ]
@@ -10685,11 +10691,11 @@
     "thumbnail": "amatria-7th-2025.png",
     "location": {
       "raw": "",
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor lobby area",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "featured": false,
@@ -10752,7 +10758,8 @@
     "location": {
       "city": "Bloomington",
       "state": "Indiana",
-      "country": "USA"
+      "country": "USA",
+      "venue": "Luddy Hall, 4th floor"
     },
     "projects": [
       "amatria"
@@ -10795,7 +10802,8 @@
     "location": {
       "city": "Bloomington",
       "state": "Indiana",
-      "country": "USA"
+      "country": "USA",
+      "venue": "Luddy Hall, 4th floor"
     },
     "projects": [
       "amatria"
@@ -10809,11 +10817,11 @@
     "dateStart": "2025-04-18T00:00:00.000Z",
     "thumbnail": "04182025.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "projects": [
@@ -21962,11 +21970,11 @@
     "dateStart": "2018-04-11T00:00:00.000Z",
     "thumbnail": "amatria-reception04112018.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor lobby area",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "projects": [
@@ -22058,11 +22066,11 @@
     "title": "Amatria Tour for IU Trustees (11:30am-12:00pm)",
     "dateStart": "2024-12-19T00:00:00.000Z",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "projects": [
@@ -22181,11 +22189,11 @@
     "dateEnd": null,
     "location": {
       "raw": "",
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "presenters": [
@@ -22210,11 +22218,11 @@
     "dateStart": "2018-04-11T00:00:00.000Z",
     "thumbnail": "birth-of-amatria04112018.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
-      "street": "700 N Woodlawn Ave, 4th floor lobby area",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408",
+      "postcode": "",
       "country": "USA"
     },
     "projects": [

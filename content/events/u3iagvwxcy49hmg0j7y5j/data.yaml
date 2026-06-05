@@ -5,11 +5,11 @@ link: https://docs.google.com/presentation/d/1sQYGiEX5tpap6WkWdj1olMHkRBbnTqTX/e
 dateStart: 2023-04-11
 thumbnail: amatria-04112023.png
 location:
-  venue: Luddy School of Informatics, Computing, and Engineering
-  street: 700 N Woodlawn Ave, 4th floor
+  venue: Luddy Hall, 4th floor
+  street: ""
   city: Bloomington
   state: Indiana
-  postcode: "47408"
+  postcode: ""
   country: USA
 projects:
   - amatria
