@@ -22164,6 +22164,23 @@
     ]
   },
   {
+    "slug": "78mh47xl2z55sny8f64ie",
+    "type": "workshop",
+    "title": "Opportunities for Undergraduate Research in Computer Science (OurCS) Workshop",
+    "link": "https://wayback.archive-it.org/219/20250506203959/https://helloresearch.luddy.indiana.edu/",
+    "dateStart": "2018-10-26T00:00:00.000Z",
+    "dateEnd": "2018-10-28T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "venue": "Indiana University",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "75vsssv58hcbdwyhh8nq1",
     "type": "presentation",
     "title": "Amatria Tour for IU Trustees (11:30am-12:00pm)",
