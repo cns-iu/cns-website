@@ -1,5 +1,20 @@
 [
   {
+    "slug": "zrklohpjgorr2540rb3bn",
+    "type": "other",
+    "title": "First Thursday (Christian Mackay)",
+    "dateStart": "2017-10-05T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": []
+  },
+  {
     "slug": "ytk328fn2anhqv3mpvqfo",
     "type": "other",
     "title": "Robot Roll Call 2017",
