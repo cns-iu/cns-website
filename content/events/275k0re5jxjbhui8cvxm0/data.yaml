@@ -1,11 +1,20 @@
 slug: 275k0re5jxjbhui8cvxm0
-type: other
+type: celebration
 title: Amatria's 6th Birthday Celebration
 link: amatria-6th-birthday-celebration-slides.pptx.pdf
 dateStart: 2024-04-11T00:00:00.000Z
 dateEnd: null
 location:
-  raw: Indiana University, Bloomington, IN
+  raw: ""
+  venue: Luddy School of Informatics, Computing, and Engineering
+  street: 700 N Woodlawn Ave
+  city: Bloomington
+  state: Indiana
+  postcode: "47408"
+  country: USA
+presenters:
+  - philip-beesley
+  - andreas-bueckle
 projects:
   - amatria
 media:
