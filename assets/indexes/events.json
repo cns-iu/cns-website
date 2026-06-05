@@ -10702,6 +10702,21 @@
     ]
   },
   {
+    "slug": "gpabfawxusyxgyf7v51rv",
+    "type": "workshop",
+    "title": "ENGR 101 Dendrite Building Session 2",
+    "dateStart": "2017-12-07T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "fah6nln7l30nk1dapbjsw",
     "type": "presentation",
     "title": "Constructing and Exploring Data Visualizations of Complex Systems",
