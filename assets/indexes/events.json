@@ -21910,6 +21910,22 @@
     ]
   },
   {
+    "slug": "3ev2y3q9bgtr4awr74muf",
+    "type": "conference",
+    "title": "CIS IEEE EnCON 2017",
+    "dateStart": "2017-11-10T00:00:00.000Z",
+    "dateEnd": "2017-11-11T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "2ya5l1rk5iazbw5qhweqp",
     "type": "other",
     "title": "Makevention 2017",
