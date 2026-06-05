@@ -7,11 +7,11 @@ dateEnd: 2026-04-17T00:00:00.000Z
 thumbnail: amatria-7th-2025.png
 location:
   raw: ""
-  venue: Luddy School of Informatics, Computing, and Engineering
-  street: 700 N Woodlawn Ave, 4th floor lobby area
+  venue: Luddy Hall, 4th floor
+  street: ""
   city: Bloomington
   state: Indiana
-  postcode: "47408"
+  postcode: ""
   country: USA
 featured: false
 projects:
