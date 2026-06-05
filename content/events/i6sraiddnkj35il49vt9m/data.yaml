@@ -6,5 +6,6 @@ location:
   city: Bloomington
   state: Indiana
   country: USA
+  venue: Luddy Hall, 4th floor
 projects:
   - amatria
