@@ -10764,6 +10764,22 @@
     ]
   },
   {
+    "slug": "kgv255an8qd2uofr9i1sr",
+    "type": "conference",
+    "title": "Makevention 2018",
+    "link": "http://makevention.org/",
+    "dateStart": "2018-08-25T00:00:00.000Z",
+    "location": {
+      "venue": "Monroe Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "kf03bd6kp1p9aaf12j6sh",
     "type": "workshop",
     "title": "Human Reference Atlas Hackathon with focus on Whole Person Physiome",
