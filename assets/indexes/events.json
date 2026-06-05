@@ -1243,22 +1243,6 @@
     ]
   },
   {
-    "slug": "qubitt8qqs2pyx0q8ek0o",
-    "type": "conference",
-    "title": "CEWiT Summit",
-    "dateStart": "2018-03-23T00:00:00.000Z",
-    "dateEnd": "2018-03-24T00:00:00.000Z",
-    "location": {
-      "venue": "Indiana University",
-      "city": "Bloomington",
-      "state": "Indiana",
-      "country": "USA"
-    },
-    "projects": [
-      "amatria"
-    ]
-  },
-  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
@@ -13878,14 +13862,21 @@
     "slug": "ev-692",
     "type": "conference",
     "title": "CEWIT Summit 2018",
-    "link": "http://www.indiana.edu/~cewit/summit2018/index.html",
-    "dateStart": "2018-03-23",
-    "dateEnd": "2018-03-24",
+    "link": "",
+    "dateStart": "2018-03-23T00:00:00.000Z",
+    "dateEnd": "2018-03-24T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
     },
     "presentations": [
       "pres-544"
+    ],
+    "projects": [
+      "amatria"
     ]
   },
   {
