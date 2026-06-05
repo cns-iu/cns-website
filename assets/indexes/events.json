@@ -10752,6 +10752,14 @@
     "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/assets/amatria7th.pdf",
     "dateStart": "2025-04-18T00:00:00.000Z",
     "thumbnail": "04182025.png",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
+    },
     "projects": [
       "amatria"
     ],
