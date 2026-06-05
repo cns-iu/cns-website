@@ -8,3 +8,5 @@ location:
   state: Indiana
   city: Bloomington
   country: USA
+projects:
+  - amatria

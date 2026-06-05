@@ -10614,7 +10614,10 @@
       "state": "Indiana",
       "city": "Bloomington",
       "country": "USA"
-    }
+    },
+    "projects": [
+      "amatria"
+    ]
   },
   {
     "slug": "lourtd5f31xocxs11g5qh",
@@ -21919,6 +21922,21 @@
       "city": "Bloomington",
       "state": "Indiana",
       "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "7hmstch7q448vyikkws5j",
+    "type": "workshop",
+    "title": "HON-H 241 Dendrite Building Session 2",
+    "dateStart": "2018-04-26T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
       "country": "USA"
     },
     "projects": [
