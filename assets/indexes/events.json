@@ -10573,6 +10573,22 @@
     "featured": true
   },
   {
+    "slug": "mvhw769umuppbp9ul8o3r",
+    "type": "other",
+    "title": "Science Fest 2017",
+    "link": "https://sciencefest.indiana.edu/",
+    "dateStart": "2017-10-21T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "lourtd5f31xocxs11g5qh",
     "type": "celebration",
     "title": "Amatria's 8th Birthday Party",
