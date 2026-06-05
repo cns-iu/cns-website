@@ -10689,6 +10689,20 @@
     ]
   },
   {
+    "slug": "i6sraiddnkj35il49vt9m",
+    "type": "other",
+    "title": "Amatria Reserved Tour (12:00pm)",
+    "dateStart": "2018-04-25T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "i2kas4a9zis82lwp0uprp",
     "type": "presentation",
     "title": "The Human Reference Organ Gallery in Virtual Reality",
