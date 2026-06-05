@@ -22270,6 +22270,22 @@
     ]
   },
   {
+    "slug": "2c4ylxo3w2d42f603iggo",
+    "type": "workshop",
+    "title": "NOAC Dendrite Workshop",
+    "link": "https://photos.app.goo.gl/ZfZmyGp5Qyyqjmfn6",
+    "dateStart": "2018-08-01T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "275k0re5jxjbhui8cvxm0",
     "type": "celebration",
     "title": "Amatria's 6th Birthday Celebration",
