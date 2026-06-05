@@ -21830,6 +21830,25 @@
     ]
   },
   {
+    "slug": "e0izefa7gwrluieulf9zs",
+    "type": "celebration",
+    "title": "VIP Reception before Amatria reveal",
+    "link": "https://photos.app.goo.gl/MR3FuhQJHeuucok17",
+    "dateStart": "2018-04-11T00:00:00.000Z",
+    "thumbnail": "amatria-reception04112018.png",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave, 4th floor lobby area",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "amoezmwszre7k1wa0wcvq",
     "type": "presentation",
     "title": "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease",
