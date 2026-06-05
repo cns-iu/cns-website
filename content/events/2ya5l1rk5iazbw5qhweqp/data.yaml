@@ -6,3 +6,9 @@ dateStart: 2017-08-26T00:00:00.000Z
 dateEnd: null
 location:
   raw: BloomingLabs, Bloomington, Indiana, USA
+  venue: BloomingLabs
+  state: Indiana
+  city: Bloomington
+  country: USA
+projects:
+  - amatria
