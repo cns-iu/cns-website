@@ -6,11 +6,11 @@ dateStart: 2024-04-11T00:00:00.000Z
 dateEnd: null
 location:
   raw: ""
-  venue: Luddy School of Informatics, Computing, and Engineering
-  street: 700 N Woodlawn Ave
+  venue: Luddy Hall, 4th floor
+  street: ""
   city: Bloomington
   state: Indiana
-  postcode: "47408"
+  postcode: ""
   country: USA
 presenters:
   - philip-beesley
