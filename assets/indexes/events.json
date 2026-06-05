@@ -2893,7 +2893,8 @@
     "dateStart": "2020-04-13T00:00:00.000Z",
     "dateEnd": "2020-04-13T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana (Virtual Event)"
+      "raw": "",
+      "venue": "Virtual"
     },
     "presenters": [
       "katy-borner",
