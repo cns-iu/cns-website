@@ -383,6 +383,7 @@ collections:
         hint: The title of the event type, i.e., the title of the event, presentation, workshop, etc.
       - <<: *link
         hint: This link embeds in the Event title
+        required: false
       - *dateStart
       - *dateEnd
       - *thumbnail
