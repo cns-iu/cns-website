@@ -5,11 +5,11 @@ link: https://cns-iu.github.io/workshops/2025-04-18-20y-cns/assets/amatria7th.pd
 dateStart: 2025-04-18
 thumbnail: 04182025.png
 location:
-  venue: Luddy School of Informatics, Computing, and Engineering
-  street: 700 N Woodlawn Ave
+  venue: Luddy Hall, 4th floor
+  street: ""
   city: Bloomington
   state: Indiana
-  postcode: "47408"
+  postcode: ""
   country: USA
 projects:
   - amatria
