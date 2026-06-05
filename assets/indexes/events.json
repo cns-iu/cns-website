@@ -1065,6 +1065,21 @@
     }
   },
   {
+    "slug": "vsm5z5bofov212l8nz97m",
+    "type": "other",
+    "title": "Pathfinders/Infosys Open House",
+    "dateStart": "2018-07-18T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "u3iagvwxcy49hmg0j7y5j",
     "type": "celebration",
     "title": "Amatria 5th Birthday Celebration (9:00am–10:00am)",
