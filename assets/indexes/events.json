@@ -10732,6 +10732,20 @@
     ]
   },
   {
+    "slug": "hqxtwhbwgzbnu8jxjw973",
+    "type": "other",
+    "title": "Amatria Reserved Tour (2:00pm)",
+    "dateStart": "2018-04-30T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "gpabfawxusyxgyf7v51rv",
     "type": "workshop",
     "title": "ENGR 101 Dendrite Building Session 2",
