@@ -22302,6 +22302,21 @@
     ]
   },
   {
+    "slug": "2pvybkkid9mayctwmtzux",
+    "type": "other",
+    "title": "Indiana University Foundation Board of Director’s Welcome Reception",
+    "dateStart": "2018-10-10T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "2c4ylxo3w2d42f603iggo",
     "type": "workshop",
     "title": "NOAC Dendrite Workshop",
