@@ -21816,6 +21816,21 @@
     ]
   },
   {
+    "slug": "737o412mft5omvc2ycl03",
+    "type": "other",
+    "title": "E599 Course in ISE",
+    "dateStart": "2017-10-16T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
