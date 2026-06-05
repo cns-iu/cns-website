@@ -1272,6 +1272,20 @@
     ]
   },
   {
+    "slug": "pvbn0rxs504l6va4ir0pl",
+    "type": "other",
+    "title": "Science Fest (9:00am–3:00pm)",
+    "dateStart": "2022-10-22T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
