@@ -21778,6 +21778,21 @@
     ]
   },
   {
+    "slug": "7os5cb0n9l47tpqmtzhjd",
+    "type": "workshop",
+    "title": "Dendrite Building Session 1",
+    "dateStart": "2017-10-05T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
