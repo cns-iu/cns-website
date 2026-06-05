@@ -22274,6 +22274,21 @@
     ]
   },
   {
+    "slug": "118ebvnsqe8ncmrlkh7oq",
+    "type": "other",
+    "title": "Amatria Reserved Tour (1:30pm)",
+    "dateStart": "2018-05-03T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "0pqnsxmzqtws06xc6t0rr",
     "type": "presentation",
     "title": "Insightful and Actionable Visual Analytics Class",
