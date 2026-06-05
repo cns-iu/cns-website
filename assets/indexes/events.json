@@ -21998,6 +21998,23 @@
     ]
   },
   {
+    "slug": "75vsssv58hcbdwyhh8nq1",
+    "type": "other",
+    "title": "Amatria Tour for IU Trustees (11:30am-12:00pm)",
+    "dateStart": "2024-12-19T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "737o412mft5omvc2ycl03",
     "type": "other",
     "title": "E599 Course in ISE",
