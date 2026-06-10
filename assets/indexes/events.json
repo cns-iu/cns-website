@@ -1299,6 +1299,20 @@
     ]
   },
   {
+    "slug": "r507wm8872lbbxovg42d3",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "dateStart": "2022-09-01",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
@@ -10915,6 +10929,22 @@
     "dateStart": "2017-12-07T00:00:00.000Z",
     "location": {
       "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "gakg7ufo18obvqh8ajoxa",
+    "type": "presentation",
+    "title": "Amatria tour for Division of Student Affairs (1:45pm-2:30pm)",
+    "link": "https://photos.app.goo.gl/cqsK8u2RwSZTbm5F6",
+    "dateStart": "2021-08-11",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
       "city": "Bloomington",
       "state": "Indiana",
       "country": "USA"
@@ -22056,6 +22086,36 @@
     ]
   },
   {
+    "slug": "cmi2blo4siuzdtvhbd2zl",
+    "type": "presentation",
+    "title": "Amatria tour for Eskenazi visitors",
+    "dateStart": "2020-02-26",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "chm0e4oaxn5i8sib4kb3x",
+    "type": "presentation",
+    "title": "Amatria tour with Colloquium for Women of IU event",
+    "dateStart": "2019-10-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "amoezmwszre7k1wa0wcvq",
     "type": "presentation",
     "title": "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease",
@@ -22199,6 +22259,80 @@
     ]
   },
   {
+    "slug": "6d9pj55zyu8oi3e0rfa0a",
+    "type": "presentation",
+    "title": "Amatria + Tavola tour for IOTW reception",
+    "dateStart": "2019-04-26",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "60w0f29p3sqbe1x59mon0",
+    "type": "other",
+    "title": "First Thursday Festival (4:00pm-7:00pm)",
+    "link": "https://photos.app.goo.gl/64Td9XK8R9V4w29s8",
+    "dateStart": "2021-11-04",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5zk5dx5cyirs66fejvd6q",
+    "type": "celebration",
+    "title": "Amatria 1st Birthday Celebration! (3:00pm-5:00pm)",
+    "dateStart": "2019-04-11",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5y6ko79cu0umhe64zafhp",
+    "type": "other",
+    "title": "Science Fest (9:00am-3:00pm)",
+    "dateStart": "2022-10-22",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5y4vyjucerszgvd0of6iw",
+    "type": "presentation",
+    "title": "Amatria tour for Intelligent Systems Engineering (ISE) job candidate (1:45pm-2:00pm)",
+    "dateStart": "2019-03-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
@@ -22214,6 +22348,127 @@
     ],
     "projects": [
       "human-reference-atlas"
+    ]
+  },
+  {
+    "slug": "5nggpc6kyq17hdf69oslr",
+    "type": "other",
+    "title": "Makevention (10:00am-4:00pm)",
+    "link": "https://makevention.org/",
+    "dateStart": "2021-08-28",
+    "location": {
+      "venue": "Bloomington Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "photo-gallery",
+        "link": "https://photos.app.goo.gl/LDHLGa5u4Bb8yim77"
+      }
+    ]
+  },
+  {
+    "slug": "5lxyayhm5axbvt15az9v6",
+    "type": "presentation",
+    "title": "Amatria tour for Campus Visit for Purdue Polytechnic High School Students (12:40pm-1:10pm)",
+    "dateStart": "2022-10-05",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5kqgi9e2nln2y7mg3lyxo",
+    "type": "presentation",
+    "title": "Amatria tour for CRANE/WestGate",
+    "dateStart": "2019-05-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5hs7wbcpv6bl8xfgo912n",
+    "type": "presentation",
+    "title": "Amatria tour for Women's Colloquium",
+    "dateStart": "2019-10-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5h60u53onne3bzxngothq",
+    "type": "celebration",
+    "title": "Amatria 4th Birthday Celebration (9:00am-10:00am)",
+    "link": "https://photos.app.goo.gl/FrRYoCyxFniP5NVC8",
+    "dateStart": "2022-04-11",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=MdTZeCgFbio&t=21s",
+        "description": "Video"
+      }
+    ]
+  },
+  {
+    "slug": "5catnnv80thn9anbrpmof",
+    "type": "workshop",
+    "title": "MLK Dendrite Workshop (11:00am-2:00pm)",
+    "link": "https://photos.app.goo.gl/qSuNtpPBrcjYdsi88",
+    "dateStart": "2019-01-21",
+    "location": {
+      "venue": "SICE LLC Innovative Space, Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "557nwjvkycat0bm9pgl1k",
+    "type": "presentation",
+    "title": "Amatria tour for Harmony School and Dean Raj",
+    "dateStart": "2019-11-08",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -22253,6 +22508,82 @@
     ]
   },
   {
+    "slug": "4pf6o9zn1vi54uhkidp2e",
+    "type": "presentation",
+    "title": "Amatria tour for Project School with Alexis Caudell",
+    "dateStart": "2019-05-03",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4nv6n7bv3ak9iuk7mme4m",
+    "type": "presentation",
+    "title": "Amatria tour for summer camp participants",
+    "dateStart": "2019-06-20",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4ltjs1rrcfc71955inrar",
+    "type": "other",
+    "title": "Andrew Maple Amatria 360 photo shoot",
+    "dateStart": "2019-12-04",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4954jmsehvaj3avv5uucm",
+    "type": "presentation",
+    "title": "Amatria Tour with Governor Eric Holcomb, IU President McRobbie and Dean Raj",
+    "dateStart": "2019-06-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "40ok174v0v88rlnw8if0j",
+    "type": "presentation",
+    "title": "Amatria tour for Center of Excellence for Women & Technology’s affiliate students",
+    "link": "https://photos.app.goo.gl/ka1VJ5MHsDzwunM46",
+    "dateStart": "2021-10-27",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "3poqwoadov91xu64uckgu",
     "type": "presentation",
     "title": "Amatria Public Tour (4:00pm–5:00pm)",
@@ -22268,6 +22599,31 @@
     ]
   },
   {
+    "slug": "3j24a19it3uwxu68vn56b",
+    "type": "presentation",
+    "title": "IU ERI talk/Eric Mathis (LASG)",
+    "dateStart": "2020-02-07",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3ho86xad6fkqvtfo8vdpq",
+    "type": "celebration",
+    "title": "Amatria 3rd Birthday Celebration (9:00am-10:00am)",
+    "link": "https://www.youtube.com/watch?v=fR0GdoUimL0",
+    "dateStart": "2021-04-12",
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "3ev2y3q9bgtr4awr74muf",
     "type": "conference",
     "title": "CIS IEEE EnCON 2017",
@@ -22275,6 +22631,21 @@
     "dateEnd": "2017-11-11T00:00:00.000Z",
     "location": {
       "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "32cd861vwg6saafxzr560",
+    "type": "presentation",
+    "title": "Amatria Public Tour (12:00pm-1:00pm and 4:00pm-5:00pm)",
+    "dateStart": "2019-03-21",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
       "city": "Bloomington",
       "state": "Indiana",
       "country": "USA"
@@ -22302,10 +22673,55 @@
     ]
   },
   {
+    "slug": "2wv4ic2pe1hyyzk5onlc3",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/V5pYEMAKfVoouoFK7",
+    "dateStart": "2021-10-07",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2wh4siuh7el0bljzlbwiu",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/6bkQJpAUom892KfbA",
+    "dateStart": "2021-09-02",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "2u5qxadfyv1rejvorspux",
     "type": "presentation",
     "title": "Amatria Public Tour (2:30pm–3:30pm)",
     "dateStart": "2018-06-21T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2sakz28155eqaoh2prtmb",
+    "type": "presentation",
+    "title": "Amatria tour for Project School tour (10:00am-10:45am)",
+    "dateStart": "2019-05-03",
     "location": {
       "venue": "Luddy Hall, 4th floor",
       "city": "Bloomington",
@@ -22323,6 +22739,58 @@
     "dateStart": "2018-10-10T00:00:00.000Z",
     "location": {
       "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2oohutmhwsbjoqgemiubr",
+    "type": "celebration",
+    "title": "Amatria 2nd Birthday Celebration (9:00am-10:00am)",
+    "dateStart": "2020-04-13",
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/w3wIoIAkjL0",
+        "description": "Video"
+      },
+      {
+        "type": "other",
+        "url": "https://soundcloud.com/gabriel-lubell/a-bloom-for-amatria",
+        "description": "Song: A Bloom (for Amatria), by Gabriel Lubell"
+      }
+    ]
+  },
+  {
+    "slug": "2etbwwyqe1kfey8e1ano0",
+    "type": "presentation",
+    "title": "Amatria tour for Intelligent Systems Engineering (ISE) job candidate (1:45pm-2:00pm)",
+    "dateStart": "2019-04-02",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2djfinx83d2th7ofvjict",
+    "type": "presentation",
+    "title": "Amatria tour for New Data Science Master students",
+    "link": "https://photos.app.goo.gl/sTUnNhZ4kUEcVZcu9",
+    "dateStart": "2021-08-16",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
       "city": "Bloomington",
       "state": "Indiana",
       "country": "USA"
@@ -22378,6 +22846,22 @@
     ]
   },
   {
+    "slug": "24lksxkflzi029hq7l7sm",
+    "type": "other",
+    "title": "Makevention (10:00am-4:00pm)",
+    "link": "https://makevention.org/",
+    "dateStart": "2022-08-27",
+    "location": {
+      "venue": "Monroe Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "22k9gkebvkvr6dcrwvohl",
     "type": "celebration",
     "title": "Birth of Amatria with 'dad' Philip Beesley and his team",
@@ -22390,6 +22874,100 @@
       "city": "Bloomington",
       "state": "Indiana",
       "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1tsb31n2v2slhl0vsrsxe",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/8hYCF2DQzCUuSFff7",
+    "dateStart": "2022-04-07",
+    "location": {
+      "venue": "IU Auditorium",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1gh62kv33iq0xxvgpd1v4",
+    "type": "other",
+    "title": "IU Bloomington Tech Petting Zoo (11:00am-2:00pm)",
+    "link": "https://depi.iu.edu/events/tech-petting-zoo/index.html",
+    "dateStart": "2022-09-29",
+    "location": {
+      "venue": "Indiana Memorial Union",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1aru7ycw42edrse5zewap",
+    "type": "presentation",
+    "title": "Amatria tour for Research Experiences for Undergraduates (3:45pm-4:15pm)",
+    "link": "https://photos.app.goo.gl/vkPSyjiZVr7zJQjb9",
+    "dateStart": "2022-06-21",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "18mg0eo4r68e7y1414oxs",
+    "type": "other",
+    "title": "Meditation under Amatria with Philip Beesley, David Ebbinghouse, and Bo Choi (11:00am-11:30am)",
+    "link": "https://photos.app.goo.gl/2YDuqHpiByXfyhgh7",
+    "dateStart": "2019-01-04",
+    "location": {
+      "venue": "SICE LLC Innovative Space, Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "178ci0811y6a4beyh0jbe",
+    "type": "workshop",
+    "title": "Assembling Fascinators Workshop",
+    "dateStart": "2019-10-07",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "14azgs7hfywgp28prghm8",
+    "type": "presentation",
+    "title": "Amatria tour for Data Science Online students (2:30pm-3:00pm)",
+    "dateStart": "2020-02-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
       "country": "USA"
     },
     "projects": [
