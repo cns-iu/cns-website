@@ -2958,10 +2958,10 @@
   {
     "slug": "pres-632",
     "type": "celebration",
-    "title": "Amatria's 2nd Birthday Celebration",
+    "title": "Amatria's 2nd Birthday Celebration (9:00am-10:00am)",
     "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf",
     "dateStart": "2020-04-13T00:00:00.000Z",
-    "dateEnd": "2020-04-13T00:00:00.000Z",
+    "dateEnd": "",
     "location": {
       "raw": "",
       "venue": "Virtual"
@@ -2978,7 +2978,11 @@
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/watch?v=w3wIoIAkjL0"
+        "url": "https://youtu.be/w3wIoIAkjL0"
+      },
+      {
+        "type": "other",
+        "url": "https://soundcloud.com/gabriel-lubell/a-bloom-for-amatria"
       }
     ]
   },
@@ -22745,27 +22749,6 @@
     },
     "projects": [
       "amatria"
-    ]
-  },
-  {
-    "slug": "2oohutmhwsbjoqgemiubr",
-    "type": "celebration",
-    "title": "Amatria 2nd Birthday Celebration (9:00am-10:00am)",
-    "dateStart": "2020-04-13",
-    "projects": [
-      "amatria"
-    ],
-    "media": [
-      {
-        "type": "video",
-        "url": "https://youtu.be/w3wIoIAkjL0",
-        "description": "Video"
-      },
-      {
-        "type": "other",
-        "url": "https://soundcloud.com/gabriel-lubell/a-bloom-for-amatria",
-        "description": "Song: A Bloom (for Amatria), by Gabriel Lubell"
-      }
     ]
   },
   {
