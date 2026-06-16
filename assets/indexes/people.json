@@ -3293,6 +3293,20 @@
     "roles": []
   },
   {
+    "slug": "siddhi-chavan",
+    "name": "Siddhi Chavan",
+    "lastName": "Chavan",
+    "image": "siddhi-chavan.jpg",
+    "roles": [
+      {
+        "type": "member",
+        "title": "Research Assistant",
+        "status": "full-time",
+        "dateStart": "2026-06-02T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "siddharth-apte",
     "name": "Siddharth Apte",
     "lastName": "Apte",
