@@ -2303,7 +2303,8 @@
   {
     "slug": "swathi-thaker",
     "name": "Swathi Thaker",
-    "lastName": "Thaker"
+    "lastName": "Thaker",
+    "roles": []
   },
   {
     "slug": "swapnil-pardeshi",
@@ -3050,7 +3051,8 @@
   {
     "slug": "srinivasan-ramachandran",
     "name": "Srinivasan Ramachandran",
-    "lastName": "Ramachandran"
+    "lastName": "Ramachandran",
+    "roles": []
   },
   {
     "slug": "srinivas-vaddi",
@@ -9003,7 +9005,8 @@
   {
     "slug": "mackenzie-brandes",
     "name": "MacKenzie Brandes",
-    "lastName": "Brandes"
+    "lastName": "Brandes",
+    "roles": []
   },
   {
     "slug": "mac-vogelsang",
@@ -13994,7 +13997,8 @@
   {
     "slug": "erika-zheng",
     "name": "Erika Zheng",
-    "lastName": "Zheng"
+    "lastName": "Zheng",
+    "roles": []
   },
   {
     "slug": "erik-van-mulligen",
@@ -14691,7 +14695,8 @@
   {
     "slug": "ding-wang",
     "name": "Ding Wang",
-    "lastName": "Wang"
+    "lastName": "Wang",
+    "roles": []
   },
   {
     "slug": "dilyana-b-mangarova",
@@ -16427,7 +16432,8 @@
   {
     "slug": "caitlin-ree",
     "name": "Caitlin Ree",
-    "lastName": "Ree"
+    "lastName": "Ree",
+    "roles": []
   },
   {
     "slug": "caitlin-brown",
@@ -17067,7 +17073,8 @@
   {
     "slug": "benjamin-stear",
     "name": "Benjamin Stear",
-    "lastName": "Stear"
+    "lastName": "Stear",
+    "roles": []
   },
   {
     "slug": "benjamin-ray-gonzalez-jr",
@@ -17594,7 +17601,8 @@
   {
     "slug": "anton-nekrutenko",
     "name": "Anton Nekrutenko",
-    "lastName": "Nekrutenko"
+    "lastName": "Nekrutenko",
+    "roles": []
   },
   {
     "slug": "anton-heijs",
