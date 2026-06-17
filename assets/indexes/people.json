@@ -2265,6 +2265,11 @@
     ]
   },
   {
+    "slug": "swathi-thaker",
+    "name": "Swathi Thaker",
+    "lastName": "Thaker"
+  },
+  {
     "slug": "swapnil-pardeshi",
     "name": "Swapnil Pardeshi",
     "lastName": "Pardeshi",
@@ -2993,6 +2998,11 @@
         "dateEnd": "2022-09-03"
       }
     ]
+  },
+  {
+    "slug": "srinivasan-ramachandran",
+    "name": "Srinivasan Ramachandran",
+    "lastName": "Ramachandran"
   },
   {
     "slug": "srinivas-vaddi",
@@ -8817,6 +8827,11 @@
     "roles": []
   },
   {
+    "slug": "mackenzie-brandes",
+    "name": "MacKenzie Brandes",
+    "lastName": "Brandes"
+  },
+  {
     "slug": "mac-vogelsang",
     "name": "Mac Vogelsang",
     "lastName": "Vogelsang",
@@ -14374,6 +14389,11 @@
     "roles": []
   },
   {
+    "slug": "ding-wang",
+    "name": "Ding Wang",
+    "lastName": "Wang"
+  },
+  {
     "slug": "dilyana-b-mangarova",
     "name": "Dilyana B. Mangarova",
     "lastName": "Mangarova",
@@ -16033,6 +16053,11 @@
     "roles": []
   },
   {
+    "slug": "caitlin-ree",
+    "name": "Caitlin Ree",
+    "lastName": "Ree"
+  },
+  {
     "slug": "caitlin-brown",
     "name": "Caitlin Brown",
     "lastName": "Brown",
@@ -17169,6 +17194,11 @@
     "name": "Anup Sood",
     "lastName": "Sood",
     "roles": []
+  },
+  {
+    "slug": "anton-nekrutenko",
+    "name": "Anton Nekrutenko",
+    "lastName": "Nekrutenko"
   },
   {
     "slug": "anton-heijs",
