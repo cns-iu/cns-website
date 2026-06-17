@@ -919,6 +919,11 @@
     ]
   },
   {
+    "slug": "wei-wang",
+    "name": "Wei Wang",
+    "lastName": "Wang"
+  },
+  {
     "slug": "wei-jun-qian",
     "name": "Wei-Jun Qian",
     "lastName": "Qian",
@@ -1120,6 +1125,11 @@
     "roles": []
   },
   {
+    "slug": "vincent-t-metzger",
+    "name": "Vincent T. Metzger",
+    "lastName": "Metzger"
+  },
+  {
     "slug": "vincent-lariviere",
     "name": "Vincent Larivière",
     "lastName": "Larivière",
@@ -1289,10 +1299,20 @@
     "roles": []
   },
   {
+    "slug": "vennela-gajjala",
+    "name": "Vennela Gajjala",
+    "lastName": "Gajjala"
+  },
+  {
     "slug": "vatsal-jatakia",
     "name": "Vatsal Jatakia",
     "lastName": "Jatakia",
     "roles": []
+  },
+  {
+    "slug": "varduhi-petrosyan",
+    "name": "Varduhi Petrosyan",
+    "lastName": "Petrosyan"
   },
   {
     "slug": "vamshidhar-behara",
@@ -1451,6 +1471,11 @@
         "dateEnd": "2005-09-01"
       }
     ]
+  },
+  {
+    "slug": "tudor-i-oprea",
+    "name": "Tudor I. Oprea",
+    "lastName": "Oprea"
   },
   {
     "slug": "trey-ideker",
@@ -1735,6 +1760,11 @@
     "name": "Timothy Hays",
     "lastName": "Hays",
     "roles": []
+  },
+  {
+    "slug": "timothy-clark",
+    "name": "Timothy Clark",
+    "lastName": "Clark"
   },
   {
     "slug": "timothy-a-sutton",
@@ -2413,6 +2443,11 @@
     "roles": []
   },
   {
+    "slug": "surya-saha",
+    "name": "Surya Saha",
+    "lastName": "Saha"
+  },
+  {
     "slug": "supriya-bidanta",
     "name": "Supriya Bidanta",
     "lastName": "Bidanta",
@@ -2612,6 +2647,11 @@
         "dateEnd": "2023-04-28"
       }
     ]
+  },
+  {
+    "slug": "sumana-srinivasan",
+    "name": "Sumana Srinivasan",
+    "lastName": "Srinivasan"
   },
   {
     "slug": "sujin-lee",
@@ -3491,6 +3531,11 @@
     ]
   },
   {
+    "slug": "sherry-l-jenkins",
+    "name": "Sherry L. Jenkins",
+    "lastName": "Jenkins"
+  },
+  {
     "slug": "shenyi-li",
     "name": "Shenyi Li",
     "lastName": "Li",
@@ -3539,6 +3584,11 @@
         "dateEnd": "2007-10-07"
       }
     ]
+  },
+  {
+    "slug": "shava-smallen",
+    "name": "Shava Smallen",
+    "lastName": "Smallen"
   },
   {
     "slug": "shashikant-penumarthy",
@@ -3597,6 +3647,11 @@
     "name": "Shannon Kolind",
     "lastName": "Kolind",
     "roles": []
+  },
+  {
+    "slug": "shankar-subramaniam",
+    "name": "Shankar Subramaniam",
+    "lastName": "Subramaniam"
   },
   {
     "slug": "shana-maikhor",
@@ -3731,6 +3786,16 @@
         "dateEnd": "2010-12-01"
       }
     ]
+  },
+  {
+    "slug": "sean-kim",
+    "name": "Sean Kim",
+    "lastName": "Kim"
+  },
+  {
+    "slug": "sean-davis",
+    "name": "Sean Davis",
+    "lastName": "Davis"
   },
   {
     "slug": "screenivas-bhattiprolu",
@@ -3964,6 +4029,11 @@
     "name": "Sarah Renee Zappone",
     "lastName": "Zappone",
     "roles": []
+  },
+  {
+    "slug": "sarah-k-tasian",
+    "name": "Sarah K. Tasian",
+    "lastName": "Tasian"
   },
   {
     "slug": "sarah-huggett",
@@ -5305,6 +5375,11 @@
     "roles": []
   },
   {
+    "slug": "rene-ranzinger",
+    "name": "Rene Ranzinger",
+    "lastName": "Ranzinger"
+  },
+  {
     "slug": "renald-buter",
     "name": "Renald Buter",
     "lastName": "Buter",
@@ -5516,6 +5591,11 @@
     "name": "Raja Sooriamurthi",
     "lastName": "Sooriamurthi",
     "roles": []
+  },
+  {
+    "slug": "raja-mazumder",
+    "name": "Raja Mazumder",
+    "lastName": "Mazumder"
   },
   {
     "slug": "raj-chavan",
@@ -5788,6 +5868,11 @@
     "name": "Presha Rajbhandari",
     "lastName": "Rajbhandari",
     "roles": []
+  },
+  {
+    "slug": "praveen-kumar-0000-0002-4981-9020",
+    "name": "Praveen Kumar",
+    "lastName": "Kumar"
   },
   {
     "slug": "praveen-kumar",
@@ -6088,6 +6173,11 @@
     "roles": []
   },
   {
+    "slug": "peter-j-park",
+    "name": "Peter J. Park",
+    "lastName": "Park"
+  },
+  {
     "slug": "peter-ingwersen",
     "name": "Peter Ingwersen",
     "lastName": "Ingwersen",
@@ -6172,6 +6262,11 @@
     "name": "Per-Olov Andersson",
     "lastName": "Andersson",
     "roles": []
+  },
+  {
+    "slug": "peipei-ping",
+    "name": "Peipei Ping",
+    "lastName": "Ping"
   },
   {
     "slug": "pehr-harbury",
@@ -6585,6 +6680,11 @@
         "dateEnd": "2005-12-31"
       }
     ]
+  },
+  {
+    "slug": "noel-p-burtt",
+    "name": "Noël P. Burtt",
+    "lastName": "Burtt"
   },
   {
     "slug": "noa-rappaport",
@@ -7295,6 +7395,11 @@
     ]
   },
   {
+    "slug": "monica-c-munoz-torres",
+    "name": "Monica C. Munoz-Torres",
+    "lastName": "Munoz-Torres"
+  },
+  {
     "slug": "mohd-saiful-nizam-bahari",
     "name": "Mohd Saiful Nizam Bahari",
     "lastName": "Bahari",
@@ -7539,6 +7644,11 @@
     "roles": []
   },
   {
+    "slug": "michael-tiemeyer",
+    "name": "Michael Tiemeyer",
+    "lastName": "Tiemeyer"
+  },
+  {
     "slug": "michael-t-eadon",
     "name": "Michael T. Eadon",
     "lastName": "Eadon",
@@ -7741,6 +7851,11 @@
     ]
   },
   {
+    "slug": "michael-c-schatz",
+    "name": "Michael C. Schatz",
+    "lastName": "Schatz"
+  },
+  {
     "slug": "michael-c-richey",
     "name": "Michael C. Richey",
     "lastName": "Richey",
@@ -7809,6 +7924,11 @@
     "name": "Mia R. Colona",
     "lastName": "Colona",
     "roles": []
+  },
+  {
+    "slug": "mia-p-levanto",
+    "name": "Mia P. Levanto",
+    "lastName": "Levanto"
   },
   {
     "slug": "meryl-jacob",
@@ -8063,6 +8183,11 @@
     "roles": []
   },
   {
+    "slug": "matthew-t-wheeler",
+    "name": "Matthew T. Wheeler",
+    "lastName": "Wheeler"
+  },
+  {
     "slug": "matthew-spremulli",
     "name": "Matthew Spremulli",
     "lastName": "Spremulli",
@@ -8103,6 +8228,11 @@
     "name": "Matthew Hartley",
     "lastName": "Hartley",
     "roles": []
+  },
+  {
+    "slug": "matthew-e-roth",
+    "name": "Matthew E. Roth",
+    "lastName": "Roth"
   },
   {
     "slug": "matthew-cockerill",
@@ -8288,6 +8418,11 @@
     "name": "Martin Abt",
     "lastName": "Abt",
     "roles": []
+  },
+  {
+    "slug": "martin-a-lindquist",
+    "name": "Martin A. Lindquist",
+    "lastName": "Lindquist"
   },
   {
     "slug": "martijn-schuemie",
@@ -8493,6 +8628,11 @@
     "name": "Mariko Sasakura",
     "lastName": "Sasakura",
     "roles": []
+  },
+  {
+    "slug": "mariia-kim",
+    "name": "Mariia Kim",
+    "lastName": "Kim"
   },
   {
     "slug": "marianne-horlesberger",
@@ -8720,6 +8860,11 @@
     "name": "Mano R. Maurya",
     "lastName": "Maurya",
     "roles": []
+  },
+  {
+    "slug": "manju-anandakrishnan",
+    "name": "Manju Anandakrishnan",
+    "lastName": "Anandakrishnan"
   },
   {
     "slug": "manashree-rao",
@@ -9183,6 +9328,11 @@
     "roles": []
   },
   {
+    "slug": "lily-d-taub",
+    "name": "Lily D. Taub",
+    "lastName": "Taub"
+  },
+  {
     "slug": "lihong-shi",
     "name": "Lihong Shi",
     "lastName": "Shi",
@@ -9540,6 +9690,11 @@
     "roles": []
   },
   {
+    "slug": "lafrancis-gibson",
+    "name": "LaFrancis Gibson",
+    "lastName": "Gibson"
+  },
+  {
     "slug": "lada-adamic",
     "name": "Lada Adamic",
     "lastName": "Adamic",
@@ -9551,6 +9706,11 @@
     "name": "Kylie Peppler",
     "lastName": "Peppler",
     "roles": []
+  },
+  {
+    "slug": "kyle-j-gaulton",
+    "name": "Kyle J. Gaulton",
+    "lastName": "Gaulton"
   },
   {
     "slug": "kwangsik-nho",
@@ -9794,6 +9954,11 @@
     ]
   },
   {
+    "slug": "keyang-yu",
+    "name": "Keyang Yu",
+    "lastName": "Yu"
+  },
+  {
     "slug": "kevin-yu",
     "name": "Kevin Yu",
     "lastName": "Yu",
@@ -9918,6 +10083,11 @@
     "name": "Kelly Streepy",
     "lastName": "Streepy",
     "roles": []
+  },
+  {
+    "slug": "kelli-bursey",
+    "name": "Kelli Bursey",
+    "lastName": "Bursey"
   },
   {
     "slug": "keith-nesbitt",
@@ -10198,6 +10368,11 @@
     "name": "Karen G. Dowell",
     "lastName": "Dowell",
     "roles": []
+  },
+  {
+    "slug": "karen-e-ross",
+    "name": "Karen E. Ross",
+    "lastName": "Ross"
   },
   {
     "slug": "karen-christensen",
@@ -10914,6 +11089,11 @@
     "roles": []
   },
   {
+    "slug": "john-michael-rincon",
+    "name": "John Michael Rincon",
+    "lastName": "Rincon"
+  },
+  {
     "slug": "john-m-beggs",
     "name": "John M. Beggs",
     "lastName": "Beggs",
@@ -10955,6 +11135,11 @@
     "name": "John Fieber",
     "lastName": "Fieber",
     "roles": []
+  },
+  {
+    "slug": "john-erol-evangelista",
+    "name": "John Erol Evangelista",
+    "lastName": "Evangelista"
   },
   {
     "slug": "john-ellson",
@@ -11149,6 +11334,11 @@
     "roles": []
   },
   {
+    "slug": "jimmy-zhen",
+    "name": "Jimmy Zhen",
+    "lastName": "Zhen"
+  },
+  {
     "slug": "jimmy-wales",
     "name": "Jimmy Wales",
     "lastName": "Wales",
@@ -11320,6 +11510,11 @@
     ]
   },
   {
+    "slug": "jeremy-j-yang",
+    "name": "Jeremy J. Yang",
+    "lastName": "Yang"
+  },
+  {
     "slug": "jeremy-fisher",
     "name": "Jeremy Fisher",
     "lastName": "Fisher",
@@ -11408,6 +11603,11 @@
     ]
   },
   {
+    "slug": "jennifer-burnette",
+    "name": "Jennifer Burnette",
+    "lastName": "Burnette"
+  },
+  {
     "slug": "jen-gerber",
     "name": "Jen Gerber",
     "lastName": "Gerber",
@@ -11428,6 +11628,11 @@
         "dateEnd": "2017-09-29"
       }
     ]
+  },
+  {
+    "slug": "jeffrey-s-grethe",
+    "name": "Jeffrey S. Grethe",
+    "lastName": "Grethe"
   },
   {
     "slug": "jeffrey-purkerson",
@@ -11624,6 +11829,11 @@
     "name": "Jason H. Moore",
     "lastName": "Moore",
     "roles": []
+  },
+  {
+    "slug": "jason-flannick",
+    "name": "Jason Flannick",
+    "lastName": "Flannick"
   },
   {
     "slug": "jason-dykes",
@@ -11920,6 +12130,11 @@
     "roles": []
   },
   {
+    "slug": "jake-y-chen",
+    "name": "Jake Y. Chen",
+    "lastName": "Chen"
+  },
+  {
     "slug": "jake-colautti",
     "name": "Jake Colautti",
     "lastName": "Colautti",
@@ -12052,6 +12267,16 @@
     "name": "J. David Roessner",
     "lastName": "Roessner",
     "roles": []
+  },
+  {
+    "slug": "j-alan-simmons",
+    "name": "J. Alan Simmons",
+    "lastName": "Simmons"
+  },
+  {
+    "slug": "ivan-cao-berg",
+    "name": "Ivan Cao-Berg",
+    "lastName": "Cao-Berg"
   },
   {
     "slug": "iuni",
@@ -12224,6 +12449,11 @@
     "roles": []
   },
   {
+    "slug": "ido-diamant",
+    "name": "Ido Diamant",
+    "lastName": "Diamant"
+  },
+  {
     "slug": "ibrahim-al-bakir",
     "name": "Ibrahim Al Bakir",
     "lastName": "Al Bakir",
@@ -12270,6 +12500,11 @@
     "name": "Ian Aliman",
     "lastName": "Aliman",
     "roles": []
+  },
+  {
+    "slug": "hye-jung-e-chun",
+    "name": "Hye-Jung E. Chun",
+    "lastName": "Chun"
   },
   {
     "slug": "huseyin-kir",
@@ -12703,6 +12938,11 @@
         "dateEnd": "2005-08-31"
       }
     ]
+  },
+  {
+    "slug": "hardik-dodia",
+    "name": "Hardik Dodia",
+    "lastName": "Dodia"
   },
   {
     "slug": "haojia-wu",
@@ -14269,6 +14509,11 @@
     "roles": []
   },
   {
+    "slug": "dongkeun-jang",
+    "name": "Dongkeun Jang",
+    "lastName": "Jang"
+  },
+  {
     "slug": "dong-yuan-chang",
     "name": "Dong-yuan Chang",
     "lastName": "Chang",
@@ -14317,6 +14562,11 @@
     "name": "Dominic DiFranzo",
     "lastName": "DiFranzo",
     "roles": []
+  },
+  {
+    "slug": "dominic-bordelon",
+    "name": "Dominic Bordelon",
+    "lastName": "Bordelon"
   },
   {
     "slug": "dmitrii-a-galantsev",
@@ -14606,6 +14856,11 @@
     "roles": []
   },
   {
+    "slug": "deanne-m-taylor",
+    "name": "Deanne M. Taylor",
+    "lastName": "Taylor"
+  },
+  {
     "slug": "dean-b-krafft",
     "name": "Dean B. Krafft",
     "lastName": "Krafft",
@@ -14754,6 +15009,11 @@
         "dateEnd": "2016-08-18"
       }
     ]
+  },
+  {
+    "slug": "david-jimenez-morales",
+    "name": "David Jimenez-Morales",
+    "lastName": "Jimenez-Morales"
   },
   {
     "slug": "david-hormuth",
@@ -15050,6 +15310,16 @@
     ]
   },
   {
+    "slug": "daniel-j-crichton",
+    "name": "Daniel J. Crichton",
+    "lastName": "Crichton"
+  },
+  {
+    "slug": "daniel-j-b-clarke",
+    "name": "Daniel J. B. Clarke",
+    "lastName": "Clarke"
+  },
+  {
     "slug": "daniel-hickey",
     "name": "Daniel Hickey",
     "lastName": "Hickey",
@@ -15100,6 +15370,11 @@
     ]
   },
   {
+    "slug": "daniel-h-katz",
+    "name": "Daniel H. Katz",
+    "lastName": "Katz"
+  },
+  {
     "slug": "daniel-bolin",
     "name": "Daniel Bolin",
     "lastName": "Bolin",
@@ -15127,6 +15402,11 @@
     "name": "Daniel A. Keim",
     "lastName": "Keim",
     "roles": []
+  },
+  {
+    "slug": "daniall-masood",
+    "name": "Daniall Masood",
+    "lastName": "Masood"
   },
   {
     "slug": "danial-qaurooni",
@@ -15252,6 +15532,11 @@
     "name": "Cristina Aguayo-Mazzucato",
     "lastName": "Aguayo-Mazzucato",
     "roles": []
+  },
+  {
+    "slug": "cristian-g-bologa",
+    "name": "Cristian G. Bologa",
+    "lastName": "Bologa"
   },
   {
     "slug": "crest",
@@ -15443,6 +15728,11 @@
     ]
   },
   {
+    "slug": "chuming-chen",
+    "name": "Chuming Chen",
+    "lastName": "Chen"
+  },
+  {
     "slug": "chuck-mccallum",
     "name": "Chuck McCallum",
     "lastName": "McCallum",
@@ -15477,6 +15767,11 @@
     "name": "Christopher R Anderson",
     "lastName": "Anderson",
     "roles": []
+  },
+  {
+    "slug": "christopher-nemarich",
+    "name": "Christopher Nemarich",
+    "lastName": "Nemarich"
   },
   {
     "slug": "christopher-n-warren",
@@ -15565,6 +15860,11 @@
     "name": "Christopher Brooks",
     "lastName": "Brooks",
     "roles": []
+  },
+  {
+    "slug": "christophe-g-lambert",
+    "name": "Christophe G. Lambert",
+    "lastName": "Lambert"
   },
   {
     "slug": "christine-surrette",
@@ -15844,6 +16144,11 @@
     "roles": []
   },
   {
+    "slug": "cathy-h-wu",
+    "name": "Cathy H. Wu",
+    "lastName": "Wu"
+  },
+  {
     "slug": "catherine-qing",
     "name": "Catherine Qing",
     "lastName": "Qing",
@@ -15888,6 +16193,11 @@
     "name": "Cassidy Sugimoto",
     "lastName": "Sugimoto",
     "roles": []
+  },
+  {
+    "slug": "casey-s-greene",
+    "name": "Casey S. Greene",
+    "lastName": "Greene"
   },
   {
     "slug": "carsten-waldeck",
@@ -16687,6 +16997,11 @@
     "roles": []
   },
   {
+    "slug": "bernard-de-bono",
+    "name": "Bernard de Bono",
+    "lastName": "de Bono"
+  },
+  {
     "slug": "benjamin-stear",
     "name": "Benjamin Stear",
     "lastName": "Stear"
@@ -16899,6 +17214,11 @@
     "roles": []
   },
   {
+    "slug": "avi-maayan",
+    "name": "Avi Ma’ayan",
+    "lastName": "Ma’ayan"
+  },
+  {
     "slug": "aunbhuti-shukla",
     "name": "Aunbhuti Shukla",
     "lastName": "Shukla",
@@ -17069,6 +17389,11 @@
     ]
   },
   {
+    "slug": "ashish-mahabal",
+    "name": "Ashish Mahabal",
+    "lastName": "Mahabal"
+  },
+  {
     "slug": "arul-jeyaseelan",
     "name": "Arul Jeyaseelan",
     "lastName": "Jeyaseelan",
@@ -17148,6 +17473,11 @@
     "name": "Ari Pollack",
     "lastName": "Pollack",
     "roles": []
+  },
+  {
+    "slug": "ari-kahn",
+    "name": "Ari Kahn",
+    "lastName": "Kahn"
   },
   {
     "slug": "aretha-barbosa-alencar",
@@ -17317,6 +17647,11 @@
     "name": "Anna Keune",
     "lastName": "Keune",
     "roles": []
+  },
+  {
+    "slug": "anna-i-byrd",
+    "name": "Anna I. Byrd",
+    "lastName": "Byrd"
   },
   {
     "slug": "anna-hupalowska",
@@ -17506,6 +17841,11 @@
     "name": "Andrew Janowczyk",
     "lastName": "Janowczyk",
     "roles": []
+  },
+  {
+    "slug": "andrew-j-schroeder",
+    "name": "Andrew J. Schroeder",
+    "lastName": "Schroeder"
   },
   {
     "slug": "andrew-dillon",
@@ -17824,6 +18164,11 @@
     "roles": []
   },
   {
+    "slug": "allissa-dillman",
+    "name": "Allissa Dillman",
+    "lastName": "Dillman"
+  },
+  {
     "slug": "allie-gullett",
     "name": "Allie Gullett",
     "lastName": "Gullett",
@@ -17989,6 +18334,11 @@
     "roles": []
   },
   {
+    "slug": "alex-shilin",
+    "name": "Alex Shilin",
+    "lastName": "Shilin"
+  },
+  {
     "slug": "alex-corwin",
     "name": "Alex Corwin",
     "lastName": "Corwin",
@@ -18025,6 +18375,11 @@
     "name": "Aleksandra Lunich",
     "lastName": "Lunich",
     "roles": []
+  },
+  {
+    "slug": "aleksandar-milosavljevic",
+    "name": "Aleksandar Milosavljevic",
+    "lastName": "Milosavljevic"
   },
   {
     "slug": "alejandra-tapia-batres",
@@ -18339,6 +18694,11 @@
     "name": "Aehong Min",
     "lastName": "Min",
     "roles": []
+  },
+  {
+    "slug": "adriana-ivich",
+    "name": "Adriana Ivich",
+    "lastName": "Ivich"
   },
   {
     "slug": "aditya-p-mathur",
