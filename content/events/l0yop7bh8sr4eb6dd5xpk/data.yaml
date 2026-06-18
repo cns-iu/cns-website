@@ -4,9 +4,12 @@ title: Visualizing Multiscale Complex Systems
 link: luddy-research-symposium.pdf
 dateStart: 2026-02-20T00:00:00.000Z
 dateEnd: 2026-02-20T00:00:00.000Z
+thumbnail: luddy-sice-lockup.png
 location:
   venue: Luddy School of Informatics, Computing, and Engineering
   city: Bloomington
-  state: IN
+  state: Indiana
+  postcode: "47408"
+  country: USA
 presenters:
   - katy-borner
