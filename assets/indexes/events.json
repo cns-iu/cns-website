@@ -22061,12 +22061,17 @@
     "link": "https://slush.org/",
     "dateStart": "2026-11-18T00:00:00.000Z",
     "dateEnd": "2026-11-19T00:00:00.000Z",
-    "thumbnail": "slush-2026.jpg",
+    "thumbnail": "slush.png",
     "location": {
       "city": "Helsinki",
-      "country": "Finland"
+      "country": "Finland",
+      "venue": "Messukeskus Helsinki, Expo and Convention Centre",
+      "street": "Messuaukio 1",
+      "state": "Uusimaa",
+      "postcode": "00520"
     },
-    "presenters": [
+    "presenters": [],
+    "attendees": [
       "katy-borner"
     ]
   },
