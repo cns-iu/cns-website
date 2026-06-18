@@ -22244,6 +22244,29 @@
     ]
   },
   {
+    "slug": "92e1n98cq691yt77iu2iq",
+    "type": "presentation",
+    "title": "Amatria Tour for Pankaj Gupta (3:45-4:15pm)",
+    "link": "",
+    "dateStart": "2026-06-11T00:00:00.000Z",
+    "dateEnd": "2026-06-11T00:00:00.000Z",
+    "thumbnail": "amatria-andreas-pankaj.png",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering, 4th floor",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
+    },
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "8snan10yw3k2wm60wqrot",
     "type": "presentation",
     "title": "SenNet RUI Registration Demo",
