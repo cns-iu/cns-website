@@ -1,13 +1,16 @@
 slug: fah6nln7l30nk1dapbjsw
 type: presentation
-title: Constructing and Exploring Data Visualizations of Complex Systems
-link: >-
-  https://asuevents.asu.edu/event/making-sense-complexity-katy-borner-constructing-and-exploring-data-visualizations-complex
-dateStart: 2026-02-04T00:00:00.000Z
-dateEnd: 2026-02-04T00:00:00.000Z
+title: "Making Sense of Complexity with Katy Börner: Constructing and Exploring
+  Data Visualizations of Complex Systems"
+link: https://asuevents.asu.edu/event/making-sense-complexity-katy-borner-constructing-and-exploring-data-visualizations-complex
+dateStart: 2026-02-04
+dateEnd: 2026-02-04
 location:
-  venue: Arizona State University
+  venue: Arizona State University, Engineering Center A (ECA) 100
   city: Tempe
-  state: AZ
+  state: Arizona
+  street: 1031 Palm Walk
+  postcode: "85281"
+  country: USA
 presenters:
   - katy-borner
