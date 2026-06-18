@@ -12183,10 +12183,15 @@
     "type": "meeting",
     "title": "HuBMAP Steering Committee Meeting",
     "link": "https://hubmapconsortium.org/",
-    "dateStart": "2022-08-01",
-    "dateEnd": "2022-08-01",
+    "dateStart": "2022-08-01T00:00:00.000Z",
+    "dateEnd": "2022-08-01T00:00:00.000Z",
+    "thumbnail": "hubmap-thumbnail.png",
     "location": {
-      "raw": "Bethesda, MD (Virtual Event)"
+      "raw": "",
+      "venue": "Virtual",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "country": "USA"
     },
     "presentations": [
       "pres-668"
