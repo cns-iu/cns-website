@@ -11485,10 +11485,14 @@
     "type": "meeting",
     "title": "IU School of Optometry HRA Organ Gallery Demo",
     "link": null,
-    "dateStart": "2023-12-01",
-    "dateEnd": "2023-12-01",
+    "dateStart": "2023-12-01T00:00:00.000Z",
+    "dateEnd": "2023-12-01T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana, 47405"
+      "raw": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47405",
+      "country": "USA"
     },
     "presentations": [
       "pres-721"
