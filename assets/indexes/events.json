@@ -216,10 +216,20 @@
     "link": "https://cns-iu.github.io/workshops/2023-10-18-nih-3d-hackathon/",
     "dateStart": "2023-10-18T00:00:00.000Z",
     "dateEnd": "2023-10-19T00:00:00.000Z",
+    "thumbnail": "og-hackathon-2023.png",
     "location": {
-      "venue": "BCBB/NIAID Biovisualization Lab",
-      "raw": "Rockville, Maryland, USA"
+      "venue": "NIAID Biovisualization (“Biovis”) Lab",
+      "raw": "",
+      "street": "5601 Fishers Ln",
+      "city": " Rockville",
+      "state": "Maryland",
+      "postcode": "20852",
+      "country": "USA"
     },
+    "organizers": [
+      "andreas-bueckle",
+      "lu-chen"
+    ],
     "projects": [
       "human-reference-atlas"
     ]
