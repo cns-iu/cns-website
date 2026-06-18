@@ -2,11 +2,19 @@ slug: ws-95
 type: workshop
 title: HuBMAP Human Reference Atlas Hackathon
 link: https://cns-iu.github.io/workshops/2026-03-09_hra_hackathon/
-dateStart: 2026-03-09T00:00:00.000Z
-dateEnd: 2026-03-11T00:00:00.000Z
+dateStart: 2026-03-09
+dateEnd: 2026-03-11
 thumbnail: hra-hackathon3.8.2026.png
 location:
-  raw: Bloomington, Indiana, USA
+  raw: ""
+  venue: Luddy School of Informatics, Computing, and Engineering
+  street: 700 N Woodlawn Ave
+  city: Bloomington
+  state: Indiana
+  postcode: "47408"
+organizers:
+  - traci-smith
+  - meryl-jacob
 featured: true
 projects:
   - human-reference-atlas
