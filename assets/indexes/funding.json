@@ -1191,7 +1191,7 @@
     "dateEnd": "2026-07-31T00:00:00.000Z",
     "thumbnail": "atlas-humans.png",
     "link": "https://reporter.nih.gov/project-details/10534308",
-    "featured": true,
+    "featured": false,
     "projects": [
       "human-reference-atlas"
     ],
