@@ -11313,10 +11313,14 @@
     "type": "workshop",
     "title": "Visualizing Complexity Science Workshop 2024",
     "link": "https://vis.csh.ac.at/vis-workshop-2024/",
-    "dateStart": "2024-08-26",
-    "dateEnd": "2024-08-30",
+    "dateStart": "2024-08-26T00:00:00.000Z",
+    "dateEnd": "2024-08-30T00:00:00.000Z",
+    "thumbnail": "complexity-sciencehub.png",
     "location": {
-      "raw": "Vienna, Austria"
+      "raw": "",
+      "venue": "Complexity Science Hub",
+      "city": "Vienna",
+      "country": "Austria"
     },
     "presentations": [
       "pres-734"
