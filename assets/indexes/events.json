@@ -10694,7 +10694,8 @@
       "street": "700 N Woodlawn Ave",
       "city": "Bloomington",
       "state": "Indiana",
-      "postcode": "47408"
+      "postcode": "47408",
+      "country": "USA"
     },
     "projects": [
       "human-reference-atlas"
