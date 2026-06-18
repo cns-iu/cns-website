@@ -10811,7 +10811,10 @@
     "location": {
       "venue": "Luddy School for Informatics, Computing, and Engineering",
       "city": "Bloomington",
-      "state": "IN"
+      "state": "Indiana",
+      "country": "USA",
+      "street": "700 N Woodlawn Ave",
+      "postcode": "47408"
     },
     "featured": true,
     "projects": [
