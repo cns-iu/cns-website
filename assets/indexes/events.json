@@ -10827,8 +10827,16 @@
     "dateStart": "2026-03-12T00:00:00.000Z",
     "dateEnd": "2026-03-12T00:00:00.000Z",
     "thumbnail": "interactive-data-visualizations-of-science-and-technology-evolution.png",
+    "location": {
+      "venue": " Institute for Analytical Sociology Seminar. Virtual"
+    },
     "presenters": [
       "katy-borner"
+    ],
+    "projects": [
+      "maps",
+      "macroscopes",
+      "envisioning-intelligences"
     ]
   },
   {

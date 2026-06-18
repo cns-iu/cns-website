@@ -2,8 +2,14 @@ slug: j38sq6uu3v9haber69mq8
 type: presentation
 title: Interactive Data Visualizations of Science and Technology Evolution
 link: https://www.youtube.com/watch?v=sPuNan7bsUM
-dateStart: 2026-03-12T00:00:00.000Z
-dateEnd: 2026-03-12T00:00:00.000Z
+dateStart: 2026-03-12
+dateEnd: 2026-03-12
 thumbnail: interactive-data-visualizations-of-science-and-technology-evolution.png
+location:
+  venue: " Institute for Analytical Sociology Seminar. Virtual"
 presenters:
   - katy-borner
+projects:
+  - maps
+  - macroscopes
+  - envisioning-intelligences
