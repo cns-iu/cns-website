@@ -1,11 +1,16 @@
 slug: oefo7c9sis21usrvv8ppr
 type: other
-title: 'Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration'
+title: "Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration"
 link: luddy-tech-fest-2026.pdf
 dateStart: 2026-04-11T00:00:00.000Z
 dateEnd: null
 thumbnail: luddytechfest2026.png
 location:
-  raw: Bloomington, Indiana, USA
+  raw: ""
+  venue: Luddy School of Informatics, Computing, and Engineering
+  street: 700 N Woodlawn Ave
+  city: Bloomington
+  state: Indiana
+  postcode: "47408"
 projects:
   - human-reference-atlas

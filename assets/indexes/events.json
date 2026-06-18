@@ -10680,7 +10680,12 @@
     "dateEnd": null,
     "thumbnail": "luddytechfest2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408"
     },
     "projects": [
       "human-reference-atlas"
