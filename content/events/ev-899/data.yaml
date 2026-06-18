@@ -1,14 +1,16 @@
 slug: ev-899
 type: conference
-title: "Aegean Conferences: 16th International Conference on Genomics and
-  Systems Biology of Human Disease and Aging"
-link: ""
-dateStart: 2026-05-07T00:00:00.000Z
-dateEnd: 2026-05-12T00:00:00.000Z
+title: 16th International Conference on Genomics and Systems Biology of Human
+  Disease and Aging
+link: https://aegeanconferences.org/conferences/201
+dateStart: 2026-05-07
+dateEnd: 2026-05-12
 thumbnail: event5.6.2026.png
 location:
-  city: Crete
+  city: Sissi, Crete
   postcode: ""
   country: Greece
+  state: " Lasithi"
+  venue: Kalimera Kriti Conference Center
 attendees:
   - katy-borner
