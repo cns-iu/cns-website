@@ -6,7 +6,11 @@ dateStart: 2022-08-01
 dateEnd: 2022-08-01
 thumbnail: hubmap-thumbnail.png
 location:
-  raw: Bethesda, MD (Virtual Event)
+  raw: ""
+  venue: Virtual
+  city: Bethesda
+  state: Maryland
+  country: USA
 presentations:
   - pres-668
 projects:
