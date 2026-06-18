@@ -69,8 +69,17 @@
     "dateEnd": "2026-03-11T00:00:00.000Z",
     "thumbnail": "hra-hackathon3.8.2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408"
     },
+    "organizers": [
+      "traci-smith",
+      "meryl-jacob"
+    ],
     "featured": true,
     "projects": [
       "human-reference-atlas"
