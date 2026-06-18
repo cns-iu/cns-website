@@ -10,8 +10,9 @@ location:
   venue: Luddy School of Informatics, Computing, and Engineering
   city: Bloomington
   state: Indiana
-  postcode: ""
+  postcode: "47408"
   country: USA
+  street: 700 N Woodlawn Ave
 projects:
   - maps
   - macroscopes
