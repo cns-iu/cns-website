@@ -31,7 +31,7 @@
   {
     "slug": "ws-97",
     "type": "workshop",
-    "title": "NetSci 2026 Network Geometry, Theory and Applications",
+    "title": "NetSci 2026: Network Geometry, Theory and Applications",
     "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
     "dateStart": "2026-06-01T00:00:00.000Z",
     "dateEnd": "2026-06-01T00:00:00.000Z",
@@ -40,7 +40,8 @@
       "raw": "Boston, MA, USA",
       "venue": "Hyatt Regency Boston/Cambridge",
       "city": "Boston",
-      "state": "MA"
+      "state": "Massachusetts",
+      "country": "USA"
     }
   },
   {
@@ -22167,7 +22168,7 @@
     "dateEnd": "2026-03-25T00:00:00.000Z",
     "thumbnail": "sennet-scitalk2026.png",
     "location": {
-      "venue": "Cellular Senescence Network (SenNet) SciTech Webinar Series. Virtual."
+      "venue": "Cellular Senescence Network (SenNet) SciTech Webinar Series. Virtual"
     },
     "presenters": [
       "bruce-w-herr-ii",
