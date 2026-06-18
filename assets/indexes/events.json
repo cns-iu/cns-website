@@ -23117,10 +23117,12 @@
     "link": null,
     "dateStart": "2026-02-04T00:00:00.000Z",
     "dateEnd": "2026-02-04T00:00:00.000Z",
+    "thumbnail": "stock-network1.png",
     "location": {
       "venue": "Arizona State University",
       "city": "Tempe",
-      "state": "AZ"
+      "state": "Arizona",
+      "postcode": "USA"
     },
     "presenters": [
       "katy-borner"
