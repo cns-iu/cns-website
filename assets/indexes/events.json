@@ -1324,6 +1324,32 @@
     ]
   },
   {
+    "slug": "rybqsgjxbxcrj7lsuhvir",
+    "type": "workshop",
+    "title": "Berlin Human Reference Atlas Hackathon",
+    "link": "https://cns-iu.github.io/workshops/2026-08-27_hra_hackathon/",
+    "dateStart": "2026-08-27T00:00:00.000Z",
+    "dateEnd": "2026-08-28T00:00:00.000Z",
+    "thumbnail": "atlas-humans.png",
+    "location": {
+      "venue": "Berlin Institute of Health at Charité (BIH), Center of Health Data Sciences, Rahel-Hirsch-Center",
+      "street": "Luisenstr.65",
+      "postcode": "10117",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "attendees": [
+      "katy-borner",
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "peter-n-robinson"
+    ],
+    "featured": true,
+    "projects": [
+      "human-reference-atlas"
+    ]
+  },
+  {
     "slug": "r507wm8872lbbxovg42d3",
     "type": "other",
     "title": "First Thursday Festival (5:00pm-8:00pm)",
