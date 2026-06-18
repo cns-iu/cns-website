@@ -11494,11 +11494,14 @@
     "slug": "ev-878",
     "type": "conference",
     "title": "American Urology Association Basic Sciences Symposium",
-    "link": "https://www.auanet.org/AUA2024",
-    "dateStart": "2024-05-03",
-    "dateEnd": "2024-05-06",
+    "link": "https://www.youtube.com/watch?v=NOT26nGa_T4",
+    "dateStart": "2024-05-03T00:00:00.000Z",
+    "dateEnd": "2024-05-06T00:00:00.000Z",
     "location": {
-      "raw": "San Antonio, TX"
+      "raw": "",
+      "city": "San Antonio",
+      "state": "Texas",
+      "country": "USA"
     },
     "presentations": [
       "pres-723"
