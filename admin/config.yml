@@ -398,7 +398,7 @@ collections:
           - name: venue
             label: Venue name
             widget: string
-            hint: The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is remote, use 'Remote event'
+            hint: The venue's name, e.g., 'Luddy School of Informatics, Computing, and Engineering' or if this event is remote, use 'Virtual'
             required: false
           - name: street
             label: Street
@@ -413,7 +413,7 @@ collections:
           - name: state
             label: State
             widget: string
-            hint: The country's state, e.g., 'Indiana'
+            hint: The country's state, province, or region, e.g., 'Indiana' or 'Ontario'
             required: false
           - name: postcode
             label: ZIP code or postal code
