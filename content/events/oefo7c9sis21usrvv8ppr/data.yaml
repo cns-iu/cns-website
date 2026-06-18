@@ -12,5 +12,6 @@ location:
   city: Bloomington
   state: Indiana
   postcode: "47408"
+  country: USA
 projects:
   - human-reference-atlas
