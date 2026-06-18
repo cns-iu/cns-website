@@ -10,5 +10,8 @@ location:
   venue: Complexity Science Hub
   city: Vienna
   country: Austria
+  street: Metternichgasse 8
+  state: ""
+  postcode: "1030"
 presentations:
   - pres-734
