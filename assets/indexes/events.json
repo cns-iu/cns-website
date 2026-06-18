@@ -1269,15 +1269,19 @@
   },
   {
     "slug": "seja45x6gjpwzil6zjtzn",
-    "type": "exhibit",
+    "type": "other",
     "title": "Luddy TechFest: Visualizing Science",
     "link": "luddy-tech-fest-2026.pdf",
     "dateStart": "2026-04-11T00:00:00.000Z",
     "dateEnd": null,
     "thumbnail": "luddytechfest2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA",
-      "venue": "Luddy School of Informatics, Computing, and Engineering"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
     },
     "projects": [
       "maps",
