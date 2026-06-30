@@ -3,27 +3,28 @@ name: Antara Bhavsar
 lastName: Bhavsar
 image: image.jpg
 roles:
-  - type: member
-    title: Hourly Research Assistant
+  - education: "MS in Computer Science - Indiana University, Bloomington\r
+
+      BE in Computer Science - BNM Institute of Technology, Bangalore\r\n"
+    interests: Outside of work, I have a deep passion for traveling to unfamiliar
+      and uncharted destinations. Exploring new places pushes me beyond my
+      comfort zone, immersing me in diverse cultures, breathtaking landscapes,
+      and unique encounters with people from all walks of life. I also love
+      listening to music, which helps me relax and stay focused, and capturing
+      moments through photography, preserving the beauty and essence of my
+      experiences.
     displayOrder: 39
-    office: ''
-    phone: ''
-    fax: ''
-    email: antbhavs@iu.edu
-    education: "MS in Computer Science - Indiana University, Bloomington\r\nBE in Computer Science - BNM Institute of Technology, Bangalore\r\n"
-    background: >-
-      I am a software developer with 2 years of experience at Motorola,
+    dateEnd: 2026-05-30
+    background: I am a software developer with 2 years of experience at Motorola,
       specializing in building efficient software solutions. With a strong
       foundation in software development, I thrive on tackling complex
       challenges and crafting innovative solutions. My passion lies in
       technology, problem-solving, and continuous learning.
-    interests: >-
-      Outside of work, I have a deep passion for traveling to unfamiliar and
-      uncharted destinations. Exploring new places pushes me beyond my comfort
-      zone, immersing me in diverse cultures, breathtaking landscapes, and
-      unique encounters with people from all walks of life. I also love
-      listening to music, which helps me relax and stay focused, and capturing
-      moments through photography, preserving the beauty and essence of my
-      experiences.
-    dateStart: '2025-03-24'
-    dateEnd: null
+    phone: ""
+    status: full-time
+    dateStart: 2025-03-24
+    title: Hourly Research Assistant
+    type: member
+    office: ""
+    email: antbhavs@iu.edu
+    fax: ""
