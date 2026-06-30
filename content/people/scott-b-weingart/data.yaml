@@ -6,6 +6,6 @@ roles:
   - type: student
     topic: Ph.D. Information Science Student
     degree: Ph.D.
-    department: ''
-    dateStart: '2006-01-01'
-    dateEnd: null
+    department: Information Science
+    dateStart: 2006-01-01
+    dateEnd: 2025-11-16

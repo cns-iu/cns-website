@@ -160,8 +160,8 @@
         "topic": "Ph.D. Learning Sciences",
         "degree": "Ph.D.",
         "department": "Learning Sciences",
-        "dateStart": "2018-04-19",
-        "dateEnd": null
+        "dateStart": "2018-04-19T00:00:00.000Z",
+        "dateEnd": "2022-07-03T00:00:00.000Z"
       }
     ]
   },
@@ -374,9 +374,9 @@
         "type": "student",
         "topic": "Ph.D. Intelligent Systems Engineering Student",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2017-09-11",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2017-09-11T00:00:00.000Z",
+        "dateEnd": "2026-03-01T00:00:00.000Z"
       }
     ]
   },
@@ -3913,9 +3913,9 @@
         "type": "student",
         "topic": "Ph.D. Information Science Student",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2006-01-01",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2006-01-01T00:00:00.000Z",
+        "dateEnd": "2025-11-16T00:00:00.000Z"
       }
     ]
   },
@@ -9647,9 +9647,9 @@
         "type": "student",
         "topic": "Dual PhD Complex Network Systems & Intelligent Systems Engineering",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2020-06-22",
-        "dateEnd": null
+        "department": "Information ",
+        "dateStart": "2020-06-22T00:00:00.000Z",
+        "dateEnd": "2025-09-30T00:00:00.000Z"
       }
     ]
   },
@@ -13501,9 +13501,9 @@
         "type": "student",
         "topic": "Dual PhD Informatics & Intelligent Systems Engineering",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2021-08-09",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2021-08-09T00:00:00.000Z",
+        "dateEnd": "2025-08-31T00:00:00.000Z"
       }
     ]
   },
@@ -15649,7 +15649,7 @@
         "degree": "Ph.D.",
         "department": "Information and Library Science",
         "dateStart": "2025-01-01T00:00:00.000Z",
-        "dateEnd": null
+        "dateEnd": "2026-04-30T00:00:00.000Z"
       }
     ]
   },
