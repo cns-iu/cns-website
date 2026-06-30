@@ -3,9 +3,10 @@ name: Edward Lu
 lastName: Lu
 image: image.png
 roles:
-  - education: "B.A. in Biology, Washington University in St. Louis\r
+  - education: |-
+      B.A. in Biology, Washington University in St. Louis, 
 
-      M.Eng. in Biomedical Engineering, Cornell University"
+      M.Eng. in Biomedical Engineering, Cornell University
     interests: "Things I enjoy include but are not limited to: video games, piano,
       traveling, the ocean, tennis, literally anything with caffeine."
     displayOrder: 10
