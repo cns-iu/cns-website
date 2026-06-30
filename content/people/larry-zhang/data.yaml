@@ -6,6 +6,6 @@ roles:
   - type: student
     topic: Dual PhD Complex Network Systems & Intelligent Systems Engineering
     degree: Ph.D.
-    department: ''
-    dateStart: '2020-06-22'
-    dateEnd: null
+    department: "Information "
+    dateStart: 2020-06-22
+    dateEnd: 2025-09-30
