@@ -3,25 +3,40 @@ name: Hrishikesh Mulkutkar
 lastName: Mulkutkar
 image: image.jpg
 roles:
-  - type: member
-    title: 'HuBMAP Assistant '
-    displayOrder: 30
-    office: ''
-    phone: ''
-    fax: ''
-    email: hmulkut@iu.edu
-    education: >-
-      Currently I am a Computer Science Grad student at the Luddy School of
+  - education: Currently I am a Computer Science Grad student at the Luddy School of
       Informatics, Computing, and Engineering, Bloomington, Indiana. Completed
       my undergrad in Computer Engineering from University of Pune, India with a
       GPA of 9.34/10.
-    background: "My professional journey has been marked by impactful contributions to projects in healthcare, e-commerce, and technology sectors. I've successfully led key initiatives, such as transitioning operations during a company acquisition and optimizing API and database systems to significantly improve performance and scalability. My technical expertise spans Python, JavaScript, C#, .NET, and advanced SQL, allowing me to build scalable and efficient software solutions.\r\nBeyond my technical skills, I bring strong leadership and teamwork abilities, having served as the Lead of the Google Developer Student Clubs (GDSC) and Coders' Club President. I’m driven by a desire to continuously learn and innovate, applying my knowledge to solve complex problems and deliver high-quality results. I’m excited to connect with like-minded professionals and explore opportunities to contribute to impactful projects in the computer science and technology space.\r\n\r\n"
-    interests: >-
-      I'm a big pop culture fan, be it movies, TV shows or music. I love
+    interests: I'm a big pop culture fan, be it movies, TV shows or music. I love
       spending time with my family, they are my source of inspiration and
       confidence. It is difficult for me to answer the question “Where are you
       from?” as I have lived in various regions across India due to the nature
       of my father’s job. In fact, by the time I reached the 10th grade, I had
       attended nine different schools!
-    dateStart: '2024-10-07'
-    dateEnd: null
+    displayOrder: 30
+    dateEnd: 2026-05-22
+    background: "My professional journey has been marked by impactful contributions
+      to projects in healthcare, e-commerce, and technology sectors. I've
+      successfully led key initiatives, such as transitioning operations during
+      a company acquisition and optimizing API and database systems to
+      significantly improve performance and scalability. My technical expertise
+      spans Python, JavaScript, C#, .NET, and advanced SQL, allowing me to build
+      scalable and efficient software solutions.\r
+
+      Beyond my technical skills, I bring strong leadership and teamwork
+      abilities, having served as the Lead of the Google Developer Student Clubs
+      (GDSC) and Coders' Club President. I’m driven by a desire to continuously
+      learn and innovate, applying my knowledge to solve complex problems and
+      deliver high-quality results. I’m excited to connect with like-minded
+      professionals and explore opportunities to contribute to impactful
+      projects in the computer science and technology space.\r
+
+      \r\n"
+    phone: ""
+    status: full-time
+    dateStart: 2024-10-07
+    title: "HuBMAP Assistant "
+    type: member
+    office: ""
+    email: hmulkut@iu.edu
+    fax: ""
