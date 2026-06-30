@@ -6,6 +6,6 @@ roles:
   - type: student
     topic: Ph.D. Intelligent Systems Engineering Student
     degree: Ph.D.
-    department: ''
-    dateStart: '2017-09-11'
-    dateEnd: null
+    department: Information Science
+    dateStart: 2017-09-11
+    dateEnd: 2026-03-01
