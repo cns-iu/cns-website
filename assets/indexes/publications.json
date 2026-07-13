@@ -1,5 +1,26 @@
 [
   {
+    "slug": "rxm8b67cdfu7mnli1wp46",
+    "type": "manuscript",
+    "title": "SenNet Portal: Build, Optimization and Usage",
+    "date": "2026-02-06T00:00:00.000Z",
+    "doi": "10.64898/2026.02.06.704469",
+    "authors": [
+      "katy-borner",
+      "philip-blood",
+      "matthew-ruffalo",
+      "rahul-satija",
+      "nils-gehlenborg",
+      "brendan-honick",
+      "andreas-bueckle",
+      "yashvardhan-jain",
+      "danial-qaurooni",
+      "kay-metis",
+      "so-jin-kim",
+      "patty-j-lee"
+    ]
+  },
+  {
     "slug": "pub-98",
     "type": "paper-conference",
     "title": "Spatio-Temporal Information Production and Consumption of Major U.S. Research Institutions",
