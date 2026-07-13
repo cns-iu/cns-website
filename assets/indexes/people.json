@@ -3745,6 +3745,18 @@
     "roles": []
   },
   {
+    "slug": "sergii-domanskyi",
+    "name": "Sergii Domanskyi",
+    "lastName": "Domanskyi",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "sergi-lozano",
     "name": "Sergi Lozano",
     "lastName": "Lozano",
@@ -4304,6 +4316,18 @@
     "roles": []
   },
   {
+    "slug": "samuel-t-peters",
+    "name": "Samuel T. Peters",
+    "lastName": "Peters",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "samuel-mills",
     "name": "Samuel Mills",
     "lastName": "Mills",
@@ -4600,6 +4624,18 @@
     "name": "Ryan Schnitzlein",
     "lastName": "Schnitzlein",
     "roles": []
+  },
+  {
+    "slug": "ryan-sablosky",
+    "name": "Ryan Sablosky",
+    "lastName": "Sablosky",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "ryan-johnathan-jones",
@@ -5229,6 +5265,18 @@
         "interests": "",
         "dateStart": "2007-11-12",
         "dateEnd": "2009-05-01"
+      }
+    ]
+  },
+  {
+    "slug": "richard-s-morgan",
+    "name": "Richard S. Morgan",
+    "lastName": "Morgan",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
       }
     ]
   },
@@ -7406,6 +7454,18 @@
     "roles": []
   },
   {
+    "slug": "morgan-l-turner",
+    "name": "Morgan L. Turner",
+    "lastName": "Turner",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "monika-herzig",
     "name": "Monika Herzig",
     "lastName": "Herzig",
@@ -8173,6 +8233,18 @@
     "name": "Maxim Itkin",
     "lastName": "Itkin",
     "roles": []
+  },
+  {
+    "slug": "max-sibilla",
+    "name": "Max Sibilla",
+    "lastName": "Sibilla",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-02T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "max-gadney",
@@ -10805,6 +10877,18 @@
     ]
   },
   {
+    "slug": "josh-bartz",
+    "name": "Josh Bartz",
+    "lastName": "Bartz",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "josette-f-jones",
     "name": "Josette F. Jones",
     "lastName": "Jones",
@@ -11264,6 +11348,18 @@
     "name": "Joe E. Heimlich",
     "lastName": "Heimlich",
     "roles": []
+  },
+  {
+    "slug": "joe-bisciotti",
+    "name": "Joe Bisciotti",
+    "lastName": "Bisciotti",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "jodie-jepson",
@@ -15184,6 +15280,18 @@
     "roles": []
   },
   {
+    "slug": "david-betancur",
+    "name": "David Betancur",
+    "lastName": "Betancur",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-09T00:00:00.000Z"
+      }
+    ]
+  },
+  {
     "slug": "david-bawden",
     "name": "David Bawden",
     "lastName": "Bawden",
@@ -16902,6 +17010,18 @@
     "name": "Bill Valdez",
     "lastName": "Valdez",
     "roles": []
+  },
+  {
+    "slug": "bill-shirey",
+    "name": "Bill Shirey",
+    "lastName": "Shirey",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "SenNet",
+        "dateStart": "2026-02-02T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "bill-dueber",
