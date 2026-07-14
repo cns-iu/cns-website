@@ -1299,8 +1299,8 @@
   {
     "slug": "pub-472",
     "type": "periodical",
-    "title": " 19th International Conference on Scientometrics & Informetrics (ISSI) 2023 editorial",
-    "date": "2024-11-05",
+    "title": "19th International Conference on Scientometrics & Informetrics (ISSI) 2023 editorial",
+    "date": "2024-11-05T00:00:00.000Z",
     "doi": "10.1007/s11192-024-05185-y",
     "editors": [
       "katy-borner",
@@ -1862,8 +1862,8 @@
   {
     "slug": "pub-457",
     "type": "chapter",
-    "title": " Plug-and-Play Macroscopes: Network Workbench (NWB), Science of Science Tool (Sci2), and Epidemiology Tool (EpiC)",
-    "date": "2018-01-18",
+    "title": "Plug-and-Play Macroscopes: Network Workbench (NWB), Science of Science Tool (Sci2), and Epidemiology Tool (EpiC)",
+    "date": "2018-01-18T00:00:00.000Z",
     "doi": "10.1007/978-1-4939-7131-2_306",
     "authors": [
       "katy-borner"
@@ -1934,8 +1934,8 @@
   {
     "slug": "pub-453",
     "type": "paper-conference",
-    "title": " Data Visualization Literacy",
-    "date": "2016-07-10",
+    "title": "Data Visualization Literacy",
+    "date": "2016-07-10T00:00:00.000Z",
     "authors": [
       "katy-borner"
     ],
@@ -5325,8 +5325,8 @@
   {
     "slug": "pub-320",
     "type": "manuscript",
-    "title": " Collective Allocation of Science Funding: From Funding Agencies to Scientific Agency",
-    "date": "2013-04-13",
+    "title": "Collective Allocation of Science Funding: From Funding Agencies to Scientific Agency",
+    "date": "2013-04-13T00:00:00.000Z",
     "authors": [
       "johan-bollen",
       "david-crandall",
@@ -6221,8 +6221,8 @@
   {
     "slug": "pub-271",
     "type": "paper-conference",
-    "title": " MAPSustain: Visualising biomass and biofuel research ",
-    "date": "2011-03-10",
+    "title": "MAPSustain: Visualising biomass and biofuel research ",
+    "date": "2011-03-10T00:00:00.000Z",
     "authors": [
       "michael-stamper",
       "chin-hua-kong",
