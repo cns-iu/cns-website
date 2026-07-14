@@ -48,7 +48,7 @@
     "slug": "ws-96",
     "type": "24hour",
     "title": "24 Hour Human Physiology Event",
-    "link": "",
+    "link": "https://cns-iu.github.io/workshops/2026-24hr/",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
     "thumbnail": "wpp-thumbnail-blue.png",
@@ -1173,10 +1173,10 @@
   {
     "slug": "tut-22",
     "type": "tutorial",
-    "title": " An Introduction to Open Source Tools for Data Analysis and Information Visualization",
+    "title": "An Introduction to Open Source Tools for Data Analysis and Information Visualization",
     "link": "https://cns.iu.edu/docs/presentations/2016-ginda-sci2tutorial-cdc.pdf",
-    "dateStart": "2016-06-14",
-    "dateEnd": "2016-06-15",
+    "dateStart": "2016-06-14T00:00:00.000Z",
+    "dateEnd": "2016-06-15T00:00:00.000Z",
     "location": {
       "raw": "Centers for Disease Control, Atlanta, GA"
     },
