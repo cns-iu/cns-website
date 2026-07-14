@@ -81,6 +81,7 @@ x-shared-field-definitions:
       value_field: slug
       display_fields: [name]
       required: false
+      options_length: 50
     projects: &projects
       name: projects
       label: Associated projects
