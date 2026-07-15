@@ -7052,6 +7052,11 @@
     "roles": []
   },
   {
+    "slug": "nicholas-sloan",
+    "name": "Nicholas Sloan",
+    "lastName": "Sloan"
+  },
+  {
     "slug": "nicholas-schork",
     "name": "Nicholas Schork",
     "lastName": "Schork",
@@ -15739,6 +15744,11 @@
     "lastName": "Stewart",
     "image": "image.jpg",
     "roles": []
+  },
+  {
+    "slug": "courteney-mattison",
+    "name": "Courteney Mattison",
+    "lastName": "Mattison"
   },
   {
     "slug": "constanze-vorwerg",
