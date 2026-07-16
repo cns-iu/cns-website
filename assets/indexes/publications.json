@@ -9533,5 +9533,41 @@
     "projects": [
       "human-reference-atlas"
     ]
+  },
+  {
+    "slug": "4ao3fkvkxjeg41sswvscz",
+    "type": "manuscript",
+    "title": "Multiscale harmonization and semantic integration of biomedical data enable biological insights through immersive exploration",
+    "date": "2026-07-11T00:00:00.000Z",
+    "doi": "10.64898/2026.07.07.737090",
+    "authors": [
+      "andreas-bueckle",
+      "chenchen-zhu",
+      "alex-yh-wong",
+      "archibald-enninful",
+      "yang-miao",
+      "negin-farzad",
+      "maria-pedersen",
+      "courteney-mattison",
+      "nicholas-sloan",
+      "jason-mares",
+      "cheng-xing",
+      "bruce-w-herr-ii",
+      "juhi-khare",
+      "yash-kumar",
+      "keyur-parekh",
+      "siddhi-chavan",
+      "paean-luby",
+      "ushma-patel",
+      "john-hickey",
+      "gary-d-bader",
+      "hemali-phatnani",
+      "vilas-menon",
+      "rong-fan",
+      "peter-k-sorger",
+      "michael-p-snyder",
+      "katy-borner"
+    ],
+    "venue": ""
   }
 ]
