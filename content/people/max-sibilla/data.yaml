@@ -1,7 +1,4 @@
 slug: max-sibilla
 name: Max Sibilla
 lastName: Sibilla
-roles:
-  - type: collaborator
-    project: SenNet
-    dateStart: 2026-02-02
+roles: []

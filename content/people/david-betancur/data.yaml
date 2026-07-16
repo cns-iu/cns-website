@@ -1,7 +1,4 @@
 slug: david-betancur
 name: David Betancur
 lastName: Betancur
-roles:
-  - type: collaborator
-    project: SenNet
-    dateStart: 2026-02-09
+roles: []

@@ -3760,13 +3760,7 @@
     "slug": "sergii-domanskyi",
     "name": "Sergii Domanskyi",
     "lastName": "Domanskyi",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "sergi-lozano",
@@ -4331,13 +4325,7 @@
     "slug": "samuel-t-peters",
     "name": "Samuel T. Peters",
     "lastName": "Peters",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "samuel-mills",
@@ -4641,13 +4629,7 @@
     "slug": "ryan-sablosky",
     "name": "Ryan Sablosky",
     "lastName": "Sablosky",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "ryan-johnathan-jones",
@@ -5284,13 +5266,7 @@
     "slug": "richard-s-morgan",
     "name": "Richard S. Morgan",
     "lastName": "Morgan",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "richard-m-shiffrin",
@@ -7487,13 +7463,7 @@
     "slug": "morgan-l-turner",
     "name": "Morgan L. Turner",
     "lastName": "Turner",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "monika-herzig",
@@ -8268,13 +8238,7 @@
     "slug": "max-sibilla",
     "name": "Max Sibilla",
     "lastName": "Sibilla",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-02T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "max-gadney",
@@ -10916,13 +10880,7 @@
     "slug": "josh-bartz",
     "name": "Josh Bartz",
     "lastName": "Bartz",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "josette-f-jones",
@@ -11389,13 +11347,7 @@
     "slug": "joe-bisciotti",
     "name": "Joe Bisciotti",
     "lastName": "Bisciotti",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "jodie-jepson",
@@ -15337,13 +15289,7 @@
     "slug": "david-betancur",
     "name": "David Betancur",
     "lastName": "Betancur",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-09T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "david-bawden",
@@ -17081,13 +17027,7 @@
     "slug": "bill-shirey",
     "name": "Bill Shirey",
     "lastName": "Shirey",
-    "roles": [
-      {
-        "type": "collaborator",
-        "project": "SenNet",
-        "dateStart": "2026-02-02T00:00:00.000Z"
-      }
-    ]
+    "roles": []
   },
   {
     "slug": "bill-dueber",
