@@ -184,6 +184,7 @@ collections:
         widget: list
         hint: Add all roles this person has had. Leave End Date blank if still active.
         required: false
+        default: []
         types:
           - label: CNS Member
             name: member

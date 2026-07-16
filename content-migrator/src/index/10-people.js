@@ -8,9 +8,14 @@ export function writePeopleIndex() {
       person.image = `${BASE_URL}/people/${person.slug}/${person.image}`;
     }
 
-    for (const role of person.roles ?? []) {
+    person.roles ??= [];
+    for (const role of person.roles) {
       role.dateStart = formatDate(role.dateStart);
       role.dateEnd = formatDate(role.dateEnd);
+
+      if ('displayOrder' in role && role.displayOrder === undefined) {
+        delete role.displayOrder;
+      }
     }
   }
   writeMinifiedJSON(join(INDEXES, 'app-people.json'), people);
