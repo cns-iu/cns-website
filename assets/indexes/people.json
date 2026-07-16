@@ -1160,6 +1160,11 @@
     ]
   },
   {
+    "slug": "vilas-menon",
+    "name": "Vilas Menon",
+    "lastName": "Menon"
+  },
+  {
     "slug": "vikrant-deshpande",
     "name": "Vikrant Deshpande",
     "lastName": "Deshpande",
@@ -6233,6 +6238,11 @@
     "name": "Peter Kenard",
     "lastName": "Kenard",
     "roles": []
+  },
+  {
+    "slug": "peter-k-sorger",
+    "name": "Peter K. Sorger",
+    "lastName": "Sorger"
   },
   {
     "slug": "peter-jeavons",
@@ -12997,6 +13007,11 @@
     ]
   },
   {
+    "slug": "hemali-phatnani",
+    "name": "Hemali Phatnani",
+    "lastName": "Phatnani"
+  },
+  {
     "slug": "helmut-rennke",
     "name": "Helmut Rennke",
     "lastName": "Rennke",
@@ -13637,6 +13652,11 @@
     "lastName": "Giovino",
     "image": "image.jpg",
     "roles": []
+  },
+  {
+    "slug": "gary-d-bader",
+    "name": "Gary D. Bader",
+    "lastName": "Bader"
   },
   {
     "slug": "gary-an",
