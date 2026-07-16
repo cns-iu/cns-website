@@ -620,7 +620,8 @@
   {
     "slug": "yang-miao",
     "name": "Yang Miao",
-    "lastName": "Miao"
+    "lastName": "Miao",
+    "roles": []
   },
   {
     "slug": "yaneer-bar-yam",
@@ -1162,7 +1163,8 @@
   {
     "slug": "vilas-menon",
     "name": "Vilas Menon",
-    "lastName": "Menon"
+    "lastName": "Menon",
+    "roles": []
   },
   {
     "slug": "vikrant-deshpande",
@@ -6242,7 +6244,8 @@
   {
     "slug": "peter-k-sorger",
     "name": "Peter K. Sorger",
-    "lastName": "Sorger"
+    "lastName": "Sorger",
+    "roles": []
   },
   {
     "slug": "peter-jeavons",
@@ -6625,7 +6628,8 @@
   {
     "slug": "paean-luby",
     "name": "Paean Luby",
-    "lastName": "Luby"
+    "lastName": "Luby",
+    "roles": []
   },
   {
     "slug": "padhraic-smyth",
@@ -7069,7 +7073,8 @@
   {
     "slug": "nicholas-sloan",
     "name": "Nicholas Sloan",
-    "lastName": "Sloan"
+    "lastName": "Sloan",
+    "roles": []
   },
   {
     "slug": "nicholas-schork",
@@ -8779,7 +8784,8 @@
   {
     "slug": "maria-pedersen",
     "name": "Maria Pedersen",
-    "lastName": "Pedersen"
+    "lastName": "Pedersen",
+    "roles": []
   },
   {
     "slug": "maria-christina-ferreira-de-oliveira",
@@ -11992,7 +11998,8 @@
   {
     "slug": "jason-mares",
     "name": "Jason Mares",
-    "lastName": "Mares"
+    "lastName": "Mares",
+    "roles": []
   },
   {
     "slug": "jason-leigh",
@@ -13009,7 +13016,8 @@
   {
     "slug": "hemali-phatnani",
     "name": "Hemali Phatnani",
-    "lastName": "Phatnani"
+    "lastName": "Phatnani",
+    "roles": []
   },
   {
     "slug": "helmut-rennke",
@@ -13656,7 +13664,8 @@
   {
     "slug": "gary-d-bader",
     "name": "Gary D. Bader",
-    "lastName": "Bader"
+    "lastName": "Bader",
+    "roles": []
   },
   {
     "slug": "gary-an",
@@ -15778,7 +15787,8 @@
   {
     "slug": "courteney-mattison",
     "name": "Courteney Mattison",
-    "lastName": "Mattison"
+    "lastName": "Mattison",
+    "roles": []
   },
   {
     "slug": "constanze-vorwerg",
@@ -16237,7 +16247,8 @@
   {
     "slug": "cheng-xing",
     "name": "Cheng Xing",
-    "lastName": "Xing"
+    "lastName": "Xing",
+    "roles": []
   },
   {
     "slug": "chenchen-zhu",
@@ -18586,7 +18597,8 @@
   {
     "slug": "alex-yh-wong",
     "name": "Alex Y.H. Wong",
-    "lastName": "Wong"
+    "lastName": "Wong",
+    "roles": []
   },
   {
     "slug": "alex-soojung-kim-pang",
