@@ -1,13 +1,14 @@
 slug: fun-81
 type: research
-title: >-
-  The Human Body Atlas: High-Resolution, Functional Mapping of Voxel, Vector,
-  and Meta Datasets
-name: NIH 1OT2OD026671-01
-funder: National Institutes of Health
-amount: 330000
-dateStart: '2018-09-21'
-dateEnd: '2022-09-20'
+title: "The Human Body Atlas: High-Resolution, Functional Mapping of Voxel,
+  Vector, and Meta Datasets"
+name: OT2OD026671
+funder: NIH
+amount: 3479496
+dateStart: 2018-09-21
+dateEnd: 2022-06-20
+projects:
+  - human-reference-atlas
 investigators:
   - katy-borner
-receivedAmount: 330000
+receivedAmount: ""
