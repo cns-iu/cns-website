@@ -13,6 +13,19 @@
     ]
   },
   {
+    "slug": "kyi3h78t1kaw5cdi4ycse",
+    "type": "research",
+    "title": "KPMP Kidney Mapping and Atlas Project (KMAP)",
+    "name": "U01DK133090",
+    "funder": "NIH",
+    "amount": 317903,
+    "dateStart": "2022-09-20T00:00:00.000Z",
+    "dateEnd": "2022-06-30T00:00:00.000Z",
+    "projects": [
+      "human-reference-atlas"
+    ]
+  },
+  {
     "slug": "fun-9",
     "type": "research",
     "title": "Mapping Indiana's Intellectual Space",
