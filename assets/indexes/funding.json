@@ -13,6 +13,19 @@
     ]
   },
   {
+    "slug": "m7podteole22balrnowg2",
+    "type": "research",
+    "title": "Cellular Senescence Network (SenNet) Consortium Organization and Data Coordinating Center (CODCC)",
+    "name": "U24CA268108",
+    "funder": "NIH",
+    "amount": 2981719,
+    "dateStart": "2021-09-22T00:00:00.000Z",
+    "dateEnd": "2026-08-31T00:00:00.000Z",
+    "projects": [
+      "human-reference-atlas"
+    ]
+  },
+  {
     "slug": "kyi3h78t1kaw5cdi4ycse",
     "type": "research",
     "title": "KPMP Kidney Mapping and Atlas Project (KMAP)",
