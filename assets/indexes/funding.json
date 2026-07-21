@@ -1283,5 +1283,18 @@
       "whole-person-physiome"
     ],
     "investigators": []
+  },
+  {
+    "slug": "390mic4srymtm3sz8lwlc",
+    "type": "research",
+    "title": "Amplifying the Value of HuBMAP Data Through Data Interoperability and Collaboration",
+    "name": "OT2OD030545",
+    "funder": "NIH",
+    "amount": 646000,
+    "dateStart": "2020-09-25T00:00:00.000Z",
+    "dateEnd": "2024-09-24T00:00:00.000Z",
+    "projects": [
+      "human-reference-atlas"
+    ]
   }
 ]
