@@ -1308,6 +1308,16 @@
     "investigators": []
   },
   {
+    "slug": "8bkc29ibuj7ad32mp5ni3",
+    "type": "workshop",
+    "title": "International Conference on Scientometrics and Informetrics 2023",
+    "name": "NA",
+    "funder": "Kavli Foundation",
+    "amount": 10000,
+    "dateStart": "2022-11-01T00:00:00.000Z",
+    "dateEnd": "2023-07-31T00:00:00.000Z"
+  },
+  {
     "slug": "390mic4srymtm3sz8lwlc",
     "type": "research",
     "title": "Amplifying the Value of HuBMAP Data Through Data Interoperability and Collaboration",
