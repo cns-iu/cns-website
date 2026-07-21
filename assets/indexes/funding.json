@@ -13,6 +13,22 @@
     ]
   },
   {
+    "slug": "nbs6btxr6zgmautd3p0yg",
+    "type": "research",
+    "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
+    "name": "R03OD039970",
+    "funder": "NIH",
+    "amount": 317000,
+    "dateStart": "2025-06-10T00:00:00.000Z",
+    "dateEnd": "2027-05-31T00:00:00.000Z",
+    "projects": [
+      "human-reference-atlas"
+    ],
+    "investigators": [
+      "andreas-bueckle"
+    ]
+  },
+  {
     "slug": "m7podteole22balrnowg2",
     "type": "research",
     "title": "Cellular Senescence Network (SenNet) Consortium Organization and Data Coordinating Center (CODCC)",
