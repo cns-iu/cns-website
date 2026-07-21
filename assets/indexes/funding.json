@@ -170,11 +170,11 @@
     "slug": "fun-78",
     "type": "research",
     "title": "TRIPODS+X:RES:Collaborative Research: Multi-Level Graph Representation for Exploring Big Data",
-    "name": "NSF DMS-1839167",
+    "name": "DMS-1839167",
     "funder": "National Science Foundation",
     "amount": 300000,
-    "dateStart": "2018-10-01",
-    "dateEnd": "2021-09-30",
+    "dateStart": "2018-10-01T00:00:00.000Z",
+    "dateEnd": "2023-09-30T00:00:00.000Z",
     "investigators": [
       "katy-borner"
     ],
