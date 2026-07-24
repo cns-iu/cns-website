@@ -1326,7 +1326,7 @@
   {
     "slug": "rybqsgjxbxcrj7lsuhvir",
     "type": "workshop",
-    "title": "Berlin Human Reference Atlas Hackathon",
+    "title": "Berlin Hackathon",
     "link": "https://cns-iu.github.io/workshops/2026-08-27_hra_hackathon/",
     "dateStart": "2026-08-27T00:00:00.000Z",
     "dateEnd": "2026-08-28T00:00:00.000Z",
@@ -1346,7 +1346,8 @@
     ],
     "featured": true,
     "projects": [
-      "human-reference-atlas"
+      "human-reference-atlas",
+      "whole-person-physiome"
     ]
   },
   {
