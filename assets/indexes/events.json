@@ -1085,17 +1085,6 @@
     }
   },
   {
-    "slug": "wr58wtmt0rcwov7j2u458",
-    "type": "presentation",
-    "title": "Last HuBMAP Hurrah Slide Show",
-    "dateStart": "2026-06-15T00:00:00.000Z",
-    "presenters": [
-      "andreas-bueckle",
-      "bruce-w-herr-ii",
-      "katy-borner"
-    ]
-  },
-  {
     "slug": "vsm5z5bofov212l8nz97m",
     "type": "other",
     "title": "Pathfinders/Infosys Open House",
@@ -10809,16 +10798,6 @@
     },
     "projects": [
       "amatria"
-    ]
-  },
-  {
-    "slug": "lqjgevamisyqoq1s683ok",
-    "type": "presentation",
-    "title": "Humans of HuBMAP",
-    "dateStart": "2026-06-15T00:00:00.000Z",
-    "presenters": [
-      "andreas-bueckle",
-      "katy-borner"
     ]
   },
   {
@@ -22430,17 +22409,6 @@
     },
     "projects": [
       "amatria"
-    ]
-  },
-  {
-    "slug": "6rothxldct3xqy6tcwruy",
-    "type": "presentation",
-    "title": "Endothelial Cell Environments Across Organs in Spatially Resolved Omics Data",
-    "dateStart": "2026-06-08T00:00:00.000Z",
-    "thumbnail": "https://sbhdboston.org/",
-    "presenters": [
-      "yashvardhan-jain",
-      "katy-borner"
     ]
   },
   {
