@@ -1,6 +1,6 @@
 slug: whs3dtljvf5i5xyg4arv5
 type: presentation
-title: Mapping CIFAR Datasets into the multiscale Human Reference Atlas
+title: Mapping CIFAR Datasets into the Multiscale Human Reference Atlas
 dateStart: 2026-05-04
 dateEnd: 2026-05-06
 location:
@@ -8,4 +8,14 @@ location:
   city: Whistler
   country: "Canada "
   state: BC
-presenters: []
+presenters:
+  - andreas-bueckle
+  - yashvardhan-jain
+  - yash-r-kumar
+  - juhi-khare
+  - cheng-xing
+  - claire-l-walsh
+  - matthieu-chourrout
+  - peter-d-lee
+  - gary-d-bader
+  - katy-borner

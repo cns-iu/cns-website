@@ -1087,7 +1087,7 @@
   {
     "slug": "whs3dtljvf5i5xyg4arv5",
     "type": "presentation",
-    "title": "Mapping CIFAR Datasets into the multiscale Human Reference Atlas",
+    "title": "Mapping CIFAR Datasets into the Multiscale Human Reference Atlas",
     "dateStart": "2026-05-04T00:00:00.000Z",
     "dateEnd": "2026-05-06T00:00:00.000Z",
     "location": {
@@ -1096,7 +1096,18 @@
       "country": "Canada ",
       "state": "BC"
     },
-    "presenters": []
+    "presenters": [
+      "andreas-bueckle",
+      "yashvardhan-jain",
+      "yash-r-kumar",
+      "juhi-khare",
+      "cheng-xing",
+      "claire-l-walsh",
+      "matthieu-chourrout",
+      "peter-d-lee",
+      "gary-d-bader",
+      "katy-borner"
+    ]
   },
   {
     "slug": "vv07gdsq5eyk07v1n3i22",
