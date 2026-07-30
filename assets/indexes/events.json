@@ -1365,6 +1365,19 @@
     ]
   },
   {
+    "slug": "q9kn3fl2ixorua9sizzfv",
+    "type": "presentation",
+    "title": "Humans of HuBMAP",
+    "dateStart": "2026-06-15T00:00:00.000Z",
+    "location": {
+      "venue": "PI interviews at Last HuBMAP Annual Meeting"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "pres-99",
     "type": "presentation",
     "title": "Network Derived Domain Maps of the United States Supreme Court: 50 Years of Co-Voting Data and a Case Study on Abortion",
