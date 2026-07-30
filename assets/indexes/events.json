@@ -22341,6 +22341,22 @@
     "featured": false
   },
   {
+    "slug": "7y5qlkqortcjk9ua51287",
+    "type": "presentation",
+    "title": "Last HuBMAP Hurrah Slide Show",
+    "dateStart": "2026-06-15T00:00:00.000Z",
+    "location": {
+      "venue": "Last HuBMAP Annual Meeting ",
+      "city": "Rockville",
+      "state": "MD"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "7v14w1yfrxos0mm3aramh",
     "type": "conference",
     "title": "NACAC STEM Fair",
