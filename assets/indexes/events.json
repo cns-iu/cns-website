@@ -1085,6 +1085,20 @@
     }
   },
   {
+    "slug": "whs3dtljvf5i5xyg4arv5",
+    "type": "presentation",
+    "title": "Mapping CIFAR Datasets into the multiscale Human Reference Atlas",
+    "dateStart": "2026-05-04T00:00:00.000Z",
+    "dateEnd": "2026-05-06T00:00:00.000Z",
+    "location": {
+      "venue": "CIFAR MacMillan Multiscale Human 2026 Spring Meeting",
+      "city": "Whistler",
+      "country": "Canada ",
+      "state": "BC"
+    },
+    "presenters": []
+  },
+  {
     "slug": "vv07gdsq5eyk07v1n3i22",
     "type": "presentation",
     "title": "Multiscale Human Reference Atlas – An Ontological Bridge Between Anatomy and Disease",
