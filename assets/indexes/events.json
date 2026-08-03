@@ -10783,6 +10783,20 @@
     ]
   },
   {
+    "slug": "op16u9lmbvbbx3c2dwvrd",
+    "type": "presentation",
+    "title": "Mapping the Human Reference Atlas in 3D",
+    "dateStart": "2026-06-10T00:00:00.000Z",
+    "location": {
+      "venue": "NetSci 2026",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "ogvtset6j7mbthptzexn8",
     "type": "presentation",
     "title": "Amatria Tour for IU Alumni",
