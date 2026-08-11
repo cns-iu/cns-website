@@ -6,6 +6,9 @@ dateStart: 2025-06-23T00:00:00.000Z
 dateEnd: 2025-06-24T00:00:00.000Z
 thumbnail: workshop-june2025.png
 location:
-  raw: Bloomington, Indiana, USA
+  raw: ""
+  city: Bloomington
+  state: Indiana
+  country: USA
 projects:
   - human-reference-atlas
