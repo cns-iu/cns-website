@@ -10997,6 +10997,25 @@
     ]
   },
   {
+    "slug": "j1r0b73u7269eo5oz18k3",
+    "type": "conference",
+    "title": "Bridge2AI Fall 2026 All-Hands Meeting & Open House",
+    "link": "https://web.cvent.com/event/3f4cbe6f-4006-4f79-a2ba-2c4fbf77bae3/summary?environment=P2&i=XYnoPEMYzU2_jZPAKICePQ&locale=en-US",
+    "dateStart": "2026-10-20T00:00:00.000Z",
+    "dateEnd": "2026-10-21T00:00:00.000Z",
+    "thumbnail": "bridge2ai.png",
+    "location": {
+      "venue": "Hilton Washington DC/Rockville Hotel and Executive Meeting Center",
+      "street": "1750 Rockville Pike",
+      "city": "Rockville",
+      "postcode": "20852",
+      "state": "MD"
+    },
+    "attendees": [
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "i6sraiddnkj35il49vt9m",
     "type": "presentation",
     "title": "Amatria Reserved Tour (12:00pm)",
