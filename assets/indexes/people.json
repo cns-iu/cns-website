@@ -56,6 +56,12 @@
     ]
   },
   {
+    "slug": "zhuoyan-li",
+    "name": "Zhuoyan Li",
+    "lastName": "Li",
+    "roles": []
+  },
+  {
     "slug": "zhong-yan",
     "name": "Zhong Yan",
     "lastName": "Yan",
@@ -3142,6 +3148,12 @@
     "slug": "sowmya-somasundaram",
     "name": "Sowmya Somasundaram",
     "lastName": "Somasundaram",
+    "roles": []
+  },
+  {
+    "slug": "sourav-sarkar",
+    "name": "Sourav Sarkar",
+    "lastName": "Sarkar",
     "roles": []
   },
   {
