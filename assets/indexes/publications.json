@@ -2641,7 +2641,7 @@
     "slug": "pub-432",
     "type": "article-journal",
     "title": "Visual Analytics for Data-Driven Understanding of the Substance Use Disorder Epidemic",
-    "date": "2024-01-28",
+    "date": "2024-01-28T00:00:00.000Z",
     "doi": "10.1177/00469580241227020",
     "authors": [
       "danial-qaurooni",
@@ -2651,7 +2651,8 @@
       "katy-borner",
       "titus-schleyer"
     ],
-    "venue": "Sage Journals",
+    "venue": "INQUIRY: The Journal of Health Care Organization, Provision, and Financing",
+    "volume": "61",
     "media": [
       {
         "type": "website",
