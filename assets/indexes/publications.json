@@ -1147,6 +1147,7 @@
     "pmid": "PMC12393406",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
+    "volume": "13",
     "featured": true,
     "projects": [
       "human-reference-atlas"
@@ -1183,6 +1184,8 @@
     "pmid": "PMC12695629",
     "publisher": "Nature",
     "venue": "Nature Methods",
+    "volume": "22",
+    "pages": "2585-2593",
     "media": [
       {
         "type": "website",

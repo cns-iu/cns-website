@@ -1,8 +1,6 @@
 slug: pub-479
 type: article-journal
-title: >-
-  Cell Type Populations for 3D Anatomical Structures of the Human Reference
-  Atlas
+title: Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas
 date: 2026-03-19T00:00:00.000Z
 doi: 10.1038/s41597-026-06642-4
 authors:
@@ -21,6 +19,7 @@ thumbnail: hrapop-fig2.png
 pmid: PMC12393406
 publisher: Nature
 venue: Nature Scientific Data
+volume: "13"
 featured: true
 projects:
   - human-reference-atlas
