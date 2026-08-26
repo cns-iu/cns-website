@@ -1,8 +1,7 @@
 slug: pub-459
 type: article-journal
-title: >-
-  Construction, Deployment, and Usage of the Human Reference Atlas Knowledge
-  Graph
+title: Construction, Deployment, and Usage of the Human Reference Atlas
+  Knowledge Graph
 date: 2025-07-01T00:00:00.000Z
 doi: 10.1038/s41597-025-05183-6
 authors:
@@ -16,6 +15,7 @@ thumbnail: hrakg2025.png
 pmid: PMC11703146
 publisher: Nature
 venue: Nature Scientific Data
+volume: "12"
 projects:
   - human-reference-atlas
 media:
