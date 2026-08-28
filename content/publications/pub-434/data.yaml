@@ -1,8 +1,7 @@
 slug: pub-434
 type: article-journal
-title: >-
-  Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
-  Construction and Usage
+title: "Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas
+  Construction and Usage"
 date: 2025-03-13T00:00:00.000Z
 doi: 10.1038/s41592-024-02563-5
 authors:
@@ -29,6 +28,8 @@ authors:
 thumbnail: marker-fig1.png
 pmid: PMC11978508
 venue: Nature Methods
+volume: "22"
+pages: 845-860
 projects:
   - human-reference-atlas
 media:

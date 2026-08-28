@@ -1,8 +1,7 @@
 slug: pub-469
 type: article-journal
-title: >-
-  Ensuring Adherence to Standards in Experiment-Related Metadata Entered Via
-  Spreadsheets
+title: Ensuring Adherence to Standards in Experiment-Related Metadata Entered
+  Via Spreadsheets
 date: 2025-02-14T00:00:00.000Z
 doi: 10.1038/s41597-025-04589-6
 authors:
@@ -17,6 +16,8 @@ authors:
 thumbnail: fig1s41597-025-04589-6.png
 pmid: PMC11828951
 venue: Scientific Data
+volume: "12"
+pages: "265"
 projects:
   - human-reference-atlas
 media:

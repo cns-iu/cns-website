@@ -1418,6 +1418,8 @@
     "thumbnail": "fig1s41597-025-04589-6.png",
     "pmid": "PMC11828951",
     "venue": "Scientific Data",
+    "volume": "12",
+    "pages": "265",
     "projects": [
       "human-reference-atlas"
     ],
@@ -1835,6 +1837,7 @@
     "pmid": "PMC11703146",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
+    "volume": "12",
     "projects": [
       "human-reference-atlas"
     ],
@@ -2609,6 +2612,8 @@
     "thumbnail": "marker-fig1.png",
     "pmid": "PMC11978508",
     "venue": "Nature Methods",
+    "volume": "22",
+    "pages": "845-860",
     "projects": [
       "human-reference-atlas"
     ],
