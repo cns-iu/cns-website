@@ -53,6 +53,10 @@
     "dateEnd": "2026-08-31T00:00:00.000Z",
     "projects": [
       "human-reference-atlas"
+    ],
+    "investigators": [
+      "jonathan-c-silverstein",
+      "philip-blood"
     ]
   },
   {
