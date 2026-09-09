@@ -10,3 +10,6 @@ dateStart: 2022-09-24
 dateEnd: 2024-07-31
 projects:
   - human-reference-atlas
+investigators:
+  - m-todd-valerius
+  - sanjay-jain
