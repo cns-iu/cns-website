@@ -9,3 +9,6 @@ dateStart: 2025-09-01
 dateEnd: 2026-08-31
 projects:
   - human-reference-atlas
+investigators:
+  - rong-fan
+  - katy-borner
