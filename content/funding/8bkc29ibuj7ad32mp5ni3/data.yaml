@@ -6,3 +6,5 @@ funder: Kavli Foundation
 amount: 10000
 dateStart: 2022-11-01
 dateEnd: 2023-07-31
+investigators:
+  - katy-borner
