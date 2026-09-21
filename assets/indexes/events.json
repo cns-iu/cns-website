@@ -22885,8 +22885,9 @@
     "dateStart": "2026-08-24T00:00:00.000Z",
     "dateEnd": "2026-08-25T00:00:00.000Z",
     "location": {
-      "venue": "Virtual, Organized by the Whole Person Physiome Research and Coordination Center"
-    }
+      "venue": "Virtual"
+    },
+    "organizers": []
   },
   {
     "slug": "40ok174v0v88rlnw8if0j",
