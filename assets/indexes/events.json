@@ -11139,6 +11139,23 @@
     ]
   },
   {
+    "slug": "gdsjj89u3gtizxb7w96je",
+    "type": "workshop",
+    "title": "Whole Person Physiome Hackathon",
+    "dateStart": "2027-06-23T00:00:00.000Z",
+    "dateEnd": "2027-06-24T00:00:00.000Z",
+    "thumbnail": "https://www.wholepersonphysiome.org/events",
+    "location": {
+      "venue": "IU Capital Campus",
+      "street": "1619 Massachusetts Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "postcode": "20036",
+      "country": ""
+    },
+    "organizers": []
+  },
+  {
     "slug": "gakg7ufo18obvqh8ajoxa",
     "type": "presentation",
     "title": "Amatria tour for Division of Student Affairs (1:45pm-2:30pm)",
