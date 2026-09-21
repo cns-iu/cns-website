@@ -42,7 +42,10 @@
       "city": "Boston",
       "state": "Massachusetts",
       "country": "USA"
-    }
+    },
+    "presenters": [
+      "katy-borner"
+    ]
   },
   {
     "slug": "ws-96",
