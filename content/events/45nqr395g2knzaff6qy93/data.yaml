@@ -6,4 +6,7 @@ dateStart: 2026-08-24
 dateEnd: 2026-08-25
 location:
   venue: Virtual
-organizers: []
+organizers:
+  - bruce-w-herr-ii
+  - jacob-scherba
+  - arjun-srivatsa
