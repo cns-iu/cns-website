@@ -22287,7 +22287,9 @@
       "state": "Uusimaa",
       "postcode": "00520"
     },
-    "presenters": [],
+    "presenters": [
+      "katy-borner"
+    ],
     "attendees": [
       "katy-borner"
     ]
