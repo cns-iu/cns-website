@@ -1400,8 +1400,8 @@
     "dateEnd": "2026-08-28T00:00:00.000Z",
     "thumbnail": "hra-brain-illustration.png",
     "location": {
-      "venue": "Berlin Institute of Health at Charité (BIH), Center of Health Data Sciences, Rahel-Hirsch-Center",
-      "street": "Luisenstr.65",
+      "venue": "Berlin Institute of Health at Charité (BIH), Center of Health Data Sciences, Rahel Hirsch Center",
+      "street": "Luisenstr. 65",
       "postcode": "10117",
       "city": "Berlin",
       "country": "Germany"
