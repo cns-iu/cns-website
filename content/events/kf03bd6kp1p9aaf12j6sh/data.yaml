@@ -12,6 +12,10 @@ location:
   country: USA
   street: 700 N Woodlawn Ave
   postcode: "47408"
+organizers:
+  - andreas-bueckle
+  - bruce-w-herr-ii
+  - katy-borner
 featured: true
 projects:
   - human-reference-atlas
