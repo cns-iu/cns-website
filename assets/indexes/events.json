@@ -22992,6 +22992,24 @@
     ]
   },
   {
+    "slug": "3axfe56qx8r5g0ihs2rtg",
+    "type": "workshop",
+    "title": "Human Reference Atlas, Human Phenotype Ontology, Whole Person Physiome, and Other EU Efforts Hackathon",
+    "link": "https://cns-iu.github.io/workshops/2027-05-10_hra_hackathon/",
+    "dateStart": "2027-05-10T00:00:00.000Z",
+    "dateEnd": "2027-05-12T00:00:00.000Z",
+    "location": {
+      "venue": "Berlin Institutes of Health",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "organizers": [
+      "andreas-bueckle",
+      "katy-borner",
+      "peter-n-robinson"
+    ]
+  },
+  {
     "slug": "32cd861vwg6saafxzr560",
     "type": "presentation",
     "title": "Amatria Public Tour (12:00pm-1:00pm and 4:00pm-5:00pm)",
