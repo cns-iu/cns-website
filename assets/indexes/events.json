@@ -10931,11 +10931,12 @@
     "dateEnd": "2026-02-20T00:00:00.000Z",
     "thumbnail": "luddy-sice-lockup.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "venue": "Luddy Research Symposium",
       "city": "Bloomington",
       "state": "Indiana",
       "postcode": "47408",
-      "country": "USA"
+      "country": "USA",
+      "street": "Luddy School of Informatics, Computing, and Engineering"
     },
     "presenters": [
       "katy-borner"
