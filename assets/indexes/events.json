@@ -4536,10 +4536,10 @@
   {
     "slug": "pres-522",
     "type": "presentation",
-    "title": "Reproducibility in Scientometrics: Data Enclaves, Open Code, and Open Education ",
+    "title": "Reproducibility in Scientometrics: Data Enclaves, Open Code, and Open Education",
     "link": "https://cns.iu.edu/docs/presentations/2017-borner-reproducibility.pdf",
-    "dateStart": "2017-10-17",
-    "dateEnd": "2017-10-17",
+    "dateStart": "2017-10-17T00:00:00.000Z",
+    "dateEnd": "2017-10-17T00:00:00.000Z",
     "location": {
       "raw": "ISSI 2017, Wuhan, China"
     },
@@ -5452,10 +5452,15 @@
     "type": "presentation",
     "title": "Scalable Multi-Scale Visual Analytical Tools for Health Science",
     "link": "https://cns.iu.edu/docs/presentations/2016-light-odonnell-suny.pdf",
-    "dateStart": "2016-03-29",
-    "dateEnd": "2016-03-29",
+    "dateStart": "2016-03-29T00:00:00.000Z",
+    "dateEnd": "2016-03-29T00:00:00.000Z",
     "location": {
-      "raw": "Cancer Pathology and Prevention\nRoswell Park Cancer Institute, State University of New York at Buffalo\n, 408 Research Studies Center, Buffalo, NY, 14263"
+      "raw": "",
+      "venue": "Cancer Pathology and Prevention, Roswell Park Cancer Institute, State University of New York at Buffalo",
+      "street": "408 Research Studies Center",
+      "city": "Buffalo",
+      "state": "NY",
+      "postcode": "14263"
     },
     "presenters": [
       "robert-light",
@@ -8484,10 +8489,10 @@
   {
     "slug": "pres-269",
     "type": "presentation",
-    "title": "Towards a Macroscope for \nScience Policy Decision Making \n",
+    "title": "Towards a Macroscope for Science Policy Decision Making",
     "link": "https://cns.iu.edu/docs/presentations/2010-borner-macroscipol-scisip.pdf",
-    "dateStart": "2010-10-19",
-    "dateEnd": "2010-10-19",
+    "dateStart": "2010-10-19T00:00:00.000Z",
+    "dateEnd": "2010-10-19T00:00:00.000Z",
     "location": {
       "raw": "American Association for the Advancement of Science, 1200 New York Avenue NW, Washington DC, 20005"
     },
