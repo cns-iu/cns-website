@@ -5529,10 +5529,10 @@
     "type": "presentation",
     "title": "Designing Effective Data Visualizations",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-emory.pdf",
-    "dateStart": "2016-02-04",
-    "dateEnd": "2016-02-04",
+    "dateStart": "2016-02-04T00:00:00.000Z",
+    "dateEnd": "2016-02-04T00:00:00.000Z",
     "location": {
-      "raw": "College of Computing, Georgia Institute of Technology\n, 801 Atlantic Dr, Atlanta, GA, 30332"
+      "raw": "College of Computing, Georgia Institute of Technology, 801 Atlantic Dr, Atlanta, GA, 30332"
     },
     "presenters": [
       "katy-borner"
