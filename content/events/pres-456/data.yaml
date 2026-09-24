@@ -2,13 +2,16 @@ slug: pres-456
 type: presentation
 title: Scalable Multi-Scale Visual Analytical Tools for Health Science
 link: https://cns.iu.edu/docs/presentations/2016-light-odonnell-suny.pdf
-dateStart: '2016-03-29'
-dateEnd: '2016-03-29'
+dateStart: 2016-03-29
+dateEnd: 2016-03-29
 location:
-  raw: |-
-    Cancer Pathology and Prevention
-    Roswell Park Cancer Institute, State University of New York at Buffalo
-    , 408 Research Studies Center, Buffalo, NY, 14263
+  raw: ""
+  venue: Cancer Pathology and Prevention, Roswell Park Cancer Institute, State
+    University of New York at Buffalo
+  street: 408 Research Studies Center
+  city: Buffalo
+  state: NY
+  postcode: "14263"
 presenters:
   - robert-light
   - daniel-odonnell
