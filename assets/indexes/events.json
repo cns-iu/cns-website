@@ -5405,10 +5405,15 @@
     "type": "presentation",
     "title": "Measuring, Predicting, and Communicating Science",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-loc.pdf",
-    "dateStart": "2016-03-22",
-    "dateEnd": "2016-03-22",
+    "dateStart": "2016-03-22T00:00:00.000Z",
+    "dateEnd": "2016-03-22T00:00:00.000Z",
     "location": {
-      "raw": "Office of Science, U.S. Department of Energy\n, 1000 Independence Ave SW, Washington, DC, 20585"
+      "raw": "",
+      "venue": "Office of Science, U.S. Department of Energy",
+      "street": "1000 Independence Ave SW",
+      "state": "Washington",
+      "postcode": "DC",
+      "country": "20585"
     },
     "presenters": [
       "katy-borner"
