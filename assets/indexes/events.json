@@ -8904,10 +8904,10 @@
   {
     "slug": "pres-243",
     "type": "presentation",
-    "title": "Envisioning Science and Technology\n",
+    "title": "Envisioning Science and Technology",
     "link": "https://cns.iu.edu/docs/presentations/2010-borner-s&t-harvard.pdf",
-    "dateStart": "2010-05-07",
-    "dateEnd": "2010-05-07",
+    "dateStart": "2010-05-07T00:00:00.000Z",
+    "dateEnd": "2010-05-07T00:00:00.000Z",
     "location": {
       "raw": "Harvard Business School, Soldiers Field, Boston, MA, 02163"
     },
