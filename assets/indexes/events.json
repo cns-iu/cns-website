@@ -4215,12 +4215,16 @@
   {
     "slug": "pres-545",
     "type": "presentation",
-    "title": "Engineering Research Center Observatory Visualizations ",
+    "title": "Engineering Research Center Observatory Visualizations",
     "link": "https://cns.iu.edu/docs/presentations/18-NSF-ERC-HUBzero.pdf",
-    "dateStart": "2018-03-28",
-    "dateEnd": "2018-03-28",
+    "dateStart": "2018-03-28T00:00:00.000Z",
+    "dateEnd": "2018-03-28T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": ""
     },
     "presenters": [
       "katy-borner"
