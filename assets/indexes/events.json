@@ -4865,10 +4865,10 @@
   {
     "slug": "pres-500",
     "type": "presentation",
-    "title": "Maps & Macroscopes: Envisioning Science, Technology, and Education ",
+    "title": "Maps & Macroscopes: Envisioning Science, Technology, and Education",
     "link": "https://cns.iu.edu/docs/presentations/2017-borner-innovation-iub.pdf",
-    "dateStart": "2017-04-06",
-    "dateEnd": "2017-04-06",
+    "dateStart": "2017-04-06T00:00:00.000Z",
+    "dateEnd": "2017-04-06T00:00:00.000Z",
     "location": {
       "raw": "Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St., Bloomington, Indiana, 47405"
     },
