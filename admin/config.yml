@@ -390,6 +390,13 @@ collections:
       - *dateEnd
       - *thumbnail
 
+      - name: organizedByCns
+        label: Organized by CNS
+        widget: boolean
+        hint: Whether this event is organized by CNS.
+        required: false
+      - *featured
+
       - name: location
         label: Location
         widget: object
@@ -454,7 +461,6 @@ collections:
         hint: Parent event slug for workshop, presentation, tutorial, or other sub-events. DO NOT USE.
         required: false
 
-      - *featured
       - *projects
       - *media
 
@@ -503,7 +509,7 @@ logo_url: https://cns.iu.edu/images/global/cns_logo.png
 show_preview_links: true
 
 # Set local_backend to true when testing locally
-## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+## See https://decapcms.org/docs/decap-proxy/
 ## Basically run `npx decap-server` and launch the angular site
 # local_backend: true
 local_backend: false
