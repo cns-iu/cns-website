@@ -5,6 +5,8 @@ link: https://cns-iu.github.io/workshops/2026-03-09_hra_hackathon/
 dateStart: 2026-03-09
 dateEnd: 2026-03-11
 thumbnail: hra-hackathon3.8.2026.png
+organizedByCns: true
+featured: true
 location:
   raw: ""
   venue: Luddy School of Informatics, Computing, and Engineering
@@ -15,6 +17,5 @@ location:
 organizers:
   - bruce-w-herr-ii
   - andreas-bueckle
-featured: true
 projects:
   - human-reference-atlas

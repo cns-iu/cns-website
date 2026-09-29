@@ -73,6 +73,8 @@
     "dateStart": "2026-03-09T00:00:00.000Z",
     "dateEnd": "2026-03-11T00:00:00.000Z",
     "thumbnail": "hra-hackathon3.8.2026.png",
+    "organizedByCns": true,
+    "featured": true,
     "location": {
       "raw": "",
       "venue": "Luddy School of Informatics, Computing, and Engineering",
@@ -85,7 +87,6 @@
       "bruce-w-herr-ii",
       "andreas-bueckle"
     ],
-    "featured": true,
     "projects": [
       "human-reference-atlas"
     ]
@@ -98,10 +99,11 @@
     "dateStart": "2025-12-13T00:00:00.000Z",
     "dateEnd": "2025-12-14T00:00:00.000Z",
     "thumbnail": "scimapsintelligences24hourevent.png",
+    "organizedByCns": true,
+    "featured": true,
     "location": {
       "raw": "Remote event"
     },
-    "featured": true,
     "projects": [
       "envisioning-intelligences"
     ]
