@@ -707,8 +707,9 @@
     "type": "workshop",
     "title": "Addictions Grand Challenge (AGC)",
     "link": "http://web.archive.org/web/20260108193624/https://cns.iu.edu/180226.html",
-    "dateStart": "2018-02-26",
-    "dateEnd": "2018-02-26",
+    "dateStart": "2018-02-26T00:00:00.000Z",
+    "dateEnd": "2018-02-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -718,8 +719,9 @@
     "type": "workshop",
     "title": "Fashion Technology Symposium",
     "link": "http://fashiontech.cns.iu.edu/",
-    "dateStart": "2018-03-02",
-    "dateEnd": "2018-03-03",
+    "dateStart": "2018-03-02T00:00:00.000Z",
+    "dateEnd": "2018-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
