@@ -233,6 +233,7 @@
     "dateStart": "2023-10-18T00:00:00.000Z",
     "dateEnd": "2023-10-19T00:00:00.000Z",
     "thumbnail": "og-hackathon-2023.png",
+    "organizedByCns": true,
     "location": {
       "venue": "NIAID Biovisualization (“Biovis”) Lab",
       "raw": "",
