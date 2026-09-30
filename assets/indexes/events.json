@@ -597,8 +597,9 @@
     "type": "workshop",
     "title": "IU Health Team: Dashboards/Visualization Meeting",
     "link": "https://cns-iu.github.io/workshops/2019-07-29_iu-health-team/",
-    "dateStart": "2019-07-29",
-    "dateEnd": "2019-07-29",
+    "dateStart": "2019-07-29T00:00:00.000Z",
+    "dateEnd": "2019-07-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, US"
     }
@@ -635,8 +636,9 @@
     "type": "workshop",
     "title": "Common Coordinate Framework Workshop (CCFWS-01)",
     "link": "https://ccfws.cns.iu.edu/2019/",
-    "dateStart": "2019-05-09",
-    "dateEnd": "2019-05-09",
+    "dateStart": "2019-05-09T00:00:00.000Z",
+    "dateEnd": "2019-05-09T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
