@@ -562,8 +562,9 @@
     "type": "workshop",
     "title": "LifeOmic",
     "link": "https://cns-iu.github.io/workshops/2019-09-18_life-omic/",
-    "dateStart": "2019-09-18",
-    "dateEnd": "2019-09-18",
+    "dateStart": "2019-09-18T00:00:00.000Z",
+    "dateEnd": "2019-09-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "BLOOMINGTON, Indiana, USA"
     }
@@ -607,8 +608,9 @@
     "type": "workshop",
     "title": "Addictions Grand Challenge Project on Opioid Crisis and the Workforce : Advisory Group Meeting",
     "link": "https://cns-iu.github.io/workshops/2019-08-16_addictions-grand-challenge/",
-    "dateStart": "2019-08-16",
-    "dateEnd": "2019-08-16",
+    "dateStart": "2019-08-16T00:00:00.000Z",
+    "dateEnd": "2019-08-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, US"
     }
