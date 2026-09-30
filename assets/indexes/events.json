@@ -424,8 +424,9 @@
     "type": "workshop",
     "title": "Boston Lymphatic Symposium’s NIH Clinical Pre-Conference",
     "link": "https://cns-iu.github.io/workshops/2021-11-04_boston-lymphatic-symposium/",
-    "dateStart": "2021-11-04",
-    "dateEnd": "2021-11-04",
+    "dateStart": "2021-11-04T00:00:00.000Z",
+    "dateEnd": "2021-11-04T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by NIH"
     }
