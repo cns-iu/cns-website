@@ -980,8 +980,9 @@
     "type": "workshop",
     "title": "Workshop on Scholarly Databases & Data Integration",
     "link": "http://web.archive.org/web/20260108190906/https://cns.iu.edu/060830.html",
-    "dateStart": "2006-08-30",
-    "dateEnd": "2006-08-31",
+    "dateStart": "2006-08-30T00:00:00.000Z",
+    "dateEnd": "2006-08-31T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }

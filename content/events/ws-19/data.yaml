@@ -2,7 +2,8 @@ slug: ws-19
 type: workshop
 title: Workshop on Scholarly Databases & Data Integration
 link: http://web.archive.org/web/20260108190906/https://cns.iu.edu/060830.html
-dateStart: '2006-08-30'
-dateEnd: '2006-08-31'
+dateStart: 2006-08-30
+dateEnd: 2006-08-31
+organizedByCns: true
 location:
   raw: Bloomington, Indiana
