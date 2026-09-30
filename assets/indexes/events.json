@@ -10907,10 +10907,11 @@
     "dateStart": "2025-04-18T00:00:00.000Z",
     "dateEnd": "2025-04-18T00:00:00.000Z",
     "thumbnail": "cns-anniversary.png",
+    "organizedByCns": true,
+    "featured": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
-    },
-    "featured": true
+    }
   },
   {
     "slug": "mvhw769umuppbp9ul8o3r",
