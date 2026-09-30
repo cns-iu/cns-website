@@ -330,8 +330,9 @@
     "type": "workshop",
     "title": "Mapping the Structure and Evolution of Sustainability Science",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/101201.html",
-    "dateStart": "2010-12-01",
-    "dateEnd": "2010-12-01",
+    "dateStart": "2010-12-01T00:00:00.000Z",
+    "dateEnd": "2010-12-01T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Washington, DC"
     }
@@ -790,8 +791,9 @@
     "type": "workshop",
     "title": "NIH Workshop on Value Added Services for VIVO",
     "link": "http://web.archive.org/web/20260108191923/https://cns.iu.edu/110325.html",
-    "dateStart": "2011-03-25",
-    "dateEnd": "2011-03-26",
+    "dateStart": "2011-03-25T00:00:00.000Z",
+    "dateEnd": "2011-03-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -892,8 +894,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Modeling and Mapping Science Workshop",
     "link": "http://web.archive.org/web/20260108192030/https://cns.iu.edu/110321.html",
-    "dateStart": "2011-03-21",
-    "dateEnd": "2011-03-21",
+    "dateStart": "2011-03-21T00:00:00.000Z",
+    "dateEnd": "2011-03-21T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
