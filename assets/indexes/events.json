@@ -399,8 +399,9 @@
     "type": "workshop",
     "title": "The Future of Learning & Work Workshop",
     "link": "https://cns-iu.github.io/workshops/2022-03-14-futurium/",
-    "dateStart": "2022-03-14",
-    "dateEnd": "2022-03-15",
+    "dateStart": "2022-03-14T00:00:00.000Z",
+    "dateEnd": "2022-03-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Berlin, Germany"
     }
@@ -13080,8 +13081,9 @@
     "type": "conference",
     "title": "Spatial Biology Europe: Online",
     "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/",
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
+    "dateStart": "2021-04-14T00:00:00.000Z",
+    "dateEnd": "2021-04-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Virtual Event"
     }
