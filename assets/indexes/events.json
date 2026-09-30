@@ -648,8 +648,9 @@
     "type": "workshop",
     "title": "Internet of Things Wearables in Motion Symposium",
     "link": "https://iotw.cns.iu.edu",
-    "dateStart": "2019-04-25",
-    "dateEnd": "2019-04-26",
+    "dateStart": "2019-04-25T00:00:00.000Z",
+    "dateEnd": "2019-04-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -659,8 +660,9 @@
     "type": "workshop",
     "title": "Learning Analytics in Support of Convergence",
     "link": "http://knowledgeconvergence.org/",
-    "dateStart": "2019-03-04",
-    "dateEnd": "2019-03-08",
+    "dateStart": "2019-03-04T00:00:00.000Z",
+    "dateEnd": "2019-03-08T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Tempe, Arizona, USA"
     }
@@ -670,8 +672,9 @@
     "type": "workshop",
     "title": "Network Visualization in the Humanities",
     "link": "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482",
-    "dateStart": "2018-11-25",
-    "dateEnd": "2018-11-30",
+    "dateStart": "2018-11-25T00:00:00.000Z",
+    "dateEnd": "2018-11-30T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Dagstuhl, Germany"
     }
