@@ -947,8 +947,9 @@
     "type": "workshop",
     "title": "Workshop on Mapping Science",
     "link": "http://web.archive.org/web/20260108190600/https://cns.iu.edu/060404.html",
-    "dateStart": "2006-04-04",
-    "dateEnd": "2006-04-04",
+    "dateStart": "2006-04-04T00:00:00.000Z",
+    "dateEnd": "2006-04-04T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, NY"
     }
