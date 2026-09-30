@@ -1,15 +1,14 @@
 slug: pub-455
 type: paper-conference
 title: Macroscopes for Making Sense of Science
-date: '2017-07-09'
+date: 2017-07-09
 doi: 10.1145/3093338.3106387
 authors:
   - katy-borner
   - elizabeth-record
 publisher: ACM
-venue: >-
-  In Practice and Experience in Advanced Research Computing 2017:
-  Sustainability, Success and Impact 
+venue: "In Practice and Experience in Advanced Research Computing 2017:
+  Sustainability, Success and Impact"
 pages: 1-2,
 media:
   - type: website
