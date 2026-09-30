@@ -358,6 +358,7 @@
     "dateStart": "2022-08-29T00:00:00.000Z",
     "dateEnd": "2022-11-25T00:00:00.000Z",
     "thumbnail": "places-and-spaces.png",
+    "organizedByCns": true,
     "location": {
       "raw": "Ann Arbor, Michigan, USA"
     },
