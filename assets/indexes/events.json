@@ -387,8 +387,9 @@
     "type": "workshop",
     "title": "Data Visualization Bazaar",
     "link": "https://events.iu.edu/libraries/event/476243-data-visualization-bazaar",
-    "dateStart": "2022-04-05",
-    "dateEnd": "2022-04-05",
+    "dateStart": "2022-04-05T00:00:00.000Z",
+    "dateEnd": "2022-04-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
