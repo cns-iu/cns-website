@@ -947,8 +947,9 @@
     "type": "workshop",
     "title": "Standards for Science Mapping and Classifications",
     "link": "http://www.issi2013.org/work.html#Ws4",
-    "dateStart": "2013-07-15",
-    "dateEnd": "2013-07-15",
+    "dateStart": "2013-07-15T00:00:00.000Z",
+    "dateEnd": "2013-07-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Vienna, Austria"
     }
@@ -958,8 +959,9 @@
     "type": "workshop",
     "title": "Science Mapping Standards Workshop",
     "link": "http://web.archive.org/web/20260108192015/https://cns.iu.edu/131104.html",
-    "dateStart": "2013-11-04",
-    "dateEnd": "2013-11-05",
+    "dateStart": "2013-11-04T00:00:00.000Z",
+    "dateEnd": "2013-11-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
