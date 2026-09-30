@@ -1,10 +1,10 @@
 slug: ws-32
 type: workshop
-title: >-
-  Visual Insights from Big Data: Envisioning Science, Engineering, and
-  Innovation
+title: "Visual Insights from Big Data: Envisioning Science, Engineering, and
+  Innovation"
 link: http://cns.iu.edu/docs/presentations/2015-borner-aaas.pdf
-dateStart: '2015-02-12'
-dateEnd: '2015-02-16'
+dateStart: 2015-02-12
+dateEnd: 2015-02-16
+organizedByCns: true
 location:
   raw: San Jose, CA
