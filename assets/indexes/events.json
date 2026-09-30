@@ -770,8 +770,9 @@
     "type": "workshop",
     "title": "Workshop II: Culture Analytics and User Experience Design",
     "link": "http://web.archive.org/web/20260108192933/https://cns.iu.edu/160412.html",
-    "dateStart": "2016-04-11",
-    "dateEnd": "2016-04-15",
+    "dateStart": "2016-04-11T00:00:00.000Z",
+    "dateEnd": "2016-04-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Los Angeles, California"
     }
