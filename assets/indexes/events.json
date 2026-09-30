@@ -1021,8 +1021,9 @@
     "type": "workshop",
     "title": "NSF Workshops on Knowledge Management and Visualization Tools in Support of Discovery-Workshop II",
     "link": "http://vw.slis.indiana.edu/cdi2008/workshop2.html",
-    "dateStart": "2008-04-07",
-    "dateEnd": "2008-04-08",
+    "dateStart": "2008-04-07T00:00:00.000Z",
+    "dateEnd": "2008-04-08T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Queens, NY"
     }
