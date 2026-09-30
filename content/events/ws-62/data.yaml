@@ -2,7 +2,8 @@ slug: ws-62
 type: workshop
 title: LifeOmic
 link: https://cns-iu.github.io/workshops/2019-09-18_life-omic/
-dateStart: '2019-09-18'
-dateEnd: '2019-09-18'
+dateStart: 2019-09-18
+dateEnd: 2019-09-18
+organizedByCns: true
 location:
   raw: BLOOMINGTON, Indiana, USA
