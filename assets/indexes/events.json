@@ -1033,8 +1033,9 @@
     "type": "workshop",
     "title": "NSF Workshops on Knowledge Management and Visualization Tools in Support of Discovery-Workshop I",
     "link": "http://vw.slis.indiana.edu/cdi2008/workshop1.html",
-    "dateStart": "2008-03-10",
-    "dateEnd": "2008-03-11",
+    "dateStart": "2008-03-10T00:00:00.000Z",
+    "dateEnd": "2008-03-11T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Arlington, VA"
     }
@@ -1080,8 +1081,9 @@
     "type": "workshop",
     "title": "NSF Workshop on Mapping of Science and Semantic Web",
     "link": "http://web.archive.org/web/20260108191345/https://cns.iu.edu/100304.html",
-    "dateStart": "2010-03-04",
-    "dateEnd": "2010-03-05",
+    "dateStart": "2010-03-04T00:00:00.000Z",
+    "dateEnd": "2010-03-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
