@@ -911,8 +911,9 @@
     "type": "workshop",
     "title": "OECD-experts dialogue on scientometrics: Improving the use of bibliometric indicators and analysis for policy-making",
     "link": "http://web.archive.org/web/20260108192445/https://cns.iu.edu/140325.html",
-    "dateStart": "2014-03-25",
-    "dateEnd": "2014-03-25",
+    "dateStart": "2014-03-25T00:00:00.000Z",
+    "dateEnd": "2014-03-25T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Paris, France"
     }
@@ -922,8 +923,9 @@
     "type": "workshop",
     "title": "Pathways Workshop",
     "link": "http://web.archive.org/web/20260109195849/https://cns.iu.edu/131113.html",
-    "dateStart": "2013-11-13",
-    "dateEnd": "2013-11-13",
+    "dateStart": "2013-11-13T00:00:00.000Z",
+    "dateEnd": "2013-11-13T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Minneapolis, MN, USA"
     }
