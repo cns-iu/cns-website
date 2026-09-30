@@ -2,8 +2,9 @@ slug: ws-55
 type: workshop
 title: HuBMAP HIVE Demo Day
 link: https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/
-dateStart: '2020-09-20'
-dateEnd: '2020-09-21'
+dateStart: 2020-09-20
+dateEnd: 2020-09-21
+organizedByCns: true
 location:
   raw: Bloomington, Indiana, USA
 projects:
