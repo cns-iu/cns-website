@@ -5740,8 +5740,9 @@
     "type": "presentation",
     "title": "Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that Render Data into Insights",
     "link": "https://cns.iu.edu/docs/presentations/2015-borner-astc.pdf",
-    "dateStart": "2015-10-17",
-    "dateEnd": "2015-10-17",
+    "dateStart": "2015-10-17T00:00:00.000Z",
+    "dateEnd": "2015-10-17T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Montreal, Quebec, Canada"
     },
