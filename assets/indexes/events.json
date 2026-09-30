@@ -1043,8 +1043,9 @@
     "type": "workshop",
     "title": "NSF/JSMF Workshop on Mapping the History and Philosophy of Science",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/090617.html",
-    "dateStart": "2009-06-17",
-    "dateEnd": "2009-06-18",
+    "dateStart": "2009-06-17T00:00:00.000Z",
+    "dateEnd": "2009-06-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
