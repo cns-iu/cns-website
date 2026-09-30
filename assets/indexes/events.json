@@ -116,6 +116,7 @@
     "dateStart": "2025-11-05T00:00:00.000Z",
     "dateEnd": "2025-11-05T00:00:00.000Z",
     "thumbnail": "ieee2025.png",
+    "organizedByCns": true,
     "location": {
       "raw": "Vienna, Austria"
     }
