@@ -741,8 +741,9 @@
     "type": "workshop",
     "title": "Web of Science as a Research Dataset",
     "link": "http://web.archive.org/web/20260108193039/https://cns.iu.edu/161114.html",
-    "dateStart": "2016-11-14",
-    "dateEnd": "2016-11-15",
+    "dateStart": "2016-11-14T00:00:00.000Z",
+    "dateEnd": "2016-11-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }

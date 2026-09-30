@@ -2,7 +2,8 @@ slug: ws-40
 type: workshop
 title: Web of Science as a Research Dataset
 link: http://web.archive.org/web/20260108193039/https://cns.iu.edu/161114.html
-dateStart: '2016-11-14'
-dateEnd: '2016-11-15'
+dateStart: 2016-11-14
+dateEnd: 2016-11-15
+organizedByCns: true
 location:
   raw: Bloomington, Indiana
