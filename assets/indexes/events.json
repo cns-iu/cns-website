@@ -795,8 +795,9 @@
     "type": "workshop",
     "title": "Visual Analytics in Healthcare\r\n",
     "link": "http://web.archive.org/web/20260109195944/https://cns.iu.edu/151102.html",
-    "dateStart": "2015-11-02",
-    "dateEnd": "2015-11-03",
+    "dateStart": "2015-11-02T00:00:00.000Z",
+    "dateEnd": "2015-11-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
