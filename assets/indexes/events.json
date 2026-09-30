@@ -318,8 +318,9 @@
     "type": "workshop",
     "title": "NIH Junior Investigators Atlas Building Meeting",
     "link": "https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders",
-    "dateStart": "2023-03-01",
-    "dateEnd": "2023-03-03",
+    "dateStart": "2023-03-01T00:00:00.000Z",
+    "dateEnd": "2023-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, New York, USA"
     }
@@ -11871,8 +11872,9 @@
     "type": "meeting",
     "title": "NIH Junior Investigators Atlas Builders Meeting 2023",
     "link": "https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders",
-    "dateStart": "2023-03-01",
-    "dateEnd": "2023-03-03",
+    "dateStart": "2023-03-01T00:00:00.000Z",
+    "dateEnd": "2023-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, NY"
     },
