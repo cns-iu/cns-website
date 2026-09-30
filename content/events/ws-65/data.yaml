@@ -2,7 +2,8 @@ slug: ws-65
 type: workshop
 title: Vascular Common Coordinate Framework (VCCF) Workshop
 link: https://cns-iu.github.io/workshops/2021-03-29_vccf_workshop/
-dateStart: '2021-03-29'
-dateEnd: '2021-03-29'
+dateStart: 2021-03-29
+dateEnd: 2021-03-29
+organizedByCns: true
 location:
   raw: Bloomington, Indiana, USA
