@@ -476,8 +476,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Science Maps in Education",
     "link": "http://web.archive.org/web/20260108202837/https://cns.iu.edu/111117.html",
-    "dateStart": "2011-11-17",
-    "dateEnd": "2011-11-18",
+    "dateStart": "2011-11-17T00:00:00.000Z",
+    "dateEnd": "2011-11-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -586,8 +587,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Artists Envision Science & Technology",
     "link": "http://web.archive.org/web/20260108201919/https://cns.iu.edu/111017.html",
-    "dateStart": "2011-10-17",
-    "dateEnd": "2011-10-18",
+    "dateStart": "2011-10-17T00:00:00.000Z",
+    "dateEnd": "2011-10-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Arlington, VA"
     }
@@ -696,8 +698,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Standards for Science Metrics, Classifications, and Mapping",
     "link": "http://web.archive.org/web/20260108202022/https://cns.iu.edu/110810.html",
-    "dateStart": "2011-08-11",
-    "dateEnd": "2011-08-12",
+    "dateStart": "2011-08-11T00:00:00.000Z",
+    "dateEnd": "2011-08-12T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -1018,8 +1021,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Plug-and-Play Macroscopes",
     "link": "http://web.archive.org/web/20260108202816/https://cns.iu.edu/121116.html",
-    "dateStart": "2012-11-16",
-    "dateEnd": "2012-11-17",
+    "dateStart": "2012-11-16T00:00:00.000Z",
+    "dateEnd": "2012-11-17T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -1148,8 +1152,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Exploiting Big Data Semantics for Translational Medicine",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/130325.html",
-    "dateStart": "2013-03-25",
-    "dateEnd": "2013-03-26",
+    "dateStart": "2013-03-25T00:00:00.000Z",
+    "dateEnd": "2013-03-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }

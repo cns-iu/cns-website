@@ -2,7 +2,8 @@ slug: ws-7
 type: workshop
 title: JSMF Workshop on Science Maps in Education
 link: http://web.archive.org/web/20260108202837/https://cns.iu.edu/111117.html
-dateStart: '2011-11-17'
-dateEnd: '2011-11-18'
+dateStart: 2011-11-17
+dateEnd: 2011-11-18
+organizedByCns: true
 location:
   raw: Bloomington, Indiana
