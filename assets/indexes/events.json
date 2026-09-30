@@ -550,8 +550,9 @@
     "type": "workshop",
     "title": "NIH-HCA Joint Meeting",
     "link": "https://cns-iu.github.io/workshops/2020-03-30_nih-hca_joint_meeting/",
-    "dateStart": "2020-03-30",
-    "dateEnd": "2020-03-30",
+    "dateStart": "2020-03-30T00:00:00.000Z",
+    "dateEnd": "2020-03-30T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "BLOOMINGTON, Indiana, USA"
     }
@@ -572,8 +573,9 @@
     "type": "workshop",
     "title": "Make-A-Vis: Come Build a Data Visualization from the Ground Up",
     "link": "https://cns-iu.github.io/workshops/2019-09-20_astc-workshop/",
-    "dateStart": "2019-09-20",
-    "dateEnd": "2019-09-20",
+    "dateStart": "2019-09-20T00:00:00.000Z",
+    "dateEnd": "2019-09-20T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Toronto, ON, Canada"
     }
