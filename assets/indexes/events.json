@@ -513,8 +513,9 @@
     "type": "workshop",
     "title": "Multi-Level Graph Representation for Big Data Arising in Science Mapping",
     "link": "https://cns-iu.github.io/workshops/2021-11-04_dagstuhl_seminar/",
-    "dateStart": "2021-04-11",
-    "dateEnd": "2021-04-16",
+    "dateStart": "2021-04-11T00:00:00.000Z",
+    "dateEnd": "2021-04-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a hybrid event hosted by Schloss Dagstuhl"
     }
@@ -536,8 +537,9 @@
     "type": "workshop",
     "title": "Common Coordinate Framework Workshop (CCFWS-2021)",
     "link": "https://ccfws.cns.iu.edu/",
-    "dateStart": "2021-02-02",
-    "dateEnd": "2021-02-09",
+    "dateStart": "2021-02-02T00:00:00.000Z",
+    "dateEnd": "2021-02-09T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
