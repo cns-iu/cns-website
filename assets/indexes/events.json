@@ -128,10 +128,11 @@
     "dateStart": "2025-08-25T00:00:00.000Z",
     "dateEnd": "2025-08-26T00:00:00.000Z",
     "thumbnail": "hra-hackathon-aug2025.png",
+    "organizedByCns": true,
+    "featured": false,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     },
-    "featured": false,
     "projects": [
       "human-reference-atlas"
     ]
