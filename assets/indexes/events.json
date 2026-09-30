@@ -953,8 +953,9 @@
     "type": "workshop",
     "title": "Informal Meeting on Mapping Science",
     "link": "http://web.archive.org/web/20260108190423/https://cns.iu.edu/051201.html",
-    "dateStart": "2005-12-01",
-    "dateEnd": "2005-12-02",
+    "dateStart": "2005-12-01T00:00:00.000Z",
+    "dateEnd": "2005-12-02T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Philadelphia, PA"
     }
@@ -1010,8 +1011,9 @@
     "type": "workshop",
     "title": "Science (Weather) Forecasts Workshop",
     "link": "http://web.archive.org/web/20260108190923/https://cns.iu.edu/061026.html",
-    "dateStart": "2006-10-25",
-    "dateEnd": "2006-10-26",
+    "dateStart": "2006-10-25T00:00:00.000Z",
+    "dateEnd": "2006-10-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York Hall of Science, NY"
     }
