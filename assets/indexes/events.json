@@ -278,8 +278,9 @@
     "dateStart": "2023-12-09T00:00:00.000Z",
     "dateEnd": "2023-12-10T00:00:00.000Z",
     "thumbnail": "macroscopes10.26.2025.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Remote event"
+      "raw": "Virtual"
     },
     "projects": [
       "macroscopes"
