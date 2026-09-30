@@ -2,7 +2,8 @@ slug: ws-25
 type: workshop
 title: Standards for Science Mapping and Classifications
 link: http://www.issi2013.org/work.html#Ws4
-dateStart: '2013-07-15'
-dateEnd: '2013-07-15'
+dateStart: 2013-07-15
+dateEnd: 2013-07-15
+organizedByCns: true
 location:
   raw: Vienna, Austria
