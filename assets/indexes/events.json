@@ -445,8 +445,9 @@
     "type": "workshop",
     "title": "HuBMAP HIVE Demo Day",
     "link": "https://cns-iu.github.io/workshops/2022-03-28_hubmap_hive_demo_day/",
-    "dateStart": "2022-03-28",
-    "dateEnd": "2022-03-29",
+    "dateStart": "2022-03-28T00:00:00.000Z",
+    "dateEnd": "2022-03-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     },
