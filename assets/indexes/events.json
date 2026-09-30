@@ -483,8 +483,9 @@
     "type": "workshop",
     "title": "HuBMAP – Hacking the Kidney Awards Ceremony",
     "link": "https://hubmapconsortium.github.io/ccf/pages/kaggle.html",
-    "dateStart": "2021-05-21",
-    "dateEnd": "2021-05-21",
+    "dateStart": "2021-05-21T00:00:00.000Z",
+    "dateEnd": "2021-05-21T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by Kaggle"
     },
