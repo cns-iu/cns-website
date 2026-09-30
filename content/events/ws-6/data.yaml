@@ -2,7 +2,8 @@ slug: ws-6
 type: workshop
 title: JSMF Workshop on Artists Envision Science & Technology
 link: http://web.archive.org/web/20260108201919/https://cns.iu.edu/111017.html
-dateStart: '2011-10-17'
-dateEnd: '2011-10-18'
+dateStart: 2011-10-17
+dateEnd: 2011-10-18
+organizedByCns: true
 location:
   raw: Arlington, VA
