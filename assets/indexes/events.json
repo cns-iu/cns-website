@@ -13086,7 +13086,7 @@
     "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/",
     "dateStart": "2021-04-14T00:00:00.000Z",
     "dateEnd": "2021-04-16T00:00:00.000Z",
-    "organizedByCns": true,
+    "organizedByCns": false,
     "location": {
       "raw": "Virtual Event"
     }
