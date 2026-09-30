@@ -5,6 +5,7 @@ link: https://cns-iu.github.io/workshops/2021-12-10_24hour_science_map/
 dateStart: 2021-12-11T00:00:00.000Z
 dateEnd: 2021-12-12T00:00:00.000Z
 thumbnail: maps2.png
+organizedByCns: true
 location:
   city: Virtual event
   raw: This was a virtual event, hosted by CNS
