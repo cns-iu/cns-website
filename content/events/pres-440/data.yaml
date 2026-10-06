@@ -1,11 +1,11 @@
 slug: pres-440
 type: presentation
-title: >-
-  Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that Render
-  Data into Insights
+title: "Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that
+  Render Data into Insights"
 link: https://cns.iu.edu/docs/presentations/2015-borner-astc.pdf
-dateStart: '2015-10-17'
-dateEnd: '2015-10-17'
+dateStart: 2015-10-17
+dateEnd: 2015-10-17
+organizedByCns: true
 location:
   raw: Montreal, Quebec, Canada
 presenters:

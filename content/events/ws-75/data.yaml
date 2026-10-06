@@ -2,7 +2,8 @@ slug: ws-75
 type: workshop
 title: The Future of Learning & Work Workshop
 link: https://cns-iu.github.io/workshops/2022-03-14-futurium/
-dateStart: '2022-03-14'
-dateEnd: '2022-03-15'
+dateStart: 2022-03-14
+dateEnd: 2022-03-15
+organizedByCns: true
 location:
   raw: Berlin, Germany

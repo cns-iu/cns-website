@@ -2,7 +2,8 @@ slug: ws-77
 type: workshop
 title: Cell Ontologies, Annotation & Metadata Session
 link: https://cns-iu.github.io/workshops/2022-06-27_human_cell_atlas/
-dateStart: '2022-06-28'
-dateEnd: '2022-06-28'
+dateStart: 2022-06-28
+dateEnd: 2022-06-28
+organizedByCns: true
 location:
   raw: Vienna, Austria

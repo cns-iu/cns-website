@@ -2,7 +2,8 @@ slug: ws-12
 type: workshop
 title: NSF Workshop on Mapping of Science and Semantic Web
 link: http://web.archive.org/web/20260108191345/https://cns.iu.edu/100304.html
-dateStart: '2010-03-04'
-dateEnd: '2010-03-05'
+dateStart: 2010-03-04
+dateEnd: 2010-03-05
+organizedByCns: true
 location:
   raw: Bloomington, Indiana

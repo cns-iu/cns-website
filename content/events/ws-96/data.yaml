@@ -5,6 +5,7 @@ link: https://cns-iu.github.io/workshops/2026-24hr/
 dateStart: 2026-12-12T00:00:00.000Z
 dateEnd: 2026-12-13T00:00:00.000Z
 thumbnail: wpp-thumbnail-blue.png
+organizedByCns: true
 location:
   raw: ""
   venue: Virtual

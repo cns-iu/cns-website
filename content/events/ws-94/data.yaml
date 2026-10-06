@@ -5,8 +5,9 @@ link: https://cns-iu.github.io/workshops/2025-24h/
 dateStart: 2025-12-13T00:00:00.000Z
 dateEnd: 2025-12-14T00:00:00.000Z
 thumbnail: scimapsintelligences24hourevent.png
-location:
-  raw: Remote event
+organizedByCns: true
 featured: true
+location:
+  raw: Virtual
 projects:
   - envisioning-intelligences
