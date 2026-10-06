@@ -77,9 +77,8 @@ function formatMedia(urls, text) {
   return result;
 }
 
-function buildDescription(item, typeLookup, peopleLookup) {
-  const { slug, type, title, link, dateStart, dateEnd, location, presenters, instructors, organizers, attendees } =
-    item;
+function buildDescription(item, peopleLookup) {
+  const { slug, title, link, dateStart, dateEnd, location, presenters, instructors, organizers, attendees } = item;
   const linkUrl = formatUrl(slug, 'events', link);
   const mediaByType = (item.media ?? []).reduce((acc, mediaItem) => {
     acc[mediaItem.type] ??= [];
@@ -91,8 +90,7 @@ function buildDescription(item, typeLookup, peopleLookup) {
     formatDate(dateStart),
     dateEnd && dateEnd !== dateStart ? [' to ', formatDate(dateEnd)] : [],
     '. ',
-    typeLookup[type] ?? type,
-    ': “',
+    '“',
     formatMarkdownLink(title, linkUrl),
     '.” ',
     formatLocation(location),
@@ -115,11 +113,6 @@ function buildDescription(item, typeLookup, peopleLookup) {
 export function writeEventsIndex() {
   const events = readIndex('events');
   const peopleLookup = readLookupIndex('people');
-  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
-  const typeLookup = getTypeOptions(config).reduce((acc, type) => {
-    acc[type.value] = type.label;
-    return acc;
-  }, {});
 
   const entries = events.map((item) => {
     if (!item.dateStart) {
@@ -138,7 +131,7 @@ export function writeEventsIndex() {
       dateStart: formatDate(dateStart),
       dateEnd: formatDate(dateEnd ?? dateStart),
       thumbnail: formatUrl(slug, 'events', thumbnail) || undefined,
-      description: buildDescription(item, typeLookup, peopleLookup),
+      description: buildDescription(item, peopleLookup),
       people: people.length > 0 ? people : undefined,
       featured,
       projects,
