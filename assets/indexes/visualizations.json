@@ -68,7 +68,8 @@
     "slug": "vis-4",
     "title": "AcademyScope",
     "date": "2013-06-12T00:00:00.000Z",
-    "link": "https://cns.iu.edu//interactive_displays.html",
+    "link": "https://nap.nationalacademies.org/academy-scope/#topic=284",
+    "thumbnail": "academyscope.png",
     "description": "*AcademyScope* is the product of a collaboration between CNS and the National Academy of Sciences in Washington, DC. It offers viewers a means to explore all reports published by the National Academy of Sciences, National Academy of Engineering, Institute of Medicine, and National Research Council—from twenty years ago to today. The \"Automatic Mode\" of the visualization shows the 100 most frequently downloaded reports of the previous seven days as well as newly released reports. Displayed downloads, including download totals, are current within the minute. The \"Interactive Mode\" supports browsing and exploration by topic, subtopic, and individual report. Users can select a topic on the right to reveal all of its subtopics, and touch one of the subtopics to display all reports in that area and their relatedness to each other. (Links between reports are automatically generated based on the incidence of shared key terms and phrases.) Touching any report brings up detailed information on the right side of the display. There's also a QR code that allows users to download a PDF of the report to their smart device. Beginning October 24, 2014, [a web version of *AcademyScope*](http://www.nap.edu/academy-scope/#top-downloads) is available to the public on the National Academies Press website. Visitors can access it from the \"Browse by Topic\" menu on the [NAP homepage](http://www.nap.edu), or via the \"Browse Topics\" button in the header on every interior page. The application can also be accessed directly at [www.nap.edu/academy-scope](http://www.nap.edu/academy-scope).\n\nAcknowledgements: Katy Börner (initial concept, design & interactivity consultation), Chin Hua Kong (lead software developer), Samuel Mills (graphic design), Adam Simpson (programming), Bhumi Patel (programming), Rohit Alekar (programming).",
     "media": [
       {
@@ -82,6 +83,7 @@
     "title": "A Semantic Landscape of the Last.fm Music Folksonomy using a Self-Organizing Map",
     "date": "2012-01-23T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/10-Last.fm.pdf",
+    "thumbnail": "visualization-music.png",
     "description": "for Sunbelt, 2010, by Joseph Biberstine, Russell J. Duhon, Katy Börner, Elisha Hardy, CNS and André Skupin, San Diego State University. Shortlisted submission in the 2011 International Institute for Information Design (IIID) Awards in the Didactics category.",
     "media": [
       {
@@ -93,8 +95,9 @@
   {
     "slug": "vis-20",
     "title": "i2b2 Ontology Visualization",
-    "date": "2017-07-20",
+    "date": "2017-07-20T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2017_i2b2_ontology.pdf",
+    "thumbnail": "visualization-i2b2ontology.png",
     "description": "Informatics for Integrating Biology and the Bedside (i2b2) data is organized by the i2b2 ontology. The SCILHS public i2b2 ontology has 490,484 concepts under root path \\\\PCORI and is 11 levels deep. The interactive ontology visualization enables i2b2 administrators and others to see the overall structure of the ontology, to examine (in)activate paths, hide branches that are not relevant, and it will soon support ontology comparisons. The visualization also enables investigators to locate specific codes/diagnosis, determine how broad the data is.",
     "media": [
       {
@@ -187,8 +190,9 @@
   {
     "slug": "vis-14",
     "title": "Movies and Actors: Mapping the Internet Movie Database",
-    "date": "2012-01-11",
+    "date": "2012-01-11T00:00:00.000Z",
     "link": "http://nwb.slis.indiana.edu/papers/2007-herr-movieact.pdf",
+    "thumbnail": "movies_and_actors_400w.png",
     "description": "by Bruce Herr, Weimao Ke, Elisha Hardy, Katy Börner",
     "media": [
       {

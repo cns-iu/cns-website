@@ -56,6 +56,12 @@
     ]
   },
   {
+    "slug": "zhuoyan-li",
+    "name": "Zhuoyan Li",
+    "lastName": "Li",
+    "roles": []
+  },
+  {
     "slug": "zhong-yan",
     "name": "Zhong Yan",
     "lastName": "Yan",
@@ -160,8 +166,8 @@
         "topic": "Ph.D. Learning Sciences",
         "degree": "Ph.D.",
         "department": "Learning Sciences",
-        "dateStart": "2018-04-19",
-        "dateEnd": null
+        "dateStart": "2018-04-19T00:00:00.000Z",
+        "dateEnd": "2022-07-03T00:00:00.000Z"
       }
     ]
   },
@@ -374,9 +380,9 @@
         "type": "student",
         "topic": "Ph.D. Intelligent Systems Engineering Student",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2017-09-11",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2017-09-11T00:00:00.000Z",
+        "dateEnd": "2024-08-20T00:00:00.000Z"
       }
     ]
   },
@@ -485,18 +491,19 @@
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Research Software Engineer - Machine Learning",
-        "displayOrder": 8,
-        "office": "Luddy Hall 4025",
-        "phone": "",
-        "fax": "",
-        "email": "yashjain@iu.edu",
         "education": "MS in Computer Science, Indiana University - Bloomington (2021); BTech in Computer Science, DIT University – Dehradun, India (2018).",
-        "background": "My main interest lies in Artificial Intelligence, Machine Learning, and Deep Learning; mainly in the context of computer vision. I’m interested in researching AI/ML/DL solutions and building scalable end-to-end machine learning and deep learning systems for computer vision applications. I joined CNS in October 2020 as a Research Assistant to work on diffeomorphic image registration for 3D biomedical data. In August 2021, I joined CNS full-time as a Research Engineer for Machine Learning to continue working on 3D image registration as well as deep learning for image segmentation and generative tasks for 2D and 3D biomedical data.",
         "interests": "I love reading books and am trying to get through my list of hundreds of books. And when inspiration strikes, I try my hand at writing as well. Other than that, I enjoy drinking coffee, running, and hiking.",
-        "dateStart": "2020-10-05",
-        "dateEnd": null
+        "displayOrder": 8,
+        "dateEnd": "2026-08-31T00:00:00.000Z",
+        "background": "My main interest lies in Artificial Intelligence, Machine Learning, and Deep Learning; mainly in the context of computer vision. I’m interested in researching AI/ML/DL solutions and building scalable end-to-end machine learning and deep learning systems for computer vision applications. I joined CNS in October 2020 as a Research Assistant to work on diffeomorphic image registration for 3D biomedical data. In August 2021, I joined CNS full-time as a Research Engineer for Machine Learning to continue working on 3D image registration as well as deep learning for image segmentation and generative tasks for 2D and 3D biomedical data.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2020-10-05T00:00:00.000Z",
+        "title": "Research Software Engineer - Machine Learning",
+        "type": "member",
+        "office": "Luddy Hall 4025",
+        "email": "yashjain@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -573,18 +580,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Research Assistant",
-        "displayOrder": 46,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "yakuma@iu.edu",
         "education": "Bachelor in Engineering in Computer Engineering\r\nMaster of Science in Computer Science",
-        "background": "From a very young age, games have intrigued me. Naturally, the idea of creating my own has piqued my interest even more. That is what got me into Unity development, and eventually into VR development, the means of which I leverage to work with the HRA Organ Gallery. I develop and contribute to the various levels and features the gallery has to offer, iterating continuously to make the gallery into a truly meticulous and novel product.",
         "interests": "I spend my free time playing games, playing with my cat or napping. I enjoy outdoor activities including, but not limited to trekking, swimming, bicycling, basketball and badminton. I do enjoy a good anime/manga, so hit me with your recommendations if you have any.",
-        "dateStart": "2025-03-30",
-        "dateEnd": null
+        "displayOrder": 46,
+        "dateEnd": "2026-07-03T00:00:00.000Z",
+        "background": "From a very young age, games have intrigued me. Naturally, the idea of creating my own has piqued my interest even more. That is what got me into Unity development, and eventually into VR development, the means of which I leverage to work with the HRA Organ Gallery. I develop and contribute to the various levels and features the gallery has to offer, iterating continuously to make the gallery into a truly meticulous and novel product.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2025-03-30T00:00:00.000Z",
+        "title": "Research Assistant",
+        "type": "member",
+        "office": "",
+        "email": "yakuma@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -614,6 +622,12 @@
     "slug": "yang-zhou",
     "name": "Yang Zhou",
     "lastName": "Zhou",
+    "roles": []
+  },
+  {
+    "slug": "yang-miao",
+    "name": "Yang Miao",
+    "lastName": "Miao",
     "roles": []
   },
   {
@@ -919,6 +933,12 @@
     ]
   },
   {
+    "slug": "wei-wang",
+    "name": "Wei Wang",
+    "lastName": "Wang",
+    "roles": []
+  },
+  {
     "slug": "wei-jun-qian",
     "name": "Wei-Jun Qian",
     "lastName": "Qian",
@@ -1120,6 +1140,12 @@
     "roles": []
   },
   {
+    "slug": "vincent-t-metzger",
+    "name": "Vincent T. Metzger",
+    "lastName": "Metzger",
+    "roles": []
+  },
+  {
     "slug": "vincent-lariviere",
     "name": "Vincent Larivière",
     "lastName": "Larivière",
@@ -1140,6 +1166,12 @@
         "dateEnd": "2011-10-20"
       }
     ]
+  },
+  {
+    "slug": "vilas-menon",
+    "name": "Vilas Menon",
+    "lastName": "Menon",
+    "roles": []
   },
   {
     "slug": "vikrant-deshpande",
@@ -1289,9 +1321,21 @@
     "roles": []
   },
   {
+    "slug": "vennela-gajjala",
+    "name": "Vennela Gajjala",
+    "lastName": "Gajjala",
+    "roles": []
+  },
+  {
     "slug": "vatsal-jatakia",
     "name": "Vatsal Jatakia",
     "lastName": "Jatakia",
+    "roles": []
+  },
+  {
+    "slug": "varduhi-petrosyan",
+    "name": "Varduhi Petrosyan",
+    "lastName": "Petrosyan",
     "roles": []
   },
   {
@@ -1451,6 +1495,12 @@
         "dateEnd": "2005-09-01"
       }
     ]
+  },
+  {
+    "slug": "tudor-i-oprea",
+    "name": "Tudor I. Oprea",
+    "lastName": "Oprea",
+    "roles": []
   },
   {
     "slug": "trey-ideker",
@@ -1734,6 +1784,12 @@
     "slug": "timothy-hays",
     "name": "Timothy Hays",
     "lastName": "Hays",
+    "roles": []
+  },
+  {
+    "slug": "timothy-clark",
+    "name": "Timothy Clark",
+    "lastName": "Clark",
     "roles": []
   },
   {
@@ -2265,6 +2321,12 @@
     ]
   },
   {
+    "slug": "swathi-thaker",
+    "name": "Swathi Thaker",
+    "lastName": "Thaker",
+    "roles": []
+  },
+  {
     "slug": "swapnil-pardeshi",
     "name": "Swapnil Pardeshi",
     "lastName": "Pardeshi",
@@ -2405,6 +2467,12 @@
     "slug": "susan-c-alberts",
     "name": "Susan C. Alberts",
     "lastName": "Alberts",
+    "roles": []
+  },
+  {
+    "slug": "surya-saha",
+    "name": "Surya Saha",
+    "lastName": "Saha",
     "roles": []
   },
   {
@@ -2607,6 +2675,12 @@
         "dateEnd": "2023-04-28"
       }
     ]
+  },
+  {
+    "slug": "sumana-srinivasan",
+    "name": "Sumana Srinivasan",
+    "lastName": "Srinivasan",
+    "roles": []
   },
   {
     "slug": "sujin-lee",
@@ -2995,6 +3069,12 @@
     ]
   },
   {
+    "slug": "srinivasan-ramachandran",
+    "name": "Srinivasan Ramachandran",
+    "lastName": "Ramachandran",
+    "roles": []
+  },
+  {
     "slug": "srinivas-vaddi",
     "name": "Srinivas Vaddi",
     "lastName": "Vaddi",
@@ -3069,6 +3149,12 @@
     "slug": "sowmya-somasundaram",
     "name": "Sowmya Somasundaram",
     "lastName": "Somasundaram",
+    "roles": []
+  },
+  {
+    "slug": "sourav-sarkar",
+    "name": "Sourav Sarkar",
+    "lastName": "Sarkar",
     "roles": []
   },
   {
@@ -3293,24 +3379,40 @@
     "roles": []
   },
   {
+    "slug": "siddhi-chavan",
+    "name": "Siddhi Chavan",
+    "lastName": "Chavan",
+    "image": "siddhi-chavan.jpg",
+    "roles": [
+      {
+        "type": "member",
+        "title": "Research Assistant",
+        "status": "full-time",
+        "dateStart": "2026-06-02T00:00:00.000Z",
+        "dateEnd": null
+      }
+    ]
+  },
+  {
     "slug": "siddharth-apte",
     "name": "Siddharth Apte",
     "lastName": "Apte",
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "RUI Registrations ",
-        "displayOrder": 29,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "sapte@iu.edu",
         "education": "- MS in Computer Science, Indiana University Bloomington (Expected 2026)  \r\n- B.Tech in Computer Science, MIT World Peace University, Pune, India (2024)  \r\n",
-        "background": "I graduated in 2024 with a Bachelor's degree in Computer Science. I am currently pursuing my Master's degree at IU. I am passionate about leveraging AI to create solutions that positively impact people's lives.  ",
         "interests": "In my free time, I enjoy long outdoor walks, cooking, and savoring a good cup of ginger chai.",
-        "dateStart": "2024-10-07",
-        "dateEnd": null
+        "displayOrder": 29,
+        "dateEnd": "2026-05-25T00:00:00.000Z",
+        "background": "I graduated in 2024 with a Bachelor's degree in Computer Science. I am currently pursuing my Master's degree at IU. I am passionate about leveraging AI to create solutions that positively impact people's lives.  ",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2024-10-07T00:00:00.000Z",
+        "title": "RUI Registrations ",
+        "type": "member",
+        "office": "",
+        "email": "sapte@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -3467,6 +3569,12 @@
     ]
   },
   {
+    "slug": "sherry-l-jenkins",
+    "name": "Sherry L. Jenkins",
+    "lastName": "Jenkins",
+    "roles": []
+  },
+  {
     "slug": "shenyi-li",
     "name": "Shenyi Li",
     "lastName": "Li",
@@ -3515,6 +3623,12 @@
         "dateEnd": "2007-10-07"
       }
     ]
+  },
+  {
+    "slug": "shava-smallen",
+    "name": "Shava Smallen",
+    "lastName": "Smallen",
+    "roles": []
   },
   {
     "slug": "shashikant-penumarthy",
@@ -3572,6 +3686,12 @@
     "slug": "shannon-kolind",
     "name": "Shannon Kolind",
     "lastName": "Kolind",
+    "roles": []
+  },
+  {
+    "slug": "shankar-subramaniam",
+    "name": "Shankar Subramaniam",
+    "lastName": "Subramaniam",
     "roles": []
   },
   {
@@ -3651,6 +3771,12 @@
     "roles": []
   },
   {
+    "slug": "sergii-domanskyi",
+    "name": "Sergii Domanskyi",
+    "lastName": "Domanskyi",
+    "roles": []
+  },
+  {
     "slug": "sergi-lozano",
     "name": "Sergi Lozano",
     "lastName": "Lozano",
@@ -3707,6 +3833,18 @@
         "dateEnd": "2010-12-01"
       }
     ]
+  },
+  {
+    "slug": "sean-kim",
+    "name": "Sean Kim",
+    "lastName": "Kim",
+    "roles": []
+  },
+  {
+    "slug": "sean-davis",
+    "name": "Sean Davis",
+    "lastName": "Davis",
+    "roles": []
   },
   {
     "slug": "screenivas-bhattiprolu",
@@ -3809,9 +3947,9 @@
         "type": "student",
         "topic": "Ph.D. Information Science Student",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2006-01-01",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2006-01-01T00:00:00.000Z",
+        "dateEnd": "2025-11-16T00:00:00.000Z"
       }
     ]
   },
@@ -3939,6 +4077,12 @@
     "slug": "sarah-renee-zappone",
     "name": "Sarah Renee Zappone",
     "lastName": "Zappone",
+    "roles": []
+  },
+  {
+    "slug": "sarah-k-tasian",
+    "name": "Sarah K. Tasian",
+    "lastName": "Tasian",
     "roles": []
   },
   {
@@ -4189,6 +4333,12 @@
     "slug": "sanghee-cho",
     "name": "Sanghee Cho",
     "lastName": "Cho",
+    "roles": []
+  },
+  {
+    "slug": "samuel-t-peters",
+    "name": "Samuel T. Peters",
+    "lastName": "Peters",
     "roles": []
   },
   {
@@ -4487,6 +4637,12 @@
     "slug": "ryan-schnitzlein",
     "name": "Ryan Schnitzlein",
     "lastName": "Schnitzlein",
+    "roles": []
+  },
+  {
+    "slug": "ryan-sablosky",
+    "name": "Ryan Sablosky",
+    "lastName": "Sablosky",
     "roles": []
   },
   {
@@ -5121,6 +5277,12 @@
     ]
   },
   {
+    "slug": "richard-s-morgan",
+    "name": "Richard S. Morgan",
+    "lastName": "Morgan",
+    "roles": []
+  },
+  {
     "slug": "richard-m-shiffrin",
     "name": "Richard M. Shiffrin",
     "lastName": "Shiffrin",
@@ -5278,6 +5440,12 @@
     "name": "Renee LeBeau",
     "lastName": "LeBeau",
     "image": "image.jpg",
+    "roles": []
+  },
+  {
+    "slug": "rene-ranzinger",
+    "name": "Rene Ranzinger",
+    "lastName": "Ranzinger",
     "roles": []
   },
   {
@@ -5491,6 +5659,12 @@
     "slug": "raja-sooriamurthi",
     "name": "Raja Sooriamurthi",
     "lastName": "Sooriamurthi",
+    "roles": []
+  },
+  {
+    "slug": "raja-mazumder",
+    "name": "Raja Mazumder",
+    "lastName": "Mazumder",
     "roles": []
   },
   {
@@ -5763,6 +5937,12 @@
     "slug": "presha-rajbhandari",
     "name": "Presha Rajbhandari",
     "lastName": "Rajbhandari",
+    "roles": []
+  },
+  {
+    "slug": "praveen-kumar-0000-0002-4981-9020",
+    "name": "Praveen Kumar",
+    "lastName": "Kumar",
     "roles": []
   },
   {
@@ -6052,6 +6232,12 @@
     "roles": []
   },
   {
+    "slug": "peter-k-sorger",
+    "name": "Peter K. Sorger",
+    "lastName": "Sorger",
+    "roles": []
+  },
+  {
     "slug": "peter-jeavons",
     "name": "Peter Jeavons",
     "lastName": "Jeavons",
@@ -6061,6 +6247,12 @@
     "slug": "peter-jan-roes",
     "name": "Peter Jan Roes",
     "lastName": "Roes",
+    "roles": []
+  },
+  {
+    "slug": "peter-j-park",
+    "name": "Peter J. Park",
+    "lastName": "Park",
     "roles": []
   },
   {
@@ -6147,6 +6339,12 @@
     "slug": "per-olov-andersson",
     "name": "Per-Olov Andersson",
     "lastName": "Andersson",
+    "roles": []
+  },
+  {
+    "slug": "peipei-ping",
+    "name": "Peipei Ping",
+    "lastName": "Ping",
     "roles": []
   },
   {
@@ -6418,6 +6616,12 @@
     "roles": []
   },
   {
+    "slug": "paean-luby",
+    "name": "Paean Luby",
+    "lastName": "Luby",
+    "roles": []
+  },
+  {
     "slug": "padhraic-smyth",
     "name": "Padhraic Smyth",
     "lastName": "Smyth",
@@ -6561,6 +6765,12 @@
         "dateEnd": "2005-12-31"
       }
     ]
+  },
+  {
+    "slug": "noel-p-burtt",
+    "name": "Noël P. Burtt",
+    "lastName": "Burtt",
+    "roles": []
   },
   {
     "slug": "noa-rappaport",
@@ -6793,6 +7003,12 @@
     ]
   },
   {
+    "slug": "nicole-vasilevsky",
+    "name": "Nicole Vasilevsky",
+    "lastName": "Vasilevsky",
+    "roles": []
+  },
+  {
     "slug": "nicole-johnson",
     "name": "Nicole Johnson",
     "lastName": "Johnson",
@@ -6848,6 +7064,12 @@
     "slug": "nichole-jefferson",
     "name": "Nichole Jefferson",
     "lastName": "Jefferson",
+    "roles": []
+  },
+  {
+    "slug": "nicholas-sloan",
+    "name": "Nicholas Sloan",
+    "lastName": "Sloan",
     "roles": []
   },
   {
@@ -7258,6 +7480,12 @@
     "roles": []
   },
   {
+    "slug": "morgan-l-turner",
+    "name": "Morgan L. Turner",
+    "lastName": "Turner",
+    "roles": []
+  },
+  {
     "slug": "monika-herzig",
     "name": "Monika Herzig",
     "lastName": "Herzig",
@@ -7269,6 +7497,12 @@
         "dateEnd": "2009-05-01"
       }
     ]
+  },
+  {
+    "slug": "monica-c-munoz-torres",
+    "name": "Monica C. Munoz-Torres",
+    "lastName": "Munoz-Torres",
+    "roles": []
   },
   {
     "slug": "mohd-saiful-nizam-bahari",
@@ -7515,6 +7749,12 @@
     "roles": []
   },
   {
+    "slug": "michael-tiemeyer",
+    "name": "Michael Tiemeyer",
+    "lastName": "Tiemeyer",
+    "roles": []
+  },
+  {
     "slug": "michael-t-eadon",
     "name": "Michael T. Eadon",
     "lastName": "Eadon",
@@ -7631,46 +7871,49 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Senior Research Analyst",
+        "education": "B.A., Political Science  – Temple University, Philadelphia, PA (2008)\r\n<br />\r\nMasters of Library Science, with a specialization in Digital Libraries - Indiana University, Bloomington, IN (2014)",
+        "interests": "I enjoy spending my free time cooking for my friends and family, listening to music and spending too much time in record stores, biking when the weather is nice, and cleaning up after my cat.",
         "displayOrder": 7,
+        "dateEnd": "2026-07-31T00:00:00.000Z",
+        "background": "I joined CNS in January of 2014, while completing my masters in library science. Prior to this, I worked as the Teaching Assistant for a course on Semantic Web technology and Student Technology assistant for the Department of Information and Library Science at Indiana University. As part of CNS, I am the assistant instructor for the Information Visualization MOOC, and create documentation for the Science of Science Tool.",
+        "phone": "812.855.3259",
+        "status": "full-time",
+        "dateStart": "2015-12-01T00:00:00.000Z",
+        "title": "Senior Research Analyst",
+        "type": "member",
         "office": "Luddy Hall 4022",
-        "phone": "812.855.3259",
-        "fax": "812.855.6166",
         "email": "mginda@iu.edu",
-        "education": "B.A., Political Science  – Temple University, Philadelphia, PA (2008)\r\n<br />\r\nMasters of Library Science, with a specialization in Digital Libraries - Indiana University, Bloomington, IN (2014)",
-        "background": "I joined CNS in January of 2014, while completing my masters in library science. Prior to this, I worked as the Teaching Assistant for a course on Semantic Web technology and Student Technology assistant for the Department of Information and Library Science at Indiana University. As part of CNS, I am the assistant instructor for the Information Visualization MOOC, and create documentation for the Science of Science Tool.",
-        "interests": "I enjoy spending my free time cooking for my friends and family, listening to music and spending too much time in record stores, biking when the weather is nice, and cleaning up after my cat.",
-        "dateStart": "2015-12-01",
-        "dateEnd": null
+        "fax": "812.855.6166"
       },
       {
-        "type": "member",
-        "title": "Data Analyst",
+        "education": "B.A., Political Science  – Temple University, Philadelphia, PA (2008)\r\n<br />\r\nMasters of Library Science, with a specialization in Digital Libraries - Indiana University, Bloomington, IN (2014)",
+        "interests": "I enjoy spending my free time cooking for my friends and family, listening to music and spending too much time in record stores, biking when the weather is nice, and cleaning up after my cat.",
         "displayOrder": 5,
-        "office": "Wells Library 028",
-        "phone": "812.855.3259",
-        "fax": "812.855.6166",
-        "email": "mginda@iu.edu",
-        "education": "B.A., Political Science  – Temple University, Philadelphia, PA (2008)\r\n<br />\r\nMasters of Library Science, with a specialization in Digital Libraries - Indiana University, Bloomington, IN (2014)",
+        "dateEnd": "2015-11-30T00:00:00.000Z",
         "background": "I joined CNS in January of 2014, while completing my masters in library science. Prior to this, I worked as the Teaching Assistant for a course on Semantic Web technology and Student Technology assistant for the Department of Information and Library Science at Indiana University. As part of CNS, I am the assistant instructor for the Information Visualization MOOC, and create documentation for the Science of Science Tool.",
-        "interests": "I enjoy spending my free time cooking for my friends and family, listening to music and spending too much time in record stores, biking when the weather is nice, and cleaning up after my cat.",
-        "dateStart": "2014-05-05",
-        "dateEnd": "2015-11-30"
+        "phone": "812.855.3259",
+        "status": "full-time",
+        "dateStart": "2014-05-05T00:00:00.000Z",
+        "title": "Data Analyst",
+        "type": "member",
+        "office": "Wells Library 028",
+        "email": "mginda@iu.edu",
+        "fax": "812.855.6166"
       },
       {
-        "type": "member",
-        "title": "Research Assistant",
-        "displayOrder": 13,
-        "office": "Wells Library 028",
-        "phone": "812.855.3259",
-        "fax": "812.855.6166",
-        "email": "mginda@iu.edu",
         "education": "B.A., Political Science  – Temple University, Philadelphia, PA (2008)\r\n<br />\r\nWorking on Masters of Library Science, with a specialization in Digital Libraries - Indiana University, Bloomington, IN.",
-        "background": "I joined CNS in January of 2014, while completing my masters in library science. Prior to this, I worked as the Teaching Assistant for a course on Semantic Web technology and Student Technology assistant for the Department of Information and Library Science at Indiana University. As part of CNS, I am the assistant instructor for the Information Visualization MOOC, and create documentation for the Science of Science Tool.",
         "interests": "I enjoy spending my free time cooking for my friends and family, listening to music and spending too much time in record stores, biking when the weather is nice, and cleaning up after my cat.",
-        "dateStart": "2014-01-13",
-        "dateEnd": "2014-05-02"
+        "displayOrder": 13,
+        "dateEnd": "2014-05-02T00:00:00.000Z",
+        "background": "I joined CNS in January of 2014, while completing my masters in library science. Prior to this, I worked as the Teaching Assistant for a course on Semantic Web technology and Student Technology assistant for the Department of Information and Library Science at Indiana University. As part of CNS, I am the assistant instructor for the Information Visualization MOOC, and create documentation for the Science of Science Tool.",
+        "phone": "812.855.3259",
+        "status": "full-time",
+        "dateStart": "2014-01-13T00:00:00.000Z",
+        "title": "Research Assistant",
+        "type": "member",
+        "office": "Wells Library 028",
+        "email": "mginda@iu.edu",
+        "fax": "812.855.6166"
       }
     ]
   },
@@ -7715,6 +7958,12 @@
         "dateEnd": "2012-12-01"
       }
     ]
+  },
+  {
+    "slug": "michael-c-schatz",
+    "name": "Michael C. Schatz",
+    "lastName": "Schatz",
+    "roles": []
   },
   {
     "slug": "michael-c-richey",
@@ -7787,24 +8036,31 @@
     "roles": []
   },
   {
+    "slug": "mia-p-levanto",
+    "name": "Mia P. Levanto",
+    "lastName": "Levanto",
+    "roles": []
+  },
+  {
     "slug": "meryl-jacob",
     "name": "Meryl Jacob",
     "lastName": "Jacob",
     "image": "image.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Center Assistant ",
-        "displayOrder": 31,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "merjacob@iu.edu",
         "education": "Currently an MS Data Science Graduate student at the Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington. Bachelor of Engineering in Electronics and Telecommunication, University of Mumbai, India | GPA: 9.46/10.0",
-        "background": "I'm passionate about leveraging data visualization, machine learning, and statistical concepts in data science to drive impactful solutions in financial planning, biomedical data analysis, and predictive modeling. Before planning for my Master's degree, I worked with Accenture as a Packaged Application Development Associate and am experienced in working with IBM Planning Analytics (IBM Cognos TM1). I also worked as the Chairperson of the IETE (The Institution of Electronics and Telecommunication Engineers) Student Chapter during my undergraduate studies, wherein I headed and organized various technical and non-technical competitions, seminars, and workshops for my department.",
         "interests": "I’m an amateur watercolor and gouache artist and love to paint handmade cards for loved ones. I enjoy the beauty that Bloomington offers and want to make the most of it by going on as many hikes as I can. I’m also currently rekindling my love for reading.",
-        "dateStart": "2024-10-07",
-        "dateEnd": null
+        "displayOrder": 31,
+        "dateEnd": "2026-05-12T00:00:00.000Z",
+        "background": "I'm passionate about leveraging data visualization, machine learning, and statistical concepts in data science to drive impactful solutions in financial planning, biomedical data analysis, and predictive modeling. Before planning for my Master's degree, I worked with Accenture as a Packaged Application Development Associate and am experienced in working with IBM Planning Analytics (IBM Cognos TM1). I also worked as the Chairperson of the IETE (The Institution of Electronics and Telecommunication Engineers) Student Chapter during my undergraduate studies, wherein I headed and organized various technical and non-technical competitions, seminars, and workshops for my department.",
+        "phone": "",
+        "status": "part-time",
+        "dateStart": "2024-10-07T00:00:00.000Z",
+        "title": "Center Assistant ",
+        "type": "member",
+        "office": "",
+        "email": "merjacob@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -8002,6 +8258,12 @@
     "roles": []
   },
   {
+    "slug": "max-sibilla",
+    "name": "Max Sibilla",
+    "lastName": "Sibilla",
+    "roles": []
+  },
+  {
     "slug": "max-gadney",
     "name": "Max Gadney",
     "lastName": "Gadney",
@@ -8026,6 +8288,12 @@
     "roles": []
   },
   {
+    "slug": "matthieu-chourrout",
+    "name": "Matthieu Chourrout",
+    "lastName": "Chourrout",
+    "roles": []
+  },
+  {
     "slug": "matthias-wapler",
     "name": "Matthias Wapler",
     "lastName": "Wapler",
@@ -8035,6 +8303,12 @@
     "slug": "matthias-kretzler",
     "name": "Matthias Kretzler",
     "lastName": "Kretzler",
+    "roles": []
+  },
+  {
+    "slug": "matthew-t-wheeler",
+    "name": "Matthew T. Wheeler",
+    "lastName": "Wheeler",
     "roles": []
   },
   {
@@ -8077,6 +8351,12 @@
     "slug": "matthew-hartley",
     "name": "Matthew Hartley",
     "lastName": "Hartley",
+    "roles": []
+  },
+  {
+    "slug": "matthew-e-roth",
+    "name": "Matthew E. Roth",
+    "lastName": "Roth",
     "roles": []
   },
   {
@@ -8262,6 +8542,12 @@
     "slug": "martin-abt",
     "name": "Martin Abt",
     "lastName": "Abt",
+    "roles": []
+  },
+  {
+    "slug": "martin-a-lindquist",
+    "name": "Martin A. Lindquist",
+    "lastName": "Lindquist",
     "roles": []
   },
   {
@@ -8470,6 +8756,12 @@
     "roles": []
   },
   {
+    "slug": "mariia-kim",
+    "name": "Mariia Kim",
+    "lastName": "Kim",
+    "roles": []
+  },
+  {
     "slug": "marianne-horlesberger",
     "name": "Marianne Hörlesberger",
     "lastName": "Hörlesberger",
@@ -8480,6 +8772,12 @@
     "name": "Maria Zemankova",
     "lastName": "Zemankova",
     "image": "image.jpg",
+    "roles": []
+  },
+  {
+    "slug": "maria-pedersen",
+    "name": "Maria Pedersen",
+    "lastName": "Pedersen",
     "roles": []
   },
   {
@@ -8697,6 +8995,12 @@
     "roles": []
   },
   {
+    "slug": "manju-anandakrishnan",
+    "name": "Manju Anandakrishnan",
+    "lastName": "Anandakrishnan",
+    "roles": []
+  },
+  {
     "slug": "manashree-rao",
     "name": "Manashree Rao",
     "lastName": "Rao",
@@ -8799,6 +9103,12 @@
     "slug": "madhuvanthi-sankaranarayanan",
     "name": "Madhuvanthi Sankaranarayanan",
     "lastName": "Sankaranarayanan",
+    "roles": []
+  },
+  {
+    "slug": "mackenzie-brandes",
+    "name": "MacKenzie Brandes",
+    "lastName": "Brandes",
     "roles": []
   },
   {
@@ -9153,6 +9463,12 @@
     "roles": []
   },
   {
+    "slug": "lily-d-taub",
+    "name": "Lily D. Taub",
+    "lastName": "Taub",
+    "roles": []
+  },
+  {
     "slug": "lihong-shi",
     "name": "Lihong Shi",
     "lastName": "Shi",
@@ -9169,27 +9485,6 @@
     "name": "Lichun Yin",
     "lastName": "Yin",
     "roles": []
-  },
-  {
-    "slug": "libby-maier",
-    "name": "Libby Maier",
-    "lastName": "Maier",
-    "roles": [
-      {
-        "type": "member",
-        "title": "User Experience Designer",
-        "displayOrder": 11,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "ecmaier@iu.edu",
-        "education": "",
-        "background": "",
-        "interests": "",
-        "dateStart": "2022-01-03",
-        "dateEnd": null
-      }
-    ]
   },
   {
     "slug": "li-shen",
@@ -9455,9 +9750,9 @@
         "type": "student",
         "topic": "Dual PhD Complex Network Systems & Intelligent Systems Engineering",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2020-06-22",
-        "dateEnd": null
+        "department": "Information ",
+        "dateStart": "2020-06-22T00:00:00.000Z",
+        "dateEnd": "2025-09-30T00:00:00.000Z"
       }
     ]
   },
@@ -9531,6 +9826,12 @@
     "roles": []
   },
   {
+    "slug": "lafrancis-gibson",
+    "name": "LaFrancis Gibson",
+    "lastName": "Gibson",
+    "roles": []
+  },
+  {
     "slug": "lada-adamic",
     "name": "Lada Adamic",
     "lastName": "Adamic",
@@ -9541,6 +9842,12 @@
     "slug": "kylie-peppler",
     "name": "Kylie Peppler",
     "lastName": "Peppler",
+    "roles": []
+  },
+  {
+    "slug": "kyle-j-gaulton",
+    "name": "Kyle J. Gaulton",
+    "lastName": "Gaulton",
     "roles": []
   },
   {
@@ -9785,6 +10092,12 @@
     ]
   },
   {
+    "slug": "keyang-yu",
+    "name": "Keyang Yu",
+    "lastName": "Yu",
+    "roles": []
+  },
+  {
     "slug": "kevin-yu",
     "name": "Kevin Yu",
     "lastName": "Yu",
@@ -9911,6 +10224,12 @@
     "roles": []
   },
   {
+    "slug": "kelli-bursey",
+    "name": "Kelli Bursey",
+    "lastName": "Bursey",
+    "roles": []
+  },
+  {
     "slug": "keith-nesbitt",
     "name": "Keith Nesbitt",
     "lastName": "Nesbitt",
@@ -10027,7 +10346,7 @@
     "roles": [
       {
         "education": "Katy holds a MS in Electrical Engineering from the University of Technology in Leipzig, 1991 and a Ph.D. in Computer Science from the University of Kaiserslautern, 1997. ",
-        "interests": "See more on Katy's <a href=\"http://info.ils.indiana.edu/~katy/\" target=\"_blank\">personal website</a>.",
+        "interests": "See more at Katy's [Indiana University profile](https://luddy.iu.edu/people/b%C3%B6rner-katy.html).",
         "displayOrder": 1,
         "dateEnd": null,
         "background": "Katy Börner is the Victor H. Yngve Distinguished Professor of Engineering and Information Science in the Department of Intelligent Systems Engineering, School of Informatics and Computing, Core Faculty of Cognitive Science, and Founding Director of the Cyberinfrastructure for Network Science Center at Indiana University in Bloomington, IN. She is a Visiting Professor at the Royal Netherlands Academy of Arts and Sciences (KNAW) in The Netherlands and a curator of the international *Places & Spaces: Mapping Science* exhibit. She was elected as an American Association for the Advancement of Science (AAAS) Fellow in 2012 and as an Alexander von Humboldt Fellow in 2017.",
@@ -10064,6 +10383,12 @@
     "slug": "kathryn-gray",
     "name": "Kathryn Gray",
     "lastName": "Gray",
+    "roles": []
+  },
+  {
+    "slug": "kathleen-oneill",
+    "name": "Kathleen O'Neill",
+    "lastName": "O'Neill",
     "roles": []
   },
   {
@@ -10123,6 +10448,19 @@
     "name": "Kate W. McCain",
     "lastName": "McCain",
     "roles": []
+  },
+  {
+    "slug": "katalin-susztak",
+    "name": "Katalin Susztak",
+    "lastName": "Susztak",
+    "roles": [
+      {
+        "type": "collaborator",
+        "project": "Whole Person Reference Physiome Research and Coordination Center",
+        "dateStart": "2025-08-08T00:00:00.000Z",
+        "dateEnd": "2028-07-31T00:00:00.000Z"
+      }
+    ]
   },
   {
     "slug": "kassandra-spates-harden",
@@ -10188,6 +10526,12 @@
     "slug": "karen-g-dowell",
     "name": "Karen G. Dowell",
     "lastName": "Dowell",
+    "roles": []
+  },
+  {
+    "slug": "karen-e-ross",
+    "name": "Karen E. Ross",
+    "lastName": "Ross",
     "roles": []
   },
   {
@@ -10581,6 +10925,12 @@
     ]
   },
   {
+    "slug": "josh-bartz",
+    "name": "Josh Bartz",
+    "lastName": "Bartz",
+    "roles": []
+  },
+  {
     "slug": "josette-f-jones",
     "name": "Josette F. Jones",
     "lastName": "Jones",
@@ -10613,6 +10963,12 @@
         "dateEnd": "2012-07-31"
       }
     ]
+  },
+  {
+    "slug": "joseph-p-gaut",
+    "name": "Joseph P. Gaut",
+    "lastName": "Gaut",
+    "roles": []
   },
   {
     "slug": "joseph-cottam",
@@ -10905,6 +11261,12 @@
     "roles": []
   },
   {
+    "slug": "john-michael-rincon",
+    "name": "John Michael Rincon",
+    "lastName": "Rincon",
+    "roles": []
+  },
+  {
     "slug": "john-m-beggs",
     "name": "John M. Beggs",
     "lastName": "Beggs",
@@ -10945,6 +11307,12 @@
     "slug": "john-fieber",
     "name": "John Fieber",
     "lastName": "Fieber",
+    "roles": []
+  },
+  {
+    "slug": "john-erol-evangelista",
+    "name": "John Erol Evangelista",
+    "lastName": "Evangelista",
     "roles": []
   },
   {
@@ -11027,6 +11395,12 @@
     "slug": "joe-e-heimlich",
     "name": "Joe E. Heimlich",
     "lastName": "Heimlich",
+    "roles": []
+  },
+  {
+    "slug": "joe-bisciotti",
+    "name": "Joe Bisciotti",
+    "lastName": "Bisciotti",
     "roles": []
   },
   {
@@ -11137,6 +11511,12 @@
     "slug": "jinah-park",
     "name": "Jinah Park",
     "lastName": "Park",
+    "roles": []
+  },
+  {
+    "slug": "jimmy-zhen",
+    "name": "Jimmy Zhen",
+    "lastName": "Zhen",
     "roles": []
   },
   {
@@ -11311,6 +11691,12 @@
     ]
   },
   {
+    "slug": "jeremy-j-yang",
+    "name": "Jeremy J. Yang",
+    "lastName": "Yang",
+    "roles": []
+  },
+  {
     "slug": "jeremy-fisher",
     "name": "Jeremy Fisher",
     "lastName": "Fisher",
@@ -11399,6 +11785,12 @@
     ]
   },
   {
+    "slug": "jennifer-burnette",
+    "name": "Jennifer Burnette",
+    "lastName": "Burnette",
+    "roles": []
+  },
+  {
     "slug": "jen-gerber",
     "name": "Jen Gerber",
     "lastName": "Gerber",
@@ -11419,6 +11811,12 @@
         "dateEnd": "2017-09-29"
       }
     ]
+  },
+  {
+    "slug": "jeffrey-s-grethe",
+    "name": "Jeffrey S. Grethe",
+    "lastName": "Grethe",
+    "roles": []
   },
   {
     "slug": "jeffrey-purkerson",
@@ -11604,6 +12002,12 @@
     "roles": []
   },
   {
+    "slug": "jason-mares",
+    "name": "Jason Mares",
+    "lastName": "Mares",
+    "roles": []
+  },
+  {
     "slug": "jason-leigh",
     "name": "Jason Leigh",
     "lastName": "Leigh",
@@ -11614,6 +12018,12 @@
     "slug": "jason-h-moore",
     "name": "Jason H. Moore",
     "lastName": "Moore",
+    "roles": []
+  },
+  {
+    "slug": "jason-flannick",
+    "name": "Jason Flannick",
+    "lastName": "Flannick",
     "roles": []
   },
   {
@@ -11911,6 +12321,12 @@
     "roles": []
   },
   {
+    "slug": "jake-y-chen",
+    "name": "Jake Y. Chen",
+    "lastName": "Chen",
+    "roles": []
+  },
+  {
     "slug": "jake-colautti",
     "name": "Jake Colautti",
     "lastName": "Colautti",
@@ -11997,6 +12413,12 @@
     "roles": []
   },
   {
+    "slug": "jacob-scherba",
+    "name": "Jacob Scherba",
+    "lastName": "Scherba",
+    "roles": []
+  },
+  {
     "slug": "jacob-g-scott",
     "name": "Jacob G. Scott",
     "lastName": "Scott",
@@ -12042,6 +12464,18 @@
     "slug": "j-david-roessner",
     "name": "J. David Roessner",
     "lastName": "Roessner",
+    "roles": []
+  },
+  {
+    "slug": "j-alan-simmons",
+    "name": "J. Alan Simmons",
+    "lastName": "Simmons",
+    "roles": []
+  },
+  {
+    "slug": "ivan-cao-berg",
+    "name": "Ivan Cao-Berg",
+    "lastName": "Cao-Berg",
     "roles": []
   },
   {
@@ -12215,6 +12649,12 @@
     "roles": []
   },
   {
+    "slug": "ido-diamant",
+    "name": "Ido Diamant",
+    "lastName": "Diamant",
+    "roles": []
+  },
+  {
     "slug": "ibrahim-al-bakir",
     "name": "Ibrahim Al Bakir",
     "lastName": "Al Bakir",
@@ -12260,6 +12700,12 @@
     "slug": "ian-aliman",
     "name": "Ian Aliman",
     "lastName": "Aliman",
+    "roles": []
+  },
+  {
+    "slug": "hye-jung-e-chun",
+    "name": "Hye-Jung E. Chun",
+    "lastName": "Chun",
     "roles": []
   },
   {
@@ -12390,18 +12836,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "HuBMAP Assistant ",
-        "displayOrder": 30,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "hmulkut@iu.edu",
         "education": "Currently I am a Computer Science Grad student at the Luddy School of Informatics, Computing, and Engineering, Bloomington, Indiana. Completed my undergrad in Computer Engineering from University of Pune, India with a GPA of 9.34/10.",
-        "background": "My professional journey has been marked by impactful contributions to projects in healthcare, e-commerce, and technology sectors. I've successfully led key initiatives, such as transitioning operations during a company acquisition and optimizing API and database systems to significantly improve performance and scalability. My technical expertise spans Python, JavaScript, C#, .NET, and advanced SQL, allowing me to build scalable and efficient software solutions.\r\nBeyond my technical skills, I bring strong leadership and teamwork abilities, having served as the Lead of the Google Developer Student Clubs (GDSC) and Coders' Club President. I’m driven by a desire to continuously learn and innovate, applying my knowledge to solve complex problems and deliver high-quality results. I’m excited to connect with like-minded professionals and explore opportunities to contribute to impactful projects in the computer science and technology space.\r\n\r\n",
         "interests": "I'm a big pop culture fan, be it movies, TV shows or music. I love spending time with my family, they are my source of inspiration and confidence. It is difficult for me to answer the question “Where are you from?” as I have lived in various regions across India due to the nature of my father’s job. In fact, by the time I reached the 10th grade, I had attended nine different schools!",
-        "dateStart": "2024-10-07",
-        "dateEnd": null
+        "displayOrder": 30,
+        "dateEnd": "2026-05-22T00:00:00.000Z",
+        "background": "My professional journey has been marked by impactful contributions to projects in healthcare, e-commerce, and technology sectors. I've successfully led key initiatives, such as transitioning operations during a company acquisition and optimizing API and database systems to significantly improve performance and scalability. My technical expertise spans Python, JavaScript, C#, .NET, and advanced SQL, allowing me to build scalable and efficient software solutions.\r\nBeyond my technical skills, I bring strong leadership and teamwork abilities, having served as the Lead of the Google Developer Student Clubs (GDSC) and Coders' Club President. I’m driven by a desire to continuously learn and innovate, applying my knowledge to solve complex problems and deliver high-quality results. I’m excited to connect with like-minded professionals and explore opportunities to contribute to impactful projects in the computer science and technology space.\r\n\r\n",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2024-10-07T00:00:00.000Z",
+        "title": "HuBMAP Assistant ",
+        "type": "member",
+        "office": "",
+        "email": "hmulkut@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -12579,6 +13026,12 @@
     ]
   },
   {
+    "slug": "hemali-phatnani",
+    "name": "Hemali Phatnani",
+    "lastName": "Phatnani",
+    "roles": []
+  },
+  {
     "slug": "helmut-rennke",
     "name": "Helmut Rennke",
     "lastName": "Rennke",
@@ -12694,6 +13147,12 @@
         "dateEnd": "2005-08-31"
       }
     ]
+  },
+  {
+    "slug": "hardik-dodia",
+    "name": "Hardik Dodia",
+    "lastName": "Dodia",
+    "roles": []
   },
   {
     "slug": "haojia-wu",
@@ -13201,9 +13660,9 @@
         "type": "student",
         "topic": "Dual PhD Informatics & Intelligent Systems Engineering",
         "degree": "Ph.D.",
-        "department": "",
-        "dateStart": "2021-08-09",
-        "dateEnd": null
+        "department": "Information Science",
+        "dateStart": "2021-08-09T00:00:00.000Z",
+        "dateEnd": "2026-01-30T00:00:00.000Z"
       }
     ]
   },
@@ -13212,6 +13671,12 @@
     "name": "Gary Giovino",
     "lastName": "Giovino",
     "image": "image.jpg",
+    "roles": []
+  },
+  {
+    "slug": "gary-d-bader",
+    "name": "Gary D. Bader",
+    "lastName": "Bader",
     "roles": []
   },
   {
@@ -13695,6 +14160,12 @@
     "roles": []
   },
   {
+    "slug": "erika-zheng",
+    "name": "Erika Zheng",
+    "lastName": "Zheng",
+    "roles": []
+  },
+  {
     "slug": "erik-van-mulligen",
     "name": "Erik Van Mulligen",
     "lastName": "Van Mulligen",
@@ -13755,6 +14226,12 @@
     "slug": "eric-giannella",
     "name": "Eric Giannella",
     "lastName": "Giannella",
+    "roles": []
+  },
+  {
+    "slug": "emma-monte",
+    "name": "Emma Monte",
+    "lastName": "Monte",
     "roles": []
   },
   {
@@ -13910,7 +14387,17 @@
     "slug": "elizabeth-maier",
     "name": "Elizabeth Maier",
     "lastName": "Maier",
-    "roles": []
+    "roles": [
+      {
+        "type": "member",
+        "title": "User Experience Designer",
+        "status": "full-time",
+        "displayOrder": 11,
+        "email": "ecmaier@iu.edu",
+        "dateStart": "2022-01-03T00:00:00.000Z",
+        "dateEnd": null
+      }
+    ]
   },
   {
     "slug": "elizabeth-lyons",
@@ -14069,7 +14556,7 @@
     "image": "image.png",
     "roles": [
       {
-        "education": "B.A. in Biology, Washington University in St. Louis\r\nM.Eng. in Biomedical Engineering, Cornell University",
+        "education": "B.A. in Biology, Washington University in St. Louis, \n\nM.Eng. in Biomedical Engineering, Cornell University",
         "interests": "Things I enjoy include but are not limited to: video games, piano, traveling, the ocean, tennis, literally anything with caffeine.",
         "displayOrder": 10,
         "dateEnd": null,
@@ -14246,6 +14733,12 @@
     "roles": []
   },
   {
+    "slug": "dongkeun-jang",
+    "name": "Dongkeun Jang",
+    "lastName": "Jang",
+    "roles": []
+  },
+  {
     "slug": "dong-yuan-chang",
     "name": "Dong-yuan Chang",
     "lastName": "Chang",
@@ -14293,6 +14786,12 @@
     "slug": "dominic-difranzo",
     "name": "Dominic DiFranzo",
     "lastName": "DiFranzo",
+    "roles": []
+  },
+  {
+    "slug": "dominic-bordelon",
+    "name": "Dominic Bordelon",
+    "lastName": "Bordelon",
     "roles": []
   },
   {
@@ -14363,6 +14862,12 @@
     "slug": "dirk-helbing",
     "name": "Dirk Helbing",
     "lastName": "Helbing",
+    "roles": []
+  },
+  {
+    "slug": "ding-wang",
+    "name": "Ding Wang",
+    "lastName": "Wang",
     "roles": []
   },
   {
@@ -14578,6 +15083,12 @@
     "roles": []
   },
   {
+    "slug": "deanne-m-taylor",
+    "name": "Deanne M. Taylor",
+    "lastName": "Taylor",
+    "roles": []
+  },
+  {
     "slug": "dean-b-krafft",
     "name": "Dean B. Krafft",
     "lastName": "Krafft",
@@ -14728,6 +15239,12 @@
     ]
   },
   {
+    "slug": "david-jimenez-morales",
+    "name": "David Jimenez-Morales",
+    "lastName": "Jimenez-Morales",
+    "roles": []
+  },
+  {
     "slug": "david-hormuth",
     "name": "David Hormuth",
     "lastName": "Hormuth",
@@ -14812,6 +15329,12 @@
     "roles": []
   },
   {
+    "slug": "david-collins",
+    "name": "David Collins",
+    "lastName": "Collins",
+    "roles": []
+  },
+  {
     "slug": "david-cliff",
     "name": "David Cliff",
     "lastName": "Cliff",
@@ -14833,6 +15356,12 @@
     "slug": "david-bourget",
     "name": "David Bourget",
     "lastName": "Bourget",
+    "roles": []
+  },
+  {
+    "slug": "david-betancur",
+    "name": "David Betancur",
+    "lastName": "Betancur",
     "roles": []
   },
   {
@@ -15022,6 +15551,18 @@
     ]
   },
   {
+    "slug": "daniel-j-crichton",
+    "name": "Daniel J. Crichton",
+    "lastName": "Crichton",
+    "roles": []
+  },
+  {
+    "slug": "daniel-j-b-clarke",
+    "name": "Daniel J. B. Clarke",
+    "lastName": "Clarke",
+    "roles": []
+  },
+  {
     "slug": "daniel-hickey",
     "name": "Daniel Hickey",
     "lastName": "Hickey",
@@ -15072,6 +15613,12 @@
     ]
   },
   {
+    "slug": "daniel-h-katz",
+    "name": "Daniel H. Katz",
+    "lastName": "Katz",
+    "roles": []
+  },
+  {
     "slug": "daniel-bolin",
     "name": "Daniel Bolin",
     "lastName": "Bolin",
@@ -15101,24 +15648,31 @@
     "roles": []
   },
   {
+    "slug": "daniall-masood",
+    "name": "Daniall Masood",
+    "lastName": "Masood",
+    "roles": []
+  },
+  {
     "slug": "danial-qaurooni",
     "name": "Danial Qaurooni",
     "lastName": "Qaurooni",
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Post-doctoral Fellow",
-        "displayOrder": 12,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "dequeue@iu.edu",
         "education": "BSc, in Computer Engineering – Ferdowsi University, Mashad, Iran (2008)\r\nMSc, in Computer Science - Amirkabir University of Technology, Tehran, Iran (2012)\r\nPhD, Double Major in Informatics and Cognitive Science - Indiana University, Bloomington, IN (2022)",
-        "background": "I come from a Computer Science background but I have become increasingly interested in design research and anthropology of technology. My dissertation was an ethnographic study of the Food Computer (2015-2020), a design project at the MIT Media Lab. At CNS, my main focus will be design research re HuBMAP and the associated projects. Using a mixture of qualitative and quantitative methods, my goal is to bridge the technical with the social and generate practical insights that can inform the design process.\r\n<br><br>\r\n\r\nDanial Qaurooni's website: <a href=\"https://dequeue.cc/\" target=\"_blank\">https://dequeue.cc/</a>",
         "interests": "I spend most of my free time with friends and family. But I also walk around a lot (sometimes with a camera), and I enjoy learning languages and going on hikes. My favorite places in Bloomington are the IUCinema and Griffy Lake.",
-        "dateStart": "2023-04-20",
-        "dateEnd": null
+        "displayOrder": 12,
+        "dateEnd": "2026-07-03T00:00:00.000Z",
+        "background": "I come from a Computer Science background but I have become increasingly interested in design research and anthropology of technology. My dissertation was an ethnographic study of the Food Computer (2015-2020), a design project at the MIT Media Lab. At CNS, my main focus will be design research re HuBMAP and the associated projects. Using a mixture of qualitative and quantitative methods, my goal is to bridge the technical with the social and generate practical insights that can inform the design process.\r\n<br><br>\r\n\r\nDanial Qaurooni's website: <a href=\"https://dequeue.cc/\" target=\"_blank\">https://dequeue.cc/</a>",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2023-04-20T00:00:00.000Z",
+        "title": "Post-doctoral Fellow",
+        "type": "member",
+        "office": "",
+        "email": "dequeue@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -15226,6 +15780,12 @@
     "roles": []
   },
   {
+    "slug": "cristian-g-bologa",
+    "name": "Cristian G. Bologa",
+    "lastName": "Bologa",
+    "roles": []
+  },
+  {
     "slug": "crest",
     "name": "CREST",
     "lastName": "",
@@ -15242,6 +15802,12 @@
     "name": "Craig Alan Stewart",
     "lastName": "Stewart",
     "image": "image.jpg",
+    "roles": []
+  },
+  {
+    "slug": "courteney-mattison",
+    "name": "Courteney Mattison",
+    "lastName": "Mattison",
     "roles": []
   },
   {
@@ -15274,7 +15840,7 @@
         "degree": "Ph.D.",
         "department": "Information and Library Science",
         "dateStart": "2025-01-01T00:00:00.000Z",
-        "dateEnd": null
+        "dateEnd": "2026-01-31T00:00:00.000Z"
       }
     ]
   },
@@ -15415,6 +15981,12 @@
     ]
   },
   {
+    "slug": "chuming-chen",
+    "name": "Chuming Chen",
+    "lastName": "Chen",
+    "roles": []
+  },
+  {
     "slug": "chuck-mccallum",
     "name": "Chuck McCallum",
     "lastName": "McCallum",
@@ -15448,6 +16020,12 @@
     "slug": "christopher-r-anderson",
     "name": "Christopher R Anderson",
     "lastName": "Anderson",
+    "roles": []
+  },
+  {
+    "slug": "christopher-nemarich",
+    "name": "Christopher Nemarich",
+    "lastName": "Nemarich",
     "roles": []
   },
   {
@@ -15536,6 +16114,12 @@
     "slug": "christopher-brooks",
     "name": "Christopher Brooks",
     "lastName": "Brooks",
+    "roles": []
+  },
+  {
+    "slug": "christophe-g-lambert",
+    "name": "Christophe G. Lambert",
+    "lastName": "Lambert",
     "roles": []
   },
   {
@@ -15681,6 +16265,12 @@
     ]
   },
   {
+    "slug": "cheng-xing",
+    "name": "Cheng Xing",
+    "lastName": "Xing",
+    "roles": []
+  },
+  {
     "slug": "chenchen-zhu",
     "name": "Chenchen Zhu",
     "lastName": "Zhu",
@@ -15816,6 +16406,12 @@
     "roles": []
   },
   {
+    "slug": "cathy-h-wu",
+    "name": "Cathy H. Wu",
+    "lastName": "Wu",
+    "roles": []
+  },
+  {
     "slug": "catherine-qing",
     "name": "Catherine Qing",
     "lastName": "Qing",
@@ -15859,6 +16455,12 @@
     "slug": "cassidy-sugimoto",
     "name": "Cassidy Sugimoto",
     "lastName": "Sugimoto",
+    "roles": []
+  },
+  {
+    "slug": "casey-s-greene",
+    "name": "Casey S. Greene",
+    "lastName": "Greene",
     "roles": []
   },
   {
@@ -16022,6 +16624,12 @@
     "slug": "cameron-buckley",
     "name": "Cameron Buckley",
     "lastName": "Buckley",
+    "roles": []
+  },
+  {
+    "slug": "caitlin-ree",
+    "name": "Caitlin Ree",
+    "lastName": "Ree",
     "roles": []
   },
   {
@@ -16262,6 +16870,12 @@
     ]
   },
   {
+    "slug": "brian-zhang",
+    "name": "Brian Zhang",
+    "lastName": "Zhang",
+    "roles": []
+  },
+  {
     "slug": "brian-uzzi",
     "name": "Brian Uzzi",
     "lastName": "Uzzi",
@@ -16490,6 +17104,12 @@
     "roles": []
   },
   {
+    "slug": "bill-shirey",
+    "name": "Bill Shirey",
+    "lastName": "Shirey",
+    "roles": []
+  },
+  {
     "slug": "bill-dueber",
     "name": "Bill Dueber",
     "lastName": "Dueber",
@@ -16651,6 +17271,18 @@
     "slug": "bernd-linowski",
     "name": "Bernd Linowski",
     "lastName": "Linowski",
+    "roles": []
+  },
+  {
+    "slug": "bernard-de-bono",
+    "name": "Bernard de Bono",
+    "lastName": "de Bono",
+    "roles": []
+  },
+  {
+    "slug": "benjamin-stear",
+    "name": "Benjamin Stear",
+    "lastName": "Stear",
     "roles": []
   },
   {
@@ -16837,6 +17469,12 @@
     "roles": []
   },
   {
+    "slug": "aybuge-altay",
+    "name": "Aybuge Altay",
+    "lastName": "Altay",
+    "roles": []
+  },
+  {
     "slug": "aviv-regev",
     "name": "Aviv Regev",
     "lastName": "Regev",
@@ -16858,6 +17496,12 @@
     "slug": "avi-rosenberg",
     "name": "Avi Rosenberg",
     "lastName": "Rosenberg",
+    "roles": []
+  },
+  {
+    "slug": "avi-maayan",
+    "name": "Avi Ma’ayan",
+    "lastName": "Ma’ayan",
     "roles": []
   },
   {
@@ -17031,6 +17675,12 @@
     ]
   },
   {
+    "slug": "ashish-mahabal",
+    "name": "Ashish Mahabal",
+    "lastName": "Mahabal",
+    "roles": []
+  },
+  {
     "slug": "arul-jeyaseelan",
     "name": "Arul Jeyaseelan",
     "lastName": "Jeyaseelan",
@@ -17088,6 +17738,12 @@
     "roles": []
   },
   {
+    "slug": "arjun-srivatsa",
+    "name": "Arjun Srivatsa",
+    "lastName": "Srivatsa",
+    "roles": []
+  },
+  {
     "slug": "arivarasan-karunamurthy",
     "name": "Arivarasan Karunamurthy",
     "lastName": "Karunamurthy",
@@ -17109,6 +17765,12 @@
     "slug": "ari-pollack",
     "name": "Ari Pollack",
     "lastName": "Pollack",
+    "roles": []
+  },
+  {
+    "slug": "ari-kahn",
+    "name": "Ari Kahn",
+    "lastName": "Kahn",
     "roles": []
   },
   {
@@ -17158,6 +17820,12 @@
     "roles": []
   },
   {
+    "slug": "anton-nekrutenko",
+    "name": "Anton Nekrutenko",
+    "lastName": "Nekrutenko",
+    "roles": []
+  },
+  {
     "slug": "anton-heijs",
     "name": "Anton Heijs",
     "lastName": "Heijs",
@@ -17194,18 +17862,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Hourly Research Assistant",
-        "displayOrder": 39,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "antbhavs@iu.edu",
         "education": "MS in Computer Science - Indiana University, Bloomington\r\nBE in Computer Science - BNM Institute of Technology, Bangalore\r\n",
-        "background": "I am a software developer with 2 years of experience at Motorola, specializing in building efficient software solutions. With a strong foundation in software development, I thrive on tackling complex challenges and crafting innovative solutions. My passion lies in technology, problem-solving, and continuous learning.",
         "interests": "Outside of work, I have a deep passion for traveling to unfamiliar and uncharted destinations. Exploring new places pushes me beyond my comfort zone, immersing me in diverse cultures, breathtaking landscapes, and unique encounters with people from all walks of life. I also love listening to music, which helps me relax and stay focused, and capturing moments through photography, preserving the beauty and essence of my experiences.",
-        "dateStart": "2025-03-24",
-        "dateEnd": null
+        "displayOrder": 39,
+        "dateEnd": "2026-05-30T00:00:00.000Z",
+        "background": "I am a software developer with 2 years of experience at Motorola, specializing in building efficient software solutions. With a strong foundation in software development, I thrive on tackling complex challenges and crafting innovative solutions. My passion lies in technology, problem-solving, and continuous learning.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2025-03-24T00:00:00.000Z",
+        "title": "Hourly Research Assistant",
+        "type": "member",
+        "office": "",
+        "email": "antbhavs@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -17273,6 +17942,12 @@
     "slug": "anna-keune",
     "name": "Anna Keune",
     "lastName": "Keune",
+    "roles": []
+  },
+  {
+    "slug": "anna-i-byrd",
+    "name": "Anna I. Byrd",
+    "lastName": "Byrd",
     "roles": []
   },
   {
@@ -17465,6 +18140,12 @@
     "roles": []
   },
   {
+    "slug": "andrew-j-schroeder",
+    "name": "Andrew J. Schroeder",
+    "lastName": "Schroeder",
+    "roles": []
+  },
+  {
     "slug": "andrew-dillon",
     "name": "Andrew Dillon",
     "lastName": "Dillon",
@@ -17635,6 +18316,12 @@
     ]
   },
   {
+    "slug": "anagha-shenoy",
+    "name": "Anagha Shenoy",
+    "lastName": "Shenoy",
+    "roles": []
+  },
+  {
     "slug": "ana-l-mora",
     "name": "Ana L. Mora",
     "lastName": "Mora",
@@ -17781,6 +18468,12 @@
     "roles": []
   },
   {
+    "slug": "allissa-dillman",
+    "name": "Allissa Dillman",
+    "lastName": "Dillman",
+    "roles": []
+  },
+  {
     "slug": "allie-gullett",
     "name": "Allie Gullett",
     "lastName": "Gullett",
@@ -17818,6 +18511,12 @@
     "slug": "alla-karpova",
     "name": "Alla Karpova",
     "lastName": "Karpova",
+    "roles": []
+  },
+  {
+    "slug": "alison-m-pouch",
+    "name": "Alison M. Pouch",
+    "lastName": "Pouch",
     "roles": []
   },
   {
@@ -17940,9 +18639,21 @@
     "roles": []
   },
   {
+    "slug": "alex-yh-wong",
+    "name": "Alex Y.H. Wong",
+    "lastName": "Wong",
+    "roles": []
+  },
+  {
     "slug": "alex-soojung-kim-pang",
     "name": "Alex Soojung-Kim Pang",
     "lastName": "Pang",
+    "roles": []
+  },
+  {
+    "slug": "alex-shilin",
+    "name": "Alex Shilin",
+    "lastName": "Shilin",
     "roles": []
   },
   {
@@ -17981,6 +18692,12 @@
     "slug": "aleksandra-lunich",
     "name": "Aleksandra Lunich",
     "lastName": "Lunich",
+    "roles": []
+  },
+  {
+    "slug": "aleksandar-milosavljevic",
+    "name": "Aleksandar Milosavljevic",
+    "lastName": "Milosavljevic",
     "roles": []
   },
   {
@@ -18295,6 +19012,12 @@
     "slug": "aehong-min",
     "name": "Aehong Min",
     "lastName": "Min",
+    "roles": []
+  },
+  {
+    "slug": "adriana-ivich",
+    "name": "Adriana Ivich",
+    "lastName": "Ivich",
     "roles": []
   },
   {
