@@ -46,9 +46,13 @@ export function index(globString, path, minified = false) {
   }
 }
 
-export function formatDate(dateTimeString) {
+export function formatDate(dateTimeString, options = undefined) {
   if (typeof dateTimeString !== 'string' || !dateTimeString) {
     return dateTimeString;
+  } else if (options) {
+    const formatter = new Intl.DateTimeFormat('en-US', options);
+    const date = new Date(dateTimeString);
+    return formatter.format(date);
   }
 
   return dateTimeString.split('T')[0];
@@ -59,11 +63,11 @@ export function formatUrl(slug, subdir, url) {
     return `${BASE_URL}/${subdir}/${slug}/${url}`;
   }
 
-  return url.replaceAll(' ', '%20');
+  return url;
 }
 
 export function formatMarkdownLink(text, url) {
-  return url ? `[${text}](${url.replaceAll(' ', '%20')})` : text;
+  return url ? `[${text}](${encodeURI(decodeURI(new URL(url)))})` : text;
 }
 
 export function formatPeople(people, peopleLookup, label = '', terminator = '. ') {
