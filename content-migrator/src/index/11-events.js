@@ -119,7 +119,7 @@ export function writeEventsIndex() {
       return undefined;
     }
 
-    const { slug, type, title, link, dateStart, dateEnd, thumbnail, featured, projects } = item;
+    const { slug, type, title, link, dateStart, dateEnd, thumbnail, featured, projects, location } = item;
     const people = PEOPLE_FIELDS.flatMap((field) => item[field] ?? []);
 
     return removeNullishProps({
@@ -135,6 +135,7 @@ export function writeEventsIndex() {
       people: people.length > 0 ? people : undefined,
       featured,
       projects,
+      location: [location?.city, location?.state, location?.country].filter(Boolean).join(', ') || undefined,
     });
   });
 
