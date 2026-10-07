@@ -59,7 +59,7 @@ export function formatUrl(slug, subdir, url) {
     return `${BASE_URL}/${subdir}/${slug}/${url}`;
   }
 
-  return url;
+  return url.replaceAll(' ', '%20');
 }
 
 export function formatMarkdownLink(text, url) {
