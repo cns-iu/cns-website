@@ -47,29 +47,9 @@ function formatLocation(location) {
   return parts;
 }
 
-// function formatMedia(urls, text) {
-//   if (!urls || urls.length === 0) {
-//     return '';
-//   } else if (urls.length === 1) {
-//     return [formatMarkdownLink(text, urls[0]), ' '];
-//   }
-
-//   const result = [];
-//   for (let index = 0; index < urls.length; index++) {
-//     result.push(formatMarkdownLink(`${text} ${index + 1}`, urls[index]), ' ');
-//   }
-
-//   return result;
-// }
-
-function buildDescription(item, peopleLookup) {
-  const { slug, title, link, dateStart, dateEnd, location, presenters, instructors, organizers, attendees } = item;
+function buildDescription(item) {
+  const { slug, title, link, dateStart, dateEnd, location } = item;
   const linkUrl = formatUrl(slug, 'events', link);
-  // const mediaByType = (item.media ?? []).reduce((acc, mediaItem) => {
-  //   acc[mediaItem.type] ??= [];
-  //   acc[mediaItem.type].push(formatUrl(slug, 'events', mediaItem.url));
-  //   return acc;
-  // }, {});
   const dateOptions = { year: 'numeric', month: 'short', day: 'numeric' };
 
   const description = [
@@ -77,24 +57,6 @@ function buildDescription(item, peopleLookup) {
     '\n\n',
     dateEnd && dateEnd !== dateStart ? [formatDate(dateStart, dateOptions), ' - ', formatDate(dateEnd, dateOptions)] : formatDate(dateStart, dateOptions),
     location ? [' | ', formatLocation(location)] : '',
-    // formatDate(dateStart),
-    // dateEnd && dateEnd !== dateStart ? [' to ', formatDate(dateEnd)] : [],
-    // '. ',
-    // '“',
-    // formatMarkdownLink(title, linkUrl),
-    // '.” ',
-    // formatLocation(location),
-    // formatPeople(presenters, peopleLookup, 'Presented by '),
-    // formatPeople(instructors, peopleLookup, 'Instructors: '),
-    // formatPeople(organizers, peopleLookup, 'Organizers: '),
-    // formatPeople(attendees, peopleLookup, 'Attendees: '),
-    // formatMedia(mediaByType['image'], 'Image'),
-    // formatMedia(mediaByType['pdf'], 'PDF'),
-    // formatMedia(mediaByType['photo-gallery'], 'Photo gallery'),
-    // formatMedia(mediaByType['slides'], 'Slides'),
-    // formatMedia(mediaByType['website'], 'Website'),
-    // formatMedia(mediaByType['video'], 'Video'),
-    // formatMedia(mediaByType['video-playlist'], 'YouTube playlist'),
   ];
 
   return description.flat(10).join('').trim();

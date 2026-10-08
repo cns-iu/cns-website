@@ -1,29 +1,20 @@
 import { join } from 'path';
-import {
-  formatDate,
-  formatMarkdownLink,
-  formatUrl,
-  index,
-  INDEXES,
-  readIndex,
-  removeNullishProps,
-  writeMinifiedJSON,
-} from './utils.js';
+import { formatDate, formatMarkdownLink, formatUrl, index, INDEXES, readIndex, removeNullishProps, writeMinifiedJSON } from './utils.js';
 
 function buildDescription(item) {
   const { slug, title, link, date, reporter, publisher, media } = item;
   const linkUrl = formatUrl(slug, 'news', link);
   const mediaEntry = media?.find((m) => m.type !== 'image' && m.url !== link);
   const mediaUrl = mediaEntry ? formatUrl(slug, 'news', mediaEntry.url) : undefined;
+  const dateOptions = { year: 'numeric', month: 'short', day: 'numeric' };
 
   const description = [
-    reporter ? [reporter, '. '] : '',
-    formatDate(date.split('-')[0]),
-    '. “',
     formatMarkdownLink(title, linkUrl),
-    '.” ',
-    publisher ? ['_', publisher, '_. '] : '',
-    mediaUrl ? ['(', formatMarkdownLink('archive', mediaUrl), ')'] : '',
+    '\n\n',
+    formatDate(date, dateOptions),
+    publisher ? [' | ', publisher] : '',
+    reporter ? [' | ', reporter] : '',
+    mediaUrl ? [' | ', formatMarkdownLink('Archive', mediaUrl)] : '',
   ];
 
   return description.flat(10).join('').trim();

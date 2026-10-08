@@ -70,7 +70,7 @@ export function formatMarkdownLink(text, url) {
   return url ? `[${text}](${encodeURI(decodeURI(new URL(url)))})` : text;
 }
 
-export function formatPeople(people, peopleLookup, label = '', terminator = '. ') {
+export function formatPeople(people, peopleLookup) {
   if (!people || people.length === 0) {
     return '';
   }
@@ -79,7 +79,7 @@ export function formatPeople(people, peopleLookup, label = '', terminator = '. '
     .map((person) => peopleLookup[person]?.name ?? person)
     .join(', ')
     .trim();
-  return [label, names, terminator];
+  return [names];
 }
 
 export function removeNullishProps(obj) {
