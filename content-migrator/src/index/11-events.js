@@ -1,18 +1,7 @@
 import { readFileSync } from 'fs';
 import YAML from 'js-yaml';
 import { join } from 'path';
-import {
-  formatDate,
-  formatMarkdownLink,
-  formatPeople,
-  formatUrl,
-  index,
-  INDEXES,
-  readIndex,
-  readLookupIndex,
-  removeNullishProps,
-  writeMinifiedJSON,
-} from './utils.js';
+import { formatDate, formatMarkdownLink, formatUrl, index, INDEXES, readIndex, readLookupIndex, removeNullishProps, writeMinifiedJSON } from './utils.js';
 
 const PEOPLE_FIELDS = ['organizers', 'attendees', 'presenters', 'instructors'];
 
@@ -55,58 +44,19 @@ function formatLocation(location) {
     parts.pop();
   }
 
-  if (parts.length > 0) {
-    parts.push('. ');
-  }
-
   return parts;
 }
 
-function formatMedia(urls, text) {
-  if (!urls || urls.length === 0) {
-    return '';
-  } else if (urls.length === 1) {
-    return [formatMarkdownLink(text, urls[0]), ' '];
-  }
-
-  const result = [];
-  for (let index = 0; index < urls.length; index++) {
-    result.push(formatMarkdownLink(`${text} ${index + 1}`, urls[index]), ' ');
-  }
-
-  return result;
-}
-
-function buildDescription(item, typeLookup, peopleLookup) {
-  const { slug, type, title, link, dateStart, dateEnd, location, presenters, instructors, organizers, attendees } =
-    item;
+function buildDescription(item) {
+  const { slug, title, link, dateStart, dateEnd, location } = item;
   const linkUrl = formatUrl(slug, 'events', link);
-  const mediaByType = (item.media ?? []).reduce((acc, mediaItem) => {
-    acc[mediaItem.type] ??= [];
-    acc[mediaItem.type].push(formatUrl(slug, 'events', mediaItem.url));
-    return acc;
-  }, {});
+  const dateOptions = { year: 'numeric', month: 'short', day: 'numeric' };
 
   const description = [
-    formatDate(dateStart),
-    dateEnd && dateEnd !== dateStart ? [' to ', formatDate(dateEnd)] : [],
-    '. ',
-    typeLookup[type] ?? type,
-    ': “',
     formatMarkdownLink(title, linkUrl),
-    '.” ',
-    formatLocation(location),
-    formatPeople(presenters, peopleLookup, 'Presented by '),
-    formatPeople(instructors, peopleLookup, 'Instructors: '),
-    formatPeople(organizers, peopleLookup, 'Organizers: '),
-    formatPeople(attendees, peopleLookup, 'Attendees: '),
-    formatMedia(mediaByType['image'], 'Image'),
-    formatMedia(mediaByType['pdf'], 'PDF'),
-    formatMedia(mediaByType['photo-gallery'], 'Photo gallery'),
-    formatMedia(mediaByType['slides'], 'Slides'),
-    formatMedia(mediaByType['website'], 'Website'),
-    formatMedia(mediaByType['video'], 'Video'),
-    formatMedia(mediaByType['video-playlist'], 'YouTube playlist'),
+    '\n\n',
+    dateEnd && dateEnd !== dateStart ? [formatDate(dateStart, dateOptions), ' - ', formatDate(dateEnd, dateOptions)] : formatDate(dateStart, dateOptions),
+    location ? [' | ', formatLocation(location)] : '',
   ];
 
   return description.flat(10).join('').trim();
@@ -115,18 +65,13 @@ function buildDescription(item, typeLookup, peopleLookup) {
 export function writeEventsIndex() {
   const events = readIndex('events');
   const peopleLookup = readLookupIndex('people');
-  const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
-  const typeLookup = getTypeOptions(config).reduce((acc, type) => {
-    acc[type.value] = type.label;
-    return acc;
-  }, {});
 
   const entries = events.map((item) => {
     if (!item.dateStart) {
       return undefined;
     }
 
-    const { slug, type, title, link, dateStart, dateEnd, thumbnail, featured, projects } = item;
+    const { slug, type, title, link, dateStart, dateEnd, thumbnail, featured, projects, organizedByCns } = item;
     const people = PEOPLE_FIELDS.flatMap((field) => item[field] ?? []);
 
     return removeNullishProps({
@@ -138,10 +83,11 @@ export function writeEventsIndex() {
       dateStart: formatDate(dateStart),
       dateEnd: formatDate(dateEnd ?? dateStart),
       thumbnail: formatUrl(slug, 'events', thumbnail) || undefined,
-      description: buildDescription(item, typeLookup, peopleLookup),
+      description: buildDescription(item, peopleLookup),
       people: people.length > 0 ? people : undefined,
       featured,
       projects,
+      organizedByCns,
     });
   });
 

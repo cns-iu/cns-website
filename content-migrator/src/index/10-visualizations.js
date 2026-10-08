@@ -1,25 +1,10 @@
 import { join } from 'path';
-import {
-  formatDate,
-  formatMarkdownLink,
-  formatUrl,
-  index,
-  INDEXES,
-  readIndex,
-  removeNullishProps,
-  writeMinifiedJSON,
-} from './utils.js';
+import { formatDate, formatMarkdownLink, formatUrl, index, INDEXES, readIndex, removeNullishProps, writeMinifiedJSON } from './utils.js';
 
 function buildDescription(item) {
   const { slug, title, link, date, description: itemDescription } = item;
   const linkUrl = formatUrl(slug, 'visualizations', link);
-  const description = [
-    formatDate(date.split('-')[0]),
-    '. “',
-    formatMarkdownLink(title, linkUrl),
-    '.” ',
-    itemDescription,
-  ];
+  const description = [formatMarkdownLink(title, linkUrl), '\n\n', formatDate(date.split('-')[0]), '\n\n', itemDescription];
 
   return description.flat(10).join('').trim();
 }

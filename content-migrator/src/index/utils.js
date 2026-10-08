@@ -46,9 +46,13 @@ export function index(globString, path, minified = false) {
   }
 }
 
-export function formatDate(dateTimeString) {
+export function formatDate(dateTimeString, options = undefined) {
   if (typeof dateTimeString !== 'string' || !dateTimeString) {
     return dateTimeString;
+  } else if (options) {
+    const formatter = new Intl.DateTimeFormat('en-US', options);
+    const date = new Date(dateTimeString);
+    return formatter.format(date);
   }
 
   return dateTimeString.split('T')[0];
@@ -63,10 +67,10 @@ export function formatUrl(slug, subdir, url) {
 }
 
 export function formatMarkdownLink(text, url) {
-  return url ? `[${text}](${url.replaceAll(' ', '%20')})` : text;
+  return url ? `[${text}](${encodeURI(decodeURI(new URL(url)))})` : text;
 }
 
-export function formatPeople(people, peopleLookup, label = '', terminator = '. ') {
+export function formatPeople(people, peopleLookup) {
   if (!people || people.length === 0) {
     return '';
   }
@@ -75,7 +79,7 @@ export function formatPeople(people, peopleLookup, label = '', terminator = '. '
     .map((person) => peopleLookup[person]?.name ?? person)
     .join(', ')
     .trim();
-  return [label, names, terminator];
+  return [names];
 }
 
 export function removeNullishProps(obj) {

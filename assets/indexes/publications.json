@@ -1,5 +1,40 @@
 [
   {
+    "slug": "rxm8b67cdfu7mnli1wp46",
+    "type": "manuscript",
+    "title": "SenNet Portal: Build, Optimization and Usage",
+    "date": "2026-02-06T00:00:00.000Z",
+    "doi": "10.64898/2026.02.06.704469",
+    "authors": [
+      "katy-borner",
+      "philip-blood",
+      "jonathan-c-silverstein",
+      "matthew-ruffalo",
+      "rahul-satija",
+      "nils-gehlenborg",
+      "brendan-honick",
+      "andreas-bueckle",
+      "yashvardhan-jain",
+      "danial-qaurooni",
+      "max-sibilla",
+      "kay-metis",
+      "joe-bisciotti",
+      "richard-s-morgan",
+      "david-betancur",
+      "ryan-sablosky",
+      "morgan-l-turner",
+      "so-jin-kim",
+      "patty-j-lee",
+      "josh-bartz",
+      "sergii-domanskyi",
+      "samuel-t-peters",
+      "archibald-enninful",
+      "negin-farzad",
+      "rong-fan",
+      "bruce-w-herr-ii"
+    ]
+  },
+  {
     "slug": "pub-98",
     "type": "paper-conference",
     "title": "Spatio-Temporal Information Production and Consumption of Major U.S. Research Institutions",
@@ -917,6 +952,8 @@
     "thumbnail": "pub1.26.2026.png",
     "publisher": "PLOS",
     "venue": "PLOS One",
+    "volume": "21",
+    "issue": "1",
     "featured": true,
     "media": [
       {
@@ -952,6 +989,8 @@
     "pmid": "PMC11702530",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
+    "volume": "13",
+    "issue": "",
     "projects": [
       "human-reference-atlas"
     ],
@@ -986,7 +1025,7 @@
       "yongqun-he"
     ],
     "thumbnail": "ontologies2025.png",
-    "venue": "International Conference on Intelligent, Biology and Medicine (ICIBM), Columbus, Ohio ",
+    "venue": "International Conference on Intelligent Biology and Medicine (ICIBM), Columbus, Ohio",
     "media": [
       {
         "type": "pdf",
@@ -1046,7 +1085,7 @@
   },
   {
     "slug": "pub-481",
-    "type": "manuscript",
+    "type": "article-journal",
     "title": "AI-Supported Extraction of Functional Tissue Unit Properties for Human Reference Atlas Construction",
     "date": "2025-09-13T00:00:00.000Z",
     "doi": "10.1101/2025.09.11.675730",
@@ -1062,7 +1101,7 @@
     "media": [
       {
         "type": "website",
-        "url": "https://www.biorxiv.org/content/10.1101/2025.09.11.675730v1"
+        "url": "https://www.nature.com/articles/s42003-026-10850-4"
       }
     ]
   },
@@ -1108,6 +1147,7 @@
     "pmid": "PMC12393406",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
+    "volume": "13",
     "featured": true,
     "projects": [
       "human-reference-atlas"
@@ -1144,6 +1184,8 @@
     "pmid": "PMC12695629",
     "publisher": "Nature",
     "venue": "Nature Methods",
+    "volume": "22",
+    "pages": "2585-2593",
     "media": [
       {
         "type": "website",
@@ -1154,7 +1196,7 @@
   {
     "slug": "pub-477",
     "type": "book",
-    "title": " Atlas of Macroscopes: Interactive Data Visualizations",
+    "title": "Atlas of Macroscopes: Interactive Data Visualizations",
     "date": "2025-09-30T00:00:00.000Z",
     "authors": [
       "katy-borner",
@@ -1260,8 +1302,8 @@
   {
     "slug": "pub-472",
     "type": "periodical",
-    "title": " 19th International Conference on Scientometrics & Informetrics (ISSI) 2023 editorial",
-    "date": "2024-11-05",
+    "title": "19th International Conference on Scientometrics & Informetrics (ISSI) 2023 editorial",
+    "date": "2024-11-05T00:00:00.000Z",
     "doi": "10.1007/s11192-024-05185-y",
     "editors": [
       "katy-borner",
@@ -1376,6 +1418,8 @@
     "thumbnail": "fig1s41597-025-04589-6.png",
     "pmid": "PMC11828951",
     "venue": "Scientific Data",
+    "volume": "12",
+    "pages": "265",
     "projects": [
       "human-reference-atlas"
     ],
@@ -1486,7 +1530,7 @@
     "authors": [
       "andreas-bueckle"
     ],
-    "venue": "Innovation in Aging 7(Supplement_1): 473 ",
+    "venue": "Innovation in Aging 7(Supplement_1): 473",
     "projects": [
       "human-reference-atlas"
     ],
@@ -1727,7 +1771,7 @@
   {
     "slug": "pub-460",
     "type": "article-journal",
-    "title": "myAURA: a personalized health library for epilepsy management via knowledge graph sparsification and visualization ",
+    "title": "myAURA: a personalized health library for epilepsy management via knowledge graph sparsification and visualization",
     "date": "2025-01-31T00:00:00.000Z",
     "doi": "10.1093/jamia/ocaf012",
     "authors": [
@@ -1793,6 +1837,7 @@
     "pmid": "PMC11703146",
     "publisher": "Nature",
     "venue": "Nature Scientific Data",
+    "volume": "12",
     "projects": [
       "human-reference-atlas"
     ],
@@ -1823,8 +1868,8 @@
   {
     "slug": "pub-457",
     "type": "chapter",
-    "title": " Plug-and-Play Macroscopes: Network Workbench (NWB), Science of Science Tool (Sci2), and Epidemiology Tool (EpiC)",
-    "date": "2018-01-18",
+    "title": "Plug-and-Play Macroscopes: Network Workbench (NWB), Science of Science Tool (Sci2), and Epidemiology Tool (EpiC)",
+    "date": "2018-01-18T00:00:00.000Z",
     "doi": "10.1007/978-1-4939-7131-2_306",
     "authors": [
       "katy-borner"
@@ -1858,14 +1903,14 @@
     "slug": "pub-455",
     "type": "paper-conference",
     "title": "Macroscopes for Making Sense of Science",
-    "date": "2017-07-09",
+    "date": "2017-07-09T00:00:00.000Z",
     "doi": "10.1145/3093338.3106387",
     "authors": [
       "katy-borner",
       "elizabeth-record"
     ],
     "publisher": "ACM",
-    "venue": "In Practice and Experience in Advanced Research Computing 2017: Sustainability, Success and Impact ",
+    "venue": "In Practice and Experience in Advanced Research Computing 2017: Sustainability, Success and Impact",
     "pages": "1-2,",
     "media": [
       {
@@ -1895,8 +1940,8 @@
   {
     "slug": "pub-453",
     "type": "paper-conference",
-    "title": " Data Visualization Literacy",
-    "date": "2016-07-10",
+    "title": "Data Visualization Literacy",
+    "date": "2016-07-10T00:00:00.000Z",
     "authors": [
       "katy-borner"
     ],
@@ -2567,6 +2612,8 @@
     "thumbnail": "marker-fig1.png",
     "pmid": "PMC11978508",
     "venue": "Nature Methods",
+    "volume": "22",
+    "pages": "845-860",
     "projects": [
       "human-reference-atlas"
     ],
@@ -2602,7 +2649,7 @@
     "slug": "pub-432",
     "type": "article-journal",
     "title": "Visual Analytics for Data-Driven Understanding of the Substance Use Disorder Epidemic",
-    "date": "2024-01-28",
+    "date": "2024-01-28T00:00:00.000Z",
     "doi": "10.1177/00469580241227020",
     "authors": [
       "danial-qaurooni",
@@ -2612,7 +2659,8 @@
       "katy-borner",
       "titus-schleyer"
     ],
-    "venue": "Sage Journals",
+    "venue": "INQUIRY: The Journal of Health Care Organization, Provision, and Financing",
+    "volume": "61",
     "media": [
       {
         "type": "website",
@@ -4825,8 +4873,8 @@
   {
     "slug": "pub-347",
     "type": "chapter",
-    "title": "Visualizing Living Architecture: Augmented Reality Visualizations of Sensors, Actuators, and Signal Flows ",
-    "date": "2016-12-31",
+    "title": "Visualizing Living Architecture: Augmented Reality Visualizations of Sensors, Actuators, and Signal Flows",
+    "date": "2016-12-31T00:00:00.000Z",
     "authors": [
       "katy-borner"
     ],
@@ -5286,8 +5334,8 @@
   {
     "slug": "pub-320",
     "type": "manuscript",
-    "title": " Collective Allocation of Science Funding: From Funding Agencies to Scientific Agency",
-    "date": "2013-04-13",
+    "title": "Collective Allocation of Science Funding: From Funding Agencies to Scientific Agency",
+    "date": "2013-04-13T00:00:00.000Z",
     "authors": [
       "johan-bollen",
       "david-crandall",
@@ -6182,8 +6230,8 @@
   {
     "slug": "pub-271",
     "type": "paper-conference",
-    "title": " MAPSustain: Visualising biomass and biofuel research ",
-    "date": "2011-03-10",
+    "title": "MAPSustain: Visualising biomass and biofuel research",
+    "date": "2011-03-10T00:00:00.000Z",
     "authors": [
       "michael-stamper",
       "chin-hua-kong",
@@ -6854,8 +6902,8 @@
   {
     "slug": "pub-236",
     "type": "paper-conference",
-    "title": "ID2 - A Scalable and Flexible Mixed-Media Information Visualization System for Public Learning Exhibits ",
-    "date": "2009-06-22",
+    "title": "ID2 - A Scalable and Flexible Mixed-Media Information Visualization System for Public Learning Exhibits",
+    "date": "2009-06-22T00:00:00.000Z",
     "authors": [
       "eric-wernert",
       "jagannathan-lakshmipathy",
@@ -9389,6 +9437,30 @@
     ]
   },
   {
+    "slug": "oluvawxa3xlq05xbes87v",
+    "type": "manuscript",
+    "title": "Organism-scale annotation with Pan-human Azimuth",
+    "date": "2026-07-21T00:00:00.000Z",
+    "doi": "10.64898/2026.07.16.738997",
+    "authors": [
+      "sourav-sarkar",
+      "zhuoyan-li",
+      "gesmira-molla",
+      "anagha-shenoy",
+      "brian-zhang",
+      "david-collins",
+      "nicole-vasilevsky",
+      "joseph-p-gaut",
+      "aleix-puig-barbe",
+      "andreas-bueckle",
+      "david-osumi-sutherland",
+      "katy-borner",
+      "sanjay-jain",
+      "rahul-satija"
+    ],
+    "venue": ""
+  },
+  {
     "slug": "ghi4yk7yrla43oyeqprp1",
     "type": "manuscript",
     "title": "The Common Fund Data Ecosystem (CFDE)",
@@ -9400,13 +9472,155 @@
       "jeet-vora",
       "mano-r-maurya",
       "taha-mohseni-ahooyi",
-      "katy-borner"
+      "erika-zheng",
+      "benjamin-stear",
+      "ding-wang",
+      "caitlin-ree",
+      "srinivasan-ramachandran",
+      "anton-nekrutenko",
+      "mackenzie-brandes",
+      "swathi-thaker",
+      "daniel-h-katz",
+      "monica-c-munoz-torres",
+      "ido-diamant",
+      "hye-jung-e-chun",
+      "j-alan-simmons",
+      "sarah-k-tasian",
+      "sherry-l-jenkins",
+      "john-erol-evangelista",
+      "hardik-dodia",
+      "surya-saha",
+      "martin-a-lindquist",
+      "vennela-gajjala",
+      "christopher-nemarich",
+      "jimmy-zhen",
+      "karen-e-ross",
+      "anna-i-byrd",
+      "alex-shilin",
+      "vincent-t-metzger",
+      "cristian-g-bologa",
+      "sumana-srinivasan",
+      "dongkeun-jang",
+      "praveen-kumar-0000-0002-4981-9020",
+      "lily-d-taub",
+      "mia-p-levanto",
+      "varduhi-petrosyan",
+      "manju-anandakrishnan",
+      "mariia-kim",
+      "daniel-j-b-clarke",
+      "adriana-ivich",
+      "daniel-j-crichton",
+      "shava-smallen",
+      "dominic-bordelon",
+      "chuming-chen",
+      "andrew-j-schroeder",
+      "ashish-mahabal",
+      "ivan-cao-berg",
+      "sean-kim",
+      "daniall-masood",
+      "keyang-yu",
+      "kyle-j-gaulton",
+      "david-jimenez-morales",
+      "john-michael-rincon",
+      "brendan-honick",
+      "wei-wang",
+      "cathy-h-wu",
+      "aleksandar-milosavljevic",
+      "philip-blood",
+      "jyl-boline",
+      "tudor-i-oprea",
+      "christophe-g-lambert",
+      "bernard-de-bono",
+      "peter-j-park",
+      "jonathan-c-silverstein",
+      "jason-flannick",
+      "jeremy-j-yang",
+      "jeffrey-s-grethe",
+      "shankar-subramaniam",
+      "michael-tiemeyer",
+      "timothy-clark",
+      "matthew-t-wheeler",
+      "ari-kahn",
+      "jennifer-burnette",
+      "rene-ranzinger",
+      "michael-c-schatz",
+      "lafrancis-gibson",
+      "noel-p-burtt",
+      "james-p-carson",
+      "jake-y-chen",
+      "peipei-ping",
+      "sean-davis",
+      "deanne-m-taylor",
+      "katy-borner",
+      "allissa-dillman",
+      "kelli-bursey",
+      "avi-maayan",
+      "raja-mazumder",
+      "matthew-e-roth",
+      "casey-s-greene"
     ],
     "thumbnail": "the-common-fund-data-ecosystem.png",
     "venue": "bioRxiv",
+    "volume": "13",
     "featured": true,
     "projects": [
       "human-reference-atlas"
     ]
+  },
+  {
+    "slug": "byk0z7xs521wynelk2hr2",
+    "type": "manuscript",
+    "title": "Bridging Biomedical Atlas Ecosystem: Cross-Atlas Alignment And Scalable Tissue Specimen Registration",
+    "date": "2026-08-18T00:00:00.000Z",
+    "doi": "10.64898/2026.08.13.744704",
+    "authors": [
+      "yashvardhan-jain",
+      "bhargav-desai",
+      "danial-qaurooni",
+      "antara-bhavsar",
+      "peter-kienle",
+      "alison-m-pouch",
+      "kathleen-oneill",
+      "siddharth-apte",
+      "bruce-w-herr-ii",
+      "stephen-a-fisher",
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "4ao3fkvkxjeg41sswvscz",
+    "type": "manuscript",
+    "title": "Multiscale harmonization and semantic integration of biomedical data enable biological insights through immersive exploration",
+    "date": "2026-07-11T00:00:00.000Z",
+    "doi": "10.64898/2026.07.07.737090",
+    "authors": [
+      "andreas-bueckle",
+      "chenchen-zhu",
+      "alex-yh-wong",
+      "archibald-enninful",
+      "yang-miao",
+      "negin-farzad",
+      "maria-pedersen",
+      "courteney-mattison",
+      "nicholas-sloan",
+      "jason-mares",
+      "cheng-xing",
+      "bruce-w-herr-ii",
+      "juhi-khare",
+      "yash-kumar",
+      "keyur-parekh",
+      "siddhi-chavan",
+      "paean-luby",
+      "ushma-patel",
+      "john-hickey",
+      "gary-d-bader",
+      "hemali-phatnani",
+      "vilas-menon",
+      "rong-fan",
+      "peter-k-sorger",
+      "michael-p-snyder",
+      "katy-borner"
+    ],
+    "venue": ""
   }
 ]

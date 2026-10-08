@@ -1,5 +1,20 @@
 [
   {
+    "slug": "zrklohpjgorr2540rb3bn",
+    "type": "other",
+    "title": "First Thursday (Christian Mackay)",
+    "dateStart": "2017-10-05T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": []
+  },
+  {
     "slug": "ytk328fn2anhqv3mpvqfo",
     "type": "other",
     "title": "Robot Roll Call 2017",
@@ -16,25 +31,35 @@
   {
     "slug": "ws-97",
     "type": "workshop",
-    "title": "NetSci 2026 Network Geometry, Theory and Applications",
+    "title": "NetSci 2026: Network Geometry, Theory and Applications",
     "link": "https://mappingcomplexity.net/mainpage/netsci2026/",
     "dateStart": "2026-06-01T00:00:00.000Z",
     "dateEnd": "2026-06-01T00:00:00.000Z",
     "thumbnail": "netsciboston2026.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Boston, MA, USA"
-    }
+      "raw": "Boston, MA, USA",
+      "venue": "Hyatt Regency Boston/Cambridge",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "USA"
+    },
+    "presenters": [
+      "katy-borner"
+    ]
   },
   {
     "slug": "ws-96",
     "type": "24hour",
     "title": "24 Hour Human Physiology Event",
-    "link": null,
+    "link": "https://cns-iu.github.io/workshops/2026-24hr/",
     "dateStart": "2026-12-12T00:00:00.000Z",
     "dateEnd": "2026-12-13T00:00:00.000Z",
     "thumbnail": "wpp-thumbnail-blue.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Remote event"
+      "raw": "",
+      "venue": "Virtual"
     },
     "projects": [
       "whole-person-physiome"
@@ -48,10 +73,20 @@
     "dateStart": "2026-03-09T00:00:00.000Z",
     "dateEnd": "2026-03-11T00:00:00.000Z",
     "thumbnail": "hra-hackathon3.8.2026.png",
-    "location": {
-      "raw": "Bloomington, Indiana, USA"
-    },
+    "organizedByCns": true,
     "featured": true,
+    "location": {
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408"
+    },
+    "organizers": [
+      "bruce-w-herr-ii",
+      "andreas-bueckle"
+    ],
     "projects": [
       "human-reference-atlas"
     ]
@@ -64,10 +99,11 @@
     "dateStart": "2025-12-13T00:00:00.000Z",
     "dateEnd": "2025-12-14T00:00:00.000Z",
     "thumbnail": "scimapsintelligences24hourevent.png",
-    "location": {
-      "raw": "Remote event"
-    },
+    "organizedByCns": true,
     "featured": true,
+    "location": {
+      "raw": "Virtual"
+    },
     "projects": [
       "envisioning-intelligences"
     ]
@@ -80,6 +116,7 @@
     "dateStart": "2025-11-05T00:00:00.000Z",
     "dateEnd": "2025-11-05T00:00:00.000Z",
     "thumbnail": "ieee2025.png",
+    "organizedByCns": true,
     "location": {
       "raw": "Vienna, Austria"
     }
@@ -92,10 +129,11 @@
     "dateStart": "2025-08-25T00:00:00.000Z",
     "dateEnd": "2025-08-26T00:00:00.000Z",
     "thumbnail": "hra-hackathon-aug2025.png",
+    "organizedByCns": true,
+    "featured": false,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     },
-    "featured": false,
     "projects": [
       "human-reference-atlas"
     ]
@@ -108,8 +146,12 @@
     "dateStart": "2025-06-23T00:00:00.000Z",
     "dateEnd": "2025-06-24T00:00:00.000Z",
     "thumbnail": "workshop-june2025.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
     },
     "projects": [
       "human-reference-atlas"
@@ -120,8 +162,9 @@
     "type": "workshop",
     "title": "Modelling Knowledge Dynamics",
     "link": "http://web.archive.org/web/20260108191805/https://cns.iu.edu/101009.html",
-    "dateStart": "2010-10-09",
-    "dateEnd": "2010-10-10",
+    "dateStart": "2010-10-09T00:00:00.000Z",
+    "dateEnd": "2010-10-10T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Amsterdam, The Netherlands"
     }
@@ -131,8 +174,9 @@
     "type": "workshop",
     "title": "Inspired by Nature",
     "link": "https://cns-iu.github.io/workshops/2024-11-18_inspired_by_nature/",
-    "dateStart": "2024-11-18",
-    "dateEnd": "2025-04-18",
+    "dateStart": "2024-11-18T00:00:00.000Z",
+    "dateEnd": "2025-04-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -145,8 +189,9 @@
     "dateStart": "2024-12-14T00:00:00.000Z",
     "dateEnd": "2024-12-15T00:00:00.000Z",
     "thumbnail": "hra-human2024.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Remote event"
+      "raw": "Virtual"
     },
     "projects": [
       "human-reference-atlas"
@@ -159,6 +204,7 @@
     "link": "https://cns-iu.github.io/workshops/2024-10-24-jumpstart-workshop/",
     "dateStart": "2024-10-24T00:00:00.000Z",
     "dateEnd": "2024-10-25T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Rockville, Maryland, USA"
     },
@@ -187,10 +233,21 @@
     "link": "https://cns-iu.github.io/workshops/2023-10-18-nih-3d-hackathon/",
     "dateStart": "2023-10-18T00:00:00.000Z",
     "dateEnd": "2023-10-19T00:00:00.000Z",
+    "thumbnail": "og-hackathon-2023.png",
+    "organizedByCns": true,
     "location": {
-      "venue": "BCBB/NIAID Biovisualization Lab",
-      "raw": "Rockville, Maryland, USA"
+      "venue": "NIAID Biovisualization (“Biovis”) Lab",
+      "raw": "",
+      "street": "5601 Fishers Ln",
+      "city": " Rockville",
+      "state": "Maryland",
+      "postcode": "20852",
+      "country": "USA"
     },
+    "organizers": [
+      "andreas-bueckle",
+      "lu-chen"
+    ],
     "projects": [
       "human-reference-atlas"
     ]
@@ -202,6 +259,7 @@
     "link": "https://cns-iu.github.io/workshops/2024-6-6_20-years-Places-Spaces/",
     "dateStart": "2024-06-06T00:00:00.000Z",
     "dateEnd": "2024-06-06T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "venue": "University Collections at McCalla",
       "raw": "Bloomington, Indiana, USA"
@@ -225,8 +283,9 @@
     "dateStart": "2023-12-09T00:00:00.000Z",
     "dateEnd": "2023-12-10T00:00:00.000Z",
     "thumbnail": "macroscopes10.26.2025.png",
+    "organizedByCns": true,
     "location": {
-      "raw": "Remote event"
+      "raw": "Virtual"
     },
     "projects": [
       "macroscopes"
@@ -248,10 +307,11 @@
     "type": "workshop",
     "title": "Brain Matters #16",
     "link": "https://www.humanbrainproject.eu/en/brain-matters/",
-    "dateStart": "2023-03-08",
-    "dateEnd": "2023-03-08",
+    "dateStart": "2023-03-08T00:00:00.000Z",
+    "dateEnd": "2023-03-08T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
-      "raw": "This is a virtual event"
+      "raw": "Virtual"
     }
   },
   {
@@ -259,8 +319,9 @@
     "type": "workshop",
     "title": "NIH Junior Investigators Atlas Building Meeting",
     "link": "https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders",
-    "dateStart": "2023-03-01",
-    "dateEnd": "2023-03-03",
+    "dateStart": "2023-03-01T00:00:00.000Z",
+    "dateEnd": "2023-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, New York, USA"
     }
@@ -270,8 +331,9 @@
     "type": "workshop",
     "title": "Mapping the Structure and Evolution of Sustainability Science",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/101201.html",
-    "dateStart": "2010-12-01",
-    "dateEnd": "2010-12-01",
+    "dateStart": "2010-12-01T00:00:00.000Z",
+    "dateEnd": "2010-12-01T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Washington, DC"
     }
@@ -284,9 +346,10 @@
     "dateStart": "2022-12-10T00:00:00.000Z",
     "dateEnd": "2022-12-11T00:00:00.000Z",
     "thumbnail": "hra-human2024.png",
+    "organizedByCns": true,
     "location": {
-      "venue": "Virtual event",
-      "raw": "Remote event"
+      "venue": "",
+      "raw": "Virtual"
     },
     "projects": [
       "human-reference-atlas"
@@ -300,6 +363,7 @@
     "dateStart": "2022-08-29T00:00:00.000Z",
     "dateEnd": "2022-11-25T00:00:00.000Z",
     "thumbnail": "places-and-spaces.png",
+    "organizedByCns": true,
     "location": {
       "raw": "Ann Arbor, Michigan, USA"
     },
@@ -313,8 +377,9 @@
     "type": "workshop",
     "title": "Cell Ontologies, Annotation & Metadata Session",
     "link": "https://cns-iu.github.io/workshops/2022-06-27_human_cell_atlas/",
-    "dateStart": "2022-06-28",
-    "dateEnd": "2022-06-28",
+    "dateStart": "2022-06-28T00:00:00.000Z",
+    "dateEnd": "2022-06-28T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Vienna, Austria"
     }
@@ -324,8 +389,9 @@
     "type": "workshop",
     "title": "Data Visualization Bazaar",
     "link": "https://events.iu.edu/libraries/event/476243-data-visualization-bazaar",
-    "dateStart": "2022-04-05",
-    "dateEnd": "2022-04-05",
+    "dateStart": "2022-04-05T00:00:00.000Z",
+    "dateEnd": "2022-04-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -335,8 +401,9 @@
     "type": "workshop",
     "title": "The Future of Learning & Work Workshop",
     "link": "https://cns-iu.github.io/workshops/2022-03-14-futurium/",
-    "dateStart": "2022-03-14",
-    "dateEnd": "2022-03-15",
+    "dateStart": "2022-03-14T00:00:00.000Z",
+    "dateEnd": "2022-03-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Berlin, Germany"
     }
@@ -349,6 +416,7 @@
     "dateStart": "2021-12-11T00:00:00.000Z",
     "dateEnd": "2021-12-12T00:00:00.000Z",
     "thumbnail": "maps2.png",
+    "organizedByCns": true,
     "location": {
       "city": "Virtual event",
       "raw": "This was a virtual event, hosted by CNS"
@@ -359,8 +427,9 @@
     "type": "workshop",
     "title": "Boston Lymphatic Symposium’s NIH Clinical Pre-Conference",
     "link": "https://cns-iu.github.io/workshops/2021-11-04_boston-lymphatic-symposium/",
-    "dateStart": "2021-11-04",
-    "dateEnd": "2021-11-04",
+    "dateStart": "2021-11-04T00:00:00.000Z",
+    "dateEnd": "2021-11-04T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by NIH"
     }
@@ -370,8 +439,9 @@
     "type": "workshop",
     "title": "International Conference of the International Society for Scientometrics and Informetrics",
     "link": "https://cns-iu.github.io/workshops/2023-07-02_issi/",
-    "dateStart": "2023-07-02",
-    "dateEnd": "2023-07-05",
+    "dateStart": "2023-07-02T00:00:00.000Z",
+    "dateEnd": "2023-07-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -381,8 +451,9 @@
     "type": "workshop",
     "title": "HuBMAP HIVE Demo Day",
     "link": "https://cns-iu.github.io/workshops/2022-03-28_hubmap_hive_demo_day/",
-    "dateStart": "2022-03-28",
-    "dateEnd": "2022-03-29",
+    "dateStart": "2022-03-28T00:00:00.000Z",
+    "dateEnd": "2022-03-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     },
@@ -395,8 +466,9 @@
     "type": "workshop",
     "title": "Mapping Knowledge About Human Vasculature Across Body Scales, North American Vascular Biology Organization",
     "link": "https://cns-iu.github.io/workshops/2021-08-31_navbo/",
-    "dateStart": "2021-08-31",
-    "dateEnd": "2021-08-31",
+    "dateStart": "2021-08-31T00:00:00.000Z",
+    "dateEnd": "2021-08-31T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by NAVBO"
     }
@@ -406,8 +478,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Science Maps in Education",
     "link": "http://web.archive.org/web/20260108202837/https://cns.iu.edu/111117.html",
-    "dateStart": "2011-11-17",
-    "dateEnd": "2011-11-18",
+    "dateStart": "2011-11-17T00:00:00.000Z",
+    "dateEnd": "2011-11-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -417,8 +490,9 @@
     "type": "workshop",
     "title": "HuBMAP – Hacking the Kidney Awards Ceremony",
     "link": "https://hubmapconsortium.github.io/ccf/pages/kaggle.html",
-    "dateStart": "2021-05-21",
-    "dateEnd": "2021-05-21",
+    "dateStart": "2021-05-21T00:00:00.000Z",
+    "dateEnd": "2021-05-21T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by Kaggle"
     },
@@ -431,8 +505,9 @@
     "type": "workshop",
     "title": "Spatial Biology Europe: Online",
     "link": "https://cns-iu.github.io/workshops/2021-04-14_spatial_biology_europe_online/",
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
+    "dateStart": "2021-04-14T00:00:00.000Z",
+    "dateEnd": "2021-04-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a virtual event, hosted by Oxford Global Conferences"
     }
@@ -442,8 +517,9 @@
     "type": "workshop",
     "title": "Multi-Level Graph Representation for Big Data Arising in Science Mapping",
     "link": "https://cns-iu.github.io/workshops/2021-11-04_dagstuhl_seminar/",
-    "dateStart": "2021-04-11",
-    "dateEnd": "2021-04-16",
+    "dateStart": "2021-04-11T00:00:00.000Z",
+    "dateEnd": "2021-04-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "This was a hybrid event hosted by Schloss Dagstuhl"
     }
@@ -453,8 +529,9 @@
     "type": "workshop",
     "title": "Vascular Common Coordinate Framework (VCCF) Workshop",
     "link": "https://cns-iu.github.io/workshops/2021-03-29_vccf_workshop/",
-    "dateStart": "2021-03-29",
-    "dateEnd": "2021-03-29",
+    "dateStart": "2021-03-29T00:00:00.000Z",
+    "dateEnd": "2021-03-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -464,8 +541,9 @@
     "type": "workshop",
     "title": "Common Coordinate Framework Workshop (CCFWS-2021)",
     "link": "https://ccfws.cns.iu.edu/",
-    "dateStart": "2021-02-02",
-    "dateEnd": "2021-02-09",
+    "dateStart": "2021-02-02T00:00:00.000Z",
+    "dateEnd": "2021-02-09T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -475,8 +553,9 @@
     "type": "workshop",
     "title": "NIH-HCA Joint Meeting",
     "link": "https://cns-iu.github.io/workshops/2020-03-30_nih-hca_joint_meeting/",
-    "dateStart": "2020-03-30",
-    "dateEnd": "2020-03-30",
+    "dateStart": "2020-03-30T00:00:00.000Z",
+    "dateEnd": "2020-03-30T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "BLOOMINGTON, Indiana, USA"
     }
@@ -486,8 +565,9 @@
     "type": "workshop",
     "title": "LifeOmic",
     "link": "https://cns-iu.github.io/workshops/2019-09-18_life-omic/",
-    "dateStart": "2019-09-18",
-    "dateEnd": "2019-09-18",
+    "dateStart": "2019-09-18T00:00:00.000Z",
+    "dateEnd": "2019-09-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "BLOOMINGTON, Indiana, USA"
     }
@@ -497,8 +577,9 @@
     "type": "workshop",
     "title": "Make-A-Vis: Come Build a Data Visualization from the Ground Up",
     "link": "https://cns-iu.github.io/workshops/2019-09-20_astc-workshop/",
-    "dateStart": "2019-09-20",
-    "dateEnd": "2019-09-20",
+    "dateStart": "2019-09-20T00:00:00.000Z",
+    "dateEnd": "2019-09-20T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Toronto, ON, Canada"
     }
@@ -508,8 +589,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Artists Envision Science & Technology",
     "link": "http://web.archive.org/web/20260108201919/https://cns.iu.edu/111017.html",
-    "dateStart": "2011-10-17",
-    "dateEnd": "2011-10-18",
+    "dateStart": "2011-10-17T00:00:00.000Z",
+    "dateEnd": "2011-10-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Arlington, VA"
     }
@@ -519,8 +601,9 @@
     "type": "workshop",
     "title": "IU Health Team: Dashboards/Visualization Meeting",
     "link": "https://cns-iu.github.io/workshops/2019-07-29_iu-health-team/",
-    "dateStart": "2019-07-29",
-    "dateEnd": "2019-07-29",
+    "dateStart": "2019-07-29T00:00:00.000Z",
+    "dateEnd": "2019-07-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, US"
     }
@@ -530,8 +613,9 @@
     "type": "workshop",
     "title": "Addictions Grand Challenge Project on Opioid Crisis and the Workforce : Advisory Group Meeting",
     "link": "https://cns-iu.github.io/workshops/2019-08-16_addictions-grand-challenge/",
-    "dateStart": "2019-08-16",
-    "dateEnd": "2019-08-16",
+    "dateStart": "2019-08-16T00:00:00.000Z",
+    "dateEnd": "2019-08-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, US"
     }
@@ -541,8 +625,9 @@
     "type": "workshop",
     "title": "HuBMAP HIVE Demo Day",
     "link": "https://cns-iu.github.io/workshops/2020-09-21_hubmap_hive_demo_day/",
-    "dateStart": "2020-09-20",
-    "dateEnd": "2020-09-21",
+    "dateStart": "2020-09-20T00:00:00.000Z",
+    "dateEnd": "2020-09-21T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     },
@@ -555,8 +640,9 @@
     "type": "workshop",
     "title": "Common Coordinate Framework Workshop (CCFWS-01)",
     "link": "https://ccfws.cns.iu.edu/2019/",
-    "dateStart": "2019-05-09",
-    "dateEnd": "2019-05-09",
+    "dateStart": "2019-05-09T00:00:00.000Z",
+    "dateEnd": "2019-05-09T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -566,8 +652,9 @@
     "type": "workshop",
     "title": "Internet of Things Wearables in Motion Symposium",
     "link": "https://iotw.cns.iu.edu",
-    "dateStart": "2019-04-25",
-    "dateEnd": "2019-04-26",
+    "dateStart": "2019-04-25T00:00:00.000Z",
+    "dateEnd": "2019-04-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -577,8 +664,9 @@
     "type": "workshop",
     "title": "Learning Analytics in Support of Convergence",
     "link": "http://knowledgeconvergence.org/",
-    "dateStart": "2019-03-04",
-    "dateEnd": "2019-03-08",
+    "dateStart": "2019-03-04T00:00:00.000Z",
+    "dateEnd": "2019-03-08T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Tempe, Arizona, USA"
     }
@@ -588,8 +676,9 @@
     "type": "workshop",
     "title": "Network Visualization in the Humanities",
     "link": "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18482",
-    "dateStart": "2018-11-25",
-    "dateEnd": "2018-11-30",
+    "dateStart": "2018-11-25T00:00:00.000Z",
+    "dateEnd": "2018-11-30T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Dagstuhl, Germany"
     }
@@ -599,8 +688,9 @@
     "type": "workshop",
     "title": "Vis Lab Demos - Luddy Fest Week",
     "link": "http://web.archive.org/web/20260108193743/https://cns.iu.edu/180411.html",
-    "dateStart": "2018-04-11",
-    "dateEnd": "2018-04-11",
+    "dateStart": "2018-04-11T00:00:00.000Z",
+    "dateEnd": "2018-04-11T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -610,8 +700,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Standards for Science Metrics, Classifications, and Mapping",
     "link": "http://web.archive.org/web/20260108202022/https://cns.iu.edu/110810.html",
-    "dateStart": "2011-08-11",
-    "dateEnd": "2011-08-12",
+    "dateStart": "2011-08-11T00:00:00.000Z",
+    "dateEnd": "2011-08-12T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -621,8 +712,9 @@
     "type": "workshop",
     "title": "Addictions Grand Challenge (AGC)",
     "link": "http://web.archive.org/web/20260108193624/https://cns.iu.edu/180226.html",
-    "dateStart": "2018-02-26",
-    "dateEnd": "2018-02-26",
+    "dateStart": "2018-02-26T00:00:00.000Z",
+    "dateEnd": "2018-02-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -632,8 +724,9 @@
     "type": "workshop",
     "title": "Fashion Technology Symposium",
     "link": "http://fashiontech.cns.iu.edu/",
-    "dateStart": "2018-03-02",
-    "dateEnd": "2018-03-03",
+    "dateStart": "2018-03-02T00:00:00.000Z",
+    "dateEnd": "2018-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
     }
@@ -687,8 +780,9 @@
     "type": "workshop",
     "title": "Web of Science as a Research Dataset",
     "link": "http://web.archive.org/web/20260108193039/https://cns.iu.edu/161114.html",
-    "dateStart": "2016-11-14",
-    "dateEnd": "2016-11-15",
+    "dateStart": "2016-11-14T00:00:00.000Z",
+    "dateEnd": "2016-11-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -698,8 +792,9 @@
     "type": "workshop",
     "title": "NIH Workshop on Value Added Services for VIVO",
     "link": "http://web.archive.org/web/20260108191923/https://cns.iu.edu/110325.html",
-    "dateStart": "2011-03-25",
-    "dateEnd": "2011-03-26",
+    "dateStart": "2011-03-25T00:00:00.000Z",
+    "dateEnd": "2011-03-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -720,8 +815,9 @@
     "type": "workshop",
     "title": "Workshop II: Culture Analytics and User Experience Design",
     "link": "http://web.archive.org/web/20260108192933/https://cns.iu.edu/160412.html",
-    "dateStart": "2016-04-11",
-    "dateEnd": "2016-04-15",
+    "dateStart": "2016-04-11T00:00:00.000Z",
+    "dateEnd": "2016-04-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Los Angeles, California"
     }
@@ -742,8 +838,9 @@
     "type": "workshop",
     "title": "Visual Analytics in Healthcare\r\n",
     "link": "http://web.archive.org/web/20260109195944/https://cns.iu.edu/151102.html",
-    "dateStart": "2015-11-02",
-    "dateEnd": "2015-11-03",
+    "dateStart": "2015-11-02T00:00:00.000Z",
+    "dateEnd": "2015-11-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -775,8 +872,9 @@
     "type": "workshop",
     "title": "Visual Insights from Big Data: Envisioning Science, Engineering, and Innovation",
     "link": "http://cns.iu.edu/docs/presentations/2015-borner-aaas.pdf",
-    "dateStart": "2015-02-12",
-    "dateEnd": "2015-02-16",
+    "dateStart": "2015-02-12T00:00:00.000Z",
+    "dateEnd": "2015-02-16T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "San Jose, CA"
     }
@@ -797,8 +895,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Modeling and Mapping Science Workshop",
     "link": "http://web.archive.org/web/20260108192030/https://cns.iu.edu/110321.html",
-    "dateStart": "2011-03-21",
-    "dateEnd": "2011-03-21",
+    "dateStart": "2011-03-21T00:00:00.000Z",
+    "dateEnd": "2011-03-21T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -819,8 +918,9 @@
     "type": "workshop",
     "title": "OECD-experts dialogue on scientometrics: Improving the use of bibliometric indicators and analysis for policy-making",
     "link": "http://web.archive.org/web/20260108192445/https://cns.iu.edu/140325.html",
-    "dateStart": "2014-03-25",
-    "dateEnd": "2014-03-25",
+    "dateStart": "2014-03-25T00:00:00.000Z",
+    "dateEnd": "2014-03-25T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Paris, France"
     }
@@ -830,8 +930,9 @@
     "type": "workshop",
     "title": "Pathways Workshop",
     "link": "http://web.archive.org/web/20260109195849/https://cns.iu.edu/131113.html",
-    "dateStart": "2013-11-13",
-    "dateEnd": "2013-11-13",
+    "dateStart": "2013-11-13T00:00:00.000Z",
+    "dateEnd": "2013-11-13T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Minneapolis, MN, USA"
     }
@@ -841,8 +942,9 @@
     "type": "workshop",
     "title": "Plug-and-Play Macroscopes Workshop",
     "link": "http://web.archive.org/web/20260108192516/https://cns.iu.edu/141103.html",
-    "dateStart": "2014-11-03",
-    "dateEnd": "2014-11-04",
+    "dateStart": "2014-11-03T00:00:00.000Z",
+    "dateEnd": "2014-11-04T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -852,8 +954,9 @@
     "type": "workshop",
     "title": "Standards for Science Mapping and Classifications",
     "link": "http://www.issi2013.org/work.html#Ws4",
-    "dateStart": "2013-07-15",
-    "dateEnd": "2013-07-15",
+    "dateStart": "2013-07-15T00:00:00.000Z",
+    "dateEnd": "2013-07-15T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Vienna, Austria"
     }
@@ -863,8 +966,9 @@
     "type": "workshop",
     "title": "Science Mapping Standards Workshop",
     "link": "http://web.archive.org/web/20260108192015/https://cns.iu.edu/131104.html",
-    "dateStart": "2013-11-04",
-    "dateEnd": "2013-11-05",
+    "dateStart": "2013-11-04T00:00:00.000Z",
+    "dateEnd": "2013-11-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -874,8 +978,9 @@
     "type": "workshop",
     "title": "Plug-and-Play Macroscopes Workshop",
     "link": "http://web.archive.org/web/20260108192053/https://cns.iu.edu/131105.html",
-    "dateStart": "2013-11-05",
-    "dateEnd": "2013-11-06",
+    "dateStart": "2013-11-05T00:00:00.000Z",
+    "dateEnd": "2013-11-06T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -885,8 +990,9 @@
     "type": "workshop",
     "title": "Informal Meeting on Mapping Science",
     "link": "http://web.archive.org/web/20260108190423/https://cns.iu.edu/051201.html",
-    "dateStart": "2005-12-01",
-    "dateEnd": "2005-12-02",
+    "dateStart": "2005-12-01T00:00:00.000Z",
+    "dateEnd": "2005-12-02T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Philadelphia, PA"
     }
@@ -896,8 +1002,9 @@
     "type": "workshop",
     "title": "Workshop on Mapping Science",
     "link": "http://web.archive.org/web/20260108190600/https://cns.iu.edu/060404.html",
-    "dateStart": "2006-04-04",
-    "dateEnd": "2006-04-04",
+    "dateStart": "2006-04-04T00:00:00.000Z",
+    "dateEnd": "2006-04-04T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, NY"
     }
@@ -918,8 +1025,9 @@
     "type": "workshop",
     "title": "JSMF Workshop on Plug-and-Play Macroscopes",
     "link": "http://web.archive.org/web/20260108202816/https://cns.iu.edu/121116.html",
-    "dateStart": "2012-11-16",
-    "dateEnd": "2012-11-17",
+    "dateStart": "2012-11-16T00:00:00.000Z",
+    "dateEnd": "2012-11-17T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -929,8 +1037,9 @@
     "type": "workshop",
     "title": "Workshop on Scholarly Databases & Data Integration",
     "link": "http://web.archive.org/web/20260108190906/https://cns.iu.edu/060830.html",
-    "dateStart": "2006-08-30",
-    "dateEnd": "2006-08-31",
+    "dateStart": "2006-08-30T00:00:00.000Z",
+    "dateEnd": "2006-08-31T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -940,8 +1049,9 @@
     "type": "workshop",
     "title": "Science (Weather) Forecasts Workshop",
     "link": "http://web.archive.org/web/20260108190923/https://cns.iu.edu/061026.html",
-    "dateStart": "2006-10-25",
-    "dateEnd": "2006-10-26",
+    "dateStart": "2006-10-25T00:00:00.000Z",
+    "dateEnd": "2006-10-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York Hall of Science, NY"
     }
@@ -951,8 +1061,9 @@
     "type": "workshop",
     "title": "NSF Workshops on Knowledge Management and Visualization Tools in Support of Discovery-Workshop II",
     "link": "http://vw.slis.indiana.edu/cdi2008/workshop2.html",
-    "dateStart": "2008-04-07",
-    "dateEnd": "2008-04-08",
+    "dateStart": "2008-04-07T00:00:00.000Z",
+    "dateEnd": "2008-04-08T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Queens, NY"
     }
@@ -962,8 +1073,9 @@
     "type": "workshop",
     "title": "NSF Workshops on Knowledge Management and Visualization Tools in Support of Discovery-Workshop I",
     "link": "http://vw.slis.indiana.edu/cdi2008/workshop1.html",
-    "dateStart": "2008-03-10",
-    "dateEnd": "2008-03-11",
+    "dateStart": "2008-03-10T00:00:00.000Z",
+    "dateEnd": "2008-03-11T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Arlington, VA"
     }
@@ -973,8 +1085,9 @@
     "type": "workshop",
     "title": "NSF/JSMF Workshop on Mapping the History and Philosophy of Science",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/090617.html",
-    "dateStart": "2009-06-17",
-    "dateEnd": "2009-06-18",
+    "dateStart": "2009-06-17T00:00:00.000Z",
+    "dateEnd": "2009-06-18T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -984,8 +1097,9 @@
     "type": "workshop",
     "title": "Visualization for Collective, Connective & Distributed Intelligence Dynamic Knowledge Networks ~ Synthetic Minds",
     "link": "http://web.archive.org/web/20260108191135/https://cns.iu.edu/090812.html",
-    "dateStart": "2009-08-12",
-    "dateEnd": "2009-08-14",
+    "dateStart": "2009-08-12T00:00:00.000Z",
+    "dateEnd": "2009-08-14T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Stanford University, CA"
     }
@@ -995,8 +1109,9 @@
     "type": "workshop",
     "title": "NSF/JSMF Workshop on How to Measure, Map, and Dramatize Science",
     "link": "http://web.archive.org/web/20260108203019/https://cns.iu.edu/091001.html",
-    "dateStart": "2009-10-01",
-    "dateEnd": "2009-10-02",
+    "dateStart": "2009-10-01T00:00:00.000Z",
+    "dateEnd": "2009-10-02T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Flushing Meadows Corona Park, NY"
     }
@@ -1006,8 +1121,9 @@
     "type": "workshop",
     "title": "NSF Workshop on Mapping of Science and Semantic Web",
     "link": "http://web.archive.org/web/20260108191345/https://cns.iu.edu/100304.html",
-    "dateStart": "2010-03-04",
-    "dateEnd": "2010-03-05",
+    "dateStart": "2010-03-04T00:00:00.000Z",
+    "dateEnd": "2010-03-05T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -1017,8 +1133,9 @@
     "type": "workshop",
     "title": "NIH Workshop on Identifiers and Disambiguation in Scholarly Work",
     "link": "http://web.archive.org/web/20260108191605/https://cns.iu.edu/100318.html",
-    "dateStart": "2010-03-18",
-    "dateEnd": "2010-03-19",
+    "dateStart": "2010-03-18T00:00:00.000Z",
+    "dateEnd": "2010-03-19T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Gainesville, FL"
     }
@@ -1028,8 +1145,9 @@
     "type": "workshop",
     "title": "VIVO & Eagle-i @ IU Workshop",
     "link": "http://web.archive.org/web/20260108191627/https://cns.iu.edu/100927.html",
-    "dateStart": "2010-09-27",
-    "dateEnd": "2010-09-29",
+    "dateStart": "2010-09-27T00:00:00.000Z",
+    "dateEnd": "2010-09-29T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
@@ -1039,11 +1157,149 @@
     "type": "workshop",
     "title": "JSMF Workshop on Exploiting Big Data Semantics for Translational Medicine",
     "link": "https://web.archive.org/web/20260000000000*/https://cns.iu.edu/130325.html",
-    "dateStart": "2013-03-25",
-    "dateEnd": "2013-03-26",
+    "dateStart": "2013-03-25T00:00:00.000Z",
+    "dateEnd": "2013-03-26T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Bloomington, Indiana"
     }
+  },
+  {
+    "slug": "whs3dtljvf5i5xyg4arv5",
+    "type": "presentation",
+    "title": "Mapping CIFAR Datasets into the Multiscale Human Reference Atlas",
+    "dateStart": "2026-05-04T00:00:00.000Z",
+    "dateEnd": "2026-05-06T00:00:00.000Z",
+    "location": {
+      "venue": "CIFAR MacMillan Multiscale Human 2026 Spring Meeting",
+      "city": "Whistler",
+      "country": "Canada",
+      "state": "BC"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "yashvardhan-jain",
+      "yash-r-kumar",
+      "juhi-khare",
+      "cheng-xing",
+      "claire-l-walsh",
+      "matthieu-chourrout",
+      "peter-d-lee",
+      "gary-d-bader",
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "vv07gdsq5eyk07v1n3i22",
+    "type": "presentation",
+    "title": "Multiscale Human Reference Atlas – An Ontological Bridge Between Anatomy and Disease",
+    "dateStart": "2026-05-11T00:00:00.000Z",
+    "location": {
+      "venue": "16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
+      "city": "Sissi",
+      "state": "Crete",
+      "country": "Greece"
+    },
+    "presenters": [
+      "katy-borner",
+      "peter-n-robinson"
+    ]
+  },
+  {
+    "slug": "vsm5z5bofov212l8nz97m",
+    "type": "other",
+    "title": "Pathfinders/Infosys Open House",
+    "dateStart": "2018-07-18T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "vrg5a3lz0g5wrirrz6flk",
+    "type": "presentation",
+    "title": "Amatria Public Tour (4:00pm–5:00pm)",
+    "dateStart": "2018-10-22T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "uzja94o0j6c08r5h1n6zv",
+    "type": "presentation",
+    "title": "Cell Type Populations for 3D Anatomical Structures of the Human Reference Atlas",
+    "dateStart": "2026-06-09T00:00:00.000Z",
+    "dateEnd": "2026-06-09T00:00:00.000Z",
+    "location": {
+      "venue": "SenNet Spring Meeting 2026",
+      "city": "Washington",
+      "state": "DC"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "lu-chen",
+      "daniel-bolin",
+      "danial-qaurooni",
+      "michael-ginda",
+      "yashvardhan-jain",
+      "aleix-puig-barbe",
+      "kristin-ardlie",
+      "fusheng-wang",
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "u3iagvwxcy49hmg0j7y5j",
+    "type": "celebration",
+    "title": "Amatria 5th Birthday Celebration (9:00am–10:00am)",
+    "link": "https://docs.google.com/presentation/d/1sQYGiEX5tpap6WkWdj1olMHkRBbnTqTX/edit?slide=id.g214414a406b_0_0#slide=id.g214414a406b_0_0",
+    "dateStart": "2023-04-11T00:00:00.000Z",
+    "thumbnail": "amatria-04112023.png",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://youtu.be/0pPV7Lr2eC0?si=UVVGVUQFrXHdwh1B"
+      },
+      {
+        "type": "photo-gallery",
+        "url": "https://photos.app.goo.gl/n7zrro1Pj8gZYfWt6"
+      }
+    ]
+  },
+  {
+    "slug": "tzub66ceadq14exzhzgdr",
+    "type": "workshop",
+    "title": "Meet Amatria's Creator Philip Beesley",
+    "dateStart": "2017-11-03T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
   },
   {
     "slug": "tut-23",
@@ -1063,10 +1319,10 @@
   {
     "slug": "tut-22",
     "type": "tutorial",
-    "title": " An Introduction to Open Source Tools for Data Analysis and Information Visualization",
+    "title": "An Introduction to Open Source Tools for Data Analysis and Information Visualization",
     "link": "https://cns.iu.edu/docs/presentations/2016-ginda-sci2tutorial-cdc.pdf",
-    "dateStart": "2016-06-14",
-    "dateEnd": "2016-06-15",
+    "dateStart": "2016-06-14T00:00:00.000Z",
+    "dateEnd": "2016-06-15T00:00:00.000Z",
     "location": {
       "raw": "Centers for Disease Control, Atlanta, GA"
     },
@@ -1179,18 +1435,94 @@
   },
   {
     "slug": "seja45x6gjpwzil6zjtzn",
-    "type": "exhibit",
+    "type": "other",
     "title": "Luddy TechFest: Visualizing Science",
     "link": "luddy-tech-fest-2026.pdf",
     "dateStart": "2026-04-11T00:00:00.000Z",
     "dateEnd": null,
     "thumbnail": "luddytechfest2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA",
+      "street": "700 N Woodlawn Ave"
     },
     "projects": [
       "maps",
       "macroscopes"
+    ]
+  },
+  {
+    "slug": "s2vzs02yqkzzz3695a5vd",
+    "type": "workshop",
+    "title": "Dendrite Building Session 2",
+    "dateStart": "2017-10-12T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "rybqsgjxbxcrj7lsuhvir",
+    "type": "workshop",
+    "title": "Human Reference Atlas, Human Phenotype Ontology, Whole Person Physiome, and Other EU Efforts Hackathon",
+    "link": "https://cns-iu.github.io/workshops/2026-08-27_hra_hackathon/",
+    "dateStart": "2026-08-27T00:00:00.000Z",
+    "dateEnd": "2026-08-28T00:00:00.000Z",
+    "thumbnail": "hra-brain-illustration.png",
+    "location": {
+      "venue": "Berlin Institute of Health at Charité (BIH), Center of Health Data Sciences, Rahel Hirsch Center",
+      "street": "Luisenstr. 65",
+      "postcode": "10117",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "attendees": [
+      "katy-borner",
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "peter-n-robinson"
+    ],
+    "featured": true,
+    "projects": [
+      "human-reference-atlas",
+      "whole-person-physiome"
+    ]
+  },
+  {
+    "slug": "r507wm8872lbbxovg42d3",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "dateStart": "2022-09-01",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "q9kn3fl2ixorua9sizzfv",
+    "type": "presentation",
+    "title": "Humans of HuBMAP",
+    "dateStart": "2026-06-15T00:00:00.000Z",
+    "location": {
+      "venue": "PI interviews at Last HuBMAP Annual Meeting",
+      "city": "Rockville",
+      "state": "MD"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "katy-borner"
     ]
   },
   {
@@ -1665,7 +1997,7 @@
   {
     "slug": "pres-723",
     "type": "presentation",
-    "title": "Keynote: The Human Reference Atlas ",
+    "title": "Keynote: The Human Reference Atlas",
     "link": "https://cns.iu.edu/docs/presentations/AUA2024-human-ref-atlas-herr.pdf",
     "dateStart": "2024-05-05T00:00:00.000Z",
     "dateEnd": "2024-05-05T00:00:00.000Z",
@@ -2839,12 +3171,13 @@
   {
     "slug": "pres-632",
     "type": "celebration",
-    "title": "Amatria's 2nd Birthday Celebration",
+    "title": "Amatria's 2nd Birthday Celebration (9:00am-10:00am)",
     "link": "https://cns.iu.edu/docs/presentations/20-Borner-Amatria2nd.pdf",
     "dateStart": "2020-04-13T00:00:00.000Z",
     "dateEnd": "2020-04-13T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana (Virtual Event)"
+      "raw": "",
+      "venue": "Virtual"
     },
     "presenters": [
       "katy-borner",
@@ -2858,7 +3191,11 @@
     "media": [
       {
         "type": "video",
-        "url": "https://www.youtube.com/watch?v=w3wIoIAkjL0"
+        "url": "https://youtu.be/w3wIoIAkjL0"
+      },
+      {
+        "type": "other",
+        "url": "https://soundcloud.com/gabriel-lubell/a-bloom-for-amatria"
       }
     ]
   },
@@ -3658,12 +3995,18 @@
   {
     "slug": "pres-564",
     "type": "presentation",
-    "title": "Amatria: Sentient Architecture (R)evolution",
-    "link": "https://cns.iu.edu/docs/presentations/2018-(R)evolution)-Borner.pdf",
+    "title": "Amatria: Round-Table Conversation on Innovative Thinking",
+    "link": "2018-revolution-borner.pdf",
     "dateStart": "2018-09-08T00:00:00.000Z",
     "dateEnd": "2018-09-08T00:00:00.000Z",
     "location": {
-      "raw": "Indiana University Bloomington, Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University, Jacobs School of Music",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47405",
+      "country": "USA",
+      "street": "200 S Eagleson Ave"
     },
     "presenters": [
       "katy-borner"
@@ -3946,12 +4289,16 @@
   {
     "slug": "pres-545",
     "type": "presentation",
-    "title": "Engineering Research Center Observatory Visualizations ",
+    "title": "Engineering Research Center Observatory Visualizations",
     "link": "https://cns.iu.edu/docs/presentations/18-NSF-ERC-HUBzero.pdf",
-    "dateStart": "2018-03-28",
-    "dateEnd": "2018-03-28",
+    "dateStart": "2018-03-28T00:00:00.000Z",
+    "dateEnd": "2018-03-28T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": ""
     },
     "presenters": [
       "katy-borner"
@@ -3961,10 +4308,10 @@
   {
     "slug": "pres-544",
     "type": "presentation",
-    "title": "Data Analysis in Opioid Addictions Topics ",
+    "title": "Data Analysis in Opioid Addictions Topics",
     "link": "https://cns.iu.edu/docs/presentations/2018-Opioid-Kosali-Olga-CEWIT.pdf",
-    "dateStart": "2018-03-24",
-    "dateEnd": "2018-03-24",
+    "dateStart": "2018-03-24T00:00:00.000Z",
+    "dateEnd": "2018-03-24T00:00:00.000Z",
     "location": {
       "raw": "Bloomington, Indiana"
     },
@@ -4263,10 +4610,10 @@
   {
     "slug": "pres-522",
     "type": "presentation",
-    "title": "Reproducibility in Scientometrics: Data Enclaves, Open Code, and Open Education ",
+    "title": "Reproducibility in Scientometrics: Data Enclaves, Open Code, and Open Education",
     "link": "https://cns.iu.edu/docs/presentations/2017-borner-reproducibility.pdf",
-    "dateStart": "2017-10-17",
-    "dateEnd": "2017-10-17",
+    "dateStart": "2017-10-17T00:00:00.000Z",
+    "dateEnd": "2017-10-17T00:00:00.000Z",
     "location": {
       "raw": "ISSI 2017, Wuhan, China"
     },
@@ -4524,12 +4871,15 @@
   {
     "slug": "pres-504",
     "type": "presentation",
-    "title": "IVMOOC on Jetstream & Open XD Metrics on Demand Value Analytics  ",
+    "title": "IVMOOC on Jetstream & Open XD Metrics on Demand Value Analytics",
     "link": "https://cns.iu.edu/docs/presentations/2017-iuni-os-xdmod-jetstream.pdf",
-    "dateStart": "2017-04-26",
-    "dateEnd": "2017-04-26",
+    "dateStart": "2017-04-26T00:00:00.000Z",
+    "dateEnd": "2017-04-26T00:00:00.000Z",
     "location": {
-      "raw": "Indiana University Bloomington, Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "IN"
     },
     "presenters": [
       "iuni",
@@ -4589,10 +4939,10 @@
   {
     "slug": "pres-500",
     "type": "presentation",
-    "title": "Maps & Macroscopes: Envisioning Science, Technology, and Education ",
+    "title": "Maps & Macroscopes: Envisioning Science, Technology, and Education",
     "link": "https://cns.iu.edu/docs/presentations/2017-borner-innovation-iub.pdf",
-    "dateStart": "2017-04-06",
-    "dateEnd": "2017-04-06",
+    "dateStart": "2017-04-06T00:00:00.000Z",
+    "dateEnd": "2017-04-06T00:00:00.000Z",
     "location": {
       "raw": "Indiana Memorial Union, Indiana University at Bloomington, 900 E. Seventh St., Bloomington, Indiana, 47405"
     },
@@ -4698,12 +5048,15 @@
   {
     "slug": "pres-494",
     "type": "presentation",
-    "title": "Self-Portraits of the Brain: Cognitive Science, Data Visualization, and Communicating Brain Structure and Function ",
+    "title": "Self-Portraits of the Brain: Cognitive Science, Data Visualization, and Communicating Brain Structure and Function",
     "link": "https://cns.iu.edu/docs/presentations/2017-borner-TICS-Neuro.pdf",
-    "dateStart": "2017-03-04",
-    "dateEnd": "2017-03-04",
+    "dateStart": "2017-03-04T00:00:00.000Z",
+    "dateEnd": "2017-03-04T00:00:00.000Z",
     "location": {
-      "raw": "Indiana University Bloomington, Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "state": "IN",
+      "city": "Bloomington"
     },
     "presenters": [
       "robert-goldstone",
@@ -4760,10 +5113,10 @@
   {
     "slug": "pres-489",
     "type": "presentation",
-    "title": "Visualizing Nanoscience and Technology ",
+    "title": "Visualizing Nanoscience and Technology",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-nano.pdf",
-    "dateStart": "2016-12-12",
-    "dateEnd": "2016-12-12",
+    "dateStart": "2016-12-12T00:00:00.000Z",
+    "dateEnd": "2016-12-12T00:00:00.000Z",
     "location": {
       "raw": "Arlington, VA"
     },
@@ -4790,12 +5143,14 @@
   {
     "slug": "pres-486",
     "type": "presentation",
-    "title": "Living Architecture Systems ",
+    "title": "Living Architecture Systems",
     "link": "https://cns.iu.edu/docs/presentations/2016-bueckle-lasg-event.pdf",
-    "dateStart": "2016-11-15",
-    "dateEnd": "2016-11-15",
+    "dateStart": "2016-11-15T00:00:00.000Z",
+    "dateEnd": "2016-11-15T00:00:00.000Z",
     "location": {
-      "raw": "Toronto, Canada"
+      "raw": "",
+      "city": "Toronto",
+      "country": "Canada"
     },
     "presenters": [
       "andreas-bueckle"
@@ -4853,10 +5208,10 @@
   {
     "slug": "pres-480",
     "type": "presentation",
-    "title": "(STEM) Career Experiences and Outcomes ",
+    "title": "(STEM) Career Experiences and Outcomes",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-workforce-nsf.pdf",
-    "dateStart": "2016-10-27",
-    "dateEnd": "2016-10-27",
+    "dateStart": "2016-10-27T00:00:00.000Z",
+    "dateEnd": "2016-10-27T00:00:00.000Z",
     "location": {
       "raw": "Arlington, VA"
     },
@@ -5132,10 +5487,15 @@
     "type": "presentation",
     "title": "Measuring, Predicting, and Communicating Science",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-loc.pdf",
-    "dateStart": "2016-03-22",
-    "dateEnd": "2016-03-22",
+    "dateStart": "2016-03-22T00:00:00.000Z",
+    "dateEnd": "2016-03-22T00:00:00.000Z",
     "location": {
-      "raw": "Office of Science, U.S. Department of Energy\n, 1000 Independence Ave SW, Washington, DC, 20585"
+      "raw": "",
+      "venue": "Office of Science, U.S. Department of Energy",
+      "street": "1000 Independence Ave SW",
+      "state": "Washington",
+      "postcode": "DC",
+      "country": "20585"
     },
     "presenters": [
       "katy-borner"
@@ -5179,10 +5539,15 @@
     "type": "presentation",
     "title": "Scalable Multi-Scale Visual Analytical Tools for Health Science",
     "link": "https://cns.iu.edu/docs/presentations/2016-light-odonnell-suny.pdf",
-    "dateStart": "2016-03-29",
-    "dateEnd": "2016-03-29",
+    "dateStart": "2016-03-29T00:00:00.000Z",
+    "dateEnd": "2016-03-29T00:00:00.000Z",
     "location": {
-      "raw": "Cancer Pathology and Prevention\nRoswell Park Cancer Institute, State University of New York at Buffalo\n, 408 Research Studies Center, Buffalo, NY, 14263"
+      "raw": "",
+      "venue": "Cancer Pathology and Prevention, Roswell Park Cancer Institute, State University of New York at Buffalo",
+      "street": "408 Research Studies Center",
+      "city": "Buffalo",
+      "state": "NY",
+      "postcode": "14263"
     },
     "presenters": [
       "robert-light",
@@ -5241,10 +5606,10 @@
     "type": "presentation",
     "title": "Designing Effective Data Visualizations",
     "link": "https://cns.iu.edu/docs/presentations/2016-borner-emory.pdf",
-    "dateStart": "2016-02-04",
-    "dateEnd": "2016-02-04",
+    "dateStart": "2016-02-04T00:00:00.000Z",
+    "dateEnd": "2016-02-04T00:00:00.000Z",
     "location": {
-      "raw": "College of Computing, Georgia Institute of Technology\n, 801 Atlantic Dr, Atlanta, GA, 30332"
+      "raw": "College of Computing, Georgia Institute of Technology, 801 Atlantic Dr, Atlanta, GA, 30332"
     },
     "presenters": [
       "katy-borner"
@@ -5424,8 +5789,9 @@
     "type": "presentation",
     "title": "Plug-and-Play Macroscopes: Modular Hardware and Software Platforms that Render Data into Insights",
     "link": "https://cns.iu.edu/docs/presentations/2015-borner-astc.pdf",
-    "dateStart": "2015-10-17",
-    "dateEnd": "2015-10-17",
+    "dateStart": "2015-10-17T00:00:00.000Z",
+    "dateEnd": "2015-10-17T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "Montreal, Quebec, Canada"
     },
@@ -5610,10 +5976,15 @@
     "type": "presentation",
     "title": "Oncosifter: A Customized Approach to Cancer Information",
     "link": "https://cns.iu.edu/docs/presentations/2003-mane-oncosift-unknown.ppt",
-    "dateStart": "2003-05-31",
-    "dateEnd": "2003-05-31",
+    "dateStart": "2003-05-31T00:00:00.000Z",
+    "dateEnd": "2003-05-31T00:00:00.000Z",
     "location": {
-      "raw": "Duncan Hall, Rice University\n, 6100 Main, Houston, TX, 77251"
+      "raw": "",
+      "venue": "Duncan Hall, Rice University",
+      "street": "6100 Main St.",
+      "city": "Houston",
+      "state": "TX",
+      "postcode": "77251"
     },
     "presenters": [
       "sidharth-thakur",
@@ -5865,10 +6236,10 @@
   {
     "slug": "pres-415",
     "type": "presentation",
-    "title": "Data Visualization Literacy ",
+    "title": "Data Visualization Literacy",
     "link": "https://cns.iu.edu/docs/presentations/2014-borner-korea.pdf",
-    "dateStart": "2014-12-05",
-    "dateEnd": "2014-12-05",
+    "dateStart": "2014-12-05T00:00:00.000Z",
+    "dateEnd": "2014-12-05T00:00:00.000Z",
     "location": {
       "raw": "Seoul, Korea"
     },
@@ -5942,10 +6313,10 @@
     "type": "presentation",
     "title": "Designing Multi-Scale Maps of Science and Technology",
     "link": "https://cns.iu.edu/docs/presentations/2014-borner-arizona.pdf",
-    "dateStart": "2014-10-07",
-    "dateEnd": "2014-10-07",
+    "dateStart": "2014-10-07T00:00:00.000Z",
+    "dateEnd": "2014-10-07T00:00:00.000Z",
     "location": {
-      "raw": "Karl Eller Graduate School of Managment, University of Arizona\n, McClelland Hall 430Z, Tucson, AZ, 85721"
+      "raw": "Karl Eller Graduate School of Management, University of Arizona, McClelland Hall 430Z, Tucson, AZ, 85721"
     },
     "presenters": [
       "katy-borner"
@@ -7254,10 +7625,15 @@
     "type": "presentation",
     "title": "Mining, Visualizing, and Accelerating Science and Technology",
     "link": "https://cns.iu.edu/docs/presentations/2012-borner-psu.pdf",
-    "dateStart": "2012-04-26",
-    "dateEnd": "2012-04-26",
+    "dateStart": "2012-04-26T00:00:00.000Z",
+    "dateEnd": "2012-04-26T00:00:00.000Z",
     "location": {
-      "raw": "School of Information Sciences and Technology, Pennsylvania State University\n, 001 Thomas Building, University Park, PA, 16802"
+      "raw": "",
+      "venue": "School of Information Sciences and Technology, Pennsylvania State University",
+      "street": "001 Thomas Building",
+      "city": "University Park",
+      "state": "PA",
+      "postcode": "16802"
     },
     "presenters": [
       "katy-borner"
@@ -8211,10 +8587,10 @@
   {
     "slug": "pres-269",
     "type": "presentation",
-    "title": "Towards a Macroscope for \nScience Policy Decision Making \n",
+    "title": "Towards a Macroscope for Science Policy Decision Making",
     "link": "https://cns.iu.edu/docs/presentations/2010-borner-macroscipol-scisip.pdf",
-    "dateStart": "2010-10-19",
-    "dateEnd": "2010-10-19",
+    "dateStart": "2010-10-19T00:00:00.000Z",
+    "dateEnd": "2010-10-19T00:00:00.000Z",
     "location": {
       "raw": "American Association for the Advancement of Science, 1200 New York Avenue NW, Washington DC, 20005"
     },
@@ -8560,10 +8936,10 @@
   {
     "slug": "pres-246",
     "type": "presentation",
-    "title": "Evolving and Emerging Populations and Topics Extracted from NSF Awards\n",
+    "title": "Evolving and Emerging Populations and Topics Extracted from NSF Awards",
     "link": "https://cns.iu.edu/docs/presentations/2010-borner-zoss-nsf.pdf",
-    "dateStart": "2010-06-07",
-    "dateEnd": "2010-06-07",
+    "dateStart": "2010-06-07T00:00:00.000Z",
+    "dateEnd": "2010-06-07T00:00:00.000Z",
     "location": {
       "raw": "National Science Foundation, 4201 Wilson Blvd, Arlington, VA, 22230"
     },
@@ -8606,10 +8982,10 @@
   {
     "slug": "pres-243",
     "type": "presentation",
-    "title": "Envisioning Science and Technology\n",
+    "title": "Envisioning Science and Technology",
     "link": "https://cns.iu.edu/docs/presentations/2010-borner-s&t-harvard.pdf",
-    "dateStart": "2010-05-07",
-    "dateEnd": "2010-05-07",
+    "dateStart": "2010-05-07T00:00:00.000Z",
+    "dateEnd": "2010-05-07T00:00:00.000Z",
     "location": {
       "raw": "Harvard Business School, Soldiers Field, Boston, MA, 02163"
     },
@@ -8732,10 +9108,10 @@
   {
     "slug": "pres-236",
     "type": "presentation",
-    "title": "A Software Repository for Education and Research in Information Visualization ",
+    "title": "A Software Repository for Education and Research in Information Visualization",
     "link": "http://ivl.slis.indiana.edu/km/pres/2001-borner-ivc/",
-    "dateStart": "2001-07-26",
-    "dateEnd": "2001-07-26",
+    "dateStart": "2001-07-26T00:00:00.000Z",
+    "dateEnd": "2001-07-26T00:00:00.000Z",
     "location": {
       "raw": "London South Bank University, London, UK, SE1 6LN"
     },
@@ -8855,12 +9231,16 @@
   {
     "slug": "pres-229",
     "type": "presentation",
-    "title": "Mapping Innovation for Congress: Creating an Innovation Dashboard to Inform Policy Makers\n",
+    "title": "Mapping Innovation for Congress: Creating an Innovation Dashboard to Inform Policy Makers",
     "link": "https://cns.iu.edu/docs/presentations/2009-borner-astra.pdf",
-    "dateStart": "2009-12-10",
-    "dateEnd": "2009-12-10",
+    "dateStart": "2009-12-10T00:00:00.000Z",
+    "dateEnd": "2009-12-10T00:00:00.000Z",
     "location": {
-      "raw": "Rayburn House Office Building, Washington DC, 20001"
+      "raw": "",
+      "venue": "Rayburn House Office Building",
+      "city": "Washington",
+      "state": "DC",
+      "postcode": "20001"
     },
     "presenters": [
       "katy-borner"
@@ -9021,10 +9401,10 @@
   {
     "slug": "pres-219",
     "type": "presentation",
-    "title": "Plug-and-Play Macroscopes\n",
+    "title": "Plug-and-Play Macroscopes",
     "link": "https://cns.iu.edu/docs/presentations/2009-borner-mediax-macroscopes.pdf",
-    "dateStart": "2009-08-12",
-    "dateEnd": "2009-08-12",
+    "dateStart": "2009-08-12T00:00:00.000Z",
+    "dateEnd": "2009-08-12T00:00:00.000Z",
     "location": {
       "raw": "Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055"
     },
@@ -9051,10 +9431,10 @@
   {
     "slug": "pres-217",
     "type": "presentation",
-    "title": "Funding Opportunities and Partnerships \n",
+    "title": "Funding Opportunities and Partnerships",
     "link": "https://cns.iu.edu/docs/presentations/2009-borner-mediax-funding.pdf",
-    "dateStart": "2009-08-14",
-    "dateEnd": "2009-08-14",
+    "dateStart": "2009-08-14T00:00:00.000Z",
+    "dateEnd": "2009-08-14T00:00:00.000Z",
     "location": {
       "raw": "Wallenberg Hall, Building 160, 450 Serra Mall, Stanford, CA, 94305-2055"
     },
@@ -9383,10 +9763,15 @@
     "type": "presentation",
     "title": "Network Workbench Tool For Large Scale Network Analysis, Modeling, and Visualization",
     "link": "https://cns.iu.edu/docs/presentations/2008-borner-nwb-ws.pdf",
-    "dateStart": "2008-11-18",
-    "dateEnd": "2008-11-18",
+    "dateStart": "2008-11-18T00:00:00.000Z",
+    "dateEnd": "2008-11-18T00:00:00.000Z",
     "location": {
-      "raw": "2226 School of Information North, University of Michigan\n, 1075 Beal Ave., Ann Arbor, MI, 48109-2112"
+      "raw": "",
+      "venue": "2226 School of Information North, University of Michigan",
+      "street": "1075 Beal Avenue",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "postcode": "48109-2112"
     },
     "presenters": [
       "katy-borner"
@@ -9398,10 +9783,15 @@
     "type": "presentation",
     "title": "Mapping the Structure and Dynamics of Science",
     "link": "https://cns.iu.edu/docs/presentations/2008-borner-scimap-umich.pdf",
-    "dateStart": "2008-11-19",
-    "dateEnd": "2008-11-19",
+    "dateStart": "2008-11-19T00:00:00.000Z",
+    "dateEnd": "2008-11-19T00:00:00.000Z",
     "location": {
-      "raw": "2226 School of Information North, University of Michigan\n, 1075 Beal Ave., Ann Arbor, MI, 48109-2112"
+      "raw": "",
+      "venue": "2226 School of Information North, University of Michigan",
+      "street": "1075 Beal Avenue",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "postcode": "48109-2112"
     },
     "presenters": [
       "katy-borner"
@@ -10505,6 +10895,52 @@
     "event": "ev-76"
   },
   {
+    "slug": "pk0pnjmbkptonq5p3gruz",
+    "type": "presentation",
+    "title": "Amatria Public Tour (4:00pm–5:00pm)",
+    "dateStart": "2018-09-10T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "postcode": "",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "op16u9lmbvbbx3c2dwvrd",
+    "type": "presentation",
+    "title": "Mapping the Human Reference Atlas in 3D",
+    "dateStart": "2026-06-10T00:00:00.000Z",
+    "location": {
+      "venue": "NetSci 2026",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "ogvtset6j7mbthptzexn8",
+    "type": "presentation",
+    "title": "Amatria Tour for IU Alumni",
+    "dateStart": "2024-06-21T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "oefo7c9sis21usrvv8ppr",
     "type": "other",
     "title": "Luddy TechFest: Step Inside the Human Body: A VR Organ Exploration",
@@ -10513,7 +10949,13 @@
     "dateEnd": null,
     "thumbnail": "luddytechfest2026.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
     },
     "projects": [
       "human-reference-atlas"
@@ -10527,21 +10969,76 @@
     "dateStart": "2025-04-18T00:00:00.000Z",
     "dateEnd": "2025-04-18T00:00:00.000Z",
     "thumbnail": "cns-anniversary.png",
+    "organizedByCns": true,
+    "featured": true,
     "location": {
       "raw": "Bloomington, Indiana, USA"
+    }
+  },
+  {
+    "slug": "mvhw769umuppbp9ul8o3r",
+    "type": "other",
+    "title": "Science Fest 2017",
+    "link": "https://sciencefest.indiana.edu/",
+    "dateStart": "2017-10-21T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
     },
-    "featured": true
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "m58rsmu16d3dfjtvmjoea",
+    "type": "workshop",
+    "title": "HON-H 241 Dendrite Building Session 1",
+    "dateStart": "2018-04-24T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "street": "",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "lywo0eyx329b20sythww5",
+    "type": "presentation",
+    "title": "Amatria Tour for attendees of the ISSI Conference 2023",
+    "link": "https://cns-iu.github.io/workshops/2023-07-02_issi/",
+    "dateStart": "2023-07-05T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
   },
   {
     "slug": "lourtd5f31xocxs11g5qh",
     "type": "celebration",
-    "title": "Amatria's 8th Birthday Party",
-    "link": "https://cns.iu.edu/amatria#8th-birthday-party",
+    "title": "Amatria's 8th Birthday Party (10:00-11:00am)",
+    "link": "amatria-8th.pdf",
     "dateStart": "2026-04-17T00:00:00.000Z",
     "dateEnd": "2026-04-17T00:00:00.000Z",
     "thumbnail": "amatria-7th-2025.png",
     "location": {
-      "raw": "Bloomington, Indiana, USA"
+      "raw": "",
+      "venue": "Luddy School of Informatics, Computing, and Engineering, 4th floor",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
     },
     "featured": false,
     "projects": [
@@ -10555,13 +11052,33 @@
     "link": "luddy-research-symposium.pdf",
     "dateStart": "2026-02-20T00:00:00.000Z",
     "dateEnd": "2026-02-20T00:00:00.000Z",
+    "thumbnail": "luddy-sice-lockup.png",
     "location": {
-      "venue": "Luddy School of Informatics, Computing, and Engineering",
+      "venue": "Luddy Research Symposium",
       "city": "Bloomington",
-      "state": "IN"
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA",
+      "street": "Luddy School of Informatics, Computing, and Engineering"
     },
     "presenters": [
       "katy-borner"
+    ]
+  },
+  {
+    "slug": "kgv255an8qd2uofr9i1sr",
+    "type": "conference",
+    "title": "Makevention 2018",
+    "link": "http://makevention.org/",
+    "dateStart": "2018-08-25T00:00:00.000Z",
+    "location": {
+      "venue": "Monroe Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -10572,6 +11089,19 @@
     "dateStart": "2026-08-03T00:00:00.000Z",
     "dateEnd": "2026-08-05T00:00:00.000Z",
     "thumbnail": "hra-wpp.png",
+    "location": {
+      "venue": "Luddy School for Informatics, Computing, and Engineering",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA",
+      "street": "700 N Woodlawn Ave",
+      "postcode": "47408"
+    },
+    "organizers": [
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "katy-borner"
+    ],
     "featured": true,
     "projects": [
       "human-reference-atlas",
@@ -10586,8 +11116,50 @@
     "dateStart": "2026-03-12T00:00:00.000Z",
     "dateEnd": "2026-03-12T00:00:00.000Z",
     "thumbnail": "interactive-data-visualizations-of-science-and-technology-evolution.png",
+    "location": {
+      "venue": " Institute for Analytical Sociology Seminar. Virtual"
+    },
     "presenters": [
       "katy-borner"
+    ],
+    "projects": [
+      "maps",
+      "macroscopes",
+      "envisioning-intelligences"
+    ]
+  },
+  {
+    "slug": "j1r0b73u7269eo5oz18k3",
+    "type": "conference",
+    "title": "Bridge2AI Fall 2026 All-Hands Meeting & Open House",
+    "link": "https://web.cvent.com/event/3f4cbe6f-4006-4f79-a2ba-2c4fbf77bae3/summary?environment=P2&i=XYnoPEMYzU2_jZPAKICePQ&locale=en-US",
+    "dateStart": "2026-10-20T00:00:00.000Z",
+    "dateEnd": "2026-10-21T00:00:00.000Z",
+    "thumbnail": "bridge2ai.png",
+    "location": {
+      "venue": "Hilton Washington DC/Rockville Hotel and Executive Meeting Center",
+      "street": "1750 Rockville Pike",
+      "city": "Rockville",
+      "postcode": "20852",
+      "state": "MD"
+    },
+    "attendees": [
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "i6sraiddnkj35il49vt9m",
+    "type": "presentation",
+    "title": "Amatria Reserved Tour (12:00pm)",
+    "dateStart": "2018-04-25T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA",
+      "venue": "Luddy Hall, 4th floor"
+    },
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -10595,8 +11167,9 @@
     "type": "presentation",
     "title": "The Human Reference Organ Gallery in Virtual Reality",
     "link": "https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26101",
-    "dateStart": "2026-03-01T00:00:00.000Z",
-    "dateEnd": "2026-03-06T00:00:00.000Z",
+    "dateStart": "2026-03-02T00:00:00.000Z",
+    "dateEnd": "2026-03-02T00:00:00.000Z",
+    "thumbnail": "og-vr.png",
     "location": {
       "venue": "Schloss Dagstuhl",
       "city": "Saarland",
@@ -10610,19 +11183,150 @@
     ]
   },
   {
+    "slug": "hyzbfbk204w9h6zjg4o6t",
+    "type": "other",
+    "title": "Society of Woman Engineers",
+    "dateStart": "2017-10-26T00:00:00.000Z",
+    "dateEnd": "2017-10-28T00:00:00.000Z",
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "hqxtwhbwgzbnu8jxjw973",
+    "type": "presentation",
+    "title": "Amatria Reserved Tour (2:00pm)",
+    "dateStart": "2018-04-30T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA",
+      "venue": "Luddy Hall, 4th floor"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "hmrybmrd51g1s9ibtsdl6",
+    "type": "presentation",
+    "title": "Amatria Public Tour (4:00pm–5:00pm)",
+    "dateStart": "2018-12-10T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "gu52hyygk4sjepob8229l",
+    "type": "celebration",
+    "title": "Amatria 7th Birthday Celebration (10:00am–11:00am)",
+    "link": "https://cns-iu.github.io/workshops/2025-04-18-20y-cns/assets/amatria7th.pdf",
+    "dateStart": "2025-04-18T00:00:00.000Z",
+    "thumbnail": "04182025.png",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "photo-gallery",
+        "url": "https://photos.app.goo.gl/paJNb2L1WjpnGsz77"
+      }
+    ]
+  },
+  {
+    "slug": "gpabfawxusyxgyf7v51rv",
+    "type": "workshop",
+    "title": "ENGR 101 Dendrite Building Session 2",
+    "dateStart": "2017-12-07T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "gdsjj89u3gtizxb7w96je",
+    "type": "workshop",
+    "title": "Whole Person Physiome 2nd Annual Data Jamboree",
+    "dateStart": "2027-06-23T00:00:00.000Z",
+    "dateEnd": "2027-06-24T00:00:00.000Z",
+    "thumbnail": "https://www.wholepersonphysiome.org/events",
+    "location": {
+      "venue": "IU Capital Campus",
+      "street": "1619 Massachusetts Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "postcode": "20036",
+      "country": ""
+    },
+    "organizers": []
+  },
+  {
+    "slug": "gakg7ufo18obvqh8ajoxa",
+    "type": "presentation",
+    "title": "Amatria tour for Division of Student Affairs (1:45pm-2:30pm)",
+    "link": "https://photos.app.goo.gl/cqsK8u2RwSZTbm5F6",
+    "dateStart": "2021-08-11",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "fah6nln7l30nk1dapbjsw",
     "type": "presentation",
     "title": "Constructing and Exploring Data Visualizations of Complex Systems",
-    "link": "https://asuevents.asu.edu/event/making-sense-complexity-katy-borner-constructing-and-exploring-data-visualizations-complex",
+    "link": "asu02042026.pdf",
     "dateStart": "2026-02-04T00:00:00.000Z",
     "dateEnd": "2026-02-04T00:00:00.000Z",
     "location": {
-      "venue": "Arizona State University",
+      "venue": "School of Complex Adaptive Systems, Arizona State University, Engineering Center A (ECA) 100",
       "city": "Tempe",
-      "state": "AZ"
+      "state": "Arizona",
+      "street": "1031 Palm Walk",
+      "postcode": "85281",
+      "country": "USA"
     },
     "presenters": [
       "katy-borner"
+    ]
+  },
+  {
+    "slug": "f39v5ic199xgip9wk5ufp",
+    "type": "workshop",
+    "title": "ENGR 101 Dendrite Building Session 1",
+    "dateStart": "2017-12-05T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -10757,10 +11461,21 @@
   {
     "slug": "ev-899",
     "type": "conference",
-    "title": "Aegean Conferences: 16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
-    "link": "event5.6.2026.png",
+    "title": "16th International Conference on Genomics and Systems Biology of Human Disease and Aging",
+    "link": "https://aegeanconferences.org/conferences/201",
     "dateStart": "2026-05-07T00:00:00.000Z",
-    "dateEnd": "2026-05-12T00:00:00.000Z"
+    "dateEnd": "2026-05-12T00:00:00.000Z",
+    "thumbnail": "event5.6.2026.png",
+    "location": {
+      "city": "Sissi, Crete",
+      "postcode": "",
+      "country": "Greece",
+      "state": " Lasithi",
+      "venue": "Kalimera Kriti Conference Center"
+    },
+    "attendees": [
+      "katy-borner"
+    ]
   },
   {
     "slug": "ev-898",
@@ -10901,10 +11616,17 @@
     "type": "workshop",
     "title": "Visualizing Complexity Science Workshop 2024",
     "link": "https://vis.csh.ac.at/vis-workshop-2024/",
-    "dateStart": "2024-08-26",
-    "dateEnd": "2024-08-30",
+    "dateStart": "2024-08-26T00:00:00.000Z",
+    "dateEnd": "2024-08-30T00:00:00.000Z",
+    "thumbnail": "complexity-sciencehub.png",
     "location": {
-      "raw": "Vienna, Austria"
+      "raw": "",
+      "venue": "Complexity Science Hub",
+      "city": "Vienna",
+      "country": "Austria",
+      "street": "Metternichgasse 8",
+      "state": "",
+      "postcode": "1030"
     },
     "presentations": [
       "pres-734"
@@ -11083,11 +11805,14 @@
     "slug": "ev-878",
     "type": "conference",
     "title": "American Urology Association Basic Sciences Symposium",
-    "link": "https://www.auanet.org/AUA2024",
-    "dateStart": "2024-05-03",
-    "dateEnd": "2024-05-06",
+    "link": "https://www.youtube.com/watch?v=NOT26nGa_T4",
+    "dateStart": "2024-05-03T00:00:00.000Z",
+    "dateEnd": "2024-05-06T00:00:00.000Z",
     "location": {
-      "raw": "San Antonio, TX"
+      "raw": "",
+      "city": "San Antonio",
+      "state": "Texas",
+      "country": "USA"
     },
     "presentations": [
       "pres-723"
@@ -11098,10 +11823,14 @@
     "type": "meeting",
     "title": "IU School of Optometry HRA Organ Gallery Demo",
     "link": null,
-    "dateStart": "2023-12-01",
-    "dateEnd": "2023-12-01",
+    "dateStart": "2023-12-01T00:00:00.000Z",
+    "dateEnd": "2023-12-01T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana, 47405"
+      "raw": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47405",
+      "country": "USA"
     },
     "presentations": [
       "pres-721"
@@ -11179,8 +11908,9 @@
     "type": "meeting",
     "title": "NIH Junior Investigators Atlas Builders Meeting 2023",
     "link": "https://events.cancer.gov/nci/juniorinvestigatorsatlasbuilders",
-    "dateStart": "2023-03-01",
-    "dateEnd": "2023-03-03",
+    "dateStart": "2023-03-01T00:00:00.000Z",
+    "dateEnd": "2023-03-03T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "raw": "New York, NY"
     },
@@ -11757,10 +12487,15 @@
     "type": "meeting",
     "title": "HuBMAP Steering Committee Meeting",
     "link": "https://hubmapconsortium.org/",
-    "dateStart": "2022-08-01",
-    "dateEnd": "2022-08-01",
+    "dateStart": "2022-08-01T00:00:00.000Z",
+    "dateEnd": "2022-08-01T00:00:00.000Z",
+    "thumbnail": "hubmap-thumbnail.png",
     "location": {
-      "raw": "Bethesda, MD (Virtual Event)"
+      "raw": "",
+      "venue": "Virtual",
+      "city": "Bethesda",
+      "state": "Maryland",
+      "country": "USA"
     },
     "presentations": [
       "pres-668"
@@ -12374,8 +13109,9 @@
     "type": "conference",
     "title": "Spatial Biology Europe: Online",
     "link": "https://www.oxfordglobal.co.uk/spatial-biology-online/",
-    "dateStart": "2021-04-14",
-    "dateEnd": "2021-04-16",
+    "dateStart": "2021-04-14T00:00:00.000Z",
+    "dateEnd": "2021-04-16T00:00:00.000Z",
+    "organizedByCns": false,
     "location": {
       "raw": "Virtual Event"
     }
@@ -13735,14 +14471,21 @@
     "slug": "ev-692",
     "type": "conference",
     "title": "CEWIT Summit 2018",
-    "link": "http://www.indiana.edu/~cewit/summit2018/index.html",
-    "dateStart": "2018-03-23",
-    "dateEnd": "2018-03-24",
+    "link": "",
+    "dateStart": "2018-03-23T00:00:00.000Z",
+    "dateEnd": "2018-03-24T00:00:00.000Z",
     "location": {
-      "raw": "Bloomington, Indiana"
+      "raw": "",
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
     },
     "presentations": [
       "pres-544"
+    ],
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -21680,12 +22423,101 @@
     ]
   },
   {
+    "slug": "eakzd74wpcyxiukh4f0mk",
+    "type": "conference",
+    "title": "Slush 2026",
+    "link": "https://slush.org/",
+    "dateStart": "2026-11-18T00:00:00.000Z",
+    "dateEnd": "2026-11-19T00:00:00.000Z",
+    "thumbnail": "slush.png",
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland",
+      "venue": "Messukeskus Helsinki, Expo and Convention Centre",
+      "street": "Messuaukio 1",
+      "state": "Uusimaa",
+      "postcode": "00520"
+    },
+    "presenters": [
+      "katy-borner"
+    ],
+    "attendees": [
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "e0izefa7gwrluieulf9zs",
+    "type": "celebration",
+    "title": "VIP Reception before Amatria reveal",
+    "link": "https://photos.app.goo.gl/MR3FuhQJHeuucok17",
+    "dateStart": "2018-04-11T00:00:00.000Z",
+    "thumbnail": "amatria-reception04112018.png",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "dsz9c5v77jyfwarwejo5c",
+    "type": "presentation",
+    "title": "Endothelial Cell Environments Across Organs in Spatially Resolved Omics Data",
+    "dateStart": "2026-06-08T00:00:00.000Z",
+    "thumbnail": "https://sbhdboston.org/",
+    "location": {
+      "venue": "SBHD 2026 Northeastern University",
+      "street": "805 Columbus Ave",
+      "city": " Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "yashvardhan-jain",
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "cmi2blo4siuzdtvhbd2zl",
+    "type": "presentation",
+    "title": "Amatria tour for Eskenazi visitors",
+    "dateStart": "2020-02-26",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "chm0e4oaxn5i8sib4kb3x",
+    "type": "presentation",
+    "title": "Amatria tour with Colloquium for Women of IU event",
+    "dateStart": "2019-10-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "amoezmwszre7k1wa0wcvq",
     "type": "presentation",
     "title": "Multiscale VR Exploration of the 3D Human Reference Atlas Provides Novel Insights into Health, Aging, and Disease",
     "link": "https://sennetconsortium.org/",
-    "dateStart": "2026-02-20T00:00:00.000Z",
-    "dateEnd": "2026-02-20T00:00:00.000Z",
+    "dateStart": "2026-02-18T00:00:00.000Z",
+    "dateEnd": "2026-02-18T00:00:00.000Z",
     "presenters": [
       "andreas-bueckle"
     ]
@@ -21694,15 +22526,57 @@
     "slug": "amaubkc1zrykmeqxlwuc3",
     "type": "presentation",
     "title": "News from IU: 5-Star Linked Open Data for Cell Type Populations and Digital Objects from the Human Reference Atlas via the HRA Knowledge Graph",
-    "link": "https://sennetconsortium.org/",
+    "link": "2026.03.25-sennet-scitech-talk.pdf",
     "dateStart": "2026-03-25T00:00:00.000Z",
     "dateEnd": "2026-03-25T00:00:00.000Z",
+    "thumbnail": "sennet-scitalk2026.png",
+    "location": {
+      "venue": "Cellular Senescence Network (SenNet) SciTech Webinar Series. Virtual"
+    },
     "presenters": [
       "bruce-w-herr-ii",
       "andreas-bueckle"
     ],
     "projects": [
       "human-reference-atlas"
+    ]
+  },
+  {
+    "slug": "a5i11miea6j86atmypdhe",
+    "type": "presentation",
+    "title": "Amatria Reserved Tour (10:30am)",
+    "dateStart": "2018-05-01T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "92e1n98cq691yt77iu2iq",
+    "type": "presentation",
+    "title": "Amatria Tour for Pankaj Gupta (3:45-4:15pm)",
+    "link": "",
+    "dateStart": "2026-06-11T00:00:00.000Z",
+    "dateEnd": "2026-06-11T00:00:00.000Z",
+    "thumbnail": "amatria-andreas-pankaj.png",
+    "location": {
+      "venue": "Luddy School of Informatics, Computing, and Engineering, 4th floor",
+      "street": "700 N Woodlawn Ave",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "47408",
+      "country": "USA"
+    },
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "projects": [
+      "amatria"
     ]
   },
   {
@@ -21713,22 +22587,222 @@
     "dateStart": "2026-02-20T00:00:00.000Z",
     "dateEnd": "2026-02-20T00:00:00.000Z",
     "location": {
-      "venue": "SenNet Data Coordination Working"
+      "venue": "SenNet Data Coordination Working Group"
     },
     "presenters": [
       "danial-qaurooni"
     ]
   },
   {
+    "slug": "87uu580p8u5kon7glx335",
+    "type": "presentation",
+    "title": "Spatial Maps as Exploration Tools: Emerging VR Platforms for 3D Tissue Microenvironments",
+    "dateStart": "2026-06-16T00:00:00.000Z",
+    "dateEnd": "2026-06-17T00:00:00.000Z",
+    "location": {
+      "venue": "Invited Early-Stage Investigator Talk at Spatial Biology",
+      "city": "Rockville",
+      "state": "MD"
+    },
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "7y5qlkqortcjk9ua51287",
+    "type": "presentation",
+    "title": "Last HuBMAP Hurrah Slide Show",
+    "dateStart": "2026-06-15T00:00:00.000Z",
+    "location": {
+      "venue": "Last HuBMAP Annual Meeting",
+      "city": "Rockville",
+      "state": "MD"
+    },
+    "presenters": [
+      "andreas-bueckle",
+      "bruce-w-herr-ii",
+      "katy-borner"
+    ]
+  },
+  {
+    "slug": "7v14w1yfrxos0mm3aramh",
+    "type": "conference",
+    "title": "NACAC STEM Fair",
+    "dateStart": "2017-10-10T00:00:00.000Z",
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "7os5cb0n9l47tpqmtzhjd",
+    "type": "workshop",
+    "title": "Dendrite Building Session 1",
+    "dateStart": "2017-10-05T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "7hmstch7q448vyikkws5j",
+    "type": "workshop",
+    "title": "HON-H 241 Dendrite Building Session 2",
+    "dateStart": "2018-04-26T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "78mh47xl2z55sny8f64ie",
+    "type": "workshop",
+    "title": "Opportunities for Undergraduate Research in Computer Science (OurCS) Workshop",
+    "link": "https://wayback.archive-it.org/219/20250506203959/https://helloresearch.luddy.indiana.edu/",
+    "dateStart": "2018-10-26T00:00:00.000Z",
+    "dateEnd": "2018-10-28T00:00:00.000Z",
+    "location": {
+      "city": "Bloomington",
+      "venue": "Indiana University",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "75vsssv58hcbdwyhh8nq1",
+    "type": "presentation",
+    "title": "Amatria Tour for IU Trustees (11:30am-12:00pm)",
+    "dateStart": "2024-12-19T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "737o412mft5omvc2ycl03",
+    "type": "other",
+    "title": "E599 Course in ISE",
+    "dateStart": "2017-10-16T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "6d9pj55zyu8oi3e0rfa0a",
+    "type": "presentation",
+    "title": "Amatria + Tavola tour for IOTW reception",
+    "dateStart": "2019-04-26",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "60w0f29p3sqbe1x59mon0",
+    "type": "other",
+    "title": "First Thursday Festival (4:00pm-7:00pm)",
+    "link": "https://photos.app.goo.gl/64Td9XK8R9V4w29s8",
+    "dateStart": "2021-11-04",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5zk5dx5cyirs66fejvd6q",
+    "type": "celebration",
+    "title": "Amatria 1st Birthday Celebration! (3:00pm-5:00pm)",
+    "dateStart": "2019-04-11",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5y6ko79cu0umhe64zafhp",
+    "type": "other",
+    "title": "Science Fest (9:00am-3:00pm)",
+    "dateStart": "2022-10-22",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5y4vyjucerszgvd0of6iw",
+    "type": "presentation",
+    "title": "Amatria tour for Intelligent Systems Engineering (ISE) job candidate (1:45pm-2:00pm)",
+    "dateStart": "2019-03-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "5ofi4bekza90uyi6pbkuu",
     "type": "presentation",
     "title": "3D Human Reference Body: Multiscale Exploration and Visualization of Biomolecular Data in Virtual Reality",
-    "link": null,
+    "link": "3d-human-reference-body_-multiscale-exploration-and-visualization-of-biomolecular-data-in-virtual-reality.pdf",
     "dateStart": "2026-03-24T00:00:00.000Z",
-    "dateEnd": "2026-03-25T00:00:00.000Z",
+    "dateEnd": "2026-03-24T00:00:00.000Z",
     "thumbnail": "cdfe-3.24.2026.png",
     "location": {
-      "raw": "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting"
+      "raw": "",
+      "venue": "The Common Fund Data Ecosystem (CFDE) Spring 2026 Meeting at the Bethesda North Marriott Hotel & Conference Center",
+      "street": "5701 Marinelli Rd",
+      "city": "Rockville",
+      "state": "Maryland",
+      "postcode": "20852",
+      "country": "USA"
     },
     "presenters": [
       "andreas-bueckle"
@@ -21738,13 +22812,150 @@
     ]
   },
   {
+    "slug": "5nggpc6kyq17hdf69oslr",
+    "type": "other",
+    "title": "Makevention (10:00am-4:00pm)",
+    "link": "https://makevention.org/",
+    "dateStart": "2021-08-28T00:00:00.000Z",
+    "location": {
+      "venue": "Bloomington Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "photo-gallery",
+        "url": "https://photos.app.goo.gl/LDHLGa5u4Bb8yim77"
+      }
+    ]
+  },
+  {
+    "slug": "5lxyayhm5axbvt15az9v6",
+    "type": "presentation",
+    "title": "Amatria tour for Campus Visit for Purdue Polytechnic High School Students (12:40pm-1:10pm)",
+    "dateStart": "2022-10-05",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5kqgi9e2nln2y7mg3lyxo",
+    "type": "presentation",
+    "title": "Amatria tour for CRANE/WestGate",
+    "dateStart": "2019-05-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5hs7wbcpv6bl8xfgo912n",
+    "type": "presentation",
+    "title": "Amatria tour for Women's Colloquium",
+    "dateStart": "2019-10-25",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "5h60u53onne3bzxngothq",
+    "type": "celebration",
+    "title": "Amatria 4th Birthday Celebration (9:00am-10:00am)",
+    "link": "https://photos.app.goo.gl/FrRYoCyxFniP5NVC8",
+    "dateStart": "2022-04-11",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ],
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=MdTZeCgFbio&t=21s",
+        "description": "Video"
+      }
+    ]
+  },
+  {
+    "slug": "5catnnv80thn9anbrpmof",
+    "type": "workshop",
+    "title": "MLK Dendrite Workshop (11:00am-2:00pm)",
+    "link": "https://photos.app.goo.gl/qSuNtpPBrcjYdsi88",
+    "dateStart": "2019-01-21",
+    "location": {
+      "venue": "SICE LLC Innovative Space, Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "557nwjvkycat0bm9pgl1k",
+    "type": "presentation",
+    "title": "Amatria tour for Harmony School and Dean Raj",
+    "dateStart": "2019-11-08",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4uhalaupn3eh92nemvvef",
+    "type": "other",
+    "title": "Fashion Technology Symposium",
+    "dateStart": "2018-03-02T00:00:00.000Z",
+    "dateEnd": "2018-03-03T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "4rwkcvm0jy6go4sjrap6y",
     "type": "presentation",
     "title": "Mapping ion-exchange processes across functional tissue units using spatial multi-omics and Human Reference Atlas visualizations",
     "link": "supriya-ai-and-biology.pptx.png",
     "dateStart": "2026-03-10T00:00:00.000Z",
     "dateEnd": "2026-03-13T00:00:00.000Z",
-    "thumbnail": "",
+    "thumbnail": "ion-exchange-processes.png",
     "location": {
       "venue": "AI and Biology, EMBO/EMBL Symposium",
       "city": "Heidelberg",
@@ -21758,6 +22969,189 @@
     ]
   },
   {
+    "slug": "4pf6o9zn1vi54uhkidp2e",
+    "type": "presentation",
+    "title": "Amatria tour for Project School with Alexis Caudell",
+    "dateStart": "2019-05-03",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4nv6n7bv3ak9iuk7mme4m",
+    "type": "presentation",
+    "title": "Amatria tour for summer camp participants",
+    "dateStart": "2019-06-20",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4ltjs1rrcfc71955inrar",
+    "type": "other",
+    "title": "Andrew Maple Amatria 360 photo shoot",
+    "dateStart": "2019-12-04",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "4954jmsehvaj3avv5uucm",
+    "type": "presentation",
+    "title": "Amatria Tour with Governor Eric Holcomb, IU President McRobbie and Dean Raj",
+    "dateStart": "2019-06-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "45nqr395g2knzaff6qy93",
+    "type": "workshop",
+    "title": "Whole Person Physiome (WPP) Jamboree",
+    "link": "https://www.wholepersonphysiome.org/events#wpp-jamboree-2026-08-24",
+    "dateStart": "2026-08-24T00:00:00.000Z",
+    "dateEnd": "2026-08-25T00:00:00.000Z",
+    "location": {
+      "venue": "Virtual"
+    },
+    "organizers": [
+      "bruce-w-herr-ii",
+      "jacob-scherba",
+      "arjun-srivatsa",
+      "emma-marie-monte"
+    ]
+  },
+  {
+    "slug": "40ok174v0v88rlnw8if0j",
+    "type": "presentation",
+    "title": "Amatria tour for Center of Excellence for Women & Technology’s affiliate students",
+    "link": "https://photos.app.goo.gl/ka1VJ5MHsDzwunM46",
+    "dateStart": "2021-10-27",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3poqwoadov91xu64uckgu",
+    "type": "presentation",
+    "title": "Amatria Public Tour (4:00pm–5:00pm)",
+    "dateStart": "2018-05-21T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3j24a19it3uwxu68vn56b",
+    "type": "presentation",
+    "title": "IU ERI talk/Eric Mathis (LASG)",
+    "dateStart": "2020-02-07",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3ho86xad6fkqvtfo8vdpq",
+    "type": "celebration",
+    "title": "Amatria 3rd Birthday Celebration (9:00am-10:00am)",
+    "link": "https://www.youtube.com/watch?v=fR0GdoUimL0",
+    "dateStart": "2021-04-12",
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3ev2y3q9bgtr4awr74muf",
+    "type": "conference",
+    "title": "CIS IEEE EnCON 2017",
+    "dateStart": "2017-11-10T00:00:00.000Z",
+    "dateEnd": "2017-11-11T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "3axfe56qx8r5g0ihs2rtg",
+    "type": "workshop",
+    "title": "Human Reference Atlas, Human Phenotype Ontology, Whole Person Physiome, and Other EU Efforts Hackathon",
+    "link": "https://cns-iu.github.io/workshops/2027-05-10_hra_hackathon/",
+    "dateStart": "2027-05-10T00:00:00.000Z",
+    "dateEnd": "2027-05-12T00:00:00.000Z",
+    "location": {
+      "venue": "Berlin Institute of Health",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "organizers": [
+      "andreas-bueckle",
+      "katy-borner",
+      "aybuge-altay",
+      "peter-n-robinson"
+    ]
+  },
+  {
+    "slug": "32cd861vwg6saafxzr560",
+    "type": "presentation",
+    "title": "Amatria Public Tour (12:00pm-1:00pm and 4:00pm-5:00pm)",
+    "dateStart": "2019-03-21",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "2ya5l1rk5iazbw5qhweqp",
     "type": "other",
     "title": "Makevention 2017",
@@ -21765,19 +23159,158 @@
     "dateStart": "2017-08-26T00:00:00.000Z",
     "dateEnd": null,
     "location": {
-      "raw": "BloomingLabs, Bloomington, Indiana, USA"
-    }
+      "raw": "BloomingLabs, Bloomington, Indiana, USA",
+      "venue": "BloomingLabs",
+      "state": "Indiana",
+      "city": "Bloomington",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2wv4ic2pe1hyyzk5onlc3",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/V5pYEMAKfVoouoFK7",
+    "dateStart": "2021-10-07",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2wh4siuh7el0bljzlbwiu",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/6bkQJpAUom892KfbA",
+    "dateStart": "2021-09-02",
+    "location": {
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2u5qxadfyv1rejvorspux",
+    "type": "presentation",
+    "title": "Amatria Public Tour (2:30pm–3:30pm)",
+    "dateStart": "2018-06-21T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2sakz28155eqaoh2prtmb",
+    "type": "presentation",
+    "title": "Amatria tour for Project School tour (10:00am-10:45am)",
+    "dateStart": "2019-05-03",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2pvybkkid9mayctwmtzux",
+    "type": "other",
+    "title": "Indiana University Foundation Board of Director’s Welcome Reception",
+    "dateStart": "2018-10-10T00:00:00.000Z",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2etbwwyqe1kfey8e1ano0",
+    "type": "presentation",
+    "title": "Amatria tour for Intelligent Systems Engineering (ISE) job candidate (1:45pm-2:00pm)",
+    "dateStart": "2019-04-02",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2djfinx83d2th7ofvjict",
+    "type": "presentation",
+    "title": "Amatria tour for New Data Science Master students",
+    "link": "https://photos.app.goo.gl/sTUnNhZ4kUEcVZcu9",
+    "dateStart": "2021-08-16",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "2c4ylxo3w2d42f603iggo",
+    "type": "workshop",
+    "title": "NOAC Dendrite Workshop",
+    "link": "https://photos.app.goo.gl/ZfZmyGp5Qyyqjmfn6",
+    "dateStart": "2018-08-01T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
   },
   {
     "slug": "275k0re5jxjbhui8cvxm0",
-    "type": "other",
+    "type": "celebration",
     "title": "Amatria's 6th Birthday Celebration",
     "link": "amatria-6th-birthday-celebration-slides.pptx.pdf",
     "dateStart": "2024-04-11T00:00:00.000Z",
     "dateEnd": null,
     "location": {
-      "raw": "Indiana University, Bloomington, IN"
+      "raw": "",
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
     },
+    "presenters": [
+      "philip-beesley",
+      "andreas-bueckle"
+    ],
     "projects": [
       "amatria"
     ],
@@ -21789,19 +23322,181 @@
     ]
   },
   {
+    "slug": "24lksxkflzi029hq7l7sm",
+    "type": "other",
+    "title": "Makevention (10:00am-4:00pm)",
+    "link": "https://makevention.org/",
+    "dateStart": "2022-08-27",
+    "location": {
+      "venue": "Monroe Convention Center",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "22k9gkebvkvr6dcrwvohl",
+    "type": "celebration",
+    "title": "Birth of Amatria with 'dad' Philip Beesley and his team",
+    "link": "https://photos.app.goo.gl/EMC1fMeERvsMdJMFA",
+    "dateStart": "2018-04-11T00:00:00.000Z",
+    "thumbnail": "birth-of-amatria04112018.png",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "street": "",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "postcode": "",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1tsb31n2v2slhl0vsrsxe",
+    "type": "other",
+    "title": "First Thursday Festival (5:00pm-8:00pm)",
+    "link": "https://photos.app.goo.gl/8hYCF2DQzCUuSFff7",
+    "dateStart": "2022-04-07",
+    "location": {
+      "venue": "IU Auditorium",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1gh62kv33iq0xxvgpd1v4",
+    "type": "other",
+    "title": "IU Bloomington Tech Petting Zoo (11:00am-2:00pm)",
+    "link": "https://depi.iu.edu/events/tech-petting-zoo/index.html",
+    "dateStart": "2022-09-29",
+    "location": {
+      "venue": "Indiana Memorial Union",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "1aru7ycw42edrse5zewap",
+    "type": "presentation",
+    "title": "Amatria tour for Research Experiences for Undergraduates (3:45pm-4:15pm)",
+    "link": "https://photos.app.goo.gl/vkPSyjiZVr7zJQjb9",
+    "dateStart": "2022-06-21",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "18mg0eo4r68e7y1414oxs",
+    "type": "other",
+    "title": "Meditation under Amatria with Philip Beesley, David Ebbinghouse, and Bo Choi (11:00am-11:30am)",
+    "link": "https://photos.app.goo.gl/2YDuqHpiByXfyhgh7",
+    "dateStart": "2019-01-04",
+    "location": {
+      "venue": "SICE LLC Innovative Space, Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "178ci0811y6a4beyh0jbe",
+    "type": "workshop",
+    "title": "Assembling Fascinators Workshop",
+    "dateStart": "2019-10-07",
+    "location": {
+      "venue": "Indiana University",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "14azgs7hfywgp28prghm8",
+    "type": "presentation",
+    "title": "Amatria tour for Data Science Online students (2:30pm-3:00pm)",
+    "dateStart": "2020-02-28",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
+    "slug": "118ebvnsqe8ncmrlkh7oq",
+    "type": "presentation",
+    "title": "Amatria Reserved Tour (1:30pm)",
+    "dateStart": "2018-05-03T00:00:00.000Z",
+    "location": {
+      "venue": "Luddy Hall, 4th floor",
+      "city": "Bloomington",
+      "state": "Indiana",
+      "country": "USA"
+    },
+    "projects": [
+      "amatria"
+    ]
+  },
+  {
     "slug": "0pqnsxmzqtws06xc6t0rr",
     "type": "presentation",
     "title": "Insightful and Actionable Visual Analytics Class",
     "link": null,
     "dateStart": "2026-02-04T00:00:00.000Z",
     "dateEnd": "2026-02-04T00:00:00.000Z",
+    "thumbnail": "stock-network1.png",
     "location": {
       "venue": "Arizona State University",
       "city": "Tempe",
-      "state": "AZ"
+      "state": "Arizona",
+      "postcode": "USA"
     },
     "presenters": [
       "katy-borner"
+    ]
+  },
+  {
+    "slug": "0lahrp0apqgaj4ylghs3u",
+    "type": "conference",
+    "title": "Future Technologies Conference (FTC) 2017",
+    "link": "https://saiconference.com/Conferences/FTC2017",
+    "dateStart": "2017-11-29T00:00:00.000Z",
+    "dateEnd": "2017-11-30T00:00:00.000Z",
+    "location": {
+      "state": "British Columbia",
+      "country": "Canada",
+      "city": "Vancouver"
+    },
+    "projects": [
+      "amatria"
     ]
   }
 ]

@@ -14,36 +14,20 @@ import {
   writeMinifiedJSON,
 } from './utils.js';
 
-function formatPeopleAndAmount(people, peopleLookup, amount) {
-  const hasPeople = people?.length > 0;
-  const hasAmount = typeof amount === 'number';
-
-  if (!hasPeople && !hasAmount) {
-    return '';
-  }
-
-  return [
-    '(',
-    formatPeople(people, peopleLookup, '', ''),
-    hasPeople && hasAmount ? ', ' : '',
-    hasAmount ? ['$', Number(amount).toLocaleString()] : '',
-    ') ',
-  ];
-}
-
 function buildDescription(item, peopleLookup) {
   const { slug, title, link, name, dateStart, dateEnd, investigators, amount } = item;
   const linkUrl = formatUrl(slug, 'funding', link);
+  const dateOptions = { year: 'numeric', month: 'short', day: 'numeric' };
+  const hasPeople = investigators?.length > 0;
+  const hasAmount = typeof amount === 'number';
 
   const description = [
-    '“',
-    formatMarkdownLink(`**${title}**`, linkUrl),
-    '.” ',
-    name ? [name, ' '] : '',
-    formatPeopleAndAmount(investigators, peopleLookup, amount),
-    formatDate(dateStart.replaceAll('-', '.')),
-    dateEnd && dateEnd !== dateStart ? [' - ', formatDate(dateEnd.replaceAll('-', '.'))] : '',
-    '.',
+    formatMarkdownLink(title, linkUrl),
+    '\n\n',
+    dateEnd && dateEnd !== dateStart ? [formatDate(dateStart, dateOptions), ' - ', formatDate(dateEnd, dateOptions)] : formatDate(dateStart, dateOptions),
+    name ? [' | ', name] : '',
+    hasAmount ? [' | ', '$', Number(amount).toLocaleString()] : '',
+    hasPeople ? [' | ', formatPeople(investigators, peopleLookup)] : '',
   ];
 
   return description.flat(10).join('').trim();
