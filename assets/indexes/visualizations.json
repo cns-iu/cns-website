@@ -240,8 +240,9 @@
   {
     "slug": "vis-11",
     "title": "Society for Neuroscience, 2006 Visual Browser",
-    "date": "2012-01-18",
+    "date": "2012-01-18T00:00:00.000Z",
     "link": "http://scimaps.org/web/maps/neurovis/neurovis.static.pdf",
+    "thumbnail": "places-and-spaces-logo.png",
     "description": "by Bruce W. Herr II, David Newman, Gully APC Burns",
     "media": [
       {
