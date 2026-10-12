@@ -253,8 +253,9 @@
   {
     "slug": "vis-10",
     "title": "A Topic Map of NIH Grants 2007",
-    "date": "2012-01-21",
+    "date": "2012-01-21T00:00:00.000Z",
     "link": "http://scimaps.org/mapdetail/a_topic_map_of_nih_g_84",
+    "thumbnail": "places-and-spaces-logo.png",
     "description": "by Bruce W. Herr II, David Newman, Gully APC Burns",
     "media": [
       {
