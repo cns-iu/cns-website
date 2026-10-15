@@ -1593,6 +1593,12 @@
     "roles": []
   },
   {
+    "slug": "torsten-moller",
+    "name": "Torsten Möller",
+    "lastName": "Möller",
+    "roles": []
+  },
+  {
     "slug": "toren-finkel",
     "name": "Toren Finkel",
     "lastName": "Finkel",
@@ -10227,6 +10233,12 @@
     "slug": "kelly-streepy",
     "name": "Kelly Streepy",
     "lastName": "Streepy",
+    "roles": []
+  },
+  {
+    "slug": "kelly-krause",
+    "name": "Kelly Krause",
+    "lastName": "Krause",
     "roles": []
   },
   {
