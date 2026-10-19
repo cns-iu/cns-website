@@ -11269,6 +11269,7 @@
     "dateStart": "2027-06-23T00:00:00.000Z",
     "dateEnd": "2027-06-24T00:00:00.000Z",
     "thumbnail": "https://www.wholepersonphysiome.org/events",
+    "organizedByCns": true,
     "location": {
       "venue": "IU Capital Campus",
       "street": "1619 Massachusetts Ave NW",
