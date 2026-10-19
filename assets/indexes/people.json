@@ -1524,21 +1524,22 @@
     "slug": "traci-smith",
     "name": "Traci Smith",
     "lastName": "Smith",
-    "image": "image.png",
+    "image": "traci_smith.png",
     "roles": [
       {
-        "type": "member",
-        "title": "Center Assistant",
-        "displayOrder": 6,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "ts76@iu.edu",
         "education": "Bachelor of Arts in History from Salisbury University, in Salisbury, MD. A.A.S in Paralegal Studies. ",
-        "background": "I am originally from Maryland but spent a few years living near the beach in Florida. I met and married a born-and-bred Hoosier and have been in Indiana for 3 years. Before coming to IU, I worked as an Administrative Assistant at Lucas Oil Stadium, in Indianapolis. We moved from Indy to a small town a little north of Bloomington in December.",
         "interests": "When I’m not at work, I enjoy cooking, reading, and spending time with my husband sitting on the porch drinking coffee and watching our neighbors (deer, raccoons, and opossums) come and go. Since moving to the country, I have been trying to learn as much as I can about the plants that grow on our property and how to be a good steward of the land. I’m especially looking forward to the leaves changing, as this will be our first fall in our home! The area in and around Monroe County is so beautiful and reminds me of where I grew up in Maryland.",
-        "dateStart": "2025-10-13",
-        "dateEnd": null
+        "displayOrder": 6,
+        "dateEnd": null,
+        "background": "I am originally from Maryland but spent a few years living near the beach in Florida. I met and married a born-and-bred Hoosier and have been in Indiana for 3 years. Before coming to IU, I worked as an Administrative Assistant at Lucas Oil Stadium, in Indianapolis. We moved from Indy to a small town a little north of Bloomington in December.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2025-10-13T00:00:00.000Z",
+        "title": "Center Assistant",
+        "type": "member",
+        "office": "",
+        "email": "ts76@iu.edu",
+        "fax": ""
       }
     ]
   },
@@ -1590,6 +1591,12 @@
     "slug": "toru-ishida",
     "name": "Toru Ishida",
     "lastName": "Ishida",
+    "roles": []
+  },
+  {
+    "slug": "torsten-moller",
+    "name": "Torsten Möller",
+    "lastName": "Möller",
     "roles": []
   },
   {
@@ -8300,6 +8307,12 @@
     "roles": []
   },
   {
+    "slug": "matthias-stahl",
+    "name": "Matthias Stahl",
+    "lastName": "Stahl",
+    "roles": []
+  },
+  {
     "slug": "matthias-kretzler",
     "name": "Matthias Kretzler",
     "lastName": "Kretzler",
@@ -10221,6 +10234,12 @@
     "slug": "kelly-streepy",
     "name": "Kelly Streepy",
     "lastName": "Streepy",
+    "roles": []
+  },
+  {
+    "slug": "kelly-krause",
+    "name": "Kelly Krause",
+    "lastName": "Krause",
     "roles": []
   },
   {
@@ -13056,6 +13075,12 @@
     "roles": []
   },
   {
+    "slug": "helena-klara-jambor",
+    "name": "Helena Klara Jambor",
+    "lastName": "Jambor",
+    "roles": []
+  },
+  {
     "slug": "helen-parkinson",
     "name": "Helen Parkinson",
     "lastName": "Parkinson",
@@ -14425,18 +14450,19 @@
     "image": "image.jpg",
     "roles": [
       {
-        "type": "member",
-        "title": "Hourly Research Scientist",
-        "displayOrder": 42,
-        "office": "",
-        "phone": "",
-        "fax": "",
-        "email": "eginexi@gmail.com",
         "education": "B.A. in English & Psychology, State University of New York at Albany M.A. & Ph.D. in Applied Social Psychology, The George Washington University",
-        "background": "I recently retired as a Program Director at the National Institutes of Health (NIH) after 22 years where I oversaw research portfolios involving national public health promotion programs and clinical health services studies with an emphasis on complex study designs and methods, computational modeling, system science methods, intervention optimization, and applications of artificial intelligence. Prior to NIH I served as a Senior Study Director at Westat where I led data analysis efforts for studies of large federally funded behavioral health programs, ensuring rigorous evaluation and evidence-based insights.",
         "interests": "I enjoy riding my bike in the warm months and coaching kids in alpine ski racing during the winter months.",
-        "dateStart": "2025-05-12",
-        "dateEnd": null
+        "displayOrder": 42,
+        "dateEnd": "2026-10-09T00:00:00.000Z",
+        "background": "I recently retired as a Program Director at the National Institutes of Health (NIH) after 22 years where I oversaw research portfolios involving national public health promotion programs and clinical health services studies with an emphasis on complex study designs and methods, computational modeling, system science methods, intervention optimization, and applications of artificial intelligence. Prior to NIH I served as a Senior Study Director at Westat where I led data analysis efforts for studies of large federally funded behavioral health programs, ensuring rigorous evaluation and evidence-based insights.",
+        "phone": "",
+        "status": "full-time",
+        "dateStart": "2025-05-12T00:00:00.000Z",
+        "title": "Hourly Research Scientist",
+        "type": "member",
+        "office": "",
+        "email": "eginexi@gmail.com",
+        "fax": ""
       }
     ]
   },
@@ -16768,7 +16794,7 @@
         "interests": "I enjoy spending time with my little family, playing D&D, following technology trends, hiking, and staring at walls (meditation).",
         "displayOrder": 3,
         "dateEnd": null,
-        "background": "I rejoined CNS in November 2017 after nearly 10 years in the software industry. I picked up my data analysis, visualization, and extensible software chops when I was originally at the IV Lab and CNS from 2004 to 2008. Then in the software industry, I learned about professional software development, serving clients, managing software teams, and generally learning how to excel in all aspects of software development. As part of CNS, I am providing my years of knowledge in data analysis and visualization, software architecture & design, and management experience to help CNS excel as a research center providing solid and innovative software.",
+        "background": "Bruce W. Herr II is the Technical Director for CNS at the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He brings more than 20 years of academic and industry experience in data analysis and visualization, data modeling, software architecture and design, project management, and leadership. His expertise helps CNS excel as a research center that delivers innovative, high-quality data and software solutions.",
         "phone": "",
         "status": "leadership",
         "dateStart": "2017-11-27T00:00:00.000Z",
@@ -18200,14 +18226,14 @@
     "roles": [
       {
         "education": "Ph.D. in Information Science, Indiana University<br>\r\nM.A. in Communications, Berlin University of the Arts (Germany)<br>\r\nB.A. in Media Studies, Eberhard Karls University Tuebingen (Germany)",
-        "interests": "In my spare time, I enjoy the great outdoors by competing in local and regional sailing regattas with my 14-foot Force 5 sailboat. I am also the Head Coach of the Sailing Club at Indiana University, where I teach the basics of sailing, seamanship, and advanced racing strategies. Recently, I started rock-climbing in our local gym.",
+        "interests": "In my spare time, I enjoy the great outdoors by competing in local and regional sailing regattas with my 14-foot Force 5 sailboat. I am also the faculty advisor of the Sailing Club at Indiana University. In the off-season for sailing, i.e., the Indiana winter, I rock-climb in our local gym.",
         "displayOrder": 2,
         "dateEnd": null,
-        "background": "I am a Research Scientist here at CNS. My research interest is interactive information visualization in virtual reality (VR), augmented reality (AR), and other immersive techniques. Born and raised in Germany, I developed a deep interest in digital artifacts, most notably videography and photography. After working as a video journalist and cameraman on projects in Germany, France, India, and the US, I decided to switch to a more technical education and received my Ph.D. in Information Science, working with Dr. Katy Börner here at CNS before joining her team full-time. The title of my dissertation was \"Optimizing Performance and Satisfaction in Virtual Reality Environments with Interventions using the Data Visualization Literacy Framework\" and is available here: <a href=\"https://doi.org/10.13140/RG.2.2.33214.00328\" target=\"_blank\">https://doi.org/10.13140/RG.2.2.33214.00328</a>. <br><br>\r\n\r\nYou can find more info about my work on my website: <a href=\"https://andreas-bueckle.com/\" target=\"_blank\">https://andreas-bueckle.com/</a>",
+        "background": "I am the Research Lead at CNS in the Luddy School of Informatics, Computing, and Engineering (Luddy SICE) at Indiana University Bloomington (and affiliated with the [Luddy Data Science Program](https://datascience.indiana.edu/)). My research interest is interactive information visualization in virtual reality (VR), augmented reality (AR), mixed reality (MR), and other technologies for extended reality (XR). Born and raised in Germany, I hold a B.A. in Media Studies from Eberhard Karls University in Tuebingen, an M.A. in Communications from Berlin University of the Arts, and a Ph.D. in Information Science from Indiana University. From early on, I developed a deep interest in digital artifacts, most notably videography and photography. After working as a video journalist and cameraman on projects in Germany, France, India, and the US, I decided to switch to a more technical education and got a Ph.D. in Information Science at Indiana University Bloomington.. <br><br>\n\nYou can find more info about my work on my website: <a href=\"https://andreas-bueckle.com/\" target=\"_blank\">https://andreas-bueckle.com/</a>",
         "phone": "",
         "status": "leadership",
         "dateStart": "2021-08-02T00:00:00.000Z",
-        "title": "Research Lead, Faculty",
+        "title": "Assistant Research Scientist & CNS Research Lead, Faculty",
         "type": "member",
         "office": "Luddy Hall 4024",
         "email": "abueckle@iu.edu",
