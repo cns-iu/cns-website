@@ -1477,6 +1477,8 @@
     "dateStart": "2026-08-27T00:00:00.000Z",
     "dateEnd": "2026-08-28T00:00:00.000Z",
     "thumbnail": "hra-brain-illustration.png",
+    "organizedByCns": true,
+    "featured": true,
     "location": {
       "venue": "Berlin Institute of Health at Charité (BIH), Center of Health Data Sciences, Rahel Hirsch Center",
       "street": "Luisenstr. 65",
@@ -1490,7 +1492,6 @@
       "bruce-w-herr-ii",
       "peter-n-robinson"
     ],
-    "featured": true,
     "projects": [
       "human-reference-atlas",
       "whole-person-physiome"
