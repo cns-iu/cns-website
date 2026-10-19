@@ -23124,6 +23124,7 @@
     "link": "https://cns-iu.github.io/workshops/2027-05-10_hra_hackathon/",
     "dateStart": "2027-05-10T00:00:00.000Z",
     "dateEnd": "2027-05-12T00:00:00.000Z",
+    "organizedByCns": true,
     "location": {
       "venue": "Berlin Institute of Health",
       "city": "Berlin",
