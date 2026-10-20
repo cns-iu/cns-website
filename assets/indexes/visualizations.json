@@ -2,8 +2,9 @@
   {
     "slug": "vis-9",
     "title": "Bibsonomy Anatomy",
-    "date": "2012-01-22",
+    "date": "2012-01-22T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/09-Bibsomony.jpg",
+    "thumbnail": "bibsonomy-visualization.png",
     "description": "2009, By Nianli Ma, Russell J. Duhon, Elisha F. Hardy, Katy Börner",
     "media": [
       {
@@ -15,8 +16,9 @@
   {
     "slug": "vis-8",
     "title": "Sources and Sinks of Life Time in U.S. Air Travel",
-    "date": "2012-09-01",
+    "date": "2012-09-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/CNS_Sources_and_Sinks_of_Lifetime_Sunbelt_Viszards_Poster_2011.pdf",
+    "thumbnail": "sources-and-sinks-of-life-time-in-us-air-travel.png",
     "description": "for Sunbelt 2011, by Joseph R. Biberstine, Katy Börner, and Michael J. Stamper",
     "media": [
       {
@@ -28,8 +30,9 @@
   {
     "slug": "vis-7",
     "title": "Mendeley's Evolving Network of Expertise and Knowledge",
-    "date": "2012-10-01",
+    "date": "2012-10-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2011_Mendeley_Binary_Battle_entry.pdf",
+    "thumbnail": "mendeley-s-evolving-network-visualization.jpg",
     "description": "for the [2011 Mendeley Binary Battle](http://dev.mendeley.com/api-binary-battle), by Chin Hua Kong, Katy Börner, and Michael J. Stamper. Shortlisted submission in the 2011 International Institute for Information Design (IIID) Awards in the Didactics category.",
     "media": [
       {
@@ -41,8 +44,9 @@
   {
     "slug": "vis-6",
     "title": "Richard M. Schiffrin's Collaboration Network Mapped Over Time and Journal Space",
-    "date": "2012-11-01",
+    "date": "2012-11-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2012-shiffrin_map-40x36.pdf",
+    "thumbnail": "richard-schiffrin.png",
     "description": "for [_A Festschrift for Richard M. Shiffrin_](http://www.cogs.indiana.edu/FestschriftForRichShiffrin/), by Katy Börner and the Cyberinfrastructure for Network Science Center. Graphic design by Michael J. Stamper.",
     "media": [
       {
@@ -54,8 +58,9 @@
   {
     "slug": "vis-5",
     "title": "NARCIS: Network of Experts and Knowledge Organizations in the Netherlands",
-    "date": "2012-12-01",
+    "date": "2012-12-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2012_NARCIS.pdf",
+    "thumbnail": "narcis-visualization.png",
     "description": "for Data Archiving and Networked Services (DANS), Royal Netherlands Academy of Arts and Sciences (KNAW), by Linda Reijnhoudt, Michael J. Stamper, Katy Börner, Chris Baars, and Andrea Scharnhorst.",
     "media": [
       {
@@ -109,8 +114,8 @@
   {
     "slug": "vis-2",
     "title": "Illuminated Diagram Display",
-    "date": "2013-01-23",
-    "link": "https://cns.iu.edu//interactive_displays.html",
+    "date": "2013-01-23T00:00:00.000Z",
+    "link": "https://web.archive.org/web/20240722234937/https://cns.iu.edu/interactive_displays.html",
     "description": "The _Illuminated Diagram_ features a geographic map and a science map controlled by a touch panel, which allows users to learn what areas of science are producing the most publications, and where in the world this research is coming from. The display features research and node layout by Kevin W. Boyack and Richard Klavans, data preparation by Chin Hua Kong and Nianli Ma, layout and design created by Michael J. Stamper and Katy Börner, and programming provided by Jagannathan Lakshmipathy and David M. Reagan. The original design, cartography, and programming were created by W. Bradford Paley, John Burgoon, and Peter Kennard.",
     "media": [
       {
@@ -122,8 +127,9 @@
   {
     "slug": "vis-19",
     "title": "2015 NAFKI Outcomes",
-    "date": "2015-11-11",
+    "date": "2015-11-11T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2015_NAFKI_Outcomes.pdf",
+    "thumbnail": "2015-nafki-outcomes-visualization.jpg",
     "description": "The National Academies Keck Futures Initiative (NAKFI) is a program of the National Academies of Sciences, Engineering and Medicine supported by the W.M. Keck Foundation. Every year, NAFKI brings interdisciplinary researchers together to work in task groups and challenge teams to tackle tough real-world problems through innovative, outstanding communication and cooperation among disciplines.",
     "media": [
       {
@@ -135,8 +141,9 @@
   {
     "slug": "vis-18",
     "title": "2015 NAFKI Conference Participants and Their Specialties",
-    "date": "2015-11-11",
+    "date": "2015-11-11T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2015_NAFKI_Conference_Participants_and_Their_Specialities.pdf",
+    "thumbnail": "2015-nakfi-conference-participants-visualization.png",
     "description": "The National Academies Keck Futures Initiative (NAKFI) is a program of the National Academies of Sciences, Engineering and Medicine supported by the W.M. Keck Foundation. Every year, NAFKI brings interdisciplinary researchers together to work in task groups and challenge teams to tackle tough real-world problems through innovative, outstanding communication and cooperation among disciplines.",
     "media": [
       {
@@ -150,6 +157,7 @@
     "title": "Who Really Matters in the World—Leadership Networks in Different-Language Wikipedias",
     "date": "2015-02-03T00:00:00.000Z",
     "link": "https://scimaps.org/map/9/8/detail",
+    "thumbnail": "who-really-matters-in-the-world-visualization.png",
     "description": "Articles about people in Wikipedia include many social cues about a particular person. In the English Wikipedia there is a category called “Living People” which includes articles of people currently alive. To construct the social network of living people, computer scientists Peter A. Gloor and Keiichi Nemoto collected each article’s contents and extracted the internal links to other living people articles. Similar to the Google page rank algorithm, this linking structure reveals which person is more prominent from the Wikipedians’ perspective. The ratio between in-degree and out-degree was used as a metric of importance for the popularity, power, or importance of the person described in the article. Shown here are networks from eight different-language Wikipedias of people who were still living as of 2011. The geospatial regions where these languages are spoken are color-coded (see world map, table, and networks). Because the size of the original networks was too large, only people articles having more than a predefined number of incoming links are included, in addition to peripheral articles that have a direct link to them. To animate the evolution of the English Wikipedia network, living people articles were collected and analysed for different points in time. CNS's contribution: Research Assistant Ted Polley generated the networks from Gloor's data, and Senior UX Designer Samuel Mills designed the map.",
     "projects": [
       "maps"
@@ -164,8 +172,9 @@
   {
     "slug": "vis-16",
     "title": "NETE Analyzer/Visualizer",
-    "date": "2014-10-09",
+    "date": "2014-10-09T00:00:00.000Z",
     "link": "https://cns.iu.edu/images/research/visualizations/nete_screenshots_full.jpg",
+    "thumbnail": "nete-analyzer_visualizer-visualization.png",
     "description": "Our development team has been collaborating with NET ESOLUTIONS on an NIH-funded SBIR Phase II project that will result in a major overhaul of the NETE Analyzer/Visualizer, a web-based data visualization tool originally developed in 2012 and used by NIH program officers. The all-new responsive interface scales effortlessly from desktop to tablet browsing and boasts several new features aimed at optimizing a variety of visualization types for effective communication of the insights inherent in the data. This project created Geographic, Temporal, Bimodal, and Map of Science visualizations based on existing Sci2 visualizations and conventions. Each vizualization provides different insights into NIH grant, project, and publication data, and provide multiple forms of interaction, allowing users to pan, pinch- or scroll-zoom, and click individual nodes or clusters to gain more detailed information. NETEAV 1.7.1 was released in October, 2014, and incorporates both back- and front-end changes to the NETEAV system to produce scale-free and responsive visualizations for four visualization types for the full range of data NETEAV provides.",
     "media": [
       {
@@ -177,8 +186,9 @@
   {
     "slug": "vis-15",
     "title": "A Semantic Landscape of 2,300 Medical Subject Headings",
-    "date": "2013-03-01",
+    "date": "2013-03-01T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/NIH_BaseMap_FullRes.jpg",
+    "thumbnail": "a-semantic-landscape.jpg",
     "description": "By Joseph Biberstine, Russell J. Duhon, Jennifer R.S. Coffey, Katy Börner, Cyberinfrastructure for Network Science Center, Indiana University, Bloomington, and André Skupin, San Diego State University. Read the accompanying paper, [Visualizing the Topical Structure of the Medical Sciences: A Self-Organizing Map Approach](https://doi.org/10.1371/journal.pone.0058779), by André Skupin, Joseph R. Biberstine, and Katy Börner.",
     "media": [
       {
@@ -204,8 +214,9 @@
   {
     "slug": "vis-13",
     "title": "An Emergent Mosaic of Wikipedian Activity",
-    "date": "2012-01-16",
+    "date": "2012-01-16T00:00:00.000Z",
     "link": "http://scimaps.org/web/maps/wikipedia/index-new.html",
+    "thumbnail": "wikipedian.png",
     "description": "by Bruce W. Herr II, Todd Holloway, Katy Börner",
     "media": [
       {
@@ -217,8 +228,9 @@
   {
     "slug": "vis-12",
     "title": "Research Collaborations by the Chinese Academy of Sciences",
-    "date": "2012-01-17",
+    "date": "2012-01-17T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/08-CAS.jpg",
+    "thumbnail": "research-collaborations-by-the-chinese-academy-of-sciences.png",
     "description": "by Weixia (Bonnie) Huang, Russell J. Duhon, Elisha F. Hardy, Katy Börner, Indiana University, USA",
     "media": [
       {
@@ -230,8 +242,9 @@
   {
     "slug": "vis-11",
     "title": "Society for Neuroscience, 2006 Visual Browser",
-    "date": "2012-01-18",
+    "date": "2012-01-18T00:00:00.000Z",
     "link": "http://scimaps.org/web/maps/neurovis/neurovis.static.pdf",
+    "thumbnail": "society-for-neuroscience.png",
     "description": "by Bruce W. Herr II, David Newman, Gully APC Burns",
     "media": [
       {
@@ -243,8 +256,9 @@
   {
     "slug": "vis-10",
     "title": "A Topic Map of NIH Grants 2007",
-    "date": "2012-01-21",
+    "date": "2012-01-21T00:00:00.000Z",
     "link": "http://scimaps.org/mapdetail/a_topic_map_of_nih_g_84",
+    "thumbnail": "a-topic-map-of-nih-grants.png",
     "description": "by Bruce W. Herr II, David Newman, Gully APC Burns",
     "media": [
       {
@@ -256,8 +270,9 @@
   {
     "slug": "vis-1",
     "title": "TEDxBloomington Map of Registrations",
-    "date": "2013-01-23",
+    "date": "2013-01-23T00:00:00.000Z",
     "link": "https://cns.iu.edu/docs/research/visualizations/2013_TEDx.pdf",
+    "thumbnail": "tedxbloomington_2013.jpg",
     "description": "Shown here are all TEDxBloomington attendees who registered by March 8, 2013 together with the subjects they like 313 subject nodes in colors. People are linked via popular topics. The resulting bi-modal network has 508 nodes connected by 553 edges. It is dominated by the “Technology” (listed 33 times), “Education” (21), “Art” (13), “Design” (12), “Health” (11) nodes. Sizes of subject nodes and labels correspond to the number of attendees who listed them. The densely connect core of the network, also called giant component, is surrounded by smaller networks. For a long time, only one person wanted to talk about “Beer” and this was the only subject he wanted to talk about (top center). Only recently, another registration interconnected “Beer” with “Startups” and from there to other people and subjects in the network. Portraits of the speakers from this year’s conference are placed by their subjects of interest. A listing of all subjects and their counts is given in the lower left.",
     "media": [
       {
