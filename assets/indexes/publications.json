@@ -9284,23 +9284,6 @@
     ]
   },
   {
-    "slug": "7xcj7sciird7fwev579et",
-    "type": "article-journal",
-    "title": "The Companion Website",
-    "date": "2026-10-13T00:00:00.000Z",
-    "doi": "doi.org/10.1038/s41592-026-03276-7",
-    "authors": [
-      "andreas-bueckle",
-      "matthias-stahl",
-      "kelly-krause",
-      "torsten-moller",
-      "helena-klara-jambor"
-    ],
-    "thumbnail": "https://www.nature.com/articles/s41592-026-03276-7",
-    "venue": "Nat Methods",
-    "volume": "(2026)"
-  },
-  {
     "slug": "4ao3fkvkxjeg41sswvscz",
     "type": "manuscript",
     "title": "Multiscale harmonization and semantic integration of biomedical data enable biological insights through immersive exploration",
