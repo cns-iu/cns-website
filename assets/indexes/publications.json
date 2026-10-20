@@ -1084,28 +1084,6 @@
     ]
   },
   {
-    "slug": "pub-481",
-    "type": "article-journal",
-    "title": "AI-Supported Extraction of Functional Tissue Unit Properties for Human Reference Atlas Construction",
-    "date": "2025-09-13T00:00:00.000Z",
-    "doi": "10.1101/2025.09.11.675730",
-    "authors": [
-      "yongxin-kong",
-      "katy-borner"
-    ],
-    "thumbnail": "fig1-2025.09.11.675730.png",
-    "venue": "bioRxiv",
-    "projects": [
-      "human-reference-atlas"
-    ],
-    "media": [
-      {
-        "type": "website",
-        "url": "https://www.nature.com/articles/s42003-026-10850-4"
-      }
-    ]
-  },
-  {
     "slug": "pub-48",
     "type": "paper-conference",
     "title": "Major Information Visualization Authors, Papers and Topics in the ACM Library. Analysis and Visualization of the IV 2004 Contest Dataset",
