@@ -3,16 +3,7 @@ import YAML from 'js-yaml';
 import { join } from 'path';
 import TurndownService from 'turndown';
 import { formatCitation } from '../utils/csl-formatter.js';
-import {
-  formatDate,
-  formatUrl,
-  index,
-  INDEXES,
-  readIndex,
-  readLookupIndex,
-  removeNullishProps,
-  writeMinifiedJSON,
-} from './utils.js';
+import { formatDate, formatUrl, index, INDEXES, readIndex, readLookupIndex, removeNullishProps, writeMinifiedJSON } from './utils.js';
 
 const turndownService = new TurndownService();
 const permittedLinkFormats = ['pdf', 'poster', 'slides', 'website'];
@@ -54,12 +45,19 @@ function buildCslData(item, link, peopleLookup, cslFields) {
 }
 
 function buildDescription(item, link, markdown) {
-  if (!link) {
-    return markdown;
+  let description = markdown;
+  if (link) {
+    const { title } = item;
+    description = markdown.replaceAll(link, formatLink(link)).replace(new RegExp(title, 'gi'), `[${title}](${link})`);
   }
 
-  const { title } = item;
-  return markdown.replaceAll(link, formatLink(link)).replace(new RegExp(title, 'gi'), `[${title}](${link})`);
+  const pdf = item.media?.find((entry) => entry.type === 'pdf' && entry.url);
+  if (!pdf) {
+    return description;
+  }
+
+  const pdfUrl = formatUrl(item.slug, 'publications', pdf.url);
+  return `${description} [Link to PDF](${pdfUrl})`;
 }
 
 export function writePublicationIndex() {
