@@ -1649,37 +1649,6 @@
     ]
   },
   {
-    "slug": "pub-463",
-    "type": "manuscript",
-    "title": "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys",
-    "date": "2024-08-26",
-    "doi": "10.1101/2024.08.25.609595",
-    "authors": [
-      "yashvardhan-jain",
-      "claire-l-walsh",
-      "ekin-yagis",
-      "shahab-aslani",
-      "sonal-nandanwar",
-      "yang-zhou",
-      "juhyung-ha",
-      "katherine-s-gustilo",
-      "joseph-brunet",
-      "shahrokh-rahmani",
-      "paul-tafforeau",
-      "alexandre-bellier",
-      "griffin-weber",
-      "peter-d-lee",
-      "katy-borner"
-    ],
-    "venue": "bioRxiv",
-    "media": [
-      {
-        "type": "website",
-        "url": "https://www.biorxiv.org/content/10.1101/2024.08.25.609595v1"
-      }
-    ]
-  },
-  {
     "slug": "pub-462",
     "type": "article-journal",
     "title": "Functional tissue units in the Human Reference Atlas",
