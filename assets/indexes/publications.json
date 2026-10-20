@@ -2052,7 +2052,7 @@
     "slug": "pub-449",
     "type": "article-journal",
     "title": "Interactive network visualization of opioid crisis research: a tool for reinforcing data linkage skills for public health policy researchers",
-    "date": "2024-04-04",
+    "date": "2024-04-04T00:00:00.000Z",
     "doi": "10.3389/frai.2024.1208874",
     "authors": [
       "olga-scrivner",
@@ -2061,7 +2061,8 @@
       "kosali-simon",
       "katy-borner"
     ],
-    "publisher": "Frontiers In Artificial Intelligence",
+    "publisher": "",
+    "venue": "Frontiers In Artificial Intelligence",
     "issue": "7",
     "pages": "11",
     "media": [

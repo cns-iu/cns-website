@@ -1,9 +1,8 @@
 slug: pub-449
 type: article-journal
-title: >-
-  Interactive network visualization of opioid crisis research: a tool for
-  reinforcing data linkage skills for public health policy researchers
-date: '2024-04-04'
+title: "Interactive network visualization of opioid crisis research: a tool for
+  reinforcing data linkage skills for public health policy researchers"
+date: 2024-04-04
 doi: 10.3389/frai.2024.1208874
 authors:
   - olga-scrivner
@@ -11,10 +10,10 @@ authors:
   - michael-ginda
   - kosali-simon
   - katy-borner
-publisher: Frontiers In Artificial Intelligence
-issue: '7'
-pages: '11'
+publisher: ""
+venue: Frontiers In Artificial Intelligence
+issue: "7"
+pages: "11"
 media:
   - type: website
-    url: >-
-      https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1208874/full
+    url: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1208874/full
