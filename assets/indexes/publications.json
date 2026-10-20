@@ -3845,27 +3845,6 @@
     ]
   },
   {
-    "slug": "pub-382",
-    "type": "manuscript",
-    "title": "Hiring in the substance use disorder treatment related sector during the first five years of Medicaid expansion",
-    "date": "2019-08-01",
-    "authors": [
-      "olga-scrivner",
-      "thuy-nguyen",
-      "kosali-simon",
-      "esme-middaugh",
-      "bledi-taska",
-      "katy-borner"
-    ],
-    "venue": " arXiv:1908.00216v1 [econ.GN]",
-    "media": [
-      {
-        "type": "pdf",
-        "url": "https://cns.iu.edu/docs/publications/2019-scrivner-HiringInTheSubstance.pdf"
-      }
-    ]
-  },
-  {
     "slug": "pub-381",
     "type": "manuscript",
     "title": "Multi-level tree based approach for interactive graph visualization with semantic zoom",
@@ -3881,46 +3860,6 @@
       {
         "type": "pdf",
         "url": "https://cns.iu.edu/docs/publications/2019-DeLuca-Multi-levelTreeBasedApproach.pdf"
-      }
-    ]
-  },
-  {
-    "slug": "pub-380",
-    "type": "manuscript",
-    "title": "Mapping the Human Body at Cellular Resolution -- The NIH Common Fund Human BioMolecular Atlas Program",
-    "date": "2019-03-18",
-    "authors": [
-      "michael-p-snyder",
-      "shin-lin",
-      "amanda-posgai",
-      "mark-atkinson",
-      "aviv-regev",
-      "jennifer-rood",
-      "orit-rosen",
-      "leslie-gaffney",
-      "anna-hupalowska",
-      "rahul-satija",
-      "nils-gehlenborg",
-      "jay-shendure",
-      "julia-laskin",
-      "pehr-harbury",
-      "nicholas-a-nystrom",
-      "ziv-bar-joseph",
-      "kun-zhang",
-      "katy-borner",
-      "yiing-lin",
-      "richard-conroy",
-      "dena-procaccini",
-      "ananda-l-roy",
-      "ajay-pillai",
-      "marishka-brown",
-      "zorina-s-galis"
-    ],
-    "venue": "arXiv:1903.07231",
-    "media": [
-      {
-        "type": "pdf",
-        "url": "https://cns.iu.edu/docs/publications/2019-Snyder-MappingTheHumanBody.pdf"
       }
     ]
   },
