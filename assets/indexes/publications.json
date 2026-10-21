@@ -9341,5 +9341,44 @@
       "katy-borner"
     ],
     "venue": ""
+  },
+  {
+    "slug": "470z62pezinl4c1pkb7bj",
+    "type": "article-journal",
+    "title": "Enabling global image data sharing in the life sciences",
+    "date": "2025-03-28T00:00:00.000Z",
+    "doi": "https://doi.org/10.1038/s41592-024-02585-z",
+    "authors": [
+      "peter-bajcsy",
+      "screenivas-bhattiprolu",
+      "katy-borner",
+      "beth-a-cimini",
+      "lucy-collinson",
+      "jan-ellenberg",
+      "reto-fiolka",
+      "maryellen-giger",
+      "wojtek-goscinski",
+      "matthew-hartley",
+      "nathan-hotaling",
+      "rick-horwitz",
+      "florian-jug",
+      "isabel-kemmer",
+      "anna-kreshuk",
+      "emma-lundberg",
+      "aastha-mathur",
+      "kedar-narayan",
+      "shuichi-onami",
+      "anne-l-plant",
+      "fred-prior",
+      "jason-r-swedlow",
+      "adam-taylor",
+      "antje-keppler"
+    ],
+    "thumbnail": "https://www.nature.com/articles/s41592-024-02585-z",
+    "pmid": "PMC12617600",
+    "venue": "Nature Methods",
+    "volume": "22",
+    "issue": "",
+    "pages": "672-676"
   }
 ]
