@@ -9380,5 +9380,34 @@
     "volume": "22",
     "issue": "",
     "pages": "672-676"
+  },
+  {
+    "slug": "3t7ud7yq7ankplsx4afev",
+    "type": "article-journal",
+    "title": "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys",
+    "date": "2026-07-03T00:00:00.000Z",
+    "doi": "https://doi.org/10.1038/s41467-026-74050-8",
+    "authors": [
+      "yashvardhan-jain",
+      "claire-l-walsh",
+      "ekin-yagis",
+      "shahab-aslani",
+      "sonal-nandanwar",
+      "kai-zhou",
+      "juhyung-ha",
+      "katherine-s-gustilo",
+      "joseph-brunet",
+      "shahrokh-rahmani",
+      "paul-tafforeau",
+      "alexandre-bellier",
+      "griffin-m-weber",
+      "peter-d-lee",
+      "katy-borner"
+    ],
+    "thumbnail": "https://www.nature.com/articles/s42003-026-10850-4",
+    "pmid": "PMC13470036",
+    "venue": "Nature Communications",
+    "volume": "17",
+    "issue": "8273"
   }
 ]
