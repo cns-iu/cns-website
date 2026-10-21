@@ -1434,6 +1434,22 @@
     "event": "ev-239"
   },
   {
+    "slug": "t1369f5oewjwoljac49mv",
+    "type": "conference",
+    "title": "Molecules to Humankind: Challenges in Multiscale Visualization (Panel at IEEE VIS 2026)",
+    "dateStart": "2026-11-09T00:00:00.000Z",
+    "dateEnd": "2026-11-13T00:00:00.000Z",
+    "thumbnail": "ieee-viz-2026.png",
+    "location": {
+      "venue": "Westin Copley Place",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "andreas-bueckle"
+    ]
+  },
+  {
     "slug": "seja45x6gjpwzil6zjtzn",
     "type": "other",
     "title": "Luddy TechFest: Visualizing Science",
