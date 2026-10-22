@@ -1436,10 +1436,12 @@
   {
     "slug": "t1369f5oewjwoljac49mv",
     "type": "conference",
-    "title": "Molecules to Humankind: Challenges in Multiscale Visualization (Panel at IEEE VIS 2026)",
+    "title": "IEEE VIS 2026",
+    "link": "https://ieeevis.org/year/2026/welcome/",
     "dateStart": "2026-11-09T00:00:00.000Z",
     "dateEnd": "2026-11-13T00:00:00.000Z",
     "thumbnail": "ieee-viz-2026.png",
+    "organizedByCns": true,
     "location": {
       "venue": "Westin Copley Place",
       "city": "Boston",
@@ -1447,7 +1449,8 @@
     },
     "presenters": [
       "andreas-bueckle"
-    ]
+    ],
+    "media": []
   },
   {
     "slug": "seja45x6gjpwzil6zjtzn",
