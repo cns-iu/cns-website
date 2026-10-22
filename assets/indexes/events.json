@@ -22486,6 +22486,20 @@
     ]
   },
   {
+    "slug": "dv5zimsmm8pl6yce1t1yl",
+    "type": "workshop",
+    "title": "Hackathon",
+    "dateStart": "2027-03-08T00:00:00.000Z",
+    "dateEnd": "2027-03-12T00:00:00.000Z",
+    "organizedByCns": true,
+    "location": {
+      "city": "Bloomington",
+      "state": "IN",
+      "postcode": "47408",
+      "venue": "Indiana University, Luddy School of Informatics, Computing, and Engineering"
+    }
+  },
+  {
     "slug": "dsz9c5v77jyfwarwejo5c",
     "type": "presentation",
     "title": "Endothelial Cell Environments Across Organs in Spatially Resolved Omics Data",
