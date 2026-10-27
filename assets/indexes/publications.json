@@ -9422,5 +9422,18 @@
     "venue": "Nature Communications",
     "volume": "17",
     "issue": "8273"
+  },
+  {
+    "slug": "0yjcu6bbuejps3l04knd2",
+    "type": "article-journal",
+    "title": "Auditing the Human BioMolecular Atlas Program (HuBMAP) Human Reference Atlas (HRA): An Evaluation of Core Digital Objects.",
+    "date": "2026-09-21T00:00:00.000Z",
+    "doi": "https://doi.org/10.2218/ijdc.v20i1.1126.",
+    "authors": [
+      "devan-ray-donaldson",
+      "mary-nelson",
+      "katy-borner"
+    ],
+    "venue": "20th International Digital Curation Conference (IDCC26)"
   }
 ]
