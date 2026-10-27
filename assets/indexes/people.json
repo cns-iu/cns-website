@@ -8480,6 +8480,12 @@
     "roles": []
   },
   {
+    "slug": "mary-nelson",
+    "name": "Mary Nelson",
+    "lastName": "Nelson",
+    "roles": []
+  },
+  {
     "slug": "mary-kirkpatrick",
     "name": "Mary Kirkpatrick",
     "lastName": "Kirkpatrick",
@@ -15048,6 +15054,12 @@
         "dateEnd": "2023-05-27"
       }
     ]
+  },
+  {
+    "slug": "devan-ray-donaldson",
+    "name": "Devan Ray Donaldson",
+    "lastName": "Donaldson",
+    "roles": []
   },
   {
     "slug": "derek-hill",
