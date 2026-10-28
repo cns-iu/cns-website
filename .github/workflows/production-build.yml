@@ -43,6 +43,8 @@ jobs:
           cp build/index.html dist/404.html
           cp site-assets/tracking-pixel.gif dist/tr
           cp site-assets/tracking-pixel.gif dist/tr-dev
+          cp site-assets/tracking-pixel.gif dist/tr-mhu
+          cp site-assets/tracking-pixel.gif dist/tr-mhu-dev
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
