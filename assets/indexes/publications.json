@@ -9264,6 +9264,19 @@
     ]
   },
   {
+    "slug": "c7e2okwvacu8bkg2ros5b",
+    "type": "article-journal",
+    "title": "AI-supported extraction of functional tissue unit properties for Human Reference Atlas construction.",
+    "date": "2026-09-07T00:00:00.000Z",
+    "doi": "https://doi.org/10.1038/s42003-026-10850-4",
+    "authors": [
+      "yongxin-kong",
+      "katy-borner"
+    ],
+    "venue": "Communications Biology",
+    "volume": "(2026)"
+  },
+  {
     "slug": "byk0z7xs521wynelk2hr2",
     "type": "manuscript",
     "title": "Bridging Biomedical Atlas Ecosystem: Cross-Atlas Alignment And Scalable Tissue Specimen Registration",
