@@ -8,6 +8,10 @@ import { formatDate, formatUrl, index, INDEXES, readIndex, readLookupIndex, remo
 const turndownService = new TurndownService();
 const permittedLinkFormats = ['pdf', 'poster', 'slides', 'website'];
 
+function normalizeDoi(doi) {
+  return doi?.trim().replace(/^(https?:\/\/)?(dx\.)?doi\.org\//i, '').replace(/\.$/, '');
+}
+
 function selectLink(item) {
   if (item.doi?.length > 0) {
     return `https://doi.org/${item.doi}`;
@@ -30,7 +34,6 @@ function buildCslData(item, link, peopleLookup, cslFields) {
   const result = {
     author: authorLiterals ?? [],
     editor: editorLiterals ?? [],
-    'available-date': { raw: formatDate(date) },
     issued: { raw: formatDate(date) },
     URL: link,
   };
@@ -62,7 +65,7 @@ function buildDescription(item, link, markdown) {
 
 export function writePublicationIndex() {
   const config = YAML.load(readFileSync('../admin/config.yml', 'utf-8'));
-  const publications = readIndex('publications');
+  const publications = readIndex('publications').map((item) => ({ ...item, doi: normalizeDoi(item.doi) }));
   const people = readLookupIndex('people');
   const cslStyleXml = readFileSync('src/csl-styles/chicago-author-date.csl', 'utf-8');
   // const cslStyleXml = readFileSync('src/csl-styles/nature-with-doi.csl', 'utf-8');
