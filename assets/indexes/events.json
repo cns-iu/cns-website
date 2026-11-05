@@ -1,5 +1,23 @@
 [
   {
+    "slug": "zytfw93xw4xywrrptfvmf",
+    "type": "conference",
+    "title": "Berlin Science Week",
+    "link": "https://berlinscienceweek.com/programme/multiscale-human-touchpoints-0",
+    "dateStart": "2026-11-09T00:00:00.000Z",
+    "dateEnd": "2026-11-10T00:00:00.000Z",
+    "thumbnail": "berlinscienceweek2026.png",
+    "organizedByCns": true,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "presenters": [
+      "katy-borner",
+      "elizabeth-record"
+    ]
+  },
+  {
     "slug": "zrklohpjgorr2540rb3bn",
     "type": "other",
     "title": "First Thursday (Christian Mackay)",
@@ -36,7 +54,7 @@
     "dateStart": "2026-06-01T00:00:00.000Z",
     "dateEnd": "2026-06-01T00:00:00.000Z",
     "thumbnail": "netsciboston2026.png",
-    "organizedByCns": true,
+    "organizedByCns": false,
     "location": {
       "raw": "Boston, MA, USA",
       "venue": "Hyatt Regency Boston/Cambridge",
@@ -1432,6 +1450,25 @@
       "weixia-bonnie-huang"
     ],
     "event": "ev-239"
+  },
+  {
+    "slug": "t1369f5oewjwoljac49mv",
+    "type": "conference",
+    "title": "IEEE VIS 2026",
+    "link": "https://cns-iu.github.io/cns-multiscale-vis-panel-2026/",
+    "dateStart": "2026-11-09T00:00:00.000Z",
+    "dateEnd": "2026-11-13T00:00:00.000Z",
+    "thumbnail": "ieee-viz-2026.png",
+    "organizedByCns": true,
+    "location": {
+      "venue": "Westin Copley Place",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "andreas-bueckle"
+    ],
+    "media": []
   },
   {
     "slug": "seja45x6gjpwzil6zjtzn",
@@ -22465,6 +22502,20 @@
     "projects": [
       "amatria"
     ]
+  },
+  {
+    "slug": "dv5zimsmm8pl6yce1t1yl",
+    "type": "workshop",
+    "title": "Hackathon",
+    "dateStart": "2027-03-08T00:00:00.000Z",
+    "dateEnd": "2027-03-12T00:00:00.000Z",
+    "organizedByCns": true,
+    "location": {
+      "city": "Bloomington",
+      "state": "IN",
+      "postcode": "47408",
+      "venue": "Indiana University, Luddy School of Informatics, Computing, and Engineering"
+    }
   },
   {
     "slug": "dsz9c5v77jyfwarwejo5c",
