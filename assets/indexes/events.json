@@ -10949,6 +10949,23 @@
     ]
   },
   {
+    "slug": "osytm36f95rkqfnh59lf1",
+    "type": "exhibit",
+    "title": "Data Visualization",
+    "link": "https://eskenazi.indiana.edu/events/special-events/upcoming/2027-01-15-math-medium-symposium.html",
+    "dateStart": "2027-01-15T00:00:00.000Z",
+    "dateEnd": "2027-01-16T00:00:00.000Z",
+    "thumbnail": "mathematics-as-a-medium_art-practice-and-inquiry.png",
+    "location": {
+      "venue": "Mies van der Rohe Building, Eskenazi Museum of Art, Swain Hall, Fine Arts Building Indiana University",
+      "city": "Bloomington",
+      "state": "IN"
+    },
+    "presenters": [
+      "katy-borner"
+    ]
+  },
+  {
     "slug": "op16u9lmbvbbx3c2dwvrd",
     "type": "presentation",
     "title": "Mapping the Human Reference Atlas in 3D",
