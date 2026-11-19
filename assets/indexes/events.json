@@ -10955,8 +10955,8 @@
     "link": "https://eskenazi.indiana.edu/events/special-events/upcoming/2027-01-15-math-medium-symposium.html",
     "dateStart": "2027-01-16T00:00:00.000Z",
     "dateEnd": "2027-01-16T00:00:00.000Z",
-    "thumbnail": "mathematics-as-a-medium_art-practice-and-inquiry.png",
-    "featured": true,
+    "thumbnail": "",
+    "featured": false,
     "location": {
       "venue": "Mies van der Rohe Building, Eskenazi Museum of Art, Swain Hall, Fine Arts Building Indiana University",
       "city": "Bloomington",
