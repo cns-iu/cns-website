@@ -1452,6 +1452,21 @@
     "event": "ev-239"
   },
   {
+    "slug": "t6ww6m29yh8pqqo0mkv7m",
+    "type": "presentation",
+    "title": "Tracing Communicative Motive in LLM-Generated Visualizations: An Activity-Theory-Informed Artifact Analysis",
+    "dateStart": "2026-11-10T00:00:00.000Z",
+    "thumbnail": "tracing-communicative-motive-in-llm-generated-visualizations-an-activity-theory-informed-artifact-analysis.png",
+    "location": {
+      "venue": "IEEE VIS2026",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "presenters": [
+      "divya-prasanth-paraman"
+    ]
+  },
+  {
     "slug": "t1369f5oewjwoljac49mv",
     "type": "conference",
     "title": "IEEE VIS 2026",
@@ -22637,7 +22652,10 @@
       "venue": "IEEE VIS2026",
       "city": "Boston",
       "state": "MA"
-    }
+    },
+    "presenters": [
+      "abhigya-agrawal"
+    ]
   },
   {
     "slug": "92e1n98cq691yt77iu2iq",
