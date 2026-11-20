@@ -22628,6 +22628,18 @@
     ]
   },
   {
+    "slug": "a47gf9pwehca6eriagznv",
+    "type": "presentation",
+    "title": "Benchmarking the Analyzation and Visualization of Single Cell RNA Sequencing Data",
+    "dateStart": "2026-11-10T00:00:00.000Z",
+    "thumbnail": "benchmarking-the-analysis-and-visualization-of-single-cell-rna.png",
+    "location": {
+      "venue": "IEEE VIS2026",
+      "city": "Boston",
+      "state": "MA"
+    }
+  },
+  {
     "slug": "92e1n98cq691yt77iu2iq",
     "type": "presentation",
     "title": "Amatria Tour for Pankaj Gupta (3:45-4:15pm)",
